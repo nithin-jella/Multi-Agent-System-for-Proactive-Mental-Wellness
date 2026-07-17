@@ -77,10 +77,10 @@ The Context diagram shows the high-level interactions between the users (Student
 
 ```mermaid
 C4Context
-title System Context diagram for UGM-AICare
+title System Context diagram for Multi-Agent System for Proactive Mental Wellness 
 Person(student, "Student", "A university student seeking mental health support.")
 Person(counselor, "Counselor / Admin", "University staff managing cases and system operations.")
-System(aicare, "UGM-AICare", "Proactive agentic mental health support ecosystem.")
+System(aicare, "Multi-Agent System for Proactive Mental Wellness ", "Proactive agentic mental health support ecosystem.")
 System_Ext(db, "PostgreSQL", "Stores user profiles, screening history, cases, and logs.")
 System_Ext(cache, "Redis", "Session cache and background task queue.")
 System_Ext(genai, "Google GenAI (Gemini)", "Provides LLM capabilities for semantic analysis and reasoning.")
@@ -100,11 +100,11 @@ The Container diagram drills down into the internal components of Multi-Agent Sy
 
 ```mermaid
 C4Container
-title Container diagram for UGM-AICare
+title Container diagram for Multi-Agent System for Proactive Mental Wellness 
 Person(student, "Student", "A university student.")
 Person(counselor, "Counselor / Admin", "Staff managing operations.")
 
-System_Boundary(c1, "UGM-AICare") {
+System_Boundary(c1, "Multi-Agent System for Proactive Mental Wellness ") {
     Container(frontend, "Frontend App", "Next.js 15, React", "Provides the user interface for students and counselors.")
     Container(backend, "Backend API", "FastAPI, Python", "Handles API requests, orchestrates AI agents, manages system state.")
 
