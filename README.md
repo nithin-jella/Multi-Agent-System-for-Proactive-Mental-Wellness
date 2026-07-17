@@ -418,7 +418,7 @@ Important:
 
 ```bash
 # 1. Clone Repository
-git clone https://github.com/gigahidjrikaaa/UGM-AICare.git
+git clone https://github.com/nithin-jella/Multi-Agent-System-for-Proactive-Mental-Wellness.git
 
 # 2. Start Backend
 cd backend
