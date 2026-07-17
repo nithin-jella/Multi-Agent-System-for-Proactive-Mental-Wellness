@@ -1,0 +1,57 @@
+/* Base progress styling */
+.progress,
+.progressPurple {
+  -webkit-appearance: none;
+  appearance: none;
+  background-color: rgba(255,255,255,0.08);
+  border-radius: 9999px;
+  overflow: hidden;
+  display: block;
+}
+
+/* Firefox: track and progress bar */
+.progress::-moz-progress-bar,
+.progressPurple::-moz-progress-bar {
+  height: 100%;
+  border-radius: 9999px;
+}
+
+/* WebKit: track and value (green gradient) */
+.progress::-webkit-progress-bar {
+  background-color: rgba(255,255,255,0.08);
+  border-radius: 9999px;
+}
+
+.progress::-webkit-progress-value {
+  background: linear-gradient(90deg, #10B981 /* green-500 */ , #34D399 /* green-400 */);
+  border-radius: 9999px;
+  transition: width 500ms ease;
+}
+
+/* WebKit: purple variant */
+.progressPurple::-webkit-progress-value {
+  background: linear-gradient(90deg, #7C3AED /* purple-500 */ , #A78BFA /* purple-400 */);
+  border-radius: 9999px;
+  transition: width 500ms ease;
+}
+
+/* Safari older versions might need bar pseudo-element too */
+.progress::-webkit-progress-inner-element,
+.progressPurple::-webkit-progress-inner-element {
+  border-radius: 9999px;
+}
+
+/* Focus styles for accessibility */
+.progress:focus,
+.progressPurple:focus {
+  outline: 2px solid rgba(255,255,255,0.12);
+  outline-offset: 2px;
+}
+
+/* Reduce motion for users who prefer reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .progress::-webkit-progress-value,
+  .progressPurple::-webkit-progress-value {
+    transition: none;
+  }
+}

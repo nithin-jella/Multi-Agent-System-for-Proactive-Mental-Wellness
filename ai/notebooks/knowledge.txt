@@ -1,0 +1,79 @@
+Berikut adalah informasi yang ditemukan dari knowledge graph:
+### Entitas: Gangguan Mental Emosional (Tipe: ['Entity', 'Gangguan_Mental'])
+- Deskripsi: Jenis gangguan mental yang menjadi fokus petunjuk teknis.
+- Skor Relevansi Awal: 4.17
+- Hubungan Terkait:
+  - [INCOMING] <--[adalah seseorang yang mengalami|Tipe: Adalah_Jenis_Dari]-- Orang Dengan Masalah Kejiwaan (ODMK) (Tipe: ['Entity', 'Individu'] | Deskripsi: "Seseorang yang mengalami gangguan mental emosional dan mempunyai masalah fisik, mental, sosial, pert...")
+  - [INCOMING] <--[mencegah|Tipe: Mengurangi_Risiko]-- Promosi Kesehatan (Tipe: ['Entity', 'Layanan_Kesehatan'] | Deskripsi: "Upaya untuk mencegah gangguan mental emosional.")
+  - [OUTGOING] --[merupakan masalah|Tipe: Terkait_Dengan]--> Kesehatan Jiwa (Tipe: ['Entity', 'Konsep_Abstrak'] | Deskripsi: "Kondisi umum yang terkait dengan gangguan mental emosional.")
+  - [OUTGOING] --[merujuk pada istilah|Tipe: Terkait_Dengan]--> Distress Psikologik (Tipe: ['Entity', 'Gejala'] | Deskripsi: "Istilah lain yang digunakan oleh beberapa survei di negara lain untuk merujuk pada 'gangguan mental ...")
+  - [OUTGOING] --[merujuk pada istilah|Tipe: Terkait_Dengan]--> Mental Distress (Tipe: ['Entity', 'Gejala'] | Deskripsi: "Istilah lain yang digunakan oleh beberapa survei di negara lain untuk merujuk pada 'gangguan mental ...")
+
+### Entitas: Gangguan mental emosional (Tipe: ['Entity', 'Gangguan_Mental'])
+- Deskripsi: Masalah kesehatan jiwa yang banyak dijumpai di Indonesia, dapat memengaruhi aktifitas sehari-hari yang berdampak pada menurunnya produktifitas dan kualitas hidup. Bukan diagnosis gangguan jiwa.
+- Skor Relevansi Awal: 4.17
+- Hubungan Terkait:
+  - [OUTGOING] --[merupakan masalah|Tipe: Terkait_Dengan]--> Kesehatan jiwa (Tipe: ['Entity', 'Konsep_Abstrak'] | Deskripsi: "Kondisi yang menjadi fokus upaya promosi, pencegahan dan pengendalian terkait mental.")
+  - [OUTGOING] --[bukanlah|Tipe: Terkait_Dengan]--> Diagnosis gangguan jiwa (Tipe: ['Entity', 'Konsep_Abstrak'] | Deskripsi: "Klasifikasi formal untuk gangguan jiwa, yang berbeda dengan gangguan mental emosional.")
+  - [INCOMING] <--[menggambarkan jumlah penderita|Tipe: Memiliki_Atribut]-- Data Prevalensi Gangguan Mental Emosional (Tipe: ['Entity', 'Data_Statistik'] | Deskripsi: "Perkiraan sebanyak 19 juta orang menderita gangguan mental emosional di Indonesia.")
+  - [OUTGOING] --[banyak dijumpai di|Tipe: Berlokasi_Di]--> Indonesia (Tipe: ['Entity', 'Lokasi'] | Deskripsi: "Negara tempat gangguan mental emosional banyak dijumpai.")
+  - [OUTGOING] --[dapat memengaruhi|Tipe: Menyebabkan]--> Aktifitas sehari-hari (Tipe: ['Entity', 'Lainnya'] | Deskripsi: "Aspek yang dapat dipengaruhi dan menurun oleh gangguan mental emosional.")
+
+### Entitas: Deteksi gangguan mental emosional (Tipe: ['Entity', 'Layanan_Kesehatan'])
+- Deskripsi: Proses identifikasi gangguan mental emosional yang dilakukan oleh fasilitas pelayanan kesehatan primer.
+- Skor Relevansi Awal: 3.70
+- Hubungan Terkait:
+  - [INCOMING] <--[diharapkan mampu melakukan|Tipe: Menawarkan_Layanan]-- Fasilitas pelayanan kesehatan primer (Tipe: ['Entity', 'Layanan_Kesehatan'] | Deskripsi: "Lini terdepan yang diharapkan mampu melakukan deteksi dan intervensi gangguan mental emosional.")
+  - [OUTGOING] --[memungkinkan|Tipe: Menangani]--> Intervensi dini (Tipe: ['Entity', 'Terapi_Psikologis'] | Deskripsi: "Tindakan yang segera dilakukan setelah deteksi gangguan mental emosional untuk mencegah terjadinya g...")
+
+### Entitas: Penderita gangguan mental emosional (Tipe: ['Entity', 'Individu'])
+- Deskripsi: Orang yang mengalami gangguan mental emosional, sering tidak terdeteksi karena datang dengan keluhan-keluhan fisik.
+- Skor Relevansi Awal: 3.70
+- Hubungan Terkait:
+  - [OUTGOING] --[datang ke|Tipe: Terkait_Dengan]--> Fasilitas pelayanan kesehatan (Tipe: ['Entity', 'Layanan_Kesehatan'] | Deskripsi: "Tempat penderita datang dengan keluhan-keluhan fisik.")
+  - [OUTGOING] --[dengan|Tipe: Memiliki_Atribut]--> Keluhan-keluhan fisik (Tipe: ['Entity', 'Gejala'] | Deskripsi: "Keluhan yang sering disampaikan penderita gangguan mental emosional, yang menyebabkan gangguan terse...")
+  - [INCOMING] <--[menyebabkan tidak terdeteksi pada|Tipe: Menyebabkan]-- Keluhan-keluhan fisik (Tipe: ['Entity', 'Gejala'] | Deskripsi: "Keluhan yang sering disampaikan penderita gangguan mental emosional, yang menyebabkan gangguan terse...")
+
+### Entitas: Gangguan Mental Emosional (GME) (Tipe: ['Entity', 'Gangguan_Mental'])
+- Deskripsi: Perubahan dalam pikiran, perasaan, dan perilaku yang dapat mengganggu aktivitas sehari-hari, tapi tidak dijumpai tanda dan gejala gangguan dalam daya nilai realita, dan bukan diagnosa gangguan jiwa.
+- Skor Relevansi Awal: 3.70
+- Hubungan Terkait:
+  - [OUTGOING] --[bukan diagnosa|Tipe: Terkait_Dengan]--> Gangguan Jiwa (Tipe: ['Entity', 'Gangguan_Mental'] | Deskripsi: "Kondisi yang dapat dicegah melalui deteksi dan intervensi dini gangguan mental emosional.")
+  - [OUTGOING] --[dapat diartikan adanya|Tipe: Terkait_Dengan]--> Masalah Kesehatan Jiwa (Tipe: ['Entity', 'Kondisi_Medis_Terkait'] | Deskripsi: "Istilah umum untuk kondisi yang terkait dengan kesehatan mental.")
+  - [OUTGOING] --[dapat diartikan adanya|Tipe: Terkait_Dengan]--> Masalah Kesehatan Jiwa (Tipe: ['Entity', 'Konsep_Abstrak'] | Deskripsi: "Kondisi atau isu yang berkaitan dengan kesehatan mental.")
+  - [INCOMING] <--[terkait|Tipe: Terkait_Dengan]-- Indikator Kinerja Kegiatan (IKK) (Tipe: ['Entity', 'Konsep_Abstrak'] | Deskripsi: "Ukuran untuk menilai pencapaian dan keberhasilan kegiatan.")
+  - [OUTGOING] --[tidak dijumpai gangguan dalam|Tipe: Memiliki_Atribut]--> Daya Nilai Realita (Tipe: ['Entity', 'Konsep_Abstrak'] | Deskripsi: "Kemampuan untuk menilai realita, tidak terganggu pada penderita GME.")
+
+### Entitas: Surveilans Gangguan Mental Emosional (Tipe: ['Entity', 'Layanan_Kesehatan'])
+- Deskripsi: Kegiatan yang perlu dilaksanakan sebagai bagian dari tujuan khusus petunjuk teknis.
+- Skor Relevansi Awal: 3.70
+- Hubungan Terkait:
+  - [INCOMING] <--[bertujuan melaksanakan|Tipe: Terkait_Dengan]-- Petunjuk Teknis Pencegahan dan Pengendalian Gangguan Mental Emosional (Tipe: ['Entity', 'Dokumen_Hukum_Kebijakan'] | Deskripsi: "Buku petunjuk teknis yang diterbitkan oleh Kementerian Kesehatan RI.")
+
+### Entitas: Layanan Penderita Gangguan Mental Emosional (Tipe: ['Entity', 'Layanan_Kesehatan'])
+- Deskripsi: Layanan yang diberikan kepada individu dengan gangguan mental emosional.
+- Skor Relevansi Awal: 3.32
+- Hubungan Terkait:
+  - [OUTGOING] --[mencakup|Tipe: Memiliki_Atribut]--> Upaya Promotif (Tipe: ['Entity', 'Aktivitas_Kesejahteraan'] | Deskripsi: "Upaya untuk mempromosikan kesehatan.")
+  - [OUTGOING] --[mencakup|Tipe: Memiliki_Atribut]--> Upaya Preventif (Tipe: ['Entity', 'Aktivitas_Kesejahteraan'] | Deskripsi: "Upaya untuk mencegah terjadinya masalah.")
+  - [OUTGOING] --[mencakup|Tipe: Memiliki_Atribut]--> Pencatatan dan Pelaporan (Tipe: ['Entity', 'Layanan_Kesehatan'] | Deskripsi: "Proses dokumentasi dan penyampaian informasi terkait layanan kesehatan.")
+  - [OUTGOING] --[memiliki|Tipe: Memiliki_Atribut]--> Indikator Kinerja Kegiatan (IKK) (Tipe: ['Entity', 'Konsep_Abstrak'] | Deskripsi: "Ukuran untuk menilai pencapaian dan keberhasilan kegiatan.")
+  - [OUTGOING] --[mencakup|Tipe: Memiliki_Atribut]--> Penemuan Kasus (Tipe: ['Entity', 'Layanan_Kesehatan'] | Deskripsi: "Aktivitas untuk mengidentifikasi kasus baru.")
+
+### Entitas: Data Prevalensi Gangguan Mental Emosional (Tipe: ['Entity', 'Data_Statistik'])
+- Deskripsi: Perkiraan sebanyak 19 juta orang menderita gangguan mental emosional di Indonesia.
+- Skor Relevansi Awal: 3.32
+- Hubungan Terkait:
+  - [OUTGOING] --[menggambarkan jumlah penderita|Tipe: Memiliki_Atribut]--> Gangguan mental emosional (Tipe: ['Entity', 'Gangguan_Mental'] | Deskripsi: "Masalah kesehatan jiwa yang banyak dijumpai di Indonesia, dapat memengaruhi aktifitas sehari-hari ya...")
+
+### Entitas: Upaya Promotif Gangguan Mental Emosional (Tipe: ['Entity', 'Layanan_Kesehatan'])
+- Deskripsi: Upaya untuk mempromosikan kesehatan jiwa terkait gangguan mental emosional, merupakan bagian dari lingkup petunjuk teknis.
+- Skor Relevansi Awal: 3.32
+- Hubungan Terkait:
+  - [INCOMING] <--[bertujuan melaksanakan|Tipe: Terkait_Dengan]-- Petunjuk Teknis Pencegahan dan Pengendalian Gangguan Mental Emosional (Tipe: ['Entity', 'Dokumen_Hukum_Kebijakan'] | Deskripsi: "Buku petunjuk teknis yang diterbitkan oleh Kementerian Kesehatan RI.")
+
+### Entitas: Prevalensi Gangguan Mental Emosional (Perempuan) (Tipe: ['Entity', 'Data_Statistik'])
+- Deskripsi: 12,1% pada perempuan.
+- Skor Relevansi Awal: 3.32
+- Hubungan Terkait:
+  - [OUTGOING] --[lebih tinggi pada|Tipe: Memiliki_Atribut]--> Perempuan (Tipe: ['Entity', 'Individu'] | Deskripsi: "Jenis kelamin dengan prevalensi gangguan mental emosional lebih tinggi (12,1%).")

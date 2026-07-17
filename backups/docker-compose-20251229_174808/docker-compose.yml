@@ -1,0 +1,317 @@
+services:
+  #################
+  # Database (PostgreSQL)
+  #################
+  db:
+    image: postgres:16-alpine
+    container_name: ugm_aicare_db_prod
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+    volumes:
+      - pgdata_prod:/var/lib/postgresql/data
+    ports:
+      - "22002:5432"
+    restart: always
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -h localhost -U ${POSTGRES_USER} -d ${POSTGRES_DB}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - ugm_aicare_network
+
+  #################
+  # Cache (Redis)
+  #################
+  redis:
+    image: redis/redis-stack-server:latest
+    container_name: ugm_aicare_redis_prod
+    volumes:
+      - redisdata_prod:/data
+    ports:
+      - "22003:6379"
+    restart: always
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - ugm_aicare_network
+
+  #################
+  # Object Storage (MinIO)
+  #################
+  minio:
+    image: minio/minio:RELEASE.2025-09-07T16-13-09Z
+    container_name: ugm_aicare_minio_prod
+    environment:
+      MINIO_ROOT_USER: ${MINIO_ACCESS_KEY}
+      MINIO_ROOT_PASSWORD: ${MINIO_SECRET_KEY}
+    command: server /data --console-address ":9001"
+    volumes:
+      - minio_data_prod:/data
+    ports:
+      - "22004:9000"
+      - "22005:9001"
+    restart: always
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9000/minio/health/live"]
+      interval: 30s
+      timeout: 20s
+      retries: 3
+    networks:
+      - ugm_aicare_network
+
+  #################
+  # Migration Service
+  #################
+  migrate:
+    container_name: ugm_aicare_migrate_prod
+    build:
+      context: ./backend
+      dockerfile: app/Dockerfile.migrate
+    entrypoint: >
+      bash -c "
+        /app/scripts/wait-for-it.sh db:5432 -t 60 -- echo 'Database is ready!' &&
+        echo 'Running Alembic migrations...' &&
+        alembic upgrade head
+      "
+    env_file:
+      - .env
+    environment:
+      PYTHONPATH: /app
+      DATABASE_URL: postgresql+asyncpg://${POSTGRES_USER}:${POSTGRES_PASSWORD}@db:5432/${POSTGRES_DB}
+    depends_on:
+      db:
+        condition: service_healthy
+    networks:
+      - ugm_aicare_network
+
+  #################
+  # Backend (FastAPI)
+  #################
+  backend:
+    container_name: ugm_aicare_backend_prod
+    build:
+      context: ./backend
+      dockerfile: app/Dockerfile
+    ports:
+      - "22001:8000"
+    deploy:
+      resources:
+        limits:
+          memory: 4G
+        reservations:
+          memory: 1G
+    env_file:
+      - .env
+    environment:
+      DATABASE_URL: postgresql+asyncpg://${POSTGRES_USER}:${POSTGRES_PASSWORD}@db:5432/${POSTGRES_DB}
+      REDIS_HOST: redis
+      REDIS_PORT: 6379
+      MINIO_ENDPOINT: minio:9000
+      APP_ENV: production
+    depends_on:
+      migrate:
+        condition: service_completed_successfully
+      db:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      minio:
+        condition: service_started
+    restart: always
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    networks:
+      - ugm_aicare_network
+
+  #################
+  # Frontend (Next.js)
+  #################
+  frontend:
+    container_name: ugm_aicare_frontend_prod
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+      target: production
+      args:
+        NEXT_PUBLIC_API_URL: ${NEXT_PUBLIC_API_URL}
+    ports:
+      - "22000:3000"
+    deploy:
+      resources:
+        limits:
+          memory: 4G
+        reservations:
+          memory: 1G
+    env_file:
+      - .env
+    environment:
+      NODE_ENV: production
+      PORT: 3000
+      INTERNAL_API_URL: http://backend:8000
+    depends_on:
+      - backend
+    restart: always
+    healthcheck:
+      test: ["CMD", "wget", "--spider", "-q", "http://localhost:3000"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    networks:
+      - ugm_aicare_network
+
+  #################
+  # Monitoring Stack
+  #################
+  
+  prometheus:
+    build:
+      context: ./infra/monitoring/prometheus
+      dockerfile: Dockerfile
+    container_name: ugm_aicare_prometheus
+    user: root
+    ports:
+      - "22010:9090"
+    volumes:
+      - prometheus-data:/prometheus
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+      - '--storage.tsdb.path=/prometheus'
+      - '--storage.tsdb.retention.time=30d'
+      - '--web.console.libraries=/usr/share/prometheus/console_libraries'
+      - '--web.console.templates=/usr/share/prometheus/consoles'
+      - '--web.enable-lifecycle'
+    networks:
+      - ugm_aicare_network
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost:9090/-/healthy"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    restart: unless-stopped
+
+  grafana:
+    image: grafana/grafana:10.2.2
+    container_name: ugm_aicare_grafana
+    ports:
+      - "22011:3000"
+    environment:
+      - GF_SECURITY_ADMIN_USER=admin
+      - GF_SECURITY_ADMIN_PASSWORD=admin123
+      - GF_USERS_ALLOW_SIGN_UP=false
+      - GF_SERVER_ROOT_URL=http://localhost:22011
+      - GF_ANALYTICS_REPORTING_ENABLED=false
+      - GF_ANALYTICS_CHECK_FOR_UPDATES=false
+    volumes:
+      - grafana-data:/var/lib/grafana
+      - ./infra/monitoring/grafana/dashboards:/etc/grafana/provisioning/dashboards:ro
+      - ./infra/monitoring/grafana/datasources:/etc/grafana/provisioning/datasources:ro
+    depends_on:
+      - prometheus
+    networks:
+      - ugm_aicare_network
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost:3000/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    restart: unless-stopped
+
+  node-exporter:
+    image: prom/node-exporter:v1.7.0
+    container_name: ugm_aicare_node_exporter
+    ports:
+      - "22012:9100"
+    command:
+      - '--path.rootfs=/host'
+      - '--path.procfs=/host/proc'
+      - '--path.sysfs=/host/sys'
+      - '--collector.filesystem.mount-points-exclude=^/(sys|proc|dev|host|etc)($$|/)'
+    volumes:
+      - /proc:/host/proc:ro
+      - /sys:/host/sys:ro
+      - /:/rootfs:ro
+    networks:
+      - ugm_aicare_network
+    restart: unless-stopped
+
+  cadvisor:
+    image: gcr.io/cadvisor/cadvisor:v0.47.2
+    container_name: ugm_aicare_cadvisor
+    ports:
+      - "22013:8080"
+    volumes:
+      - /:/rootfs:ro
+      - /var/run:/var/run:ro
+      - /sys:/sys:ro
+      - /var/lib/docker/:/var/lib/docker:ro
+      - /dev/disk/:/dev/disk:ro
+    privileged: true
+    devices:
+      - /dev/kmsg
+    networks:
+      - ugm_aicare_network
+    restart: unless-stopped
+
+  postgres-exporter:
+    image: prometheuscommunity/postgres-exporter:v0.15.0
+    container_name: ugm_aicare_postgres_exporter
+    ports:
+      - "22014:9187"
+    environment:
+      DATA_SOURCE_NAME: "postgresql://giga:${POSTGRES_PASSWORD:-giga123}@db:5432/${POSTGRES_DB}?sslmode=disable"
+    networks:
+      - ugm_aicare_network
+    restart: unless-stopped
+
+  redis-exporter:
+    image: oliver006/redis_exporter:v1.55.0
+    container_name: ugm_aicare_redis_exporter
+    ports:
+      - "22015:9121"
+    environment:
+      REDIS_ADDR: "redis:6379"
+    networks:
+      - ugm_aicare_network
+    restart: unless-stopped
+
+  langfuse-server:
+    image: ghcr.io/langfuse/langfuse:2
+    container_name: ugm_aicare_langfuse
+    ports:
+      - "22016:3000"
+    environment:
+      - NODE_ENV=production
+      - DATABASE_URL=postgresql://giga:${POSTGRES_PASSWORD:-giga123456}@db:5432/langfuse_db?schema=public
+      - NEXTAUTH_URL=http://localhost:22016
+      - NEXTAUTH_SECRET=${LANGFUSE_SECRET:-change-this-to-a-random-string-min-32-chars}
+      - SALT=${LANGFUSE_SALT:-change-this-to-another-random-string}
+      - TELEMETRY_ENABLED=false
+      - LANGFUSE_ENABLE_EXPERIMENTAL_FEATURES=true
+      - HOSTNAME=0.0.0.0
+    depends_on:
+      - db
+    networks:
+      - ugm_aicare_network
+    restart: unless-stopped
+
+volumes:
+  pgdata_prod:
+  redisdata_prod:
+  minio_data_prod:
+  prometheus-data:
+  grafana-data:
+
+networks:
+  ugm_aicare_network:
+    driver: bridge

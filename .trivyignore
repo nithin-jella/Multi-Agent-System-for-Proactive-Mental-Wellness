@@ -1,0 +1,40 @@
+# Trivy Ignore File
+# Use this file to suppress false positive vulnerability findings
+# 
+# Format: CVE-YYYY-NNNNN [optional comment]
+# 
+# Documentation: https://aquasecurity.github.io/trivy/latest/docs/configuration/filtering/
+
+# Example: Suppress a specific CVE (uncomment and modify as needed)
+# CVE-2024-12345  # False positive: We don't use the vulnerable code path
+
+# Example: Suppress for a specific expiration date
+# exp:2025-12-31 CVE-2024-12345  # Will be re-evaluated after this date
+
+# =============================================================================
+# Currently No Suppressions
+# =============================================================================
+# All detected vulnerabilities should be fixed via dependency updates
+# Use this file only for documented false positives
+
+# =============================================================================
+# Common False Positive Patterns (examples - DO NOT uncomment without review)
+# =============================================================================
+
+# Development dependencies (if they're truly dev-only)
+# CVE-2024-XXXXX  # black: only used in development, not in production
+
+# Indirect dependencies that can't be fixed immediately
+# CVE-2024-XXXXX  # transitive dependency from langchain, waiting for upstream fix
+
+# Platform-specific vulnerabilities (if you're not on that platform)
+# CVE-2024-XXXXX  # Windows-specific, we deploy on Linux only
+
+# =============================================================================
+# Process for Adding Suppressions
+# =============================================================================
+# 1. Verify the CVE is truly a false positive
+# 2. Document WHY it's not exploitable in your context
+# 3. Add with clear comment and optional expiration
+# 4. Get review from security-conscious team member
+# 5. Commit with detailed explanation in commit message

@@ -1,0 +1,843 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+    inputs:
+      rollback_sha:
+        description: 'Git SHA to rollback to (optional)'
+        required: false
+        type: string
+      deploy_monitoring:
+        description: 'Deploy monitoring stack (true/false)'
+        required: false
+        type: boolean
+        default: true
+
+
+jobs:
+  # ========================================
+  # Environment Validation - Check Required Variables
+  # ========================================
+  validate-env:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main' && vars.PROD_ENV_READY == 'true'
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Validate Production Environment Variables
+        run: |
+          echo "Validating production environment configuration..."
+          
+          # Decode the ENV_FILE_PRODUCTION secret to a temporary file
+          if [ -n "${{ secrets.ENV_FILE_PRODUCTION }}" ]; then
+            echo "${{ secrets.ENV_FILE_PRODUCTION }}" > .env.prod.tmp
+          else
+            echo "❌ ERROR: ENV_FILE_PRODUCTION secret is not set!"
+            exit 1
+          fi
+          
+          # Critical variables that MUST be set
+          CRITICAL_VARS=(
+            "POSTGRES_PASSWORD"
+            "JWT_SECRET_KEY"
+            "EMAIL_ENCRYPTION_KEY"
+            "INTERNAL_API_KEY"
+            "NEXTAUTH_SECRET"
+            "GOOGLE_GENAI_API_KEY"
+            "REDIS_PASSWORD"
+            "MINIO_ACCESS_KEY"
+            "MINIO_SECRET_KEY"
+            "ADMIN_PASSWORD"
+          )
+          
+          # Important variables that should be set (warnings only)
+          IMPORTANT_VARS=(
+            "GOOGLE_CLIENT_ID"
+            "GOOGLE_CLIENT_SECRET"
+            "BACKEND_MINTER_PRIVATE_KEY"
+            "GRAFANA_ADMIN_PASSWORD"
+            "LANGFUSE_SECRET"
+            "LANGFUSE_SALT"
+          )
+          
+          # Variables that should NOT contain default/example values
+          FORBIDDEN_VALUES=(
+            "CHANGE_THIS"
+            "YOUR_"
+            "example"
+            "test123"
+            "admin123"
+          )
+          
+          ERRORS=0
+          WARNINGS=0
+          
+          echo ""
+          echo "=== Checking Critical Variables ==="
+          for var in "${CRITICAL_VARS[@]}"; do
+            if ! grep -q "^${var}=" .env.prod.tmp; then
+              echo "❌ CRITICAL: ${var} is missing!"
+              ERRORS=$((ERRORS + 1))
+            else
+              VALUE=$(grep "^${var}=" .env.prod.tmp | cut -d'=' -f2-)
+              if [ -z "$VALUE" ]; then
+                echo "❌ CRITICAL: ${var} is empty!"
+                ERRORS=$((ERRORS + 1))
+              else
+                # Check for forbidden values
+                for forbidden in "${FORBIDDEN_VALUES[@]}"; do
+                  if echo "$VALUE" | grep -qi "$forbidden"; then
+                    echo "❌ CRITICAL: ${var} contains default/example value!"
+                    ERRORS=$((ERRORS + 1))
+                    break
+                  fi
+                done
+                if [ $ERRORS -eq 0 ] || [ $ERRORS -eq $((ERRORS - 1)) ]; then
+                  echo "✓ ${var} is set"
+                fi
+              fi
+            fi
+          done
+          
+          echo ""
+          echo "=== Checking Important Variables ==="
+          for var in "${IMPORTANT_VARS[@]}"; do
+            if ! grep -q "^${var}=" .env.prod.tmp; then
+              echo "⚠ WARNING: ${var} is missing (optional but recommended)"
+              WARNINGS=$((WARNINGS + 1))
+            else
+              VALUE=$(grep "^${var}=" .env.prod.tmp | cut -d'=' -f2-)
+              if [ -z "$VALUE" ]; then
+                echo "⚠ WARNING: ${var} is empty"
+                WARNINGS=$((WARNINGS + 1))
+              else
+                # Check for forbidden values
+                for forbidden in "${FORBIDDEN_VALUES[@]}"; do
+                  if echo "$VALUE" | grep -qi "$forbidden"; then
+                    echo "⚠ WARNING: ${var} contains default/example value"
+                    WARNINGS=$((WARNINGS + 1))
+                    break
+                  fi
+                done
+                if [ $WARNINGS -eq 0 ] || [ $WARNINGS -eq $((WARNINGS - 1)) ]; then
+                  echo "✓ ${var} is set"
+                fi
+              fi
+            fi
+          done
+          
+          echo ""
+          echo "=== Validation Summary ==="
+          echo "Critical errors: $ERRORS"
+          echo "Warnings: $WARNINGS"
+          
+          # Clean up temp file
+          rm -f .env.prod.tmp
+          
+          if [ $ERRORS -gt 0 ]; then
+            echo ""
+            echo "❌ Environment validation FAILED!"
+            echo "Please update the ENV_FILE_PRODUCTION secret in GitHub repository settings."
+            echo "Refer to env.example for required variables."
+            exit 1
+          fi
+          
+          if [ $WARNINGS -gt 0 ]; then
+            echo ""
+            echo "⚠ Environment validation passed with warnings."
+            echo "Consider setting the optional variables for full functionality."
+          else
+            echo ""
+            echo "✅ Environment validation PASSED!"
+          fi
+
+  # ========================================
+  # OPTIMIZATION 4: Conditional Builds - Detect Changes
+  # ========================================
+  detect-changes:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push' || github.event_name == 'pull_request' || (github.event_name == 'workflow_dispatch' && !github.event.inputs.rollback_sha)
+    outputs:
+      backend: ${{ steps.filter.outputs.backend }}
+      frontend: ${{ steps.filter.outputs.frontend }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Check for file changes
+        uses: dorny/paths-filter@v3
+        id: filter
+        with:
+          filters: |
+            backend:
+              - 'backend/**'
+              - 'backend/Dockerfile'
+              - 'backend/requirements.txt'
+            frontend:
+              - 'frontend/**'
+              - 'frontend/Dockerfile'
+              - 'package.json'
+              - 'package-lock.json'
+
+  # ========================================
+  # OPTIMIZATION 3: Parallel Jobs - Backend Tests
+  # ========================================
+  test-backend:
+    runs-on: ubuntu-latest
+    needs: detect-changes
+    if: needs.detect-changes.outputs.backend == 'true' || github.event_name == 'workflow_dispatch'
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v5
+
+      - name: Cache uv dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/uv
+          key: ${{ runner.os }}-uv-${{ hashFiles('backend/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-uv-
+
+      - name: Install backend dependencies
+        run: uv pip install --system -r requirements.txt
+        working-directory: ./backend
+
+      - name: Run backend tests (pytest)
+        id: backend-tests
+        continue-on-error: true
+        env:
+          DATABASE_URL: "sqlite+aiosqlite:///test.db"
+          EMAIL_ENCRYPTION_KEY: "example_encryption_key"
+          JWT_SECRET_KEY: "a_very_long_and_secure_secret_key_for_testing_purposes"
+        run: |
+          # Run pytest with detailed output and JUnit XML report
+          pytest --verbose --tb=short --junit-xml=test-results.xml > test-output.txt 2>&1 || TEST_EXIT_CODE=$?
+          
+          # Display the test output
+          cat test-output.txt
+          
+          # Exit with the original code to mark step as failed if tests failed
+          exit ${TEST_EXIT_CODE:-0}
+        working-directory: ./backend
+
+      - name: Generate Backend Test Summary
+        if: always()
+        run: |
+          cd backend
+          
+          echo "# 🧪 Backend Test Results" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          if [ -f test-output.txt ]; then
+            # Extract summary from pytest output
+            if grep -q "FAILED" test-output.txt; then
+              echo "## ❌ Tests Failed" >> $GITHUB_STEP_SUMMARY
+              echo "" >> $GITHUB_STEP_SUMMARY
+              
+              # Count passed and failed tests
+              PASSED=$(grep -o "passed" test-output.txt | wc -l || echo "0")
+              FAILED=$(grep -o "FAILED" test-output.txt | wc -l || echo "0")
+              ERRORS=$(grep -o "ERROR" test-output.txt | wc -l || echo "0")
+              
+              echo "- ✅ Passed: **${PASSED}**" >> $GITHUB_STEP_SUMMARY
+              echo "- ❌ Failed: **${FAILED}**" >> $GITHUB_STEP_SUMMARY
+              echo "- ⚠️ Errors: **${ERRORS}**" >> $GITHUB_STEP_SUMMARY
+              echo "" >> $GITHUB_STEP_SUMMARY
+              
+              # Extract failed test details
+              echo "### Failed Tests:" >> $GITHUB_STEP_SUMMARY
+              echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+              grep "FAILED" test-output.txt || echo "No detailed failure information available"
+              echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+              echo "" >> $GITHUB_STEP_SUMMARY
+              
+              # Show short traceback of first few failures
+              echo "### Error Details (first 50 lines):" >> $GITHUB_STEP_SUMMARY
+              echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+              grep -A 10 "FAILED" test-output.txt | head -50 || echo "No error details available"
+              echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+              
+            elif grep -q "passed" test-output.txt; then
+              echo "## ✅ All Tests Passed" >> $GITHUB_STEP_SUMMARY
+              echo "" >> $GITHUB_STEP_SUMMARY
+              PASSED=$(grep -o "passed" test-output.txt | wc -l || echo "0")
+              echo "- ✅ Passed: **${PASSED}**" >> $GITHUB_STEP_SUMMARY
+            else
+              echo "## ⚠️ Unable to Parse Test Results" >> $GITHUB_STEP_SUMMARY
+              echo "" >> $GITHUB_STEP_SUMMARY
+              echo "Test output:" >> $GITHUB_STEP_SUMMARY
+              echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+              cat test-output.txt | head -100
+              echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+            fi
+          else
+            echo "## ⚠️ No Test Output Found" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "Test output file was not generated." >> $GITHUB_STEP_SUMMARY
+          fi
+          
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "---" >> $GITHUB_STEP_SUMMARY
+          echo "📝 **Note:** Deployment will continue even if tests fail. Review failures and fix in subsequent commits." >> $GITHUB_STEP_SUMMARY
+
+      - name: Upload Backend Test Results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: backend-test-results
+          path: |
+            backend/test-results.xml
+            backend/test-output.txt
+          retention-days: 30
+
+  # ========================================
+  # OPTIMIZATION 3: Parallel Jobs - Frontend Tests
+  # ========================================
+  test-frontend:
+    runs-on: ubuntu-latest
+    needs: detect-changes
+    if: needs.detect-changes.outputs.frontend == 'true' || github.event_name == 'workflow_dispatch'
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # OPTIMIZATION 1: Dependency Caching - npm
+      - name: Cache npm dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('frontend/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      # OPTIMIZATION: Use npm ci instead of npm install
+      - name: Install frontend dependencies
+        run: npm ci
+        working-directory: ./frontend
+
+      - name: Run frontend tests
+        id: frontend-tests
+        continue-on-error: true
+        run: |
+          # Run tests with detailed output
+          npm test -- --verbose --json --outputFile=test-results.json > test-output.txt 2>&1 || TEST_EXIT_CODE=$?
+          
+          # Display the test output
+          cat test-output.txt
+          
+          # Exit with the original code to mark step as failed if tests failed
+          exit ${TEST_EXIT_CODE:-0}
+        working-directory: ./frontend
+
+      - name: Generate Frontend Test Summary
+        if: always()
+        run: |
+          cd frontend
+          
+          echo "# 🧪 Frontend Test Results" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          if [ -f test-output.txt ]; then
+            # Check for test failures
+            if grep -qi "fail" test-output.txt || grep -qi "error" test-output.txt; then
+              echo "## ❌ Tests Failed" >> $GITHUB_STEP_SUMMARY
+              echo "" >> $GITHUB_STEP_SUMMARY
+              
+              # Try to extract counts
+              if [ -f test-results.json ]; then
+                PASSED=$(jq -r '.numPassedTests // 0' test-results.json 2>/dev/null || echo "0")
+                FAILED=$(jq -r '.numFailedTests // 0' test-results.json 2>/dev/null || echo "0")
+                TOTAL=$(jq -r '.numTotalTests // 0' test-results.json 2>/dev/null || echo "0")
+                
+                echo "- ✅ Passed: **${PASSED}**" >> $GITHUB_STEP_SUMMARY
+                echo "- ❌ Failed: **${FAILED}**" >> $GITHUB_STEP_SUMMARY
+                echo "- 📊 Total: **${TOTAL}**" >> $GITHUB_STEP_SUMMARY
+              else
+                # Fallback: count from output
+                PASSED=$(grep -c "✓" test-output.txt 2>/dev/null || echo "0")
+                FAILED=$(grep -c "✗" test-output.txt 2>/dev/null || echo "0")
+                
+                echo "- ✅ Passed: **${PASSED}**" >> $GITHUB_STEP_SUMMARY
+                echo "- ❌ Failed: **${FAILED}**" >> $GITHUB_STEP_SUMMARY
+              fi
+              
+              echo "" >> $GITHUB_STEP_SUMMARY
+              
+              # Show failed tests
+              echo "### Failed Tests:" >> $GITHUB_STEP_SUMMARY
+              echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+              grep -i "fail\|error" test-output.txt | head -30 || echo "No detailed failure information available"
+              echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+              
+            elif grep -qi "pass" test-output.txt; then
+              echo "## ✅ All Tests Passed" >> $GITHUB_STEP_SUMMARY
+              echo "" >> $GITHUB_STEP_SUMMARY
+              
+              if [ -f test-results.json ]; then
+                PASSED=$(jq -r '.numPassedTests // 0' test-results.json 2>/dev/null || echo "0")
+                echo "- ✅ Passed: **${PASSED}**" >> $GITHUB_STEP_SUMMARY
+              else
+                PASSED=$(grep -c "✓" test-output.txt 2>/dev/null || echo "Unknown")
+                echo "- ✅ Passed: **${PASSED}**" >> $GITHUB_STEP_SUMMARY
+              fi
+            else
+              echo "## ⚠️ Unable to Parse Test Results" >> $GITHUB_STEP_SUMMARY
+              echo "" >> $GITHUB_STEP_SUMMARY
+              echo "Test output:" >> $GITHUB_STEP_SUMMARY
+              echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+              cat test-output.txt | head -100
+              echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+            fi
+          else
+            echo "## ⚠️ No Test Output Found" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "Test output file was not generated." >> $GITHUB_STEP_SUMMARY
+          fi
+          
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "---" >> $GITHUB_STEP_SUMMARY
+          echo "📝 **Note:** Deployment will continue even if tests fail. Review failures and fix in subsequent commits." >> $GITHUB_STEP_SUMMARY
+
+      - name: Upload Frontend Test Results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: frontend-test-results
+          path: |
+            frontend/test-results.json
+            frontend/test-output.txt
+          retention-days: 30
+
+  # ========================================
+  # OPTIMIZATION 3: Parallel Jobs - Build Backend
+  # ========================================
+  build-backend:
+    runs-on: ubuntu-latest
+    needs: [detect-changes, test-backend]
+    if: |
+      always() && 
+      (needs.detect-changes.outputs.backend == 'true' || github.event_name == 'workflow_dispatch' || (github.event_name == 'push' && github.ref == 'refs/heads/main')) &&
+      (needs.test-backend.result == 'success' || needs.test-backend.result == 'failure' || needs.test-backend.result == 'skipped')
+    permissions:
+      contents: read
+      packages: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Check Test Status
+        run: |
+          echo "# 🏗️ Backend Build Status" >> $GITHUB_STEP_SUMMARY
+          if [ "${{ needs.test-backend.result }}" == "failure" ]; then
+            echo "⚠️ **WARNING:** Building despite test failures. Review test results before deploying." >> $GITHUB_STEP_SUMMARY
+          elif [ "${{ needs.test-backend.result }}" == "success" ]; then
+            echo "✅ All tests passed. Proceeding with build." >> $GITHUB_STEP_SUMMARY
+          else
+            echo "ℹ️ Tests were skipped. Building anyway." >> $GITHUB_STEP_SUMMARY
+          fi
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+      - name: Set lowercase repository owner
+        id: lowercase
+        run: echo "owner=$(echo ${{ github.repository_owner }} | tr '[:upper:]' '[:lower:]')" >> $GITHUB_OUTPUT
+
+      # OPTIMIZATION 2: Docker BuildKit Caching
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: Log in to GitHub Container Registry
+        uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build and push backend image
+        uses: docker/build-push-action@v6
+        with:
+          context: ./backend
+          file: ./backend/Dockerfile
+          push: true
+          pull: true  # Always pull base images to ensure freshness
+          tags: |
+            ghcr.io/${{ steps.lowercase.outputs.owner }}/ugm-aicare-api:${{ github.sha }}
+            ghcr.io/${{ steps.lowercase.outputs.owner }}/ugm-aicare-api:latest
+          cache-from: |
+            type=gha,scope=backend
+            type=registry,ref=ghcr.io/${{ steps.lowercase.outputs.owner }}/ugm-aicare-api:latest
+          cache-to: type=gha,mode=max,scope=backend
+          build-args: |
+            BUILDKIT_INLINE_CACHE=1
+
+      # Optional: Additional cleanup after build (already done in free-disk-space action)
+      # Uncomment if you need extra space for subsequent steps
+      # - name: Clean up Docker build cache
+      #   if: always()
+      #   run: |
+      #     echo "=== Cleaning up Docker to free space ==="
+      #     docker system prune -af --volumes
+      #     echo "=== Disk space after Docker cleanup ==="
+      #     df -h
+
+  # ========================================
+  # OPTIMIZATION 3: Parallel Jobs - Build Frontend
+  # ========================================
+  build-frontend:
+    runs-on: ubuntu-latest
+    needs: [detect-changes, test-frontend]
+    if: |
+      always() && 
+      (needs.detect-changes.outputs.frontend == 'true' || github.event_name == 'workflow_dispatch' || (github.event_name == 'push' && github.ref == 'refs/heads/main')) &&
+      (needs.test-frontend.result == 'success' || needs.test-frontend.result == 'failure' || needs.test-frontend.result == 'skipped')
+    permissions:
+      contents: read
+      packages: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Check Test Status
+        run: |
+          echo "# 🏗️ Frontend Build Status" >> $GITHUB_STEP_SUMMARY
+          if [ "${{ needs.test-frontend.result }}" == "failure" ]; then
+            echo "⚠️ **WARNING:** Building despite test failures. Review test results before deploying." >> $GITHUB_STEP_SUMMARY
+          elif [ "${{ needs.test-frontend.result }}" == "success" ]; then
+            echo "✅ All tests passed. Proceeding with build." >> $GITHUB_STEP_SUMMARY
+          else
+            echo "ℹ️ Tests were skipped. Building anyway." >> $GITHUB_STEP_SUMMARY
+          fi
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+      - name: Set lowercase repository owner
+        id: lowercase
+        run: echo "owner=$(echo ${{ github.repository_owner }} | tr '[:upper:]' '[:lower:]')" >> $GITHUB_OUTPUT
+
+      # OPTIMIZATION 2: Docker BuildKit Caching
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: Log in to GitHub Container Registry
+        uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build and push frontend image
+        uses: docker/build-push-action@v6
+        with:
+          context: ./frontend
+          file: ./frontend/Dockerfile
+          push: true
+          pull: true  # Always pull base images to ensure freshness
+          tags: |
+            ghcr.io/${{ steps.lowercase.outputs.owner }}/ugm-aicare-web:${{ github.sha }}
+            ghcr.io/${{ steps.lowercase.outputs.owner }}/ugm-aicare-web:latest
+          cache-from: |
+            type=gha,scope=frontend
+            type=registry,ref=ghcr.io/${{ steps.lowercase.outputs.owner }}/ugm-aicare-web:latest
+          cache-to: type=gha,mode=max,scope=frontend
+          build-args: |
+            BUILDKIT_INLINE_CACHE=1
+
+  # ========================================
+  # Security Scanning (Parallel after builds)
+  # ========================================
+  scan-backend:
+    runs-on: ubuntu-latest
+    needs: build-backend
+    if: always() && needs.build-backend.result == 'success'
+    permissions:
+      contents: read
+      packages: read
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set lowercase repository owner
+        id: lowercase
+        run: echo "owner=$(echo ${{ github.repository_owner }} | tr '[:upper:]' '[:lower:]')" >> $GITHUB_OUTPUT
+
+      - name: Log in to GitHub Container Registry
+        uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Run Trivy vulnerability scan on backend image
+        uses: aquasecurity/trivy-action@master
+        with:
+          image-ref: 'ghcr.io/${{ steps.lowercase.outputs.owner }}/ugm-aicare-api:${{ github.sha }}'
+          format: 'json'
+          output: 'trivy-backend-results.json'
+          exit-code: '0'
+          severity: 'CRITICAL'
+          ignore-unfixed: true
+          scanners: 'vuln'
+          timeout: '5m'
+
+      - name: Display Trivy results
+        if: always()
+        run: |
+          if [ -f trivy-backend-results.json ]; then
+            echo "=== Trivy Scan Results (Backend) ==="
+            jq -r '.Results[]?.Vulnerabilities[]? | select(.Severity == "CRITICAL") | "\(.VulnerabilityID) - \(.PkgName) \(.InstalledVersion) → \(.FixedVersion) [\(.Severity)]"' trivy-backend-results.json || echo "No CRITICAL vulnerabilities found"
+          fi
+
+      - name: Check for fixable vulnerabilities
+        id: check-vulns
+        run: |
+          if [ -f trivy-backend-results.json ]; then
+            FIXABLE=$(jq '[.Results[]?.Vulnerabilities[]? | select(.FixedVersion != "")] | length' trivy-backend-results.json)
+            echo "fixable_count=$FIXABLE" >> $GITHUB_OUTPUT
+            if [ "$FIXABLE" -gt 0 ]; then
+              echo "⚠️ Found $FIXABLE fixable vulnerabilities"
+              echo "Run the 'Auto-Fix Security Vulnerabilities' workflow to automatically create a PR with fixes"
+            fi
+          fi
+
+      - name: Fail if critical vulnerabilities exist
+        run: |
+          if [ -f trivy-backend-results.json ]; then
+            CRITICAL=$(jq '[.Results[]?.Vulnerabilities[]? | select(.Severity == "CRITICAL")] | length' trivy-backend-results.json)
+            if [ "$CRITICAL" -gt 0 ]; then
+              echo "❌ Found $CRITICAL CRITICAL vulnerabilities!"
+              exit 1
+            fi
+          fi
+
+  scan-frontend:
+    runs-on: ubuntu-latest
+    needs: build-frontend
+    if: always() && needs.build-frontend.result == 'success'
+    permissions:
+      contents: read
+      packages: read
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set lowercase repository owner
+        id: lowercase
+        run: echo "owner=$(echo ${{ github.repository_owner }} | tr '[:upper:]' '[:lower:]')" >> $GITHUB_OUTPUT
+
+      - name: Log in to GitHub Container Registry
+        uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Run Trivy vulnerability scan on frontend image
+        uses: aquasecurity/trivy-action@master
+        with:
+          image-ref: 'ghcr.io/${{ steps.lowercase.outputs.owner }}/ugm-aicare-web:${{ github.sha }}'
+          format: 'json'
+          output: 'trivy-frontend-results.json'
+          exit-code: '0'
+          severity: 'CRITICAL'
+          ignore-unfixed: true
+          scanners: 'vuln'
+          timeout: '5m'
+
+      - name: Display Trivy results (Frontend)
+        if: always()
+        run: |
+          if [ -f trivy-frontend-results.json ]; then
+            echo "=== Trivy Scan Results (Frontend) ==="
+            jq -r '.Results[]?.Vulnerabilities[]? | select(.Severity == "CRITICAL") | "\(.VulnerabilityID) - \(.PkgName) \(.InstalledVersion) → \(.FixedVersion) [\(.Severity)]"' trivy-frontend-results.json || echo "No CRITICAL vulnerabilities found"
+          fi
+
+      - name: Fail if critical vulnerabilities exist (Frontend)
+        run: |
+          if [ -f trivy-frontend-results.json ]; then
+            CRITICAL=$(jq '[.Results[]?.Vulnerabilities[]? | select(.Severity == "CRITICAL")] | length' trivy-frontend-results.json)
+            if [ "$CRITICAL" -gt 0 ]; then
+              echo "❌ Found $CRITICAL CRITICAL vulnerabilities in frontend!"
+              exit 1
+            fi
+          fi
+
+  # ========================================
+  # Deployment (runs after all builds and scans pass)
+  # ========================================
+  deploy:
+    runs-on: ubuntu-latest
+    environment: production
+    needs: [validate-env, detect-changes, test-backend, test-frontend, build-backend, build-frontend, scan-backend, scan-frontend]
+    if: |
+      always() &&
+      (github.event_name == 'push' && github.ref == 'refs/heads/main') &&
+      vars.DEPLOY_ENABLED == 'true' &&
+      needs.validate-env.result == 'success' &&
+      (needs.build-backend.result == 'success' || needs.build-backend.result == 'skipped') &&
+      (needs.build-frontend.result == 'success' || needs.build-frontend.result == 'skipped') &&
+      (needs.scan-backend.result == 'success' || needs.scan-backend.result == 'skipped') &&
+      (needs.scan-frontend.result == 'success' || needs.scan-frontend.result == 'skipped')
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set lowercase repository owner for deploy
+        id: deploy_lowercase
+        run: echo "owner=$(echo ${{ github.repository_owner }} | tr '[:upper:]' '[:lower:]')" >> $GITHUB_OUTPUT
+
+      - name: Deploy to VM
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.VM_SSH_HOST }}
+          username: ${{ secrets.VM_SSH_USER }}
+          key: ${{ secrets.VM_SSH_PRIVATE_KEY }}
+          script: |
+            export GHCR_USER=${{ github.actor }}
+            export GHCR_TOKEN=${{ secrets.GITHUB_TOKEN }}
+            export GHCR_REPOSITORY_OWNER=${{ steps.deploy_lowercase.outputs.owner }}
+            
+            cd ${{ secrets.VM_PROJECT_PATH }}
+            
+            # Fix git safe directory warning
+            git config --global --add safe.directory ${{ secrets.VM_PROJECT_PATH }}
+            
+            # Pull latest code to ensure we have the latest deploy scripts
+            git fetch origin
+            git reset --hard origin/main
+            
+            if [ -n "${{ secrets.ENV_FILE_PRODUCTION }}" ]; then
+              echo "${{ secrets.ENV_FILE_PRODUCTION }}" > .env
+              
+              # Copy .env to backend and frontend for safety
+              echo "📋 Copying .env to subdirectories..."
+              cp .env backend/.env
+              cp .env frontend/.env
+              chmod 600 backend/.env frontend/.env
+              echo "✅ .env copied to backend/ and frontend/"
+            fi
+
+            echo "[deploy] Bringing up app-only stack (no bundled monitoring profiles)..."
+            docker compose --env-file .env -f docker-compose.base.yml -f docker-compose.prod.yml up -d --build --remove-orphans
+      
+      - name: Generate Deployment Summary
+        if: always()
+        run: |
+          echo "# 🚀 Deployment Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Environment:** Production" >> $GITHUB_STEP_SUMMARY
+          echo "**SHA:** \`${{ github.sha }}\`" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          # Check test results
+          echo "## Test Status" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          BACKEND_TEST_STATUS="${{ needs.test-backend.result }}"
+          FRONTEND_TEST_STATUS="${{ needs.test-frontend.result }}"
+          
+          if [ "$BACKEND_TEST_STATUS" == "success" ]; then
+            echo "- ✅ Backend Tests: **PASSED**" >> $GITHUB_STEP_SUMMARY
+          elif [ "$BACKEND_TEST_STATUS" == "failure" ]; then
+            echo "- ⚠️ Backend Tests: **FAILED** (deployment continued)" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "- ℹ️ Backend Tests: **SKIPPED**" >> $GITHUB_STEP_SUMMARY
+          fi
+          
+          if [ "$FRONTEND_TEST_STATUS" == "success" ]; then
+            echo "- ✅ Frontend Tests: **PASSED**" >> $GITHUB_STEP_SUMMARY
+          elif [ "$FRONTEND_TEST_STATUS" == "failure" ]; then
+            echo "- ⚠️ Frontend Tests: **FAILED** (deployment continued)" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "- ℹ️ Frontend Tests: **SKIPPED**" >> $GITHUB_STEP_SUMMARY
+          fi
+          
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          # Warning if tests failed
+          if [ "$BACKEND_TEST_STATUS" == "failure" ] || [ "$FRONTEND_TEST_STATUS" == "failure" ]; then
+            echo "## ⚠️ Warning" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "Deployment proceeded despite test failures. Please:" >> $GITHUB_STEP_SUMMARY
+            echo "1. Review the test failure details above" >> $GITHUB_STEP_SUMMARY
+            echo "2. Download test artifacts for detailed analysis" >> $GITHUB_STEP_SUMMARY
+            echo "3. Monitor production logs closely" >> $GITHUB_STEP_SUMMARY
+            echo "4. Consider rolling back if critical issues are detected" >> $GITHUB_STEP_SUMMARY
+            echo "5. Fix failing tests in the next commit" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+          fi
+          
+          echo "## Deployed Components" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- 🖥️ Backend: \`ghcr.io/${{ steps.deploy_lowercase.outputs.owner }}/ugm-aicare-backend:${{ github.sha }}\`" >> $GITHUB_STEP_SUMMARY
+          echo "- 🌐 Frontend: \`ghcr.io/${{ steps.deploy_lowercase.outputs.owner }}/ugm-aicare-frontend:${{ github.sha }}\`" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Deployment completed at:** $(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
+      
+
+  rollback:
+    runs-on: ubuntu-latest
+    environment: production
+    if: github.event_name == 'workflow_dispatch' && github.event.inputs.rollback_sha && vars.DEPLOY_ENABLED == 'true'
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set lowercase repository owner for rollback
+        id: rollback_lowercase
+        run: echo "owner=$(echo ${{ github.repository_owner }} | tr '[:upper:]' '[:lower:]')" >> $GITHUB_OUTPUT
+
+      - name: Rollback to previous SHA
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.VM_SSH_HOST }}
+          username: ${{ secrets.VM_SSH_USER }}
+          key: ${{ secrets.VM_SSH_PRIVATE_KEY }}
+          script: |
+            export GHCR_USER=${{ github.actor }}
+            export GHCR_TOKEN=${{ secrets.GITHUB_TOKEN }}
+            export GHCR_REPOSITORY_OWNER=${{ steps.rollback_lowercase.outputs.owner }}
+            
+            cd ${{ secrets.VM_PROJECT_PATH }}
+            
+            # Fix git safe directory warning
+            git config --global --add safe.directory ${{ secrets.VM_PROJECT_PATH }}
+            
+            # Pull latest code to ensure we have the latest deploy scripts
+            git fetch origin
+            git reset --hard origin/main
+            
+            if [ -n "${{ secrets.ENV_FILE_PRODUCTION }}" ]; then
+              echo "${{ secrets.ENV_FILE_PRODUCTION }}" > .env
+            fi
+
+            echo "[rollback] Checking out rollback SHA..."
+            git checkout --force ${{ github.event.inputs.rollback_sha }}
+
+            echo "[rollback] Bringing up app-only stack..."
+            docker compose --env-file .env -f docker-compose.base.yml -f docker-compose.prod.yml up -d --build --remove-orphans

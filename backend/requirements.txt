@@ -1,0 +1,112 @@
+# ============================================
+# UGM-AICare Backend Dependencies
+# ============================================
+# Version Pinning Strategy:
+# - Exact versions (==): Security-critical or known stable versions
+# - Constrained ranges (>=X,<Y): Allows patches, prevents breaking changes
+# - This reduces pip backtracking and ensures reproducible builds
+# - Last updated: October 31, 2025
+# ============================================
+
+# Web Framework
+fastapi>=0.115.5,<0.116.0
+uvicorn>=0.30.0,<1.0.0
+scalar-fastapi>=1.0.3
+pydantic>=2.9.0,<3.0.0
+email-validator>=2.0.0  # Required for Pydantic EmailStr validation
+python-multipart>=0.0.18  # Updated to fix CVE-2024-24762 and CVE-2024-53981
+
+# HTTP Client
+requests==2.31.0
+httpx>=0.28.0,<1.0.0  # Updated for anyio>=4 compatibility
+minio==7.2.9
+beautifulsoup4==4.12.3
+
+# Database and ORM
+sqlalchemy[asyncio]>=2.0.36
+alembic>=1.13.0,<2.0.0
+redis==5.0.1
+asyncpg>=0.29.0  # Fast PostgreSQL Database Client Library for Python/asyncio
+psycopg[binary]>=3.2.0,<4.0.0  # Sync PostgreSQL driver (Alembic, LangGraph saver)
+aiosqlite  # For async SQLite support (dev/testing only)
+aiofiles>=23.0.0 # For async file operations
+PyPDF2==3.0.1
+
+# Authentication
+python-jose[cryptography]>=3.4.0  # Updated to fix CVE-2024-33663
+passlib[bcrypt]==1.7.4
+bcrypt==4.0.1
+python-dotenv
+hkdf
+
+# Testing
+pytest>=8.0.0
+pytest-asyncio>=0.24.0  # Updated for anyio>=4 compatibility
+
+# AI and ML
+# Google AI - NEW UNIFIED SDK (migrated from google-generativeai)
+# Old SDK deprecated Nov 30, 2025: https://pypi.org/project/google-generativeai/
+google-genai>=1.33.0
+google-api-core>=2.19.0,<3.0.0  # Constrain to avoid excessive backtracking
+googleapis-common-protos>=1.70.0,<2.0.0  # Explicit pin prevents resolver backtracking
+protobuf>=5.0.0,<6.0.0  # Compatible with google-genai and Langfuse
+opentelemetry-sdk==1.35.0  # Align OpenTelemetry stack for Langfuse
+opentelemetry-proto==1.35.0
+opentelemetry-exporter-otlp-proto-http==1.35.0
+opentelemetry-exporter-otlp-proto-common==1.35.0
+
+# LangGraph
+langgraph>=0.2.0,<0.3.0
+langgraph-checkpoint-postgres>=0.0.10
+langfuse>=2.0.0  # LLM observability and agent tracing
+
+# Safety Triage Agent (STA) - Crisis Detection
+# Migrated from PyTorch/ONNX to pure Gemini-based classification (Nov 2025)
+# Benefits:
+# - 99% smaller deployment (~1MB vs ~1GB)
+# - Better accuracy with contextual understanding
+# - Full explainability with chain-of-thought reasoning
+# - Cultural awareness (Indonesian + English)
+# - 60%+ API cost reduction via smart caching
+# See: docs/PYTORCH_TO_GEMINI_MIGRATION.md
+
+# Blockchain Integration
+# Updated to v7.x for improved middleware API and better PoA chain support
+# Key changes in v7.x:
+# - geth_poa_middleware renamed to ExtraDataToPOAMiddleware
+# - Class-based middleware (PythonicMiddleware vs pythonic_middleware)
+# - Improved async support and performance
+web3>=7.0.0,<8.0.0  # Web3.py for Ethereum/SOMNIA blockchain interaction
+
+# Statistical Analysis and Privacy
+numpy>=1.24.0
+reportlab>=4.0.0
+
+# Social Media Integration
+tweepy==4.14.0  # For Twitter/X API integration
+
+# Task Scheduling
+celery==5.3.4
+apscheduler==3.10.4
+
+# Utils
+python-slugify==8.0.1
+pydantic-settings==2.0.3
+typing-extensions
+
+# Monitoring
+prometheus-client==0.19.0
+prometheus-fastapi-instrumentator==7.1.0
+
+
+# Development Tools
+black==23.9.1
+isort==5.12.0
+flake8==6.1.0
+
+gunicorn>=20.1.0  # For production server
+
+# spacy==3.7.5  # REMOVED: Optional NLP-based PII redaction (disabled by default)
+# The system uses regex-based PII redaction which doesn't require Spacy.
+# If needed in future, can be re-enabled by uncommenting and setting:
+# PII_NLP_REDACTION_ENABLED=true

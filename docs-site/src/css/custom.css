@@ -1,0 +1,290 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&display=swap');
+
+/* UGM-AICare Documentation — Premium Custom Styles */
+
+:root {
+  /* Premium Slate Palette with Subtle Institutional Blue Accents */
+  --ifm-color-primary: #1e293b;       /* Slate 800 */
+  --ifm-color-primary-dark: #0f172a;  /* Slate 900 */
+  --ifm-color-primary-darker: #020617;
+  --ifm-color-primary-darkest: #000000;
+  --ifm-color-primary-light: #334155; 
+  --ifm-color-primary-lighter: #475569;
+  --ifm-color-primary-lightest: #94a3b8;
+  
+  --ugm-blue: #1a6fb5; /* For specific button accents if needed */
+
+  /* Modern Typography */
+  --ifm-font-family-base: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  --ifm-font-family-monospace: 'Fira Code', 'JetBrains Mono', monospace;
+  --ifm-font-size-base: 15px;
+  --ifm-line-height-base: 1.6;
+
+  /* Global Polish & Spacing */
+  --ifm-global-radius: 8px;
+  --ifm-global-border-width: 1px;
+  --ifm-background-color: #ffffff;
+  --ifm-background-surface-color: #ffffff;
+  
+  --ifm-color-content: #334155;        /* Slate 700 */
+  --ifm-color-content-secondary: #64748b; /* Slate 500 */
+  
+  /* Navbar & Sidebar */
+  --ifm-navbar-background-color: rgba(255, 255, 255, 0.75);
+  --ifm-navbar-shadow: none;
+  --ifm-navbar-height: 4rem;
+  
+  --ifm-menu-color: #475569;
+  --ifm-menu-color-active: #0f172a;
+  --ifm-menu-color-background-active: #f1f5f9; /* Slate 100 */
+  
+  /* Code blocks */
+  --ifm-code-font-size: 85%;
+  --ifm-pre-background: #0f172a;       /* Slate 900 */
+  --ifm-pre-color: #f8fafc;
+  --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.1);
+  --ifm-code-border-radius: 10px;
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #f8fafc;       /* Slate 50 */
+  --ifm-color-primary-dark: #f1f5f9;  /* Slate 100 */
+  --ifm-color-primary-darker: #e2e8f0;
+  --ifm-color-primary-darkest: #cbd5e1;
+  --ifm-color-primary-light: #ffffff; 
+  --ifm-color-primary-lighter: #ffffff;
+  --ifm-color-primary-lightest: #ffffff;
+  
+  --ifm-background-color: #020617;    /* Slate 950 */
+  --ifm-background-surface-color: #0f172a; /* Slate 900 */
+  
+  --ifm-color-content: #cbd5e1;       /* Slate 300 */
+  --ifm-color-content-secondary: #94a3b8; /* Slate 400 */
+
+  --ifm-navbar-background-color: rgba(2, 6, 23, 0.75);
+  
+  --ifm-menu-color: #94a3b8;
+  --ifm-menu-color-active: #f8fafc;
+  --ifm-menu-color-background-active: rgba(255, 255, 255, 0.05);
+  
+  --ifm-pre-background: #000000;
+  --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.05);
+}
+
+/* ============================================================
+   Navbar Premium Effect (Backdrop Blur & Smooth Border)
+   ============================================================ */
+.navbar {
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--ifm-color-emphasis-200);
+}
+.navbar__title {
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+/* ============================================================
+   Hero Section - Minimalist, Grid Background & Gradient Text
+   ============================================================ */
+.hero--primary {
+  background: transparent;
+  color: var(--ifm-color-primary);
+  padding: 8rem 0 6rem;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Dot grid background */
+.hero--primary::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background-image: radial-gradient(var(--ifm-color-emphasis-300) 1px, transparent 1px);
+  background-size: 24px 24px;
+  opacity: 0.5;
+  z-index: -1;
+  mask-image: radial-gradient(ellipse at center, black 30%, transparent 80%);
+  -webkit-mask-image: radial-gradient(ellipse at center, black 30%, transparent 80%);
+}
+
+.hero__title {
+  font-size: 4rem;
+  font-weight: 800;
+  letter-spacing: -0.04em;
+  /* Stylish Gradient Text Override */
+  background: linear-gradient(135deg, var(--ifm-color-primary) 0%, var(--ifm-color-content-secondary) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 1rem;
+}
+
+.hero__subtitle {
+  font-size: 1.25rem;
+  font-weight: 400;
+  color: var(--ifm-color-content-secondary);
+  max-width: 650px;
+  margin: 0 auto 2.5rem;
+  line-height: 1.6;
+}
+
+/* Primary and Secondary Buttons */
+.button {
+  font-weight: 500;
+  border-radius: 999px; /* Pill shape */
+  padding: 0.75rem 1.5rem;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.button--secondary {
+  border: 1px solid var(--ifm-color-emphasis-300);
+  background: var(--ifm-background-color);
+  color: var(--ifm-color-primary);
+  box-shadow: 0 1px 2px rgba(0,0,0,0.02);
+}
+
+.button--secondary:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+  border-color: var(--ifm-color-primary);
+}
+
+/* ============================================================
+   Cards & Content Layout
+   ============================================================ */
+.feature-card {
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 12px;
+  padding: 2rem;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  background: var(--ifm-background-surface-color);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.02);
+}
+
+.feature-card:hover {
+  border-color: var(--ifm-color-emphasis-300);
+  box-shadow: 0 12px 32px -12px rgba(0, 0, 0, 0.1);
+  transform: translateY(-4px);
+}
+
+.feature-card__icon {
+  font-size: 2.5rem;
+  margin-bottom: 1.25rem;
+  display: block;
+  opacity: 0.9;
+}
+
+.feature-card h3 {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  margin-bottom: 0.75rem;
+  color: var(--ifm-color-primary);
+}
+
+.feature-card p {
+  color: var(--ifm-color-content-secondary);
+  font-size: 0.95rem;
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* ============================================================
+   Docs Layout Polish
+   ============================================================ */
+article > header h1 {
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+  color: var(--ifm-color-primary);
+}
+
+article p, article li {
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+/* Headings in markdown */
+.markdown h2, .markdown h3, .markdown h4 {
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: var(--ifm-color-primary);
+  margin-top: 2.5rem;
+}
+
+/* Pre-block and code polishing */
+.theme-code-block {
+  border: 1px solid var(--ifm-color-emphasis-200);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+  margin-bottom: 1.5rem;
+}
+
+[data-theme='dark'] .theme-code-block {
+  border: 1px solid rgba(255,255,255,0.08); /* Subtle dark border */
+  box-shadow: none;
+}
+
+/* Inline code styling */
+code {
+  background-color: var(--ifm-color-emphasis-100);
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 4px;
+  padding: 0.1rem 0.3rem;
+  font-weight: 500;
+}
+
+/* Admonitions (Callouts) Premium Styling */
+.theme-admonition {
+  border-radius: 8px;
+  border: 1px solid var(--ifm-color-emphasis-200) !important;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.02);
+  background: var(--ifm-background-surface-color) !important;
+  border-left-width: 4px !important;
+}
+
+.theme-admonition-heading {
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  letter-spacing: 0.05em;
+}
+
+/* ============================================================
+   Mermaid Diagrams
+   ============================================================ */
+.docusaurus-mermaid-container {
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 8px;
+  padding: 1.5rem;
+  background: var(--ifm-background-surface-color);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.02);
+  overflow-x: auto;
+  margin-bottom: 1.5rem;
+}
+
+/* ============================================================
+   Footer
+   ============================================================ */
+.footer {
+  border-top: 1px solid var(--ifm-color-emphasis-200);
+  background-color: transparent;
+  padding: 4rem 0;
+}
+.footer__title {
+  font-weight: 600;
+  color: var(--ifm-color-primary);
+  letter-spacing: -0.01em;
+}
+.footer__item {
+  margin-bottom: 0.75rem;
+}
+.footer__link-item {
+  color: var(--ifm-color-content-secondary);
+  transition: color 0.2s ease;
+  font-size: 0.95rem;
+}
+.footer__link-item:hover {
+  color: var(--ifm-color-primary);
+}

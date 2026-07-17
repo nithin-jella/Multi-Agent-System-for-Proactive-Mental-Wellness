@@ -1,0 +1,16 @@
+# Docusaurus build output
+build/
+.docusaurus/
+
+# Node modules
+node_modules/
+
+# TypeScript build info
+*.tsbuildinfo
+
+# macOS
+.DS_Store
+
+# Env files
+.env
+.env.local

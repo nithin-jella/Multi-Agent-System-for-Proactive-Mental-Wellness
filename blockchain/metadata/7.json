@@ -1,0 +1,19 @@
+{
+    "name": "Unleash the Words!",
+    "description": "Awarded for writing a single journal entry longer than 500 words.",
+    "image": "ipfs://bafybeidzdbsjft24ujpcn77hfkbhom7tmo5i5p2aqfsig2vtxvt3kd7jbu/unleash_the_words.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Category",
+        "value": "Engagement"
+      },
+      {
+        "trait_type": "Activity",
+        "value": "Journaling"
+      },
+      {
+        "trait_type": "Detail",
+        "value": "Long Entry"
+      }
+    ]
+  }

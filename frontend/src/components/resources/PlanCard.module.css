@@ -1,0 +1,26 @@
+/* Base progress bar styling */
+.progressBar {
+  width: 0%;
+  transition: width 380ms cubic-bezier(.4,0,.2,1);
+  will-change: width;
+  /* keep overflow handling from JSX */
+  overflow: hidden;
+}
+
+/* Discrete progress width classes (nearest 10% steps) */
+.progress0  { width: 0%;  }
+.progress10 { width: 10%; }
+.progress20 { width: 20%; }
+.progress30 { width: 30%; }
+.progress40 { width: 40%; }
+.progress50 { width: 50%; }
+.progress60 { width: 60%; }
+.progress70 { width: 70%; }
+.progress80 { width: 80%; }
+.progress90 { width: 90%; }
+.progress100{ width: 100%; }
+
+/* Optional: tweak visual smoothing on inner animated overlay */
+.progressBar > :global(.absolute) {
+  /* nothing required; present to show where overlays are handled */
+}

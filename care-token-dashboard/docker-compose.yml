@@ -1,0 +1,101 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:15-alpine
+    container_name: care-token-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: care_token_user
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-care_token_secure_pass_2024}
+      POSTGRES_DB: care_token_dashboard
+    ports:
+      - "5433:5432"  # Different port to avoid conflict with main UGM-AICare DB
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./backend/scripts/init.sql:/docker-entrypoint-initdb.d/init.sql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U care_token_user -d care_token_dashboard"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  redis:
+    image: redis:7-alpine
+    container_name: care-token-redis
+    restart: unless-stopped
+    ports:
+      - "6380:6379"  # Different port to avoid conflict
+    volumes:
+      - redis_data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: care-token-backend
+    restart: unless-stopped
+    ports:
+      - "8001:8001"
+    environment:
+      - DATABASE_URL=postgresql+asyncpg://care_token_user:${POSTGRES_PASSWORD:-care_token_secure_pass_2024}@postgres:5432/care_token_dashboard
+      - REDIS_URL=redis://redis:6379/0
+      - SECRET_KEY=${SECRET_KEY:-your-secret-key-change-in-production}
+      - SOMNIA_RPC_URL=${SOMNIA_RPC_URL}
+      - PLATFORM_REVENUE_ORACLE_ADDRESS=${PLATFORM_REVENUE_ORACLE_ADDRESS}
+      - CARE_STAKING_HALAL_ADDRESS=${CARE_STAKING_HALAL_ADDRESS}
+      - CARE_TOKEN_ADDRESS=${CARE_TOKEN_ADDRESS}
+      - FINANCE_TEAM_PRIVATE_KEY=${FINANCE_TEAM_PRIVATE_KEY}
+      - ALLOWED_ORIGINS=http://localhost:5173,http://localhost:3000
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    volumes:
+      - ./backend:/app
+      - backend_logs:/app/logs
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8001 --reload
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8001/api/v1/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: care-token-frontend
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      - VITE_API_BASE_URL=http://backend:8001/api/v1
+      - VITE_SOMNIA_RPC_URL=${SOMNIA_RPC_URL}
+      - VITE_CARE_TOKEN_ADDRESS=${CARE_TOKEN_ADDRESS}
+      - VITE_PLATFORM_REVENUE_ORACLE_ADDRESS=${PLATFORM_REVENUE_ORACLE_ADDRESS}
+      - VITE_CARE_STAKING_HALAL_ADDRESS=${CARE_STAKING_HALAL_ADDRESS}
+    depends_on:
+      - backend
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    command: npm run dev -- --host 0.0.0.0 --port 3000
+
+volumes:
+  postgres_data:
+    driver: local
+  redis_data:
+    driver: local
+  backend_logs:
+    driver: local
+
+networks:
+  default:
+    name: care-token-network

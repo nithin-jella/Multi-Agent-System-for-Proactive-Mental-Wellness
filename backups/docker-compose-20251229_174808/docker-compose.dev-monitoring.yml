@@ -1,0 +1,113 @@
+version: '3.8'
+
+services:
+  # Langfuse - LLM Observability & Agent Tracing
+  langfuse-server:
+    image: ghcr.io/langfuse/langfuse:2
+    container_name: ugm_aicare_langfuse_dev
+    ports:
+      - "22016:3000"
+    environment:
+      - NODE_ENV=production
+      - DATABASE_URL=postgresql://giga:${POSTGRES_PASSWORD:-giga123456}@ugm_aicare_db_dev:5432/langfuse_db?schema=public
+      - NEXTAUTH_URL=http://localhost:22016
+      - NEXTAUTH_SECRET=${LANGFUSE_SECRET:-change-this-to-a-random-string-min-32-chars}
+      - SALT=${LANGFUSE_SALT:-change-this-to-another-random-string}
+      - TELEMETRY_ENABLED=false
+      - LANGFUSE_ENABLE_EXPERIMENTAL_FEATURES=true
+      - HOSTNAME=0.0.0.0
+    networks:
+      - internal_network_dev
+    restart: unless-stopped
+
+  # Prometheus - Metrics Collection
+  prometheus:
+    build:
+      context: ./infra/monitoring/prometheus
+      dockerfile: Dockerfile
+    container_name: ugm_aicare_prometheus_dev
+    user: root
+    ports:
+      - "22010:9090"
+    volumes:
+      - prometheus-data-dev:/prometheus
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+      - '--storage.tsdb.path=/prometheus'
+      - '--storage.tsdb.retention.time=15d'
+      - '--web.console.libraries=/usr/share/prometheus/console_libraries'
+      - '--web.console.templates=/usr/share/prometheus/consoles'
+      - '--web.enable-lifecycle'
+    networks:
+      - internal_network_dev
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost:9090/-/healthy"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    restart: unless-stopped
+
+  # Grafana - Visualization
+  grafana:
+    image: grafana/grafana:10.2.2
+    container_name: ugm_aicare_grafana_dev
+    ports:
+      - "22011:3000"
+    environment:
+      - GF_SECURITY_ADMIN_USER=admin
+      - GF_SECURITY_ADMIN_PASSWORD=admin123
+      - GF_USERS_ALLOW_SIGN_UP=false
+      - GF_SERVER_ROOT_URL=http://localhost:22011
+      - GF_ANALYTICS_REPORTING_ENABLED=false
+      - GF_ANALYTICS_CHECK_FOR_UPDATES=false
+    volumes:
+      - grafana-data-dev:/var/lib/grafana
+      - ./infra/monitoring/grafana/dashboards:/etc/grafana/provisioning/dashboards:ro
+      - ./infra/monitoring/grafana/datasources:/etc/grafana/provisioning/datasources:ro
+    depends_on:
+      - prometheus
+    networks:
+      - internal_network_dev
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost:3000/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    restart: unless-stopped
+
+  # Postgres Exporter - DB Metrics
+  postgres-exporter:
+    image: prometheuscommunity/postgres-exporter:v0.15.0
+    container_name: ugm_aicare_postgres_exporter_dev
+    ports:
+      - "22014:9187"
+    environment:
+      DATA_SOURCE_NAME: "postgresql://giga:${POSTGRES_PASSWORD:-giga123456}@ugm_aicare_db_dev:5432/aicare_db?sslmode=disable"
+    networks:
+      - internal_network_dev
+    restart: unless-stopped
+
+  # Redis Exporter - Cache Metrics
+  redis-exporter:
+    image: oliver006/redis_exporter:v1.55.0
+    container_name: ugm_aicare_redis_exporter_dev
+    ports:
+      - "22015:9121"
+    environment:
+      REDIS_ADDR: "ugm_aicare_redis_dev:6379"
+    networks:
+      - internal_network_dev
+    restart: unless-stopped
+
+volumes:
+  prometheus-data-dev:
+    driver: local
+  grafana-data-dev:
+    driver: local
+
+networks:
+  internal_network_dev:
+    external: true
+    name: ugm-aicare_internal_network_dev

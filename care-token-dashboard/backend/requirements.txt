@@ -1,0 +1,15 @@
+fastapi==0.100.0
+uvicorn[standard]==0.23.0
+sqlalchemy==2.0.19
+asyncpg==0.28.0
+alembic==1.11.1
+pydantic==2.0.0
+pydantic-settings==2.0.0
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.6
+web3>=7.0.0,<8.0.0  # Updated for ExtraDataToPOAMiddleware API
+apscheduler==3.10.1
+python-dotenv==1.0.0
+redis==4.6.0
+httpx==0.24.1

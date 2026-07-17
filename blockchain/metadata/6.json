@@ -1,0 +1,20 @@
+{
+    "name": "Quarter Century (of Journaling!)",
+    "description": "Awarded for writing 25 journal entries.",
+    "image": "ipfs://bafybeidzdbsjft24ujpcn77hfkbhom7tmo5i5p2aqfsig2vtxvt3kd7jbu/quarter_century_of_journaling.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Category",
+        "value": "Milestone"
+      },
+      {
+        "trait_type": "Activity",
+        "value": "Journaling"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Entries",
+        "value": 25
+      }
+    ]
+  }

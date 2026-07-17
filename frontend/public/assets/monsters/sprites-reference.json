@@ -1,0 +1,169 @@
+{
+  "monsters": [
+    {
+      "id": "anxiety-goblin",
+      "name": "Anxiety Goblin",
+      "type": "common",
+      "filename": "anxiety-goblin.png",
+      "colors": ["#5B7FCC", "#8B5CF6", "#A78BFA"],
+      "prompt": "cute anxious goblin character, pixel art style, blue and purple colors, worried expression, small and round body, soft edges, game sprite, transparent background, mental health theme, friendly not scary, 512x512px, chibi style",
+      "keywords": ["anxiety", "worry", "nervous", "goblin", "blue", "purple"]
+    },
+    {
+      "id": "stress-slime",
+      "name": "Stress Slime",
+      "type": "common",
+      "filename": "stress-slime.png",
+      "colors": ["#84CC16", "#FACC15", "#BEF264"],
+      "prompt": "tired green slime creature, pixel art style, green-yellow gradient, exhausted droopy eyes, melting blob shape, game sprite, transparent background, cute and sympathetic, 512x512px, simple rounded design",
+      "keywords": ["stress", "tired", "melting", "slime", "green", "yellow"]
+    },
+    {
+      "id": "burnout-beast",
+      "name": "Burnout Beast",
+      "type": "common",
+      "filename": "burnout-beast.png",
+      "colors": ["#F97316", "#EF4444", "#FCA5A5"],
+      "prompt": "exhausted wolf creature, pixel art style, orange-red colors, tired expression, slouched posture, small flames on body, game sprite, transparent background, sympathetic not scary, 512x512px, cute animal style",
+      "keywords": ["burnout", "exhausted", "tired", "wolf", "orange", "red"]
+    },
+    {
+      "id": "procrastination-imp",
+      "name": "Procrastination Imp",
+      "type": "common",
+      "filename": "procrastination-imp.png",
+      "colors": ["#EC4899", "#C084FC", "#F0ABFC"],
+      "prompt": "lazy mischievous imp, pixel art style, pink-purple colors, sleepy expression, sitting or laying down, small clock floating nearby, game sprite, transparent background, cute and relatable, 512x512px, chibi demon style",
+      "keywords": ["procrastination", "lazy", "delay", "imp", "pink", "purple"]
+    },
+    {
+      "id": "loneliness-wraith",
+      "name": "Loneliness Wraith",
+      "type": "common",
+      "filename": "loneliness-wraith.png",
+      "colors": ["#94A3B8", "#60A5FA", "#CBD5E1"],
+      "prompt": "sad ghost-like wraith, pixel art style, gray-blue colors, lonely expression, translucent floating body with wispy tail, soft glow effect, game sprite, transparent background, melancholic but kind, 512x512px, friendly ghost",
+      "keywords": ["loneliness", "sad", "alone", "ghost", "gray", "blue"]
+    }
+  ],
+  "bosses": [
+    {
+      "id": "exam-week-demon",
+      "name": "Exam Week Demon",
+      "type": "boss",
+      "filename": "exam-week-demon.png",
+      "colors": ["#DC2626", "#9333EA", "#C026D3"],
+      "prompt": "large demon boss with books and papers flying around, pixel art style, red-purple gradient, intense but not scary expression, holding stack of books and pencils, horns with graduation cap, game boss sprite, transparent background, academic theme, stylized cartoon, 512x512px",
+      "keywords": ["exam", "test", "stress", "demon", "red", "purple", "academic"]
+    },
+    {
+      "id": "thesis-dragon",
+      "name": "Thesis Dragon",
+      "type": "boss",
+      "filename": "thesis-dragon.png",
+      "colors": ["#3B82F6", "#FBBF24", "#60A5FA"],
+      "prompt": "majestic paper dragon, pixel art style, blue-gold colors, dragon made of pages and books, wise but intimidating expression, flying pose with wings spread, papers and text swirling around body, transparent background, game boss sprite, 512x512px, eastern dragon style",
+      "keywords": ["thesis", "research", "dragon", "blue", "gold", "academic", "papers"]
+    },
+    {
+      "id": "social-pressure-titan",
+      "name": "Social Pressure Titan",
+      "type": "boss",
+      "filename": "social-pressure-titan.png",
+      "colors": ["#8B5CF6", "#EC4899", "#F59E0B", "#10B981"],
+      "prompt": "towering giant with multiple faces and eyes, pixel art style, multi-colored (purple, pink, orange, teal), crowd of silhouettes forming the body, expressions showing expectation and judgment, game boss sprite, transparent background, imposing but not evil, 512x512px, abstract humanoid",
+      "keywords": ["social", "pressure", "expectations", "titan", "giant", "crowd"]
+    },
+    {
+      "id": "perfectionism-hydra",
+      "name": "Perfectionism Hydra",
+      "type": "boss",
+      "filename": "perfectionism-hydra.png",
+      "colors": ["#7C3AED", "#FBBF24", "#C084FC"],
+      "prompt": "multi-headed hydra boss with three heads, pixel art style, purple-gold colors, each head examining something critically with magnifying glasses, rulers and protractors floating around, serpentine body, game boss sprite, transparent background, 512x512px, mythological creature",
+      "keywords": ["perfectionism", "critical", "examining", "hydra", "purple", "gold"]
+    },
+    {
+      "id": "imposter-syndrome-leviathan",
+      "name": "Imposter Syndrome Leviathan",
+      "type": "boss",
+      "filename": "imposter-syndrome-leviathan.png",
+      "colors": ["#1E293B", "#0EA5E9", "#475569"],
+      "prompt": "massive serpent emerging from shadows, pixel art style, dark blue-black gradient with cyan highlights, masks and question marks floating around it, mysterious glowing eyes, sea serpent body, game boss sprite, transparent background, dramatic but not terrifying, 512x512px, leviathan creature",
+      "keywords": ["imposter", "syndrome", "doubt", "leviathan", "serpent", "dark", "blue"]
+    }
+  ],
+  "style_guide": {
+    "art_style": "pixel art",
+    "resolution": "512x512px",
+    "background": "transparent PNG",
+    "mood": "friendly, approachable, not scary",
+    "theme": "mental health awareness",
+    "references": "Pokemon, Undertale, Celeste, Night in the Woods",
+    "common_tags": "game sprite, chibi style, soft colors, rounded shapes"
+  },
+  "tools": {
+    "ai_generation": [
+      {
+        "name": "Leonardo.ai",
+        "url": "https://leonardo.ai",
+        "cost": "Free tier available",
+        "best_for": "Game sprites and pixel art",
+        "model": "Leonardo Pixel Art or Pixel Art XL"
+      },
+      {
+        "name": "Stable Diffusion",
+        "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+        "cost": "Free (local)",
+        "best_for": "Full control and unlimited generation",
+        "model": "pixel-art-diffusion from HuggingFace"
+      },
+      {
+        "name": "DALL-E 3",
+        "url": "https://chat.openai.com",
+        "cost": "$20/month (ChatGPT Plus)",
+        "best_for": "High quality, good at following prompts"
+      },
+      {
+        "name": "Midjourney",
+        "url": "https://midjourney.com",
+        "cost": "$10/month",
+        "best_for": "Artistic quality"
+      }
+    ],
+    "asset_marketplaces": [
+      {
+        "name": "itch.io",
+        "url": "https://itch.io/game-assets/free",
+        "cost": "Free and paid assets"
+      },
+      {
+        "name": "OpenGameArt",
+        "url": "https://opengameart.org",
+        "cost": "Free (CC0 licensed)"
+      },
+      {
+        "name": "Kenney",
+        "url": "https://kenney.nl/assets",
+        "cost": "Free (public domain)"
+      }
+    ],
+    "post_processing": [
+      {
+        "name": "remove.bg",
+        "url": "https://remove.bg",
+        "use": "Remove backgrounds"
+      },
+      {
+        "name": "TinyPNG",
+        "url": "https://tinypng.com",
+        "use": "Compress PNG files"
+      },
+      {
+        "name": "Photopea",
+        "url": "https://photopea.com",
+        "use": "Free Photoshop alternative"
+      }
+    ]
+  }
+}

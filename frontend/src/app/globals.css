@@ -1,0 +1,273 @@
+@import "tailwindcss";
+@config "../../tailwind.config.js";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #00112e; 
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.2); 
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 202, 64, 0.5); /* UGM Gold with opacity */
+}
+
+/* Accessibility: Reduce motion for users who prefer it */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+@property --angle {
+  syntax: '<angle>';
+  initial-value: 0deg;
+  inherits: false;
+}
+
+.animated-yellow-border::before {
+  content: '';
+  position: absolute;
+  z-index: -1;
+  inset: -2px; /* Adjust for desired border thickness. -2px is a common choice. */
+  border-radius: inherit;
+  background: conic-gradient(
+    from var(--angle),
+    transparent 0deg,
+    transparent 353deg,              /* Majority of the border is transparent */
+    rgba(255, 224, 140, 0.7) 355deg, /* Soft leading edge of the spark (ugm.gold.light with alpha) */
+    #FFCA40 356deg,                  /* Bright core of the spark (ugm.gold.DEFAULT) */
+    #FFCA40 358deg,                  /* Bright core of the spark */
+    rgba(255, 224, 140, 0.7) 359deg, /* Soft trailing edge of the spark */
+    transparent 360deg               /* Remainder transparent */
+  );
+  /* The opacity of this pseudo-element will be animated by the keyframes */
+}
+
+@layer utilities { /* Or directly if not using layers extensively */
+  .interactive-card-effect {
+    --rotateX: 0deg;
+    --rotateY: 0deg;
+    --gloss-x: 50%;
+    --gloss-y: 50%;
+    --gloss-opacity: 0;
+
+    transform-style: preserve-3d; /* Allows children to be transformed in 3D space */
+    transform: perspective(1200px) rotateX(var(--rotateX)) rotateY(var(--rotateY));
+    /* Default transition for mouse leave, JS overrides for mouse move */
+    transition: transform 0.4s cubic-bezier(0.23, 1, 0.32, 1);
+    /* Ensure overflow:hidden is on the card (it is via baseClasses) */
+    /* Ensure position:relative is on the card (it is via baseClasses) */
+  }
+
+  .interactive-card-effect::before { /* Gloss pseudo-element */
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: inherit; /* Inherits rounded-lg from parent */
+    
+    /* Using UGM Gold Light for the sheen */
+    background: radial-gradient(
+      circle 350px at var(--gloss-x) var(--gloss-y), /* Adjust circle size as needed */
+      rgba(255, 224, 140, 0.25) 0%,  /* ugm.gold.light with alpha - #FFE08C */
+      rgba(255, 224, 140, 0.15) 20%,
+      rgba(255, 224, 140, 0.0) 45%
+    );
+
+    opacity: var(--gloss-opacity);
+    transition: opacity 0.4s ease-out; /* Smooth fade for gloss on mouse enter/leave */
+    pointer-events: none; /* So it doesn't interfere with mouse events on the card */
+    z-index: 2; /* Position gloss above card background but below content (content needs z-index > 2) */
+  }
+}
+
+.aurora-border {
+  position: relative; /* Needed for the pseudo-element */
+  z-index: 0; /* Ensure content can be above if needed */
+  /* The card itself will have its own background, e.g., bg-white/10 */
+}
+
+.aurora-border::before {
+  content: '';
+  position: absolute;
+  z-index: -1; /* Behind the parent's content but visible if parent is semi-transparent */
+  inset: -2.5px; /* Creates the border effect. Adjust thickness here. */
+  border-radius: inherit; /* Matches parent's rounded corners (e.g., rounded-lg) */
+  
+  /* Define the large gradient using your new aurora colors from tailwind.config.js */
+  /* The theme() function in Tailwind CSS v3+ can be used here if this CSS is processed by Tailwind.
+     If not, you'll need to hardcode the hex values or use CSS variables.
+     For simplicity here, I'll use the hex values directly.
+     Replace with theme('colors.aurora.pink'), etc., if your setup allows. */
+  background: linear-gradient(
+    60deg,
+    #FF75D1, /* aurora.pink */
+    #C175FF, /* aurora.purple */
+    #75BFFF, /* aurora.blue */
+    #75FFEE, /* aurora.cyan */
+    #FF75D1, /* aurora.pink again to make the loop seamless */
+    #C175FF,
+    #75BFFF,
+    #75FFEE
+  );
+  background-size: 400% 400%; /* Make the gradient much larger than the element */
+  
+  /* The animation will be applied via a Tailwind class like 'animate-aurora-flow' */
+  /* filter: blur(5px); */ /* Optional: Add a blur for a softer, more diffused glow */
+  /* opacity: 0.75; */   /* Optional: Adjust opacity of the glow */
+}
+
+.aurora-border:hover::before {
+  animation-duration: 5s; /* Speed up animation */
+  /* opacity: 1; */ /* Make it more opaque */
+}
+
+/* Markdown content */
+.markdown-content ul {
+  list-style-type: disc;
+  padding-left: 1.5rem;
+  margin: 0.75rem 0;
+}
+
+.markdown-content ol {
+  list-style-type: decimal;
+  padding-left: 1.5rem;
+  margin: 0.75rem 0;
+}
+
+.markdown-content li {
+  margin-bottom: 0.25rem;
+}
+
+.markdown-content p {
+  margin-bottom: 0.5rem;
+}
+
+.markdown-content h1, 
+.markdown-content h2, 
+.markdown-content h3 {
+  font-weight: bold;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.markdown-content h1 {
+  font-size: 1.5rem;
+}
+
+.markdown-content h2 {
+  font-size: 1.25rem;
+}
+
+.markdown-content h3 {
+  font-size: 1.125rem;
+}
+
+.markdown-content a {
+  text-decoration: underline;
+}
+
+/* Extra small screens */
+@media (min-width: 480px) {
+  .xs\:block {
+    display: block;
+  }
+}
+
+@media (max-width: 479px) {
+  .hidden.xs\:block {
+    display: none;
+  }
+}
+
+/* Scrollbar */
+/* For Webkit-based browsers (Chrome, Safari, Edge, Opera) */
+::-webkit-scrollbar {
+  width: 8px; /* Width of the vertical scrollbar */
+  height: 8px; /* Height of the horizontal scrollbar */
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(10, 42, 110, 0.1); /* A very subtle track, matching your dark theme base */
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 202, 64, 0.6); /* UGM Gold, slightly transparent */
+  border-radius: 10px;
+  border: 2px solid transparent; /* Creates a small padding around the thumb */
+  background-clip: content-box; /* Ensures the border doesn't overlap the thumb color */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 202, 64, 0.8); /* UGM Gold, less transparent on hover */
+}
+
+::-webkit-scrollbar-corner {
+  background: transparent; /* Hides the corner piece where vertical and horizontal scrollbars meet */
+}
+
+/* For Firefox */
+/* Note: Firefox scrollbar styling is more limited */
+* {
+  scrollbar-width: thin; /* "auto" or "thin" */
+  scrollbar-color: rgba(255, 202, 64, 0.6) rgba(10, 42, 110, 0.1); /* thumb and track color */
+}
+
+/* Hide scrollbar utility class */
+.scrollbar-hide {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;  /* Chrome, Safari and Opera */
+}
+
+/* Grid pattern for hero background */
+.grid-pattern {
+  background-image: linear-gradient(rgba(255, 255, 255, 0.1) 1px, transparent 1px),
+                    linear-gradient(90deg, rgba(255, 255, 255, 0.1) 1px, transparent 1px);
+  background-size: 50px 50px;
+}

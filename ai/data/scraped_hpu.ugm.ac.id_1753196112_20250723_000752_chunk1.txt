@@ -1,0 +1,84 @@
+• Beranda 
+ • Layanan Chatbot “Lintang” 
+
+ H1
+Layanan Chatbot “Lintang” 
+
+ • 11 October 2023, 08.59 
+ • Oleh: ugmsehat 
+ • 0 
+
+ A. Penjelasan Layanan Chatbot “LINTANG” 
+
+Chatbot Lintang adalah sebuah chatbot kesehatan mental yang dikembangkan oleh Pokja Health Literacy Health Promoting University (HPU) Universitas Gadjah Mada. Chatbot ini tujuan utamanya adalah untuk melakukan skrining masalah kesehatan mental dan pemberian pertolongan pertama psikologis ( Psychological First Aid ). Pengguna Chatbot Lintang dapat menyampaikan keluhan yang dirasakan berdasarkan pilihan yang tersedia dan akan mendapatkan saran atau rekomendasi sesuai hasil skrining yang telah dilakukan. Pada masalah kesehatan mental yang tidak mengganggu kehidupan sehari-hari secara signifikan, pengguna akan mendapatkan saran berupa kiat self-help untuk menjaga kesehatan mentalnya. Sementara itu, pengguna dengan masalah kesehatan mental yang mengganggu kehidupan sehari-hari secara signifikan akan dihubungkan dengan sistem layanan kesehatan mental yang ada yakni Call Center, CPMH, Crisis Center UGM, GMC, RSA atau RS Sardjito sesuai dengan kebutuhan pengguna. 
+
+Lintang menggunakan kecerdasan buatan dan algoritma pemrosesan bahasa alami untuk berinteraksi dengan pengguna melalui obrolan online. Dengan bantuan Chatbot Lintang, pengguna dapat mengajukan pertanyaan, berbicara tentang masalah kesehatan mental mereka, atau mencari informasi umum seputar topik ini. Chatbot ini memberikan panduan, saran, dan sumber daya yang relevan untuk membantu pengguna mengelola stres, kecemasan, depresi, atau masalah kesehatan mental lainnya. Chatbot Lintang diharapkan dapat memberikan akses yang lebih mudah dan cepat ke pertolongan pertama psikologis dan informasi kesehatan mental sehingga membantu pengguna merasa lebih nyaman dan mendapatkan dukungan yang dibutuhkan dalam mengatasi masalah kesehatan mental mereka. 
+
+ B. Fitur Layanan 
+
+Berikut adalah penjelasan singkat mengenai beberapa fitur layanan Chatbot Lintang : 
+
+ 1. Psikoedukasi: 
+
+ • Chatbot Lintang menyediakan informasi penting tentang kesehatan mental. 
+ • Pengguna dapat belajar tentang masalah kesehatan mental dan berbagai gangguan kesehatan mental, gejala, dan bantuan diri ( self-help) yang dapat dilakukan). 
+
+ 1. Tips Kesehatan Mental: 
+
+ • Chatbot Lintang dapat memberikan tips-tips untuk merawat dan meningkatkan kesehatan mental. 
+ • Tips kesehatan mental dapat mencakup saran tentang relaksasi, manajemen stres, dan promosi kesejahteraan emosional. 
+
+ 1. Swaperiksa: 
+
+ • Fitur ini memungkinkan pengguna untuk melakukan skrining atau evaluasi awal terkait kesehatan mental . 
+ • Pengguna dapat menjawab sejumlah pertanyaan untuk mendapatkan pemahaman awal tentang kondisi kesehatan mental . 
+
+ 1. Direktori Layanan: 
+
+ • Chatbot menyediakan informasi tentang sumber daya dan layanan kesehatan mental yang tersedia di sekitar lingkup fakultas dan universitas UGM. 
+ • Pengguna dapat mencari bantuan profesional atau dukungan komunitas yang sesuai dengan kebutuhan. 
+
+ C. Layanan Psikologi UGM dan Fakultas 
+
+Anda dapat menemukan beragam kontak kesehatan mental yang tersedia di lingkungan Universitas Gadjah Mada (UGM) dengan mudah antara lain : 
+
+ • Rumah Sakit Akademik UGM (Layanan Kesehatan Mental) 
+
+Telp: +62 811-2548-118 
+
+ • Klinik GMC (Mental Health Support) 
+
+Psikolog: +62 813-2620-0342 GMC: +62 851-0047-3123 
+
+ • Mental Health Emergency Response Line (MHERL), Unit Konsultasi Psikologi, Fakultas Psikologi 
+
+Telp: +62 813-2952-0052 
+
+ Layanan Psikologi Fakultas (hanya untuk sivitas fakultas yang bersangkutan) 
+
+ • Biologi: form registrasi 
+ • Ekonomika dan Bisnis: Telp: +62 811-2843-884 atau isi Form Registrasi melalui Portal SINTESIS di menu Layanan Konsultasi. 
+ • Farmasi: form registrasi 
+ • Ilmu Sosial dan Ilmu Politik: Telp: +62 811-2838-400, atau isi form registrasi 
+ • Kedokteran, Kesehatan Masyarakat dan Keperawatan: Telp: +62 811-2570-027, atau isi form registrasi 
+ • Matematika dan Ilmu Pengetahuan Alam: Telp: +62 838-6902-5003, atau isi form registrasi 
+ • Psikologi: Pojok Curhat: +62 812-1573-5619 
+ • Teknik: Telp: +62 813-2593-4202 
+ • Hukum: Instagram: @hpu_fhugm 
+ • Sekolah Pascasarjana: form registrasi 
+
+ Sekretariat Health Promoting University 
+
+Kantor Biro Pelayanan Kesehatan Terpadu Gedung Pusat UGM Lantai 3, Sayap Barat Ruang B3-02 Bulaksumur, Yogyakarta, Indonesia, 55281 
+
+ Whatsapp: (+62)896-1432-9000 
+
+© Health Promoting University UGM 
+
+ KEBIJAKAN PRIVASI/PRIVACY POLICY 
+
+ [EN] We use cookies to help our viewer get the best experience on our website.
+
+--
+
+[ID] Kami menggunakan cookie untuk membantu pengunjung kami mendapatkan pengalaman terbaik di situs web kami. I Agree / Saya Setuju 

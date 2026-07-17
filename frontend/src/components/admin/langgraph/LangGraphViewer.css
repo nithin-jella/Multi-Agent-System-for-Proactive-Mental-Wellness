@@ -1,0 +1,143 @@
+﻿/* Styles previously inlined in the TSX file have been moved here. */
+
+/* Agent badge base */
+.agent-badge {
+  border-width: 1px;
+  border-style: solid;
+}
+
+/* Known agent-color mappings (keeps colors consistent with agentPalette) */
+.agent-orchestrator.agent-badge,
+.legend-dot.agent-orchestrator {
+  --agent-color: #FF6B6B;
+  color: var(--agent-color);
+  border-color: var(--agent-color);
+  background-color: rgba(255,107,107,0.12);
+}
+.agent-sta.agent-badge,
+.legend-dot.agent-sta {
+  --agent-color: #FFCA40;
+  color: var(--agent-color);
+  border-color: var(--agent-color);
+  background-color: rgba(255,202,64,0.12);
+}
+.agent-sca.agent-badge,
+.legend-dot.agent-sca {
+  --agent-color: #A855F7;
+  color: var(--agent-color);
+  border-color: var(--agent-color);
+  background-color: rgba(168,85,247,0.12);
+}
+.agent-sda.agent-badge,
+.legend-dot.agent-sda {
+  --agent-color: #34D399;
+  color: var(--agent-color);
+  border-color: var(--agent-color);
+  background-color: rgba(52,211,153,0.12);
+}
+.agent-ia.agent-badge,
+.legend-dot.agent-ia {
+  --agent-color: #38BDF8;
+  color: var(--agent-color);
+  border-color: var(--agent-color);
+  background-color: rgba(56,189,248,0.12);
+}
+
+/* Fallback agent color */
+.agent-agent.agent-badge,
+.legend-dot.agent-agent {
+  --agent-color: #FFCA40;
+  color: var(--agent-color);
+  border-color: var(--agent-color);
+  background-color: rgba(255,202,64,0.12);
+}
+
+/* Legend dot sizing handled via tailwind class; here we simply ensure color fill */
+.legend-dot {
+  display: inline-block;
+}
+
+/* Minimap container styling */
+.langgraph-minimap {
+  background-color: rgba(15, 23, 42, 0.8);
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 6px;
+}
+
+/* Edge base styling - target the edge path rendered by React Flow */
+.lang-edge .react-flow__edge-path {
+  stroke-width: 2 !important;
+  opacity: 0.6 !important;
+  stroke: var(--agent-color, #FFCA40) !important;
+}
+
+/* Triggered edges (e.g., active/executed) */
+.lang-edge-triggered .react-flow__edge-path {
+  opacity: 1 !important;
+  stroke-width: 3 !important;
+  stroke: #10B981 !important; /* green for triggered edges */
+}
+
+/* Conditional edges */
+.lang-edge-conditional .react-flow__edge-path {
+  opacity: 0.4 !important;
+  stroke-dasharray: 8,4 !important;
+  stroke: #F59E0B !important; /* orange/yellow for conditional */
+}
+
+/* Agent-specific edge colors (applies --agent-color for that class) */
+.lang-edge.agent-orchestrator { --agent-color: #FF6B6B; }
+.lang-edge.agent-sta { --agent-color: #FFCA40; }
+.lang-edge.agent-sca { --agent-color: #A855F7; }
+.lang-edge.agent-sda { --agent-color: #34D399; }
+.lang-edge.agent-ia { --agent-color: #38BDF8; }
+.lang-edge.agent-agent { --agent-color: #FFCA40; }
+
+/* Edge label styling (labelClassName = 'edge-label') */
+.edge-label {
+  color: #E2E8F0;
+  font-size: 11px;
+  font-weight: 500;
+  background-color: rgba(15, 23, 42, 0.8);
+  padding: 2px 6px;
+  border-radius: 4px;
+  display: inline-block;
+  line-height: 1;
+}
+
+/* Some accessibility / contrast helpers */
+.agent-sta,
+.legend-dot.agent-sta {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.agent-sca,
+.legend-dot.agent-sca {
+  --agent-color: #A855F7;
+}
+
+.agent-sda,
+.legend-dot.agent-sda {
+  --agent-color: #34D399;
+}
+
+.agent-ia,
+.legend-dot.agent-ia {
+  --agent-color: #34D399;
+}
+
+/* Ensure reactflow edge text uses our label background correctly */
+.edge-label .react-flow__text {
+  background: rgba(0, 0, 0, 0.8);
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+@media (max-width: 640px) {
+  .langgraph-minimap {
+    display: none;
+  }
+}
+
+

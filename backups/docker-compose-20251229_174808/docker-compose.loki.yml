@@ -1,0 +1,42 @@
+version: '3.8'
+
+# Grafana Loki Stack - Lightweight alternative to ELK
+# Total download: ~200 MB vs 2+ GB for ELK
+# Integrates with existing Grafana (already in monitoring stack)
+
+services:
+  loki:
+    image: grafana/loki:2.9.3
+    container_name: ugm_aicare_loki
+    ports:
+      - "3100:3100"
+    command: -config.file=/etc/loki/local-config.yaml
+    volumes:
+      - ./infra/loki/loki-config.yaml:/etc/loki/local-config.yaml:ro
+      - loki-data:/loki
+    networks:
+      - monitoring
+    restart: unless-stopped
+
+  promtail:
+    image: grafana/promtail:2.9.3
+    container_name: ugm_aicare_promtail
+    volumes:
+      - ./infra/loki/promtail-config.yaml:/etc/promtail/config.yaml:ro
+      - /var/lib/docker/containers:/var/lib/docker/containers:ro
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+    command: -config.file=/etc/promtail/config.yaml
+    depends_on:
+      - loki
+    networks:
+      - monitoring
+    restart: unless-stopped
+
+volumes:
+  loki-data:
+    driver: local
+
+networks:
+  monitoring:
+    external: true
+    name: ugm_aicare_monitoring

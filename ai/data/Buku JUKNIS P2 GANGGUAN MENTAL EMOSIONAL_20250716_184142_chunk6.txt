@@ -1,0 +1,274 @@
+# BAB II
+LAYANAN PENDERITA GANGGUAN MENTAL EMOSIONAL
+Pengertian
+Gangguan mental emosional (GME) bukan diagnosa gangguan jiwa. GME adalah perubahan dalam pikiran, perasaan dan perilaku yang dapat mengganggu aktivitas sehari-hari, tapi tidak dijumpai tanda dan gejala gangguan dalam daya nilai realita. Hendaya atau disfungsi dalam pekerjaan dan kehidupan sehari-hari juga tidak ditemukan. Secara umum GME juga dapat diartikan adanya tekanan emosional atau masalah kesehatan jiwa.
+Definisi Operasional
+Penderita GME yang mendapat layanan adalah penderita gangguan mental emosional pada penduduk >15 tahun berdasarkan hasil deteksi dini dengan menggunakan instrumen SRQ 20 dengan cut of point >6 pada usia > 18 tahun dan instrumen SDQ dengan hasil ambang atau abnormal pada usia 15-18 tahun yang mendapatkan layanan kesehatan berupa: promosi kesehatan, dan/atau prevensi, dan/ atau konseling, dan/ atau penanganan awal, dan/atau rujukan dan/ atau penanganan lanjutan. (Pedoman Tata Kelola Penyelenggaraan Upaya Kesehatan Jiwa)
+Indikator Kinerja Kegiatan (IKK)
+Persentase penderita Gangguan Mental Emosional (GME) pada penduduk >15 tahun yang mendapat layanan. Tujuan indikator :
+Meningkatkan pengetahuan dan kesadaran masyarakat akan pentingnya penanganan gangguan mental emosional untuk membantu seseorang menjalani hidup secara berkualitas;
+Mengenali secara dini gangguan mental emosional yang dapat memengaruhi produktifitas;
+Meningkatkan akses layanan terhadap gangguan mental emosional;
+Menurunkan stigma terhadap masalah kesehatan jiwa dan gangguan jiwa.
+Target capaian IKK terkait GME sesuai Renstra Kementerian Kesehatan tahun 2020-2024 sebagai berikut :
+
+| 2020 | 2021 | 2022 | 2023 | 2024 |
+| ---- | ---- | ---- | ---- | ---- |
+| 10% | 20% | 30% | 40% | 50% |
+
+Cara Penghitungan Indikator
+Jumlah penderita GME >15 tahun yang
+Rumus Perhitungan
+=
+Catatan:
+mendapat layanan dalam kurun waktu satu tahun Jumlah estimasi penderita GME pada penduduk >15 tahun di wilayahnya berdasarkan angka prevalensi Riskesdas terbaru
+X 100%
+Numerator : Jumlah penderita GME pada penduduk >15 tahun di wilayah kerja Kab/Kota yang mendapatkan pelayanan kesehatan jiwa dalam kurun waktu satu tahun. Penderita GME: penduduk >15 tahun yang dilakukan deteksi dini dengan menggunakan instrumen SRQ 20 dengan cut
+of point > 6 atau SDQ dengan hasil borderline/abnormal. Denominator : Jumlah penderita GME pada penduduk >15 tahun berdasarkan estimasi di wilayah kerja Kab/Kota dalam kurun waktu satu tahun yang sama.
+Hasil estimasi penderita GME pada penduduk >15 tahun diperoleh dari prevalensi GME data Riskesdas terbaru dikalikan jumlah penduduk usia > 15 tahun di wilayah tersebut dalam kurun waktu yang sama.
+Contoh Perhitungan:
+Prevalensi GME di Kabupaten "S" adalah 13% berdasarkan data Riset Kesehatan Dasar, dan jumlah penduduk > 15 tahun di Kabupaten tersebut pada tahun 2021 adalah 290.000 orang.
+Jumlah estimasi penderita GME pada penduduk > 15 tahun di Kab "S" tahun 2021 adalah (13/100) x 290.000 = 37.700 penderita GME. Target capaian indikator penderita GME yang mendapat layanan pada tahun 2021 sebesar 20%, yaitu (20/100) x 37.700 = 7.540 penderita GME. Bila jumlah penderita GME yang mendapat pelayanan kesehatan berupa promosi kesehatan dan/atau prevensi, dan/atau konseling dan/atau penanganan awal, dan/atau rujukan, dan/atau penanganan lanjut sebesar 7.600, maka persentase penderita GME yang mendapat layanan adalah: (7.600/37.700) x 100 % = 20,2%. Jika ini terjadi maka capaian IKK melebihi target pada tahun tersebut.
+Pencapaian Sasaran Indikator
+Terdapat beberapa langkah yang dilakukan untuk pencapaian sasaran indikator, yaitu:
+Dinas Kesehatan Kab/Kota menentukan sasaran: jumlah penduduk usia > 15 tahun di wilayah Kab/ Kota berdasarkan data sasaran penduduk program kesehatan yang dikeluarkan oleh Pusdatin Kemenkes berdasarkan
+proyeksi data Badan Pusat Statistik (BPS)
+Dinas Kesehatan Kab/Kota menentukan prevalensi GME di Kab/ Kota berdasarkan hasil Riskesdas terbaru
+Dinas Kesehatan Kab/Kota menentukan target sasaran pertahun sesuai Renstra Kemenkes. Misal tahun 2021: Penderita GME > 15 tahun mendapatkan layanan sebesar 20%
+Dinas Kesehatan Kab/Kota menentukan target sasaran Kab/ Kota sebagai berikut:
+Keterangan:
+A: jumlah penduduk usia > 15 tahun di wilayah Kab/ Kota B: prevalensi GME di Kab/ Kota
+C: target indikator GME pertahun sesuai Renstra Kemenkes
+Dinas Kesehatan Kab/ Kota mendistribusikan target sasaran kepada puskesmas di wilayah kerja, sesuai proporsi jumlah penduduk
+Dinas Keshatan Kab/Kota menentukan target sasaran tiap Puskesmas melalui penghitungan sebagai berikut
+Keterangan:
+: Jumlah penduduk usia > 15 tahun Kab/ Kota
+: Jumlah penduduk usia > 15 tahun wilayah kerja Puskesmas
+: Target sasaran penderita GME > 15 tahun Kab/Kota
+Puskesmas membagi target sasaran penderita GME yang mendapat layanan dalam kurun waktu satu tahun menjadi target tiap bulan sehingga memudahkan untuk monitoring dan evaluasi.
+Penduduk usia > 15 tahun yang telah dilakukan skirining dan memenuhi kriteria GME kemudian mendapatkan layanan promosi kesehatan/ konseling/penanganan awal/penanganan lanjutan maka dicatat dan dilaporkan sebagai capaian Penderita GME > 15 tahun mendapatkan layanan.
+Penemuan Kasus
+Kasus penderita GME didapatkan melalui deteksi dini dengan instrumen SDQ untuk usia 15 - 18 tahun dan SRQ 20 untuk usia > 18 tahun. Deteksi dini dapat dilakukan melalui pelayanan di dalam gedung (layanan umum, layanan penyakit kronis, kesehatan ibu, PKPR, dll) maupun luar gedung Puskesmas (posyandu, posbindu, sekolah, perguruan tinggi, panti/lembaga sosial, tempat kerja, lembaga pemasyarakatan/ lembaga pembinaan khusus anak, dll) oleh tenaga kesehatan dan /atau non tenaga kesehatan terlatih secara tatap muka dan/atau daring. Pelaksanaan deteksi dini oleh tenaga non kesehatan dilakukan di bawah supervisi tenaga kesehatan.
+Deteksi dini dilakukan bagi semua penduduk dengan prioritas pada kelompok berisiko GME yaitu:
+Tabel 1. Kelompok Berisiko GME
+
+| Lingkup | Kelompok berisiko |
+| ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Fasyankes (FKTP & FKRTL | Pasien penyakit kronis: DM, Hipertensi (stroke, gagal ginjal, penyakit jantung) TBC, Kanker, HlV-AlDS, dll Pasien dengan penyakit fisik yang tidak membaik setelah diobati dengan adekuat. lbu hamil dan post partum Diharapkan pasien di RS dilakukan deteksi dini GME dengan SDQ dan SRQ 20 dan masuk dalam akreditasi RS |
+| Lembaga Pendidikan Masyarakat | Siswa baru di SMP/SMA dan sederajat (usia > 15 tahun) serta perguruan tinggi Siswa korban dan pelaku perundungan Masyarakat pra sejahtera atau rawan sosial ekonomi Pekerja migran Pengungsi Keluarga pasien ODGJ dan penyakit kronis Orang dengan disabilitas dan keluarganya Korban tindak kekerasan Pekerja seks komersial (Tuna Susila) Anak jalanan/anak & balita terlantar/gelandangan dan pengemis usia remaja Anak yang memerlukan perlindungan khusus (Anak Berhadapan dengan Hukum/ABH, pengungsi, pencari suaka dsb) Kelompok minoritas |
+
+| | Korban trafficking Korban dan penyintas bencana alam/non alam dan bencana sosial Masyarakat terpencil Orang dengan variasi preferensi seksual Lansia yang tinggal sendiri/hanya dengan pasangannya Lansia yang membutuhkan perawatan jangka panjang dan keluarganya |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Lapas/Rutan/LPKA | - Warga binaan pemasyarakatan di Lapas/Rutan/ LPKA dan keluarganya |
+| Panti sosial | Penghuni panti (warga binaan) Penjaga panti |
+| Lembaga rehabillitasi penyalahgunaan Napza | - Klien/pasien di lembaga rehabilitasi penyalahgunaan Napza dan keluarganya |
+
+Sebagian besar penderita GME datang ke fasyankes dengan keluhan-keluhan fisik sehingga perlu dilakukan penapisan kasus GME melalui skema berikut:
+Sedangkan untuk penemuan kasus melalui deteksi dini sebagai berikut :
+Alur penemuan kasus GME dengan skrining SDQ dan SRQ 20 di semua tatanan
+SDQ (Strength and Difficulties Questionnaire)
+Deteksi dini dapat menggunakan kuesioner SDQ yang mudah dilakukan baik di sekolah maupun komunitas lainnya.
+SDQ adalah kuesioner untuk deteksi dini masalah perilaku dan emosi pada anak dan remaja berusia 4 - 18 tahun.
+Mengacu pada definisi operasional pada Bab 2 maka instrumen yang digunakan adalah SDQ untuk usia 11 - 18 tahun.
+Berisi 25 pernyataan yang terdiri dari :
+Domain Masalah emosi (5 butir);
+Domain Masalah perilaku (5 butir);
+Domain Hiperaktivitas / inatensi (5 butir);
+Domain Masalah hubungan dengan teman sebaya (5 butir);
+Domain Perilaku pro-sosial yang mendukung (5 butir).
+Pernyataan dalam SDQ terdiri dari 5 pernyataan dan dikelompokkan dalam 5 domain dan masing-masing terdiri dari 5 pernyataan. Domain masalah emosi, perilaku, hiperaktifitas dan masalah dengan teman sebaya menggambarkan kesulitan sedangkan domain perilaku prososial menggambarkan kekuatan.
+Menentukan nilai masing-masing domain dengan menjumlahkan nilai dari pernyataan domain masalah emosi, masalah tingkah laku, masalah perilaku hiperaktivitas, masalah dengan teman sebaya dan prososial.
+Instrumen SDQ (11-18 th) dapat diisi sendiri oleh remaja atau melalui wawancara oleh tenaga kesehatan atau non tenaga kesehatan terlatih
+Tabel 2. Kuesioner SDQ usia 11-18 tahun
+SKRINING DETEKSI DINI MASALAH EMOSI DAN PERILAKU DENGAN MENGGUNAKAN KUISIONER KEKUATAN DAN KELEMAHAN (STRENGTH AND DIIFICULTIES QUESTIONNAIRE-SDQ)
+Untuk setiap pernyataan, beri tanda pada kotak Tidak Benar. Agak Benar atau Selalu Benar. Akan sangat membantu kami apabila kamu mau menjawab semua pernyataan sebaik mungkin meskipun kamu tidak yakin benar. Berikan jawabanmu sebagaimana sesuatu telah terjadi pada dirimu selama enam bulan terakhir.
+Nama ......................................................................................................
+Tanggal lahir ...........................................................................................
+Laki-laki/Perempuan
+Tidak Benar
+Agak Benar
+Selalu Benar
+Saya berusaha baik kepada orang lain. Saya peduli dengan perasaan mereka (pro)
+Saya gelisah saya tidak dapat diam untuk waktu lama (H)
+Saya sering sakit kepala, sakit perut atau macam-macam sakit lainnya (E)
+Kalau mempunyai mainan, CD, atau makanan, Saya biasanya berbagi dengan orang lain (Pro)
+Sering sulit sangat marah dan sering tidak dapat mengendalikan kemarahan saya (C)
+Saya lebih suka sendiri daripada bersama dengan orang yang seusiaku (P)
+Saya biasanya melakukan apa yang diperintahkan oleh orang lain (C)
+Saya banyak merasa cemas atau khawatir terhadap apapun (E)
+Saya selalu siap menolong jika seseorang terluka, kecewa atau merasa sakit hati (Pro)
+Bila sedang gelisah atau cemas badan saya sering bergerak-gerak tanpa saya sadari (H)
+Saya mempunyai satu orang teman baik atau lebih (P)
+Saya sering bertengkar dengan orang lain. Saya dapat memaksa orang lain melakukan apa yang saya inginkan (C)
+Saya sering merasa tidak bahagia, sedih atau menangis (E)
+Orang lain seusia saya umumnya menyukai saya (P)
+Perhatian saya mudah teralih, saya sulit untuk memusatkan perhatian pada apapun (H)
+Saya merasa gugup dalam situasi baru, saya mudah kehilangan rasa percaya Diri (E)
+Saya bersikap baik terhadap anak-anak yang lebih muda dari saya (Pro)
+Saya sering dituduh berbohong atau berbuat curang (C)
+Saya sering diganggu atau dipermainkan oleh anak-anak atau remaja lainnya (P)
+Saya sering menawarkan diri untuk membantu orang lain (orang tua, guru, anak-anak) (Pro)
+Saya berpikir terlebih dahulu akibat yang akan terjadi, sebelum berbuat atau melakukan sesuatu (H)
+Saya mengambil barang yang bukan milik saya dari rumah, sekolah atau dari mana saja (C)
+Saya lebih mudah berteman dengan orang dewasa daripada dengan orang seusia Saya (P)
+Banyak yang saya takuti, saya mudah menjadi takut (E)
+Saya menyelesaikan pekerjaan yang sedang saya lakukan. Saya mempunyai perhatian yang baik terhadap apapun (H)
+0 1 2
+0 1 2
+0 1 2
+0 1 2
+0 1 2
+0 1 2
+2 1 0
+0 1 2
+0 1 2
+0 1 2
+2 1 0
+0 1 2
+0 1 2
+2 1 0
+0 1 2
+0 1 2
+0 1 2
+0 1 2
+0 1 2
+0 1 2
+2 1 0
+0 1 2
+0 1 2
+0 1 2
+2 1 0
+Tanda tangan ..................
+Tanggal hari ini .................
+Terima kasih banyak atas bantuan anda
+INTERPRETASI DAN KESIMPULAN PEMERIKSAAN SDQ
+SKOR KESULITAN
+Gejala Emosional (E)
+Masalah Perilaku (C)
+Hiperaktivitas (H)
+Masalah Teman Sebaya (P)
+Menghitung Total Skor Kesulitan = Skor E + C + H + P Penilaian :
+
+| Usia < 11 tahun : | Usia 11-18 tahun : |
+| ------------------------ | -------------------------- |
+| Jika Skor = | Jika Skor = |
+| 0 - 13 : Normal | 0 - 15 : Normal |
+| 14-15 : Ambang/Boderline | 16 - 19 : Ambang/Boderline |
+| 16 - 40 : Abnormal | 20 - 40 : Abnormal |
+
+Gejala Emosional (E)
+Sering mengeluh sakit pada badan (seperti sakit kepala, perut dll)
+Banyak kekhawatiran
+Sering tidak bahagia, menangis
+Gugup atau mudah hilang percaya diri
+Mudah takut
+Penilaian:
+
+| Usia < 11 tahun : | Usia 11-18 tahun : |
+| -------------------- | -------------------- |
+| Jika Skor = | Jika Skor = |
+| 0-3 : Normal | 0-5 : Normal |
+| 4 : Ambang/Boderline | 6 : Ambang/Boderline |
+| 5-10 : Abnormal | 7-10 : Abnormal |
+
+Masalah Perilaku (C)
+Sering marah meledak-ledak.
+Umumnya berperilaku tidak baik, tidak melakukan apa yang diminta orang dewasa.
+Sering berkelahi.
+Sering berbohong, curang.
+Mencuri.
+Penilaian :
+
+| Usia < 10 tahun : | Usia 11-18 tahun : |
+| -------------------- | -------------------- |
+| Jika Skor = | Jika Skor = |
+| 0-2 : Normal | 0-3 : Normal |
+| 3 : Ambang/Boderline | 4 : Ambang/Boderline |
+| 4-10 : Abnormal | 10 : Abnormal |
+
+Hiperaktivitas (H)
+Gelisah, terlalu aktif, tidak dapat diam lama.
+Terus bergerak dengan resah.
+Mudah teralih, konsentrasi buyar.
+Tidak berpikir sebelum bertindak
+Tidak mampu menyelesaikan tugas sampai selesai.
+Penilaian:
+
+| Usia < 11 tahun : | Usia 11-18 tahun : |
+| -------------------- | -------------------- |
+| Jika Skor = | Jika Skor = |
+| 0-5 : Normal | 0-5 : Normal |
+| 6 : Ambang/Boderline | 6 : Ambang/Boderline |
+| 7-10 : Abnormal | 7-10 : Abnormal |
+
+Masalah Teman sebaya (P)
+Cenderung menyendiri, lebih senang main sendiri.
+Tidak punya 1 teman baik.
+Tidak disukai anak-anak lain.
+Diganggu/digerak oleh anak lain.
+Bergaul lebih baik dengan orang dewasa dari pada anak- anak.
+Penilaian
+
+| Usia < 11 tahun : | Usia 11-18 tahun : |
+| -------------------- | ---------------------- |
+| Jika Skor = | Jika Skor = |
+| 0-2 : Normal | 0-3 : Normal |
+| 3 : Ambang/Boderline | 4-5 : Ambang/Boderline |
+| 4-10 : Abnormal | 6-10 : Abnormal |
+
+SKOR KEKUATAN
+Perilaku Propososial (Pro)
+Mampu mempertimbangkan perasaan orang lain.
+Bersedia berbagi dengan anak lain.
+Suka menolong.
+Bersikap baik pada anak yang lebih muda.
+Sering menawarkan diri membantu orang lain.
+Penilaian:
+
+| Usia < 11 tahun : | Usia 11-18 tahun : |
+| -------------------- | -------------------- |
+| Jika Skor = | Jika Skor = |
+| 6-10 : Normal | 6-10 : Normal |
+| 5 : Ambang/Boderline | 5 : Ambang/Boderline |
+| 0-4 : Abnormal | 0-4 : Abnormal |
+
+Penentuan suatu 'kasus' berdasarkan SDQ:
+Nilai abnormal berarti suatu 'kasus' yang bermakna bagi anak atau remaja yang memiliki masalah perilaku dan emosi. Kategori ini menjadi perhatian utama dan harus dilakukan pemeriksaan lanjutan.
+Nilai ambang berarti kita harus memperhatikan bahwa anak atau remaja tersebut memiliki potensi untuk mengalami masalah emosi dan perilaku. Kategori ini juga harus dimasukkan ke dalam kasus dan membutuhkan pemeriksaan lanjutan.
+Jika ada nilai ambang atau abnormal di salah satu domain atau lebih maka masuk dalam kasus GME
+b. SRQ 20 (Self Reporting Questionnaire 20)
+SRQ merupakan salah satu alat ukur yang dapat digunakan untuk mengetahui adanya gangguan mental emosional pada seseorang dengan cara yang relatif murah, mudah dan efektif Dikatakan murah karena dapat dilakukan dalam waktu yang cukup singkat serta tidak memerlukan sumber daya manusia khusus untuk menilainya.
+SRQ efektif karena memiliki validitas yang cukup baik dalam hal sensitivitas dan spesifitasnya.
+Kuesioner yang dikembangkan oleh WHO untuk penyaringan gangguan jiwa dan keperluan penelitian yang telah dilakukan diberbagai negara.
+Terdiri dari 20 pertanyaan, apabila minimal menjawab 6 jawaban "ya", maka responden diindikasikan memiliki gangguan mental emosional.
+Melalui SRQ dapat diidentifikasi gejala-gejala gangguan mental emosional seperti gejala depresi, gejala ansietas, gejala kognitif, gejala somatik dan gejala penurunan energi.
+Analisis kluster instrumen SRQ-20 oleh Carmo dkk (2018) menemukan 4 kluster gejala yaitu depresi/cemas, somatik, penurunan energi, pikiran depresi.
+Tabel 3 Kuesioner SRQ-20
+Petunjuk : Bacalah petunjuk ini seluruhnya sebelum mulai mengisi. Pertanyaan berikut berhubungan dengan masalah yang mungkin mengganggu Anda selama 30 hari terakhir. Apabila Anda menganggap pertanyaan itu Anda alami dalam 30 hari terakhir, berilah tanda silang (X) pada kolom Y (berarti Ya). Sebaliknya, Apabila Anda menganggap pertanyaan itu tidak Anda alami dalam 30 hari terakhir, berilah tanda silang (X) pada kolom T (Tidak). Jika Anda tidak yakin tentang jawabannya, berilah jawaban yang paling sesuai di antara Y dan T. Kami tegaskan bahwa jawaban Anda bersifat rahasia dan akan digunakan hanya untuk membantu pemecahan masalah Anda.
+
+| No | Pertanyaan | y | T |
+| --- | ---------------------------------------------------------------------- | --- | --- |
+| 1 | Apakah anda sering menderita sakit kepala? | | |
+| 2 | Apakah anda tidak nafsu makan? | | |
+| 3 | Apakah anda sulit tidur? | | |
+| 4 | Apakah anda mudah takut? | | |
+| 5 | Apakah anda merasa tegang, cemas atau kuatir? | | |
+| 6 | Apakah tangan anda gemetar? | | |
+| 7 | Apakah pencernaan anda terganggu/ buruk? | | |
+| 8 | Apakah anda sulit untuk berpikir jernih? | | |
+| 9 | Apakah anda merasa tidak bahagia? | | |
+| 10 | Apakah anda menangis lebih sering? | | |
+| 11 | Apakah anda merasa sulit untuk menikmati kegiatan sehari-hari? | | |
+| 12 | Apakah anda sulit untuk mengambil keputusan? | | |
+| 13 | Apakah pekerjaan anda sehari-hari terganggu? | | |
+| 14 | Apakah anda tidak mampu melakukan hal-hal yang bermanfaat dalam hidup? | | |
+| 15 | Apakah anda kehilangan minat pada berbagai hal? | | |
+| 16 | Apakah anda merasa tidak berharga? | | |
+| 17 | Apakah anda mempunyai pikiran untuk mengakhiri hidup? | | |
+| 18 | Apakah anda merasa lelah sepanjang waktu? | | |
+| 19 | Apakah anda mengalami rasa tidak enak di perut? | | |
+| 20 | Apakah anda mudah lelah? | | |
+
+Penentuan suatu 'kasus' berdasarkan SRQ:
+Jika terdapat kurang dari 6 (enam) jawaban YA, maka dilakukan promosi kesehatan tentang pola hidup sehat;
+Jika terdapat 6 (enam) atau lebih jawaban YA, berarti masuk 'kasus' GME maka sebaiknya dilakukan promosi kesehatan dan dirujuk ke fasyankes untuk dilakukan prevensi gangguan jiwa dan pemeriksaan lanjutan. Pemeriksaan lanjutan yang dilakukan adalah wawancara psikiatrik oleh multidisiplin untuk menentukan diagnosis gangguan jiwa. Jika ada diagnosis gangguan jiwa akan dilakukan tata laksana multidisiplin sesuai diagnosis psikiatrik.

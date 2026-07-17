@@ -1,0 +1,15 @@
+{
+    "name": "Let there be badge",
+    "description": "Awarded for the first recorded journal entry or chat activity in UGM-AICare. Welcome!",
+    "image": "ipfs://bafybeidzdbsjft24ujpcn77hfkbhom7tmo5i5p2aqfsig2vtxvt3kd7jbu/let_there_be_badge.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Category",
+        "value": "Initiation"
+      },
+      {
+        "trait_type": "Milestone",
+        "value": "First Activity"
+      }
+    ]
+  }

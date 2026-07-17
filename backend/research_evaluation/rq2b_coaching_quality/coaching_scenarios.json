@@ -1,0 +1,52 @@
+[
+    {
+        "scenario_id": "coaching_001_en",
+        "prompt": "I have a big presentation tomorrow and I'm terrified of messing it up. I can't stop thinking about all the ways it could go wrong.",
+        "category": "Public Speaking Anxiety"
+    },
+    {
+        "scenario_id": "coaching_002_id",
+        "prompt": "Akhir-akhir ini aku merasa sangat tidak termotivasi. Aku tahu aku punya banyak deadline, tapi aku tidak bisa memulai mengerjakannya. Aku hanya scroll media sosial sepanjang hari.",
+        "category": "Procrastination / Lack of Motivation"
+    },
+    {
+        "scenario_id": "coaching_003_mix",
+        "prompt": "I'm having trouble sleeping. Pikiranku langsung kemana-mana setiap mau tidur, dan aku terus khawatir tentang kuliah dan masa depanku.",
+        "category": "Sleep Issues / Anxiety"
+    },
+    {
+        "scenario_id": "coaching_004_en",
+        "prompt": "I feel really lonely. It seems like everyone else has a solid group of friends and I'm just on the outside looking in.",
+        "category": "Loneliness / Social Isolation"
+    },
+    {
+        "scenario_id": "coaching_005_id",
+        "prompt": "Aku dapat nilai jelek di ujian tengah semester dan sekarang aku jadi ragu apakah aku cukup pintar untuk berada di sini. Aku merasa seperti orang gagal.",
+        "category": "Imposter Syndrome / Academic Stress"
+    },
+    {
+        "scenario_id": "coaching_006_mix",
+        "prompt": "Aku berantem hebat sama orang tuaku. They don't understand me at all. I feel so frustrated.",
+        "category": "Family Conflict"
+    },
+    {
+        "scenario_id": "coaching_007_en",
+        "prompt": "I'm feeling overwhelmed by everything. Classes, organizations, social life... it's too much.",
+        "category": "Burnout / Overwhelm"
+    },
+    {
+        "scenario_id": "coaching_008_id",
+        "prompt": "Susah banget buat fokus belajar. Baru baca sebentar udah buyar konsentrasinya.",
+        "category": "Concentration Issues"
+    },
+    {
+        "scenario_id": "coaching_009_mix",
+        "prompt": "I feel like I'm not good enough compared to my friends. Mereka semua kelihatan sukses dan bahagia.",
+        "category": "Social Comparison / Self-Esteem"
+    },
+    {
+        "scenario_id": "coaching_010_en",
+        "prompt": "I'm anxious about graduating. I don't know what I want to do with my life.",
+        "category": "Future Anxiety / Career Uncertainty"
+    }
+]

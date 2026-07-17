@@ -1,0 +1,1391 @@
+{
+  "data": [
+    {
+      "id": null,
+      "query": "Apa itu GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "GME"
+      ],
+      "golden_answer": "GME atau Gangguan Mental Emosional adalah masalah kesehatan jiwa yang masih menjadi isu di Indonesia dan dapat memengaruhi produktivitas seseorang. Jika Anda ingin tahu lebih lanjut tentang GME, saya siap membantu memberikan informasi."
+    },
+    {
+      "id": null,
+      "query": "Kenapa monitoring penting dalam program pencegahan GME?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Monitoring",
+        "Kemajuan Program",
+        "Umpan Balik Program"
+      ],
+      "golden_answer": "Monitoring sangat penting dalam program pencegahan GME karena membantu menilai kemajuan program secara terus menerus dan memberikan umpan balik yang dibutuhkan. Dengan monitoring rutin, program dapat diperbaiki dan tetap berjalan sesuai rencana demi kesehatan bersama."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana proses evaluasi hasil berjalan dalam program pengendalian GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Evaluasi Hasil",
+        "Pencapaian Target Pencegahan dan Pengendalian GME"
+      ],
+      "golden_answer": "Evaluasi hasil dilakukan setahun sekali untuk menilai seberapa jauh target pencegahan dan pengendalian GME telah dicapai. Ini membantu memastikan program berjalan sesuai tujuan dan ada perbaikan bila diperlukan."
+    },
+    {
+      "id": null,
+      "query": "Apa yang dimaksud dengan siklus manajemen dalam tata kelola pencegahan GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Siklus Manajemen"
+      ],
+      "golden_answer": "Siklus manajemen adalah proses berulang yang terdiri dari perencanaan, pelaksanaan, monitoring, dan evaluasi. Dengan mengikuti siklus ini, program pencegahan dan pengendalian GME dapat dikelola dengan lebih baik."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana peran tenaga kesehatan di Dinas Kesehatan dalam pencegahan GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pemegang Program Kesehatan Jiwa"
+      ],
+      "golden_answer": "Tenaga kesehatan di Dinas Kesehatan berperan sebagai pemegang program kesehatan jiwa. Mereka bertanggung jawab dalam perencanaan, pelaksanaan, monitoring, dan evaluasi program pencegahan dan pengendalian GME di masyarakat."
+    },
+    {
+      "id": null,
+      "query": "Apa tujuan dari monitoring yang dilakukan di FKTP?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Internal FKTP",
+        "Monitoring"
+      ],
+      "golden_answer": "Monitoring yang dilakukan oleh internal FKTP bertujuan untuk memastikan bahwa program pencegahan dan pengendalian GME berjalan sesuai rencana. Dari monitoring ini, FKTP dapat memperoleh informasi penting untuk perbaikan program di masa mendatang."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana pelaksanaan pencatatan dan pelaporan rutin dalam program GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pencatatan dan Pelaporan Rutin"
+      ],
+      "golden_answer": "Pencatatan dan pelaporan rutin adalah aktivitas penting untuk mendokumentasikan kegiatan dan hasil program GME. Melalui pencatatan yang baik, kemajuan dan kendala dalam program dapat dipantau sehingga perbaikan bisa segera dilakukan jika dibutuhkan."
+    },
+    {
+      "id": null,
+      "query": "Mengapa jejaring dengan sektor lain diperlukan dalam pencegahan GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Jejaring dengan Sektor Lain"
+      ],
+      "golden_answer": "Jejaring dengan sektor lain, seperti rumah sakit, sekolah, panti, dan posyandu, sangat penting untuk memperkuat upaya pencegahan dan pengendalian GME. Dengan kerjasama lintas sektor, intervensi bisa lebih luas dan efektif."
+    },
+    {
+      "id": null,
+      "query": "Apa itu form perencanaan kegiatan dalam program kesehatan jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Form Perencanaan Kegiatan"
+      ],
+      "golden_answer": "Form perencanaan kegiatan adalah dokumen yang diisi tenaga kesehatan untuk merencanakan detail program, seperti jenis kegiatan, lokasi, sasaran, target, dan waktu pelaksanaan. Ini membantu memastikan program berjalan terstruktur dan terarah."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana evaluasi proses dilakukan dalam siklus program GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Evaluasi Proses",
+        "Proses Kegiatan"
+      ],
+      "golden_answer": "Evaluasi proses dilakukan setiap tiga bulan sekali untuk menilai kesesuaian kegiatan dengan perencanaan, serta mendeteksi adanya perubahan atau kendala. Ini penting untuk memperbaiki pelaksanaan di termin berikutnya sehingga program tetap berjalan dengan baik."
+    },
+    {
+      "id": null,
+      "query": "Apa saja jenis media yang digunakan dalam promosi kesehatan jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Jenis Media KIE Promosi Kesehatan Jiwa",
+        "Brosur/Leaflet",
+        "Poster",
+        "Lembar Balik",
+        "Banner",
+        "Video",
+        "Media Lainnya"
+      ],
+      "golden_answer": "Ada beberapa jenis media yang digunakan dalam promosi kesehatan jiwa, seperti brosur atau leaflet, poster, lembar balik, banner, video, dan media lainnya. Media ini membantu menyampaikan informasi kesehatan jiwa kepada masyarakat dengan cara yang menarik dan mudah dipahami."
+    },
+    {
+      "id": null,
+      "query": "Seberapa sering pelaksanaan evaluasi berkala dilakukan dalam program GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pelaksanaan Evaluasi Berkala Setiap 3 Bulan"
+      ],
+      "golden_answer": "Pelaksanaan evaluasi berkala dilakukan sekurang-kurangnya setiap 3 bulan. Evaluasi ini penting agar program pencegahan dan pengendalian GME tetap berjalan sesuai tujuan dan selalu ada perbaikan yang diperlukan."
+    },
+    {
+      "id": null,
+      "query": "Apakah tujuan dari rencana tindak lanjut perbaikan program?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Rencana Tindak Lanjut Perbaikan Program"
+      ],
+      "golden_answer": "Rencana tindak lanjut perbaikan program disusun berdasarkan hasil monitoring dan evaluasi. Tujuannya adalah memperbaiki aspek yang masih kurang optimal dalam program agar layanan kesehatan jiwa semakin baik dan berdampak positif."
+    },
+    {
+      "id": null,
+      "query": "Apa saja lokasi pelaksanaan skrining GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Di Dalam Gedung",
+        "Posyandu Remaja",
+        "Posbindu PTM",
+        "Posyandu Lansia",
+        "Lembaga Pendidikan",
+        "Panti",
+        "Lapas/Rutan/LPKA"
+      ],
+      "golden_answer": "Lokasi pelaksanaan skrining GME bisa beragam, seperti di dalam gedung, posyandu remaja, posbindu PTM, posyandu lansia, lembaga pendidikan, panti, serta lapas, rutan, atau LPKA. Ini membantu menjangkau lebih banyak individu yang membutuhkan deteksi dini."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana indikator keberhasilan program pelayanan penderita GME ditentukan?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Indikator Keberhasilan Program GME",
+        "Kategori Baik",
+        "Kategori Kurang"
+      ],
+      "golden_answer": "Indikator keberhasilan program pelayanan penderita GME dibagi menjadi dua kategori: Baik jika target per tahun tercapai, dan Kurang bila tidak tercapai. Indikator ini membantu mengevaluasi apakah program sudah efektif."
+    },
+    {
+      "id": null,
+      "query": "Apa yang dilakukan apabila ditemukan kendala dalam pelaksanaan program GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Kendala Pelaksanaan",
+        "Kendala",
+        "Rencana Tindak Lanjut Perbaikan Program"
+      ],
+      "golden_answer": "Jika ada kendala dalam pelaksanaan program GME, kendala tersebut akan diidentifikasi dan dicatat. Selanjutnya, rencana tindak lanjut perbaikan program disusun agar permasalahan dapat segera diatasi."
+    },
+    {
+      "id": null,
+      "query": "Apa saja komponen sumber daya yang perlu diidentifikasi dalam perencanaan upaya pencegahan GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Sumber Daya"
+      ],
+      "golden_answer": "Dalam perencanaan upaya pencegahan GME, beberapa sumber daya yang perlu diidentifikasi adalah sumber daya manusia, sarana, sumber daya keuangan, dan jejaring dengan sektor lain. Identifikasi ini penting agar perencanaan bisa optimal."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana hubungan antara monitoring dan evaluasi dalam pengendalian GME?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Monitoring",
+        "Evaluasi",
+        "Hasil Monitoring dan Evaluasi"
+      ],
+      "golden_answer": "Monitoring dan evaluasi saling berkaitan erat dalam pengendalian GME. Monitoring dilakukan secara terus menerus untuk mengamati kemajuan program, sementara evaluasi dilakukan secara periodik untuk menilai seberapa efektif program telah berjalan. Hasil keduanya menjadi dasar tindak lanjut program."
+    },
+    {
+      "id": null,
+      "query": "Apa tujuan melakukan skrining GME di masyarakat?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Skrining GME"
+      ],
+      "golden_answer": "Tujuan utama skrining GME di masyarakat adalah untuk mendeteksi secara dini individu yang mungkin mengalami gangguan mental emosional, sehingga dapat diberikan dukungan atau intervensi yang sesuai sejak awal."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana pelatihan atau orientasi membantu kader dalam program GME?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Pelatihan/Orientasi",
+        "Peningkatan Kapasitas Kader"
+      ],
+      "golden_answer": "Pelatihan atau orientasi sangat membantu kader karena meningkatkan kemampuan dan pengetahuan mereka dalam mendukung upaya pencegahan dan pengendalian GME. Semakin baik kapasitas kader, semakin efektif juga program di masyarakat."
+    },
+    {
+      "id": null,
+      "query": "Apa peran kelompok dukungan di masyarakat dalam desa siaga sehat jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Kelompok Dukungan di Masyarakat",
+        "Pembentukan Desa Siaga Sehat Jiwa"
+      ],
+      "golden_answer": "Kelompok dukungan di masyarakat berperan penting dalam pembentukan desa siaga sehat jiwa. Mereka memberikan dukungan, edukasi, dan pendampingan bagi anggota masyarakat yang membutuhkan, menciptakan lingkungan yang lebih peduli terhadap kesehatan jiwa."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana advokasi dan koordinasi lintas program dilakukan setelah monitoring dan evaluasi di Dinas Kesehatan?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Advokasi dan Koordinasi Lintas Program dan Lintas Sektor",
+        "Hasil Monitoring dan Evaluasi"
+      ],
+      "golden_answer": "Setelah monitoring dan evaluasi di Dinas Kesehatan selesai, hasilnya digunakan sebagai bahan untuk advokasi dan koordinasi lintas program dan lintas sektor. Hal ini memastikan kerjasama yang lebih baik dalam memperbaiki program kesehatan jiwa."
+    },
+    {
+      "id": null,
+      "query": "Apa saja instrumen yang digunakan untuk skrining GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Instrumen Skrining GME",
+        "SDQ (11-18)",
+        "Form SRQ",
+        "Form SDQ"
+      ],
+      "golden_answer": "Beberapa instrumen yang digunakan untuk skrining GME antara lain SDQ untuk usia 11-18 tahun, Form SRQ, dan Form SDQ. Instrumen tersebut membantu tenaga kesehatan dalam mendeteksi dini gangguan mental emosional."
+    },
+    {
+      "id": null,
+      "query": "Apa itu data yang tersedia dalam analisa epidemiologi sederhana kejadian GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Data yang Tersedia"
+      ],
+      "golden_answer": "Data yang tersedia adalah informasi atau statistik yang digunakan sebagai dasar dalam melakukan analisa epidemiologi sederhana tentang kejadian GME dan gangguan jiwa. Data ini penting agar evaluasi bisa didasarkan pada kondisi nyata di lapangan."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana pelaporan capaian program P2 GME dilakukan?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Laporan Capaian Program P2 GME"
+      ],
+      "golden_answer": "Pelaporan capaian program P2 GME dilakukan secara berkala untuk mendokumentasikan hasil program pencegahan dan pengendalian GME. Laporan ini jadi dasar untuk evaluasi dan perbaikan di masa mendatang."
+    },
+    {
+      "id": null,
+      "query": "Apa yang dimaksud dengan kemajuan program dalam monitoring?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Kemajuan Program"
+      ],
+      "golden_answer": "Kemajuan program adalah aspek yang dinilai secara terus-menerus melalui proses monitoring. Dengan memantau kemajuan, program pencegahan dan pengendalian GME bisa berjalan lebih efektif dan tepat sasaran."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana proses analisa epidemiologi sederhana dilakukan di dinas kesehatan?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Ahli Kesehatan Masyarakat",
+        "Analisa Epidemiologi Sederhana",
+        "Kejadian GME",
+        "Data yang Tersedia"
+      ],
+      "golden_answer": "Proses analisa epidemiologi sederhana dilakukan oleh ahli kesehatan masyarakat di dinas kesehatan. Mereka menggunakan data yang tersedia untuk menganalisis kejadian GME secara sederhana, membantu memberikan gambaran kebutuhan dan arah program selanjutnya."
+    },
+    {
+      "id": null,
+      "query": "Apa saja layanan yang diberikan untuk penderita GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Layanan Penderita GME",
+        "Promosi Kesehatan/Edukasi"
+      ],
+      "golden_answer": "Beberapa layanan yang diberikan untuk penderita GME antara lain promosi kesehatan atau edukasi. Layanan ini bertujuan memberikan informasi dan dukungan agar penderita GME mendapatkan pertolongan yang sesuai."
+    },
+    {
+      "id": null,
+      "query": "Mengapa jumlah penduduk > 15 tahun yang diskrining penting dicatat?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Jumlah Penduduk > 15 tahun yang diskrining"
+      ],
+      "golden_answer": "Mencatat jumlah penduduk di atas 15 tahun yang diskrining sangat penting untuk mengetahui jangkauan program skrining GME. Data ini dapat membantu evaluasi dan penyusunan strategi ke depan."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana evaluasi proses dan evaluasi hasil berbeda dalam program GME?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Evaluasi Proses",
+        "Evaluasi Hasil"
+      ],
+      "golden_answer": "Evaluasi proses dilakukan secara berkala untuk menilai kesesuaian pelaksanaan dengan rencana, sementara evaluasi hasil dilakukan setahun sekali untuk mengukur apakah target program GME tercapai. Keduanya saling melengkapi dalam memastikan program berjalan efektif."
+    },
+    {
+      "id": null,
+      "query": "Mengapa penting ada koordinasi dengan lintas program dalam program GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Koordinasi dengan Lintas Program"
+      ],
+      "golden_answer": "Koordinasi dengan lintas program sangat penting agar kegiatan pencegahan dan pengendalian GME bisa berjalan selaras dengan program lain, menciptakan sinergi yang memperkuat upaya kesehatan jiwa di masyarakat."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana cara monitoring program dilakukan di Dinas Kesehatan?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Monitoring",
+        "Dinas Kesehatan"
+      ],
+      "golden_answer": "Monitoring di Dinas Kesehatan dilakukan secara berkala, setidaknya setiap 3 bulan. Melalui monitoring ini, kemajuan program dan kendala dapat teridentifikasi sehingga perbaikan bisa segera dilakukan."
+    },
+    {
+      "id": null,
+      "query": "Apa fungsi media promosi kesehatan jiwa dalam pencegahan GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Media Promosi Kesehatan"
+      ],
+      "golden_answer": "Media promosi kesehatan jiwa berfungsi untuk menyebarkan informasi tentang kesehatan mental dan pentingnya pencegahan GME kepada masyarakat, sehingga masyarakat lebih sadar dan peduli terhadap kesehatan jiwa."
+    },
+    {
+      "id": null,
+      "query": "Apa peran ahli kesehatan masyarakat dalam pengumpulan data kasus GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Ahli Kesehatan Masyarakat",
+        "Data yang Tersedia"
+      ],
+      "golden_answer": "Ahli kesehatan masyarakat berperan mengelola dan menganalisis data yang tersedia mengenai kasus GME, yang kemudian digunakan untuk evaluasi program dan penentuan arah kebijakan di bidang kesehatan jiwa."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana format monitoring dan evaluasi digunakan dalam program GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Format Monitoring dan Evaluasi"
+      ],
+      "golden_answer": "Format monitoring dan evaluasi adalah formulir khusus yang digunakan untuk mencatat hasil monitoring serta evaluasi program GME. Format ini membantu program tetap terstruktur dan mudah dievaluasi."
+    },
+    {
+      "id": null,
+      "query": "Apa yang dilakukan jika target pencapaian deteksi dini GME belum tercapai?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Target Pencapaian Deteksi Dini GME",
+        "Rencana Tindak Lanjut Perbaikan Program"
+      ],
+      "golden_answer": "Jika target pencapaian deteksi dini GME belum tercapai, perlu disusun rencana tindak lanjut perbaikan program. Evaluasi dilakukan agar strategi atau pendekatan program dapat diperbaiki ke depannya."
+    },
+    {
+      "id": null,
+      "query": "Apa perbedaan antara sarana dan sumber daya manusia dalam perencanaan GME?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Sarana",
+        "Sumber Daya Manusia (SDM)"
+      ],
+      "golden_answer": "Sarana adalah fasilitas atau alat yang membantu pelaksanaan program seperti media promosi dan form skrining. Sumber daya manusia (SDM) adalah tenaga kesehatan ataupun non-kesehatan yang terlibat langsung dalam program. Keduanya sama pentingnya namun memiliki peran berbeda."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana program P2 GME dipantau kemajuannya?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Program P2 GME (Pencegahan dan Pengendalian GME)",
+        "Monitoring"
+      ],
+      "golden_answer": "Kemajuan program P2 GME dipantau melalui proses monitoring yang dilakukan secara berkala. Hal ini penting agar setiap langkah program dapat dievaluasi dan disesuaikan dengan kebutuhan di lapangan."
+    },
+    {
+      "id": null,
+      "query": "Mengapa jejaring dengan organisasi profesi dan lintas sektor dibentuk dalam program GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Jejaring dengan Organisasi Profesi dan Lintas Sektor"
+      ],
+      "golden_answer": "Jejaring dengan organisasi profesi dan lintas sektor dibentuk agar upaya pencegahan dan pengendalian GME bisa lebih luas dan mendapat dukungan dari berbagai pihak. Ini membantu memperkuat efektivitas program kesehatan jiwa."
+    },
+    {
+      "id": null,
+      "query": "Apa manfaat dari pencatatan dan pelaporan rutin dalam program P2 GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pencatatan dan Pelaporan Rutin"
+      ],
+      "golden_answer": "Pencatatan dan pelaporan rutin mendokumentasikan kegiatan dan hasil secara terstruktur. Hal ini sangat membantu dalam monitoring, evaluasi, dan perbaikan program P2 GME di masa mendatang."
+    },
+    {
+      "id": null,
+      "query": "Apa itu SDQ dan SRQ dalam konteks skrining GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "SDQ (11-18)",
+        "Form SRQ",
+        "Instrumen Skrining GME"
+      ],
+      "golden_answer": "SDQ dan SRQ adalah instrumen skrining yang digunakan dalam program pencegahan dan pengendalian GME. SDQ digunakan bagi usia 11-18 tahun, sedangkan SRQ untuk kelompok usia lainnya. Keduanya membantu deteksi dini secara efektif."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana proses perencanaan dilakukan oleh tenaga kesehatan dalam program GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Perencanaan",
+        "Form Perencanaan Kegiatan"
+      ],
+      "golden_answer": "Proses perencanaan dilakukan dengan mengidentifikasi sumber daya yang tersedia dan mengisi form perencanaan kegiatan. Dengan perencanaan yang matang, program GME dapat berjalan lebih terarah."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana kategori Baik dan Kurang diterapkan dalam indikator keberhasilan program GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Indikator Keberhasilan Program GME",
+        "Kategori Baik",
+        "Kategori Kurang"
+      ],
+      "golden_answer": "Kategori 'Baik' digunakan jika target program per tahun tercapai, sedangkan 'Kurang' digunakan bila target tersebut belum tercapai. Pengelompokan ini membantu program lebih fokus dalam mencapai sasaran."
+    },
+    {
+      "id": null,
+      "query": "Apa itu promosi kesehatan atau edukasi dalam layanan untuk penderita GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Promosi Kesehatan/Edukasi"
+      ],
+      "golden_answer": "Promosi kesehatan atau edukasi dalam layanan untuk penderita GME merupakan upaya memberikan pengetahuan dan meningkatkan kesadaran tentang kesehatan jiwa kepada penderita maupun masyarakat."
+    },
+    {
+      "id": null,
+      "query": "Apa fungsi posyandu dalam jejaring sektor lain terkait program GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Posyandu",
+        "Jejaring dengan Sektor Lain"
+      ],
+      "golden_answer": "Posyandu merupakan salah satu bagian dari jejaring dengan sektor lain. Posyandu membantu pelaksanaan skrining dan promosi kesehatan jiwa di masyarakat, mendukung upaya pencegahan GME."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana hubungan antara monitoring yang baik dengan umpan balik program?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Monitoring",
+        "Umpan Balik Program"
+      ],
+      "golden_answer": "Monitoring yang baik memberikan informasi tentang proses dan kemajuan program secara berkala, sehingga umpan balik yang diperoleh bisa digunakan untuk memperbaiki atau menyesuaikan program sesuai kebutuhan."
+    },
+    {
+      "id": null,
+      "query": "Apa saja elemen yang dinilai dalam evaluasi proses program GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Evaluasi Proses",
+        "Proses Kegiatan"
+      ],
+      "golden_answer": "Evaluasi proses menilai apakah kegiatan telah dilaksanakan sesuai perencanaan, serta mendeteksi adanya perubahan atau kendala. Elemen ini penting agar pelaksanaan program selalu sesuai tujuan."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana rencana kegiatan P2 GME disusun di awal program?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Rencana Kegiatan P2 GME",
+        "Form Perencanaan Kegiatan"
+      ],
+      "golden_answer": "Di awal program, rencana kegiatan P2 GME disusun dengan mendetailkan jenis kegiatan, lokasi, sasaran, jumlah target, dan waktu pelaksanaan dalam form perencanaan kegiatan. Hal ini membantu jalannya program tetap terarah."
+    },
+    {
+      "id": null,
+      "query": "Siapa saja yang termasuk dalam SDM kegiatan P2 GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "SDM Kegiatan P2 GME",
+        "Nakes Lainnya",
+        "Tenaga Kesmas (Kesehatan Masyarakat)"
+      ],
+      "golden_answer": "SDM kegiatan P2 GME meliputi berbagai profesi kesehatan seperti dokter, perawat, psikolog klinis, tenaga kesehatan masyarakat, dan nakes lainnya, bahkan bisa termasuk tenaga non-kesehatan yang terlatih."
+    },
+    {
+      "id": null,
+      "query": "Apa peran form SRQ dalam skrining GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Form SRQ",
+        "Instrumen Skrining GME"
+      ],
+      "golden_answer": "Form SRQ adalah salah satu instrumen skrining yang digunakan untuk mendeteksi dini adanya GME pada kelompok usia tertentu. Dengan skrining ini, deteksi GME bisa segera dilakukan."
+    },
+    {
+      "id": null,
+      "query": "Apa tujuan sosialisasi dan advokasi lintas sektor terkait dalam program GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Sosialisasi dan Advokasi Lintas Sektor Terkait"
+      ],
+      "golden_answer": "Sosialisasi dan advokasi lintas sektor bertujuan memperkenalkan program GME dan mendapatkan dukungan dari berbagai sektor terkait. Ini membantu program semakin diterima dan berjalan efektif di masyarakat."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana evaluasi berkala membantu memperbaiki program GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pelaksanaan Evaluasi Berkala Setiap 3 Bulan",
+        "Evaluasi Proses"
+      ],
+      "golden_answer": "Evaluasi berkala setiap tiga bulan membantu mengidentifikasi keberhasilan dan kendala dalam pelaksanaan program GME, sehingga perbaikan bisa dilakukan secara tepat dan cepat pada periode berikutnya."
+    },
+    {
+      "id": null,
+      "query": "Apa hubungan antara pencapaian target pencegahan dan pengendalian GME dengan evaluasi hasil?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Pencapaian Target Pencegahan dan Pengendalian GME",
+        "Evaluasi Hasil"
+      ],
+      "golden_answer": "Evaluasi hasil dilakukan untuk menilai sejauh mana target pencegahan dan pengendalian GME telah tercapai dalam satu tahun. Kegiatan ini sangat penting untuk menentukan langkah perbaikan selanjutnya."
+    },
+    {
+      "id": null,
+      "query": "Apa yang dimaksud dengan pelaksanaan kegiatan sesuai perencanaan dalam siklus manajemen?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pelaksanaan",
+        "Siklus Manajemen"
+      ],
+      "golden_answer": "Pelaksanaan kegiatan sesuai perencanaan dalam siklus manajemen berarti melakukan kegiatan program seperti yang sudah direncanakan pada tahap perencanaan. Hal ini penting untuk memastikan program berjalan efektif."
+    },
+    {
+      "id": null,
+      "query": "Apa itu pelaksana monev dalam program GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pelaksana Monev"
+      ],
+      "golden_answer": "Pelaksana monev adalah pihak yang bertanggung jawab melakukan monitoring dan evaluasi program GME. Keterlibatan mereka sangat penting agar program bisa dianalisis dan diperbaiki secara berkala."
+    },
+    {
+      "id": null,
+      "query": "Mengapa penting mencatat tanggal pelaksanaan monev?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Tanggal Pelaksanaan Monev"
+      ],
+      "golden_answer": "Mencatat tanggal pelaksanaan monev penting untuk mendokumentasikan kapan monitoring dan evaluasi dilakukan, sehingga proses pencatatan hasil dan tindak lanjutnya bisa terjadwal dengan baik."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana peran Banner dan Poster dalam promosi kesehatan jiwa?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Banner",
+        "Poster",
+        "Jenis Media KIE Promosi Kesehatan Jiwa"
+      ],
+      "golden_answer": "Banner dan poster termasuk media KIE promosi kesehatan jiwa yang efektif. Keduanya dapat menarik perhatian masyarakat dan menyampaikan pesan kesehatan jiwa secara visual dan mudah dipahami."
+    },
+    {
+      "id": null,
+      "query": "Apa pentingnya peningkatan kapasitas kader dalam program pencegahan GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Peningkatan Kapasitas Kader"
+      ],
+      "golden_answer": "Peningkatan kapasitas kader sangat penting karena mereka menjadi ujung tombak program pencegahan GME di masyarakat. Dengan pelatihan dan orientasi, kader dapat memberikan dukungan dan edukasi yang lebih baik."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana hubungan antara program P2 GME dan laporan capaian program?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Program P2 GME (Pencegahan dan Pengendalian GME)",
+        "Laporan Capaian Program P2 GME"
+      ],
+      "golden_answer": "Laporan capaian program P2 GME mencatat hasil pelaksanaan program secara berkala. Ini membantu program dievaluasi efektifitasnya dan memberikan dasar bagi pengembangan selanjutnya."
+    },
+    {
+      "id": null,
+      "query": "Apa yang membedakan pelaksanaan skrining GME di panti dengan di lembaga pendidikan?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Panti",
+        "Lembaga Pendidikan",
+        "Skrining GME"
+      ],
+      "golden_answer": "Skrining GME di panti dan lembaga pendidikan memiliki sasaran yang berbeda, namun tujuannya sama yaitu untuk mendeteksi dini gangguan mental emosional. Lokasi yang berbeda menyesuaikan kebutuhan populasi yang berbeda."
+    },
+    {
+      "id": null,
+      "query": "Apa saja tahapan utama dalam tata kelola upaya pencegahan dan pengendalian GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Tata Kelola Upaya Pencegahan dan Pengendalian GME"
+      ],
+      "golden_answer": "Tahapan utama dalam tata kelola upaya pencegahan dan pengendalian GME terdiri dari perencanaan, pelaksanaan, monitoring, dan evaluasi. Setiap tahap berperan penting dalam menyukseskan program."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana desa siaga sehat jiwa dibentuk melalui kelompok dukungan masyarakat?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Pembentukan Desa Siaga Sehat Jiwa",
+        "Kelompok Dukungan di Masyarakat"
+      ],
+      "golden_answer": "Desa siaga sehat jiwa dibentuk melalui pembentukan kelompok dukungan di masyarakat. Kelompok ini memfasilitasi edukasi, dukungan satu sama lain, dan mendorong masyarakat lebih peduli pada kesehatan jiwa."
+    },
+    {
+      "id": null,
+      "query": "Apa peran anggaran kegiatan P2 GME dalam pelaksanaan program?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Anggaran Kegiatan P2 GME"
+      ],
+      "golden_answer": "Anggaran kegiatan P2 GME adalah alokasi dana yang digunakan untuk mendukung pelaksanaan semua kegiatan pencegahan dan pengendalian GME. Tanpa anggaran yang cukup, pelaksanaan program bisa terhambat."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana upaya pencapaian deteksi dini GME tercantum dalam dokumen program?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Target Pencapaian Deteksi Dini GME",
+        "Bab 2"
+      ],
+      "golden_answer": "Upaya pencapaian deteksi dini GME tertulis secara detail pada Bab 2 dokumen program, sebagai target yang harus dicapai tenaga kesehatan dalam pelaksanaan program."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana data kejadian GME digunakan dalam monitoring dan evaluasi program?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Kejadian GME",
+        "Monitoring",
+        "Evaluasi"
+      ],
+      "golden_answer": "Data kejadian GME digunakan dalam proses monitoring dan evaluasi untuk mengetahui perkembangan dan efektivitas program. Informasi ini menjadi dasar bagi perbaikan dan pengambilan keputusan selanjutnya."
+    },
+    {
+      "id": null,
+      "query": "Apa yang termasuk dalam sarana pencegahan dan pengendalian GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Sarana",
+        "Media Promosi Kesehatan",
+        "Form SRQ",
+        "Form SDQ"
+      ],
+      "golden_answer": "Sarana pencegahan dan pengendalian GME meliputi media promosi kesehatan jiwa serta form skrining seperti SRQ dan SDQ. Sarana ini membantu memperluas sasaran dan efektivitas upaya kesehatan jiwa."
+    },
+    {
+      "id": null,
+      "query": "Mengapa jumlah penderita GME > 15 tahun yang mendapatkan layanan perlu dihitung?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Jumlah Penderita GME > 15 tahun yang mendapatkan layanan"
+      ],
+      "golden_answer": "Menghitung jumlah penderita GME di atas 15 tahun yang mendapatkan layanan penting untuk mengetahui cakupan dan efektivitas layanan yang diberikan. Hal ini juga membantu dalam evaluasi program secara keseluruhan."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana evaluasi proses bisa mengidentifikasi perubahan atau kendala dalam program?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Evaluasi Proses",
+        "Kendala Pelaksanaan"
+      ],
+      "golden_answer": "Evaluasi proses yang dilakukan berkala dapat membantu mengidentifikasi apakah ada perubahan penyelenggaraan program atau kendala pelaksanaan di lapangan. Hasil ini menjadi dasar untuk perbaikan program."
+    },
+    {
+      "id": null,
+      "query": "Apa saja isi dari form perencanaan kegiatan dalam program GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Form Perencanaan Kegiatan"
+      ],
+      "golden_answer": "Isi form perencanaan kegiatan meliputi jenis kegiatan, lokasi pelaksanaan, sasaran kegiatan, perkiraan jumlah dan target sasaran, serta waktu pelaksanaan. Hal ini membantu memastikan semua aspek perencanaan terdokumentasi."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana hubungan antara hasil monitoring dan pelaksanaan tindak lanjut perbaikan program?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Hasil Monitoring dan Evaluasi",
+        "Rencana Tindak Lanjut Perbaikan Program"
+      ],
+      "golden_answer": "Hasil monitoring dan evaluasi menjadi acuan utama dalam menyusun dan melaksanakan rencana tindak lanjut perbaikan program. Dengan cara ini, program menjadi lebih responsif terhadap kebutuhan lapangan."
+    },
+    {
+      "id": null,
+      "query": "Mengapa pelaksanaan monev di Dinas Kesehatan harus dilakukan minimal setiap 3 bulan?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Monitoring",
+        "Evaluasi",
+        "Pelaksanaan Evaluasi Berkala Setiap 3 Bulan"
+      ],
+      "golden_answer": "Pelaksanaan monitoring dan evaluasi minimal setiap 3 bulan di Dinas Kesehatan penting agar perkembangan dan kendala program segera teridentifikasi dan diperbaiki. Dengan jadwal berkala, program tetap terpantau dengan baik."
+    },
+    {
+      "id": null,
+      "query": "Apa yang dimaksud dengan persentase penderita GME > 15 tahun yang mendapatkan layanan?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Persentase Penderita GME > 15 tahun yang mendapatkan layanan"
+      ],
+      "golden_answer": "Persentase penderita GME di atas 15 tahun yang mendapatkan layanan adalah proporsi individu dalam kategori usia tersebut yang telah menerima layanan kesehatan jiwa. Metrik ini menunjukkan seberapa luas cakupan intervensi program."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana tenaga kesehatan menentukan target pencapaian deteksi dini GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Target Pencapaian Deteksi Dini GME",
+        "Tenaga Kesehatan Terlatih"
+      ],
+      "golden_answer": "Tenaga kesehatan menentukan target pencapaian deteksi dini GME berdasarkan perencanaan yang disesuaikan dengan kapasitas dan kebutuhan di wilayah kerja, serta merujuk pada ketentuan yang tercantum dalam dokumen program."
+    },
+    {
+      "id": null,
+      "query": "Apa hubungan antara monitoring internal FKTP dan evaluasi program secara keseluruhan?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Internal FKTP",
+        "Monitoring",
+        "Evaluasi"
+      ],
+      "golden_answer": "Monitoring yang dilakukan internal FKTP berkontribusi pada evaluasi program secara keseluruhan. Temuan dari monitoring digunakan dalam evaluasi untuk terus memperbaiki kualitas program."
+    },
+    {
+      "id": null,
+      "query": "Siapa saja yang termasuk dalam jejaring sektor lain untuk upaya GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Jejaring dengan Sektor Lain",
+        "Rumah Sakit",
+        "Sekolah",
+        "Panti",
+        "Posyandu"
+      ],
+      "golden_answer": "Jejaring sektor lain untuk upaya GME meliputi rumah sakit, sekolah, panti, posyandu, dan instansi lain di luar sektor kesehatan yang berkolaborasi menyukseskan program pencegahan GME."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana pencatatan dan pelaporan rutin membantu dalam pencegahan dan pengendalian GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pencatatan dan Pelaporan Rutin"
+      ],
+      "golden_answer": "Pencatatan dan pelaporan rutin membantu memonitor perkembangan program secara berkala, sehingga berbagai kendala atau hambatan bisa segera dideteksi dan diatasi dengan langkah perbaikan yang terencana."
+    },
+    {
+      "id": null,
+      "query": "Apa tujuan penilaian kontribusi program dalam evaluasi GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Kontribusi Program",
+        "Evaluasi"
+      ],
+      "golden_answer": "Penilaian kontribusi program bertujuan untuk mengetahui dampak atau perubahan yang dihasilkan dari pelaksanaan program GME. Ini penting agar upaya yang dilakukan benar-benar bermanfaat bagi masyarakat."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana jejaring dengan sektor lain meningkatkan cakupan program GME?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Jejaring dengan Sektor Lain",
+        "Skrining GME"
+      ],
+      "golden_answer": "Jejaring dengan sektor lain membantu memperluas cakupan skrining GME ke berbagai lokasi, seperti sekolah dan panti. Kolaborasi ini memastikan lebih banyak individu yang terjangkau oleh program."
+    },
+    {
+      "id": null,
+      "query": "Apa pentingnya pengisian form SDQ dan SRQ dalam deteksi dini GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Form SDQ",
+        "Form SRQ",
+        "Instrumen Skrining GME"
+      ],
+      "golden_answer": "Pengisian form SDQ dan SRQ sangat penting dalam deteksi dini GME. Keduanya merupakan instrumen skrining yang membantu tenaga kesehatan mengidentifikasi individu yang membutuhkan intervensi sejak awal."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana transfer hasil evaluasi menjadi perbaikan program GME?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Hasil Monitoring dan Evaluasi",
+        "Rencana Tindak Lanjut Perbaikan Program"
+      ],
+      "golden_answer": "Hasil dari evaluasi digunakan untuk menyusun rencana tindak lanjut perbaikan program, sehingga hasil kajian dan monitoring benar-benar dimanfaatkan untuk membuat program P2 GME lebih baik ke depannya."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana hasil monitoring dan evaluasi dimanfaatkan dalam advokasi ke lintas sektor?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Hasil Monitoring dan Evaluasi",
+        "Advokasi dan Koordinasi Lintas Program dan Lintas Sektor"
+      ],
+      "golden_answer": "Hasil monitoring dan evaluasi digunakan sebagai bahan advokasi dan koordinasi lintas program dan lintas sektor. Ini membantu memperkuat dukungan dari berbagai pihak untuk keberhasilan program kesehatan jiwa."
+    },
+    {
+      "id": null,
+      "query": "Apa manfaat evaluasi hasil yang dilakukan setahun sekali?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Evaluasi Hasil",
+        "Pencapaian Target Pencegahan dan Pengendalian GME"
+      ],
+      "golden_answer": "Evaluasi hasil yang dilakukan setahun sekali bermanfaat untuk mengukur pencapaian target program GME. Dengan hasil ini, program dapat dievaluasi efektivitasnya dan disesuaikan bila diperlukan."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana pemegang program kesehatan jiwa menjalankan tugasnya di puskesmas?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pemegang Program Kesehatan Jiwa"
+      ],
+      "golden_answer": "Pemegang program kesehatan jiwa di puskesmas bertugas merencanakan, melaksanakan, serta memonitor dan mengevaluasi upaya kesehatan jiwa, termasuk pencegahan dan pengendalian GME, di wilayah kerjanya."
+    },
+    {
+      "id": null,
+      "query": "Apa hubungan antara tenaga kesehatan terlatih dan suksesnya deteksi dini GME?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Tenaga Kesehatan Terlatih",
+        "Skrining GME"
+      ],
+      "golden_answer": "Tenaga kesehatan terlatih sangat berpengaruh pada keberhasilan deteksi dini GME, karena mereka memiliki keterampilan yang memadai untuk melakukan skrining dan intervensi yang tepat."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana program pelayanan penderita GME dievaluasi di tingkat provinsi?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Provinsi",
+        "Indikator Keberhasilan Program GME"
+      ],
+      "golden_answer": "Di tingkat provinsi, program pelayanan penderita GME dievaluasi menggunakan indikator keberhasilan yang mengacu pada capaian target per tahun. Evaluasi ini juga menilai apakah pelayanan telah menjangkau target yang diharapkan."
+    },
+    {
+      "id": null,
+      "query": "Apa tugas tenaga kesehatan masyarakat dalam kegiatan P2 GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Tenaga Kesmas (Kesehatan Masyarakat)"
+      ],
+      "golden_answer": "Tenaga kesehatan masyarakat (kesmas) berperan dalam berbagai kegiatan P2 GME, seperti edukasi, promosi kesehatan jiwa, serta pengelolaan data dan evaluasi efektivitas program di lapangan."
+    },
+    {
+      "id": null,
+      "query": "Apakah tujuan kegiatan penyuluhan di masyarakat dalam program GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Penyuluhan di Masyarakat"
+      ],
+      "golden_answer": "Tujuan kegiatan penyuluhan di masyarakat adalah memberikan edukasi tentang kesehatan jiwa dan pencegahan GME, serta membantu masyarakat semakin peduli dan memahami pentingnya kesehatan mental."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana kegiatan promotif dan preventif dinilai keberhasilannya?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Kegiatan Promotif dan Preventif"
+      ],
+      "golden_answer": "Tenaga kesehatan menilai keberhasilan kegiatan promotif dan preventif melalui monitoring dan evaluasi proses serta hasil. Penilaian ini meliputi capaian pelaksanaan dan dampak terhadap masyarakat."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana pelaksanaan monitoring dan evaluasi di FKTP berbeda dengan di Dinas Kesehatan?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Internal FKTP",
+        "Monitoring",
+        "Dinas Kesehatan",
+        "Evaluasi"
+      ],
+      "golden_answer": "Monitoring di FKTP dilakukan oleh pihak internal dan evaluasi secara berkala. Sementara, di Dinas Kesehatan, monitoring dan evaluasi dilakukan minimal setiap tiga bulan terhadap capaian program, serta menjadi bahan advokasi dan perbaikan lintas sektor."
+    },
+    {
+      "id": null,
+      "query": "Apa itu tenaga non kesehatan terlatih dalam konteks program GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Tenaga Non Kesehatan Terlatih"
+      ],
+      "golden_answer": "Tenaga non kesehatan terlatih adalah orang yang bukan berasal dari profesi kesehatan namun sudah mendapat pelatihan khusus tentang kesehatan jiwa atau GME sehingga dapat berkontribusi dalam pelaksanaan program."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana pelaksanaan penyuluhan di lembaga pendidikan mendukung program GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Penyuluhan di Lembaga Pendidikan"
+      ],
+      "golden_answer": "Penyuluhan di lembaga pendidikan memberikan edukasi dan pengetahuan dasar tentang kesehatan jiwa kepada siswa dan staf, sehingga mereka lebih mampu mendeteksi dini dan mencegah GME di lingkungan pendidikan."
+    },
+    {
+      "id": null,
+      "query": "Mengapa pencapaian target deteksi dini penting dicantumkan dalam form perencanaan kegiatan?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Target Pencapaian Deteksi Dini GME",
+        "Form Perencanaan Kegiatan"
+      ],
+      "golden_answer": "Mencantumkan target deteksi dini pada form perencanaan kegiatan penting agar program memiliki sasaran yang jelas dan dapat dievaluasi efektivitasnya melalui monitoring dan evaluasi berkala."
+    },
+    {
+      "id": null,
+      "query": "Apa manfaat pelaksanaan promosi kesehatan jiwa melalui media video?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Video",
+        "Jenis Media KIE Promosi Kesehatan Jiwa"
+      ],
+      "golden_answer": "Promosi kesehatan jiwa melalui media video dapat memberikan informasi yang edukatif dengan cara yang menarik dan mudah dipahami masyarakat, sehingga pesan kesehatan jiwa dapat lebih efektif disampaikan."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana strategi pencapaian target sasaran penderita GME di atas 15 tahun dalam pelayanan?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Target Sasaran Penderita GME > 15 tahun",
+        "Layanan Penderita GME"
+      ],
+      "golden_answer": "Strategi pencapaian target sasaran penderita GME di atas 15 tahun dilakukan dengan memperluas cakupan layanan, melakukan skrining secara aktif, serta meningkatkan kapasitas kader dan tenaga kesehatan terkait."
+    },
+    {
+      "id": null,
+      "query": "Apa hubungan antara hasil monitoring dan evaluasi dengan penyusunan anggaran selanjutnya?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Hasil Monitoring dan Evaluasi",
+        "Anggaran Kegiatan P2 GME"
+      ],
+      "golden_answer": "Hasil monitoring dan evaluasi digunakan sebagai dasar untuk menyusun anggaran kegiatan di periode berikutnya, memastikan alokasi dana lebih terarah dan sesuai kebutuhan riil program."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana posbindu PTM dapat berkontribusi dalam upaya skrining GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Posbindu PTM",
+        "Skrining GME"
+      ],
+      "golden_answer": "Posbindu PTM sebagai salah satu lokasi skrining GME berkontribusi dalam upaya deteksi dini di masyarakat, membantu menjangkau kelompok usia tertentu yang berisiko namun belum teridentifikasi gangguan mental emosionalnya."
+    },
+    {
+      "id": null,
+      "query": "Apa fungsi brosur dan leaflet dalam promosi kesehatan jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Brosur/Leaflet",
+        "Jenis Media KIE Promosi Kesehatan Jiwa"
+      ],
+      "golden_answer": "Brosur dan leaflet memberikan informasi ringkas dan praktis tentang kesehatan jiwa, membantu masyarakat mengenal lebih baik isu GME dan langkah-langkah pencegahannya."
+    },
+    {
+      "id": null,
+      "query": "Apa tujuan pendataan jumlah penduduk > 15 tahun yang menderita GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Jumlah Penduduk > 15 tahun yang menderita GME"
+      ],
+      "golden_answer": "Pendataan jumlah penduduk di atas 15 tahun yang menderita GME bertujuan untuk mengetahui besarnya masalah kesehatan jiwa di suatu wilayah, sehingga program intervensi dapat disesuaikan dengan kebutuhan nyata."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana desa siaga sehat jiwa memfasilitasi pendampingan bagi masyarakat?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pembentukan Desa Siaga Sehat Jiwa",
+        "Kelompok Dukungan di Masyarakat"
+      ],
+      "golden_answer": "Desa siaga sehat jiwa memfasilitasi pendampingan melalui kelompok dukungan masyarakat, yang membantu memberikan edukasi dan dukungan psikologis awal pada warganya."
+    },
+    {
+      "id": null,
+      "query": "Apa yang dimaksud dengan CPMH?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "CPMH"
+      ],
+      "golden_answer": "CPMH adalah Center for Public Mental Health, didirikan sebagai pusat kajian, pendidikan, pelatihan, advokasi kebijakan, dan layanan di bidang kesehatan mental masyarakat."
+    },
+    {
+      "id": null,
+      "query": "Apa yang dimaksud dengan kesehatan mental menurut CPMH?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Kesehatan Mental"
+      ],
+      "golden_answer": "Kesehatan mental adalah kondisi di mana seseorang mampu mengaktualisasikan semua potensinya, berfungsi secara aktif dan bermakna, serta berperan positif bagi keluarga dan masyarakat. Ini tidak hanya berarti tidak adanya masalah gangguan kejiwaan."
+    },
+    {
+      "id": null,
+      "query": "Mengapa kesehatan mental penting bagi masa depan Indonesia?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Manusia Indonesia",
+        "Kesehatan Mental"
+      ],
+      "golden_answer": "Manusia Indonesia yang sehat secara fisik dan mental adalah aset terpenting bagi masa depan bangsa. Kesehatan mental penting agar masyarakat dapat berkontribusi secara positif dalam kehidupan bermasyarakat dan berbangsa."
+    },
+    {
+      "id": null,
+      "query": "Apa manfaat menjaga kesehatan mental masyarakat?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Kesehatan Mental Masyarakat"
+      ],
+      "golden_answer": "Menjaga kesehatan mental masyarakat bertujuan agar setiap individu bisa menjalani kehidupan yang produktif, bermakna, serta mencapai kepuasan hidup dan kesejahteraan psikologis di berbagai bidang kehidupan."
+    },
+    {
+      "id": null,
+      "query": "Apa itu gangguan kejiwaan?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Gangguan Kejiwaan"
+      ],
+      "golden_answer": "Gangguan kejiwaan adalah masalah yang berkaitan dengan kondisi mental seseorang. Namun, kesehatan mental bukan sekadar ketiadaan gangguan kejiwaan."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana peran CPMH dalam pendidikan masyarakat?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "CPMH",
+        "Pendidikan Masyarakat"
+      ],
+      "golden_answer": "CPMH berperan penting dalam mendidik masyarakat guna meningkatkan kesadaran dan komitmen terhadap kesehatan mental, sehingga masyarakat lebih memahami dan peduli akan pentingnya kesehatan mental."
+    },
+    {
+      "id": null,
+      "query": "Apa tujuan dari pencegahan masalah kesehatan mental?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pencegahan Masalah Kesehatan Mental"
+      ],
+      "golden_answer": "Pencegahan masalah kesehatan mental bertujuan untuk meminimalisir terjadinya masalah kejiwaan dan mendukung masyarakat agar dapat berfungsi secara sehat dan bermakna."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana hubungan antara pemerintah dan pembangunan kesehatan mental?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Pemerintah",
+        "Kesehatan Mental"
+      ],
+      "golden_answer": "Pemerintah memiliki kewajiban bersama masyarakat untuk membangun kesehatan mental secara berimbang bersama kesehatan fisik, demi masa depan bangsa yang lebih baik."
+    },
+    {
+      "id": null,
+      "query": "Apa itu rehabilitasi dalam konteks kesehatan mental?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Rehabilitasi"
+      ],
+      "golden_answer": "Rehabilitasi adalah proses pemulihan bagi mereka yang telah mengalami masalah kejiwaan, menjadi bagian penting dalam pembangunan kesehatan mental."
+    },
+    {
+      "id": null,
+      "query": "Apa saja tujuan pembangunan kesehatan mental menurut CPMH?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pertumbuhan Psikologis yang Sehat",
+        "Peningkatan Produktivitas Masyarakat",
+        "Peningkatan Keberfungsian Masyarakat",
+        "Peningkatan Kepuasan Hidup",
+        "Peningkatan Kesejahteraan Psikologis"
+      ],
+      "golden_answer": "Tujuan pembangunan kesehatan mental meliputi pertumbuhan psikologis yang sehat, peningkatan produktivitas dan keberfungsian masyarakat, serta peningkatan kepuasan hidup dan kesejahteraan psikologis."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana peran Fakultas Psikologi UGM dalam mengembangkan ilmu kesehatan mental?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Fakultas Psikologi UGM",
+        "CPMH"
+      ],
+      "golden_answer": "CPMH memfasilitasi sivitas akademika Fakultas Psikologi UGM untuk mengembangkan dan berkontribusi dalam ilmu dan profesi psikologi bagi masyarakat."
+    },
+    {
+      "id": null,
+      "query": "Apa peran masyarakat dalam pembangunan kesehatan mental?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Masyarakat",
+        "Kesehatan Mental"
+      ],
+      "golden_answer": "Masyarakat bersama pemerintah bertanggung jawab untuk turut menanggung dan membangun kesehatan mental dan fisik secara berimbang, sebagai bagian penting dari kemajuan bangsa."
+    },
+    {
+      "id": null,
+      "query": "Apa yang dimaksud dengan penanganan masalah kesehatan mental?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Penanganan Masalah Kesehatan Mental"
+      ],
+      "golden_answer": "Penanganan masalah kesehatan mental adalah salah satu sektor penting dalam pembangunan kesehatan mental yang fokus pada memberikan solusi atau bantuan kepada individu yang mengalami masalah kejiwaan."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana hubungan antara pendidikan masyarakat dan kesehatan mental?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Pendidikan Masyarakat",
+        "Kesehatan Mental"
+      ],
+      "golden_answer": "Pendidikan masyarakat merupakan upaya penting untuk meningkatkan kesadaran dan penumbuhan komitmen terhadap kesehatan mental, sehingga masyarakat lebih memahami pentingnya menjaga kesehatan mental."
+    },
+    {
+      "id": null,
+      "query": "Apa itu pemulihan dalam konteks kesehatan mental?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pemulihan"
+      ],
+      "golden_answer": "Pemulihan adalah proses bagi mereka yang telah mengalami masalah kejiwaan untuk dapat kembali menjalani hidup yang lebih sehat dan bermakna."
+    },
+    {
+      "id": null,
+      "query": "Apa saja fungsi utama dari CPMH?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pusat Kajian Kesehatan Mental Masyarakat",
+        "Pusat Pendidikan dan Pelatihan Kesehatan Mental Masyarakat",
+        "Pusat Advokasi Kebijakan Kesehatan Mental Masyarakat",
+        "Pusat Layanan Kesehatan Mental Masyarakat"
+      ],
+      "golden_answer": "CPMH berfungsi sebagai pusat kajian, pendidikan dan pelatihan, advokasi kebijakan, serta pusat layanan di bidang kesehatan mental masyarakat."
+    },
+    {
+      "id": null,
+      "query": "Apa manfaat adanya pendidikan masyarakat terkait kesehatan mental?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pendidikan Masyarakat",
+        "Penyadaran dan Penumbuhan Komitmen terhadap Kesehatan Mental"
+      ],
+      "golden_answer": "Pendidikan masyarakat bertujuan untuk meningkatkan kesadaran dan menumbuhkan komitmen terhadap pentingnya menjaga kesehatan mental."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana CPMH memediasi hubungan antara akademisi dan masyarakat?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "CPMH",
+        "Sivitas Akademika Fakultas Psikologi UGM",
+        "Masyarakat"
+      ],
+      "golden_answer": "CPMH bertindak sebagai mediator antara akademisi Fakultas Psikologi UGM dengan masyarakat luas, untuk memastikan ilmu dan profesi psikologi dapat bermanfaat secara nyata."
+    },
+    {
+      "id": null,
+      "query": "Siapa saja yang menjadi target mediasi CPMH selain masyarakat?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pengambil Kebijakan",
+        "Himpunan Profesi Kesehatan Mental",
+        "Lembaga Lain"
+      ],
+      "golden_answer": "Selain masyarakat umum, CPMH juga berperan sebagai mediator bagi pengambil kebijakan, himpunan profesi kesehatan mental, serta lembaga lain baik di dalam maupun luar negeri."
+    },
+    {
+      "id": null,
+      "query": "Apa saja contoh layanan yang diberikan CPMH?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pusat Layanan Kesehatan Mental Masyarakat"
+      ],
+      "golden_answer": "CPMH memberikan layanan di bidang kesehatan mental masyarakat, mulai dari edukasi, pelatihan, hingga advokasi kebijakan yang mendukung masyarakat untuk hidup lebih sehat secara mental."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana peran ilmu dan profesi psikologi dalam kesehatan mental masyarakat?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Ilmu dan Profesi Psikologi",
+        "Kesehatan Mental Masyarakat"
+      ],
+      "golden_answer": "Ilmu dan profesi psikologi berperan nyata dalam setiap aspek pembangunan kesehatan mental masyarakat melalui kajian, pendidikan, pelatihan, serta layanan."
+    },
+    {
+      "id": null,
+      "query": "Apa yang dimaksud dengan peningkatan keberfungsian masyarakat?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Peningkatan Keberfungsian Masyarakat"
+      ],
+      "golden_answer": "Peningkatan keberfungsian masyarakat adalah salah satu tujuan pembangunan kesehatan mental, yaitu agar individu dan masyarakat dapat menjalankan peran sosialnya secara optimal."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana CPMH mendukung pertumbuhan psikologis yang sehat?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "CPMH",
+        "Pertumbuhan Psikologis yang Sehat"
+      ],
+      "golden_answer": "CPMH mendukung pertumbuhan psikologis yang sehat melalui pendidikan, pelatihan, advokasi, dan layanan yang mengutamakan kesehatan mental masyarakat."
+    },
+    {
+      "id": null,
+      "query": "Apa yang menyebabkan kesehatan mental kurang diperhatikan dalam kebijakan?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Kebijakan dan Program Pembangunan"
+      ],
+      "golden_answer": "Kesehatan mental sering kurang diperhatikan dalam kebijakan dan program pembangunan, kemungkinan karena pemahaman yang belum tepat baik di kalangan pengambil kebijakan maupun masyarakat."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana CPMH berkontribusi pada kebijakan kesehatan mental di Indonesia?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "CPMH",
+        "Pusat Advokasi Kebijakan Kesehatan Mental Masyarakat"
+      ],
+      "golden_answer": "CPMH berperan sebagai pusat advokasi untuk mendorong hadirnya kebijakan yang lebih memperhatikan kesehatan mental masyarakat di Indonesia."
+    },
+    {
+      "id": null,
+      "query": "Apa itu peningkatan kesejahteraan psikologis?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Peningkatan Kesejahteraan Psikologis"
+      ],
+      "golden_answer": "Peningkatan kesejahteraan psikologis adalah tujuan utama dari pembangunan kesehatan mental agar individu merasa lebih sejahtera secara psikologis di setiap bidang kehidupan."
+    },
+    {
+      "id": null,
+      "query": "Apa hubungan antara kesehatan fisik dan kesehatan mental dalam pembangunan bangsa?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Kesehatan Fisik",
+        "Kesehatan Mental"
+      ],
+      "golden_answer": "Kesehatan fisik dan mental harus dibangun secara berimbang, karena keduanya sama-sama penting untuk menciptakan sumber daya manusia yang berkualitas bagi masa depan bangsa."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana CPMH dapat dihubungi?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Nomor Telepon CPMH",
+        "Email CPMH",
+        "Alamat Kantor CPMH"
+      ],
+      "golden_answer": "Anda dapat menghubungi CPMH melalui nomor telepon +(62) 274 550435 ext. 100 atau 145, email cpmh@ugm.ac.id, atau datang langsung ke Gedung D Lantai 6 Ruang D-610 Fakultas Psikologi UGM, Yogyakarta."
+    },
+    {
+      "id": null,
+      "query": "Mengapa pendidikan masyarakat sangat penting dalam pembangunan kesehatan mental?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Pendidikan Masyarakat",
+        "Kesehatan Mental"
+      ],
+      "golden_answer": "Pendidikan masyarakat sangat penting dalam membangun kesehatan mental karena dapat meningkatkan kesadaran, pengetahuan, dan komitmen kolektif dalam menjaga kesehatan mental bersama."
+    },
+    {
+      "id": null,
+      "query": "Apa kontribusi CPMH bagi sivitas akademika Fakultas Psikologi UGM?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "CPMH",
+        "Sivitas Akademika Fakultas Psikologi UGM"
+      ],
+      "golden_answer": "CPMH berperan sebagai fasilitator bagi sivitas akademika Fakultas Psikologi UGM untuk mengembangkan dan menyumbangkan ilmu serta profesinya kepada masyarakat."
+    },
+    {
+      "id": null,
+      "query": "Siapa saja yang berperan dalam pembangunan kesehatan mental secara nasional?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pemerintah",
+        "Masyarakat"
+      ],
+      "golden_answer": "Baik pemerintah maupun masyarakat memiliki peran dan kewajiban bersama untuk membangun kesehatan fisik dan mental secara nasional."
+    },
+    {
+      "id": null,
+      "query": "Apa manfaat pembangunan kesehatan mental bagi lingkungan keluarga?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Kesehatan Mental",
+        "Manusia Indonesia"
+      ],
+      "golden_answer": "Pembangunan kesehatan mental membantu individu berperan positif dalam keluarga, sehingga tercipta lingkungan keluarga yang lebih sehat dan mendukung."
+    },
+    {
+      "id": null,
+      "query": "Apa itu penyadaran dan penumbuhan komitmen terhadap kesehatan mental?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Penyadaran dan Penumbuhan Komitmen terhadap Kesehatan Mental"
+      ],
+      "golden_answer": "Penyadaran dan penumbuhan komitmen adalah tujuan penting dari pendidikan masyarakat agar semakin banyak orang peduli dan berkomitmen menjaga kesehatan mental."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana kesehatan mental didefinisikan menurut Desjarlais, Eisenberg, Good & Kleinman (1995)?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Desjarlais, Eisenberg, Good & Kleinman (1995)",
+        "Kesehatan Mental"
+      ],
+      "golden_answer": "Menurut Desjarlais, Eisenberg, Good & Kleinman (1995), kesehatan mental adalah situasi di mana orang mampu mengaktualisasikan potensi dirinya, berfungsi aktif dan bermakna, serta dapat berkontribusi secara positif dalam keluarga dan masyarakatnya."
+    },
+    {
+      "id": null,
+      "query": "Mengapa pembangunan kesehatan mental harus dilakukan dalam spektrum yang luas?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pencegahan Masalah Kesehatan Mental",
+        "Penanganan Masalah Kesehatan Mental",
+        "Rehabilitasi",
+        "Pemulihan"
+      ],
+      "golden_answer": "Pembangunan kesehatan mental harus dilakukan dalam spektrum yang luas, mencakup pencegahan, penanganan, rehabilitasi, hingga pemulihan, agar seluruh kebutuhan masyarakat dapat terpenuhi secara holistik."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana Universitas Gadjah Mada mendukung kegiatan CPMH?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Universitas Gadjah Mada",
+        "Fakultas Psikologi UGM",
+        "CPMH"
+      ],
+      "golden_answer": "Universitas Gadjah Mada melalui Fakultas Psikologi menjadi institusi induk yang mendukung seluruh aktivitas CPMH di bidang kesehatan mental masyarakat."
+    },
+    {
+      "id": null,
+      "query": "Apa rekomendasi WHO terkait pembangunan kesehatan fisik dan mental?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "WHO",
+        "Kesehatan Fisik",
+        "Kesehatan Mental"
+      ],
+      "golden_answer": "WHO merekomendasikan bahwa pembangunan kesehatan fisik dan mental harus dilakukan secara berimbang, karena keduanya sangat penting untuk kemajuan masyarakat."
+    },
+    {
+      "id": null,
+      "query": "Apa inspirasi atau dasar pemikiran didirikannya CPMH?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "UNDP",
+        "Manusia Indonesia",
+        "CPMH"
+      ],
+      "golden_answer": "CPMH didirikan atas pemikiran bahwa manusia Indonesia, seperti dikatakan UNDP, adalah kekayaan bangsa yang sesungguhnya ketika sehat secara fisik dan mental, itulah yang mendorong pendirian CPMH."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana peran pengambil kebijakan dalam peningkatan kesehatan mental?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pengambil Kebijakan",
+        "Kesehatan Mental"
+      ],
+      "golden_answer": "Pengambil kebijakan sangat berperan dalam peningkatan kesehatan mental karena kebijakan yang inklusif dan berpihak akan membantu kesehatan mental masyarakat lebih terjamin."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana kolaborasi yang dapat dilakukan CPMH dengan lembaga lain?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "CPMH",
+        "Lembaga Lain"
+      ],
+      "golden_answer": "CPMH dapat berkolaborasi dengan lembaga-lembaga lain di dalam maupun luar negeri untuk memperkuat pendidikan, advokasi, dan layanan kesehatan mental masyarakat."
+    }
+  ]
+}

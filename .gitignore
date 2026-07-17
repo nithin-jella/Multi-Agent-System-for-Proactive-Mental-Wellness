@@ -1,0 +1,79 @@
+# General
+.DS_Store
+Thumbs.db
+dump.rdb
+.dev-pids
+.worktrees/
+
+# Python (Backend)
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+config.py
+
+# Environment files — ignore all, then re-allow examples
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Database files
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# FastAPI / Pydantic cache
+.mypy_cache/
+.pytest_cache/
+.tox/
+.coverage
+.cache/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Logs
+logs/
+*.log
+nohup.out
+
+# Node.js (Frontend)
+node_modules/
+.next/
+.out/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+dist/
+build/
+
+# Database
+database/*.db
+database/migrations/
+
+# Docker
+docker-compose.override.yml
+.dockerignore
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# MacOS
+.idea/
+*.iml
+backend/aika.db
+backend/*.db
+
+# Alembic
+# alembic/*.ini
+
+# Research evaluation outputs
+backend/research_evaluation/runs/
+
+# ONNX Models - Large binary files (502 MB), auto-downloaded on build
+# These are automatically rebuilt from HuggingFace during Docker build
+# See: backend/scripts/ensure_onnx_model.py
+backend/models/onnx/

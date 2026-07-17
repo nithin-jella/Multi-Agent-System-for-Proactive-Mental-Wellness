@@ -1,0 +1,2680 @@
+# SAMBUTAN
+# KATAPENGANTAR
+# DAFTARISI
+# BAB IPENDAHULUAN
+# BABII
+# BABIII
+# BAB
+IVPENCATATANDANPELAPORAN
+# BAB
+VTATAKELOLA
+# BAB VIPENUTUP
+# LAMPIRAN
+# PENYUSUN
+# REFERENSI
+ 
+362.2
+Ind p
+ 
+Katalog  Dalam  Terbitan.  Kementerian  Kesehatan RI
+362.2
+Ind Indonesia. KementerianKesehatanRI. Direktorat JenderalpPencegahan dan Pengendalian Penyakit
+PetunjukTeknisPencegahandanPengendalian Gangguan Mental Emosional.- Jakarta :
+ 
+362.2
+Ind p
+Diterbitkan  Oleh:
+KementerianKesehatanRI
+HakCiptadilindungiOlehUndang-Undang
+Dilarangmemperbanyakbukuinisebagianatauseluruhnyadalambentuk dan dengan cara apapun juga, baik secara mekanis maupun
+elektronik termasukfotocopyrekamandanlain-laintanpaseijintertulisdaripenerbit.
+ 
+Katalog  Dalam  Terbitan.  Kementerian  Kesehatan  RI
+362.2
+Ind Indonesia. KementerianKesehatanRI. Direktorat JenderalpPencegahan
+dan Pengendalian Penyakit
+PetunjukTeknisPencegahandanPengendalian Gangguan Mental Emosional.- Jakarta :
+DIREKTUR JENDERAL PENCEGAHAN DAN PENGENDALIAN PENYAKIT
+Puji  syukur  ke  hadirat  Tuhan  Yang  Maha  Kuasa,  yang  telah memberikanrahmatdankarunia-NyasehinggaBukuPetunjuk Teknis
+Pencegahan dan Pengendalian Gangguan Mental Emosional dapat diselesaikan.
+Gangguanmentalemosionalmerupakanmasalahkesehatan jiwayangbanyakterjadidimasyarakat.Deteksidanintervensi dini gangguan
+mental emosional dapat mencegah terjadinya gangguanjiwadanmeningkatkankualitashidup.Tentunyahal tersebutjugaperludiperkuatdenganupayapromosikesehatan untuk mencegah gangguan mental
+emosional.
+Salah  satu  indikator  kinerja  kegiatan  di  bidang  pencegahan dan pengendalian kesehatan jiwa dan Napza dalam rencanastrategiKementerianKesehatan2020-2024adalahpersentasependerita gangguan mental emosional pada penduduk>15tahunyangmendapatlayanandengantarget50%ditahun2024.Untukmencapainyatentulahperludukungandanpemahaman yang cukup
+terkait gangguan mental emosional bagi penentu kebijakan dan pelaksana program
+kesehatan jiwa di daerahsehinggadapatbersinergidanberkolaborasiuntukmemberikan
+layanankesehatanbagipenderitagangguanmentalemosional.Bukupetunjukteknisinimerupakanpanduanbagidaerahdalammelakukan
+pencegahan dan pengendalian gangguan mentalemosionalsebagaisalahsatuupayauntukmewujudkanderajatkesehatan jiwa yang optimal.
+Akhir  kata,  saya  ucapkan  terima  kasih  kepada  semua  pihak yang telah memberikan dukungan, dan kontribusi dalam
+penyusunan buku ini. Semoga Tuhan Yang Maha Kuasa senantiasamenaungilangkahkitabersamauntukmewujudkan masyarakat
+sehat jiwa.
+Plt.DirekturJenderalP2P
+ 
+Dr.dr.MaxiReinRondonuwu,DHSM,MARS
+Gangguan mental
+emosional merupakanmasalahkesehatan
+jiwa yang banyak dijumpai di Indonesia. Saat inidiperkirakansebanyak19jutaorangmenderitagangguanmentalemosional.
+Gangguan mental emosional dapat memengaruhi aktifititas sehari-hari yang
+berdampak pada menurunnya produktifitas dan kualitas hidup.
+Gangguan mental emosional bukanlah diagnosis gangguan jiwa sehingga upaya pencegahan dan pengendaliannya fokus pada promosi kesehatan jiwa danperevensigangguanjiwa.Upayatersebuttentunyamemerlukankolaborasidansinergidenganlintasprogramdanlintassektor. Sebagian besar penderita gangguan
+mental emosional tidak terdeteksi karena datang ke fasilitas pelayanan
+kesehatan dengan keluhan-keluhan fisik. Fasilitas pelayanan kesehatan primer
+sebagai lini terdepan diharapkan mampu melakukan deteksi gangguan mental
+emosional sehingga dapat segeradiintervensiuntukmencegahterjadinyagangguanjiwa.
+Dalam rangkamengoptimalkanupaya pencegahandanpengendalian gangguan mental emosional maka diperlukan buku petunjuk
+teknis sebagai acuan bagi pengelola programdantenagakesehatandidinaskesehatandanfasilitaspelayanankesehatan primer. Buku Petunjuk Teknis Pencegahan dan Pengendalian
+Gangguan Mental Emosional akan membahas terkait layanan penderita gangguan
+mental emosional, upaya promotif dan preventif, pencatatan dan pelaporan serta
+tatakelola.
+Akhirkata,terimakasihkepadasemuapihakyangtelah
+memberikandukungandankontribusidalampenyusunanbukuini.
+ Jakarta,Maret2021 Direktur P2MKJN
+dr.SitiKhalimah,Sp.KJ,MARS
+HalamanJudul ........................................................................... i
+Sambutan...................................................................................ii
+KataPengantar..........................................................................iii
+DaftarIsi......................................................................................v
+BAB IPENDAHULUAN............................................................1
+1.1. LatarBelakang ................................................................. 1
+1.2. Tujuan ................................................................................ 5
+1.3. Sasaran ............................................................................. 5
+1.4. LandasanHukum ............................................................. 5
+1.5. RuangLingkup ................................................................. 7
+BAB II LAYANAN PENDERITA GANGGUAN MENTALEMOSIONAL  9
+2.1. Pengertian ........................................................................ 9
+2.2. DefinisiOperasional ........................................................ 9
+2.3. IndikatorKinerjaKegiatan(IKK) ..................................... 9
+2.4. CaraPenghitunganIndikator ......................................... 10
+2.5. PencapaianSasaranIndikator ...................................... 11
+2.6. PenemuanKasus ............................................................ 13
+BABIIIUPAYAPROMOTIFDANPREVENTIF .................... 27
+3.1. UpayaPromotif ................................................................... 27
+3.2. UpayaPreventif ................................................................. 35
+BABIVPENCATATANDANPELAPORAN...........................51
+4.1. PencatatandanPelaporandiFKTP/Puskesmas ........ 51
+4.2. PencatatandanPelaporandiDinasKesehatan ......... 52
+4.3. Pelaporandariorganisasiprofesi/lembaganon pemerintah yang melakukan deteksi dini
+di
+komunitas ......................................................................... 52
+BABVTATAKELOLA...............................................................57
+5.1. Perencanaan .................................................................... 57
+5.2. Pelaksanaan .................................................................... 58
+5.3. Monitoring ......................................................................... 58
+5.4. Evaluasi ............................................................................ 58
+BAB VIPENUTUP.....................................................................63
+Lampiran.....................................................................................64
+Penyusun....................................................................................90
+Referensi.....................................................................................92
+1.1. Latar Belakang
+Kesehatan Jiwa
+adalah kondisidimanaseorang individudapatberkembangsecarafisik,mental,spiritual, dan sosial sehingga individu
+tersebut menyadari kemampuan sendiri, dapat mengatasi tekanan, dapatbekerja secara produktif, dan mampu memberikan
+kontribusiuntuk komunitasnya. Kesehatan jiwa merupakan salah satu masalah
+kesehatan di dunia termasuk di Indonesia. Terdapat berbagai macam gangguan jiwa
+dengan gejala yang berbeda-beda. Karakteristik gangguan jiwa secara umum yaitu
+kombinasi pikiran yang abnormal,emosi, persepsi, perilaku dan hubungan dengan
+orang lain. Determinan kesehatan dan gangguan jiwa tidak hanya terkaitdengankondisiindividusepertikarakteristikdiatas tapi juga faktor sosial budaya,
+ekonomi, politik danlingkunganseperti:kebijakannasional,perlindungansosial,dandukungankomunitas.Faktorpsikologisyaitukegagalan,kekecewaan,traumayangmengakibatkanstresdanfaktorbiologisyaitugenetik,gizidaninfeksiperinatalsertakondisilingkungan yang buruk juga merupakan faktor yangberkontribusiterhadapterjadinyagangguanjiwa.Gangguanjiwa dapat terjadi pada anak sampai lanjut usia. Sebesar 50% gangguan
+jiwa berawal pada usia 14 tahun namun sebagian besar tidak terdeteksi dan
+diobati.
+Beban akibat
+gangguan jiwa terus bertambah danberdampak
+signifikan terhadap kesehatan, sosial, hak asasimanusia dan konsekuensi
+ekonomi di berbagai negara(WHO,2019).Sistemkesehatanbelummeresponsdenganadekuatbebangangguanjiwaini.Kesenjanganpengobatanmasihcukupbesar,dinegaraberpendapatanrendahdanmenengahberkisarantara76%-85%penderitagangguanjiwa yang tidak mendapatkan pengobatan.
+Gangguanmentalemosionaladalahsuatukondisi yang mengindikasikan seseorang mengalami perubahan psikologisyangmungkinmerupakansebuahkondisinormal, tetapi dapat juga merupakan
+kondisi patologis. Istilah gangguan mental emosional mengacu pada istilah yang
+digunakan pada survei kesehatan rumah tangga (SKRT)tahun1995.Beberapasurveidinegaralainmenggunakanistilah gangguan mental emosional merujuk pada istilah "distress
+psikologik" atau "mental distress" (Abbo et al, 2008; Gelaye et
+al, 2012). Penggunaan istilah gangguan mental emosional sebagai salah satu
+indikator kondisikesehatanjiwapendudukIndonesialebihbanyakbertujuanagar masyarakat serta para akademisi dan professional mengerti bahwa
+alat ukur yang digunakan adalah samadengan
+survei sebelumnya (Balitbangkes, 2014). Seseorangyangmengalamigangguanmentalemosionaladalahorangyangmempunyaimasalahfisik,mental,sosial,pertumbuhan danperkembanganataukualitashidupsehinggamemiliki risiko mengalami gangguan jiwa,
+atau disebut Orang Dengan Masalah Kejiwaan (ODMK).
+Survei  kesehatan  jiwa  penduduk  Indonesia  dilakukan untuk pertama kalinya menggunakanSelf Reporting
+Questionnaire(SRQ). Jumlah penduduk yang mengikuti survei pada saat itu
+tidak sebanyak jumlah subyek Riskesdas tahun 2007, 2013 dan 2018. Prevalensi
+gangguan mental emosional berdasarkan SKRT 1995adalah140per1000penduduk(14%).Berdasarkanlaporan
+hasil Riskesdas 2007, 2013 dan 2018
+diketahui bahwa prevalensi gangguan mental emosional pada penduduk Indonesia
+adalah sebesar 11,6 % (2007), 6,0% (2013), dan9,8%(2018).Halinimenunjukkanangkasurveimasalah gangguan mental emosional di
+Indonesia cukup tinggi.HasilRiskesdas2018didapatkanprevalensitertinggipadakelompok
+usia > 75 tahun sebesar 15,8% dan terendah pada usia 25 - 24 tahun sebesar
+8,5%. Sedangkan berdasarkan jenis kelamin prevalensi pada perempuan (12,1%)
+lebih tinggi dibanding laki-laki (7,6%). Meskipun tidak menyebabkan kematian
+secara langsung namun gangguanmentalemosionaldapatmemengaruhiaktifitassehari-hari yang berdampak terhadapmenurunnyaproduktifitas. Apalagi pada tahun 2030-2040, Indonesia
+diprediksiakanmengalamimasabonusdemografi,yaknijumlahpendudukusiaproduktif(berusia15-64tahun)lebih
+besardibandingkanpendudukusiatidakproduktif(berusiadi bawah 15 tahun dan di atas 64 tahun). Pada periodetersebut,pendudukusiaproduktifdiprediksimencapai64%dari
+total jumlah penduduk yang diproyeksikan sebesar 297 juta jiwa. Penduduk usia
+produktif diharapkan dapat menjadi sumber daya manusia yang unggul dan mampu
+berdaya saing.
+Kondisi tersebut
+tentunya perlu mendapatkan perhatianyangseriusdanupayayangkomprehensifagargangguanmentalemosionaldapatdicegahdandikendalikan. Sebagaimana tercantum dalam Undang-UndangNo.18tahun2014,upayakesehatanjiwadilakukanuntuk mewujudkanderajat kesehatan jiwa yang optimal bagi
+setiap individu, keluarga dan masyarakat denganpendekatanpromotif,preventif,kuratifdanrehabilitatifyangdiselenggarakansecara menyeluruh,terpadudanberkesinambunganolehPemerintah,PemerintahDaerah dan masyarakat.
+Kementerian
+Kesehatan dalam rencana strategistahun2020-2024telahmemasukkansalahsatuindikatorkinerja kegiatandalamprogram
+pencegahandanpengendalianmasalahkesehatanjiwadanNapzaadalah persentase penderita gangguan
+mental emosional pada penduduk>15 tahun yang mendapat layanan
+dengan target50%ditahun2024.Halinitentunyaperludidukung
+denganpemahamanyangcukupterkaitgangguanmentalemosionalbagipenentukebijakandanpelaksanaprogramkesehatanjiwadidaerahsehinggadapatbersinergidan berkolaborasiuntukmemberikanlayanankesehatanbagi penderitagangguanmentalemosionalsebagaisalahsatu upaya mewujudkan
+derajat kesehatan jiwa yang optimal. Sebagai salah satu acuanpenyelenggaraan upayapencegahandanpengendaliangangguanmentalemosionalmaka perlu disusun Petunjuk Teknis Pencegahan dan Pengendalian Gangguan
+Mental Emosional.
+1.2. Tujuan
+1.1.1. TujuanUmum
+Memberikanpanduanteknisupayapencegahandan pengendalian gangguan mental emosional
+1.1.2. TujuanKhusus
+a. Meningkatkanpemahamantentangkebijakan pencegahan dan pengendalian gangguan mental emosional.
+b. Melaksanakan upaya promotif dan preventif gangguan mental
+emosional.
+c. Melaksanakan surveilans gangguan mentalemosional.
+d. Melaksanakan  monitoring  dan  evaluasi  program pencegahan dan
+pengendalian gangguan mental emosional.
+1.3. Sasaran
+Sasaranyangakanmenggunakanpetunjukteknisiniadalah tenagakesehatan/pengelolaprogramdiDinasKesehatan Provinsi/Kabupaten/Kota dan
+Puskesmas/FKTP.
+1.4. LandasanHukum
+a. Undang- UndangDasarNegaraRItahun1945
+b. Undang- Undangnomor4tahun1979tentangKesejahteraan Anak
+c. Undang-Undangnomor13tahun1998tentangKesejahteraan Lansia
+d. Undang-Undang  nomor  29  tahun  2004  tentang  Praktik Kedokteran
+e. Undang-Undang nomor 36 tahun 2009 tentangKesehatan
+f. Undang-Undangnomor44tahun2009tentangRumah Sakit
+g. Undang-Undang nomor 23 tahun 2014 tentang Pemerintah Daerah
+h. Undang-Undang nomor 18 tahun 2014 tentang Kesehatan Jiwa
+i. Undang-Undang nomor 35 tahun 2014 tentang Perubahan Atas
+Undang-Undang Nomor 23 tahun 2002 tentang Perlindungan Anak
+j. Undang-Undang Nomor 38 tahun 2014 tentangKeperawatan
+k. Undang-Undang nomor 17 Tahun 2016 TentangPenetapan Peraturan Pemerintah Pengganti Undang-Undang
+Nomor 1 Tahun 2016 Tentang Perubahan KeduaAtasUndang-UndangNomor23Tahun2002Tentang PerlindunganAnak
+Menjadi Undang-Undang
+l. Undang- Undang nomor 8 tahun
+2016tentangPenyandang Disabilitas
+m. Peraturan Pemerintah nomor 2 tahun 2018 tentang Standar
+Pelayanan Minimal
+n. PeraturanMenteriKesehatannomor25tahun2014 tentang Upaya Kesehatan Anak
+o. PeraturanMenteriKesehatanNomor79tahun2014tentangPelayananGeriatridiRumahSakit
+p. PeraturanMenteriKesehatanNomor67tahun2015tentangPelayananKesehatanLansiadiPuskesmas
+q. PeraturanMenteriKesehatannomor39tahun2016 tentangProgramIndonesiaSehatdenganPendekatanKeluarga
+r. Peraturan Menteri Kesehatan nomor 4 tahun 2019tentangStandarTeknisPemenuhanMutuPelayananDasar Pada Standar Pelayanan Minimal BidangKesehatan
+s. PeraturanMenteriKesehatannomor43tahun2019 tentang Puskesmas
+t. PeraturanMenteriKesehatannomor21tahun2020 tentangRencanaStrategisKementerianKesehatan
+Tahun 2020 - 2024
+1.5. RuangLingkup
+Petunjuk teknis ini meliputi beberapa
+pokok bahasan tentang indikator penderita gangguan mental emosional yang
+mendapat layanan, pencegahan dan pengendalian gangguan mental emosional melalui
+upaya promotif dan preventif,pencatatandanpelaporansertatatakelola.
+LAYANAN PENDERITAGANGGUAN MENTAL EMOSIONAL
+2.1. Pengertian
+Gangguan mental emosional (GME) bukan
+diagnosa gangguan jiwa. GME adalah perubahan dalam pikiran, perasaan dan
+perilaku yang dapat mengganggu aktivitas sehari-hari,tapitidakdijumpaitandadangejalagangguan
+dalam daya nilai realita. Hendaya atau disfungsi dalam pekerjaandankehidupansehari-harijugatidakditemukan. Secara umum GME juga dapat
+diartikan adanya tekanan emosional atau masalah kesehatan jiwa.
+2.2. DefinisiOperasional
+PenderitaGMEyangmendapatlayananadalahpenderita gangguan mental emosional pada
+penduduk>15 tahun berdasarkan hasil deteksi dini dengan menggunakan
+instrumen SRQ 20 dengan cut of point>6 pada usia > 18 tahun dan
+instrumen SDQ dengan hasil ambang atauabnormalpadausia15-18tahunyangmendapatkanlayanankesehatanberupa:promosikesehatan,dan/atauprevensi, dan/ataukonseling,dan/ataupenangananawal,dan/atau
+rujukan dan/ atau penanganan lanjutan. (Pedoman TataKelolaPenyelenggaraanUpayaKesehatanJiwa)
+2.3. IndikatorKinerjaKegiatan(IKK)
+Persentase  penderita  Gangguan  Mental  Emosional  (GME) pada penduduk>15 tahun yang mendapat layanan.
+Tujuan indikator :
+a. Meningkatkan  pengetahuan  dan  kesadaran  masyarakat akanpentingnya
+penanganan gangguanmentalemosionaluntukmembantuseseorangmenjalanihidupsecara
+berkualitas;
+b. Mengenali  secara  dini  gangguan  mental  emosional  yang dapat memengaruhi produktifitas;
+c. Meningkatkan akses layanan terhadap
+gangguan mental emosional;
+d. Menurunkan stigma terhadap masalah kesehatan jiwa dan gangguan
+jiwa.
+Target  capaian  IKK  terkait  GME  sesuai  Renstra  Kementerian Kesehatan tahun 2020-2024 sebagai berikut :
+2020
+2021
+2022
+2023
+2024
+10%
+20%
+30%
+40%
+50%
+2.4. CaraPenghitunganIndikator
+JumlahpenderitaGME>15tahunyang
+Rumus Perhitungan
+=
+Catatan:
+mendapat layanan dalam kurun waktusatu tahunJumlah estimasi penderita GME pada penduduk>15 tahun di wilayahnya
+berdasarkan angka prevalensi Riskesdas terbaru
+X100%
+Numerator : Jumlah penderita GME pada
+penduduk>15tahundiwilayahkerjaKab/Kotayangmendapatkanpelayanankesehatanjiwadalam
+kurun waktusatutahun.PenderitaGME:penduduk>15tahunyangdilakukandeteksidini dengan
+menggunakan instrumen SRQ 20 dengan cut
+of point>6 atau SDQdengan hasil borderline/abnormal.
+Denominator : Jumlah penderita GME pada penduduk>15tahunberdasarkanestimasidiwilayahkerjaKab/Kotadalamkurun
+waktu satu tahun yang sama.
+Hasil estimasi penderita GME pada
+penduduk>15 tahun diperoleh dari prevalensi GME data Riskesdas
+terbarudikalikan jumlah penduduk usia>15 tahun di wilayah tersebutdalam kurun waktu yang sama.
+ContohPerhitungan:
+PrevalensiGMEdiKabupaten"S"adalah13%berdasarkan
+data Riset Kesehatan Dasar, dan jumlah penduduk>15tahundiKabupatentersebutpadatahun2021adalah290.000orang.
+JumlahestimasipenderitaGMEpadapenduduk>15tahun di Kab "S" tahun 2021
+adalah (13/100) x 290.000 = 37.700 penderita GME. Target capaian indikator
+penderita GME yang mendapat layanan pada tahun 2021 sebesar 20%,yaitu(20/100)x37.700=7.540penderitaGME.Bila jumlah penderita GME
+yang mendapat pelayanan kesehatan berupa promosi kesehatan dan/atau prevensi,
+dan/atau konseling dan/atau penanganan awal, dan/atau rujukan, dan/atau
+penanganan lanjut sebesar 7.600, maka persentasependeritaGMEyangmendapatlayananadalah:(7.600/37.700)x100%=20,2%.JikainiterjadimakacapaianIKK melebihi target pada tahun tersebut.
+2.5. PencapaianSasaranIndikator
+Terdapat  beberapa  langkah  yang  dilakukan  untuk  pencapaian sasaran indikator, yaitu:
+a. Dinas  Kesehatan  Kab/Kota  menentukan  sasaran:  jumlah penduduk usia>15 tahun diwilayahKab/ KotaberdasarkandatasasaranpendudukprogramkesehatanyangdikeluarkanolehPusdatinKemenkesberdasarkan
+proyeksi  data  Badan  Pusat  Statistik  (BPS)
+b. Dinas  Kesehatan  Kab/Kota  menentukan  prevalensi  GME diKab/KotaberdasarkanhasilRiskesdasterbaru
+c. DinasKesehatanKab/Kotamenentukantargetsasaran pertahun sesuai Renstra Kemenkes.
+Misal tahun 2021:PenderitaGME>15tahunmendapatkanlayanansebesar20%
+d. DinasKesehatanKab/Kotamenentukantargetsasaran Kab/ Kota sebagai berikut:
+ 
+Keterangan:
+A: jumlah penduduk usia>15 tahun di wilayah
+Kab/ Kota B: prevalensi GME di Kab/ Kota
+C:  target  indikator  GME  pertahun  sesuai  Renstra  Kemenkes
+e. Dinas Kesehatan
+Kab/ Kota mendistribusikan target sasaran kepada puskesmas di wilayah kerja,
+sesuai proporsi jumlah penduduk
+f. Dinas Keshatan Kab/Kota menentukan target sasaran tiap Puskesmas
+melalui penghitungan sebagai berikut
+ 
+Keterangan:
+D :Jumlahpendudukusia>15tahunKab/Kota
+E :Jumlahpendudukusia>15tahunwilayahkerjaPuskesmas
+F :TargetsasaranpenderitaGME>15tahunKab/Kota
+g. Puskesmas
+membagi target sasaran penderita GME yangmendapatlayanandalamkurunwaktusatutahun menjaditargettiapbulansehinggamemudahkanuntuk monitoring dan evaluasi.
+h. Pendudukusia>15tahunyangtelahdilakukanskirining dan memenuhi kriteria GME kemudian mendapatkan layanan promosi
+kesehatan/ konseling/penanganan awal/penangananlanjutanmakadicatatdandilaporkansebagaicapaianPenderitaGME>15tahunmendapatkanlayanan.
+2.6. Penemuan  Kasus
+Kasus  penderita  GME  didapatkan  melalui  deteksi  dini  dengan instrumenSDQuntukusia15-18tahundanSRQ20untuk
+usia > 18 tahun. Deteksi dini dapat dilakukan melaluipelayanandidalamgedung(layananumum,layananpenyakitkronis, kesehatan ibu, PKPR, dll) maupun luar gedungPuskesmas(posyandu,posbindu,sekolah,perguruantinggi,panti/lembagasosial,tempatkerja,lembagapemasyarakatan/lembagapembinaankhususanak,dll)olehtenagakesehatandan/ataunontenagakesehatanterlatihsecaratatapmuka
+dan/ataudaring.Pelaksanaandeteksidiniolehtenaganon kesehatandilakukandibawahsupervisitenagakesehatan.
+Deteksi  dini  dilakukan  bagi  semua  penduduk  dengan  prioritas pada kelompok berisiko GME yaitu:
+Tabel1.KelompokBerisikoGME
+Lingkup
+Kelompokberisiko
+Fasyankes(FKTP&FKRTL
+- Pasien penyakit kronis:
+  DM, Hipertensi (stroke,  gagal  ginjal,  penyakit  jantung) TBC, Kanker, HlV-AlDS, dll
+- Pasien  dengan  penyakit  fisik  yang  tidak membaik setelah diobati denganadekuat.
+- lbuhamil dan postpartum
+- Diharapkan pasien di RS
+  dilakukan deteksi dini GME dengan SDQ dan SRQ20danmasukdalamakreditasiRS
+LembagaPendidikanMasyarakat
+- Siswa  baru  di  SMP/SMA  dan  sederajat (usia  >  15  tahun)  serta  perguruan  tinggi
+- Siswakorbandanpelakuperundungan
+- Masyarakatprasejahteraataurawan
+  sosial ekonomi
+- Pekerjamigran
+- Pengungsi
+- KeluargapasienODGJdanpenyakitkronis
+- Orangdengandisabilitasdankeluarganya
+- Korbantindakkekerasan
+- Pekerjasekskomersial(TunaSusila)
+- Anak jalanan/anak & balita
+  terlantar/gelandangandanpengemis usia remaja
+- Anakyangmemerlukanperlindungan khusus (Anak Berhadapan
+  denganHukum/ABH, pengungsi, pencari suakadsb)
+- Kelompokminoritas
+- Korbantrafficking
+- Korban dan penyintas bencana alam/nonalamdanbencanasosial
+- Masyarakatterpencil
+- Orangdenganvariasipreferensiseksual
+- Lansiayangtinggalsendiri/hanya dengan
+  pasangannya
+- Lansia  yang  membutuhkan  perawatan
+jangkapanjangdankeluarganya
+Lapas/Rutan/LPKA
+-Wargabinaanpemasyarakatandi
+Lapas/Rutan/LPKAdankeluarganya
+Pantisosial
+- Penghunipanti(wargabinaan)
+- Penjagapanti
+Lembagarehabillitasipenyalahgunaan
+Napza
+-Klien/pasiendilembagarehabilitasi
+penyalahgunaanNapzadankeluarganya
+Sebagian besar penderita GME datang
+ke fasyankes dengankeluhan-keluhan fisik
+sehingga perlu dilakukan penapisan kasusGME melalui skema berikut:
+ 
+Sedangkan  untuk  penemuan  kasus  melalui  deteksi  dini  sebagai berikut :
+AlurpenemuankasusGMEdenganskriningSDQdanSRQ
+20 di semua tatanan
+ 
+SDQ( StrengthandDifficultiesQuestionnaire )
+• Deteksi  dini  dapat  menggunakan  kuesioner  SDQ  yang  mudah dilakukanbaikdisekolahmaupunkomunitaslainnya.
+• SDQ adalah kuesioner untuk deteksi dini masalah perilaku danemosipadaanakdanremajaberusia4-18tahun.
+• Mengacu pada definisi operasional pada Bab 2 maka instrumen yang
+digunakan adalah SDQ untuk usia 11 - 18tahun.
+• Berisi25pernyataanyangterdiridari:
+1) DomainMasalahemosi(5butir);
+2) DomainMasalahperilaku(5butir);
+3) DomainHiperaktivitas/inatensi(5butir);
+4) DomainMasalahhubungandengantemansebaya(5butir);
+5) DomainPerilakupro-sosialyangmendukung(5butir).
+• Pernyataan dalam SDQ terdiri dari 5 pernyataan dan dikelompokkan
+dalam 5 domain dan masing-masing terdiri dari 5 pernyataan. Domain masalah
+emosi,perilaku,hiperaktifitasdanmasalah dengantemansebayamenggambarkan kesulitan sedangkan domain perilaku prososial
+menggambarkan kekuatan.
+• Menentukan nilai masing- masing domain dengan menjumlahkannilaidaripernyataandomainmasalahemosi,masalahtingkahlaku,masalahperilakuhiperaktivitas,masalahdengan teman sebaya dan prososial.
+• Instrumen  SDQ  (11-18  th)  dapat  diisi  sendiri  oleh  remaja  atau melaluiwawancaraolehtenagakesehatanataunontenaga
+kesehatan terlatih
+Tabel 2.Kuesioner SDQusia11-18tahun
+SKRININGDETEKSIDINIMASALAHEMOSIDANPERILAKUDENGAN MENGGUNAKAN KUISIONER KEKUATAN DAN KELEMAHAN (STRENGTH AND
+DIIFICULTIES QUESTIONNAIRE-SDQ)
+Untuk setiap pernyataan, beri tanda pada kotak Tidak Benar. Agak
+Benar atau Selalu Benar. Akan sangat  membantukamiapabilakamumaumenjawabsemuapernyataansebaikmungkinmeskipunkamutidakyakin  benar. Berikan jawabanmu sebagaimana sesuatu telah terjadi pada
+dirimu selama enam bulan terakhir.
+Nama  ......................................................................................................
+Tanggal  lahir  ...........................................................................................
+Laki- laki/Perempuan
+Tidak  Benar
+Agak  Benar
+Selalu  Benar
+1.  Saya  berusaha  baik  kepada  orang  lain.  Saya  peduli  dengan  perasaan  mereka  (pro)
+2. Sayagelisahsayatidakdapatdiamuntukwaktulama(H)
+3. Saya  sering  sakit  kepala,  sakit  perut  atau  macam-macam  sakit  lainnya  (E)
+4.  Kalaumempunyaimainan,CD,ataumakanan,Sayabiasanyaberbagidenganorang  lain(Pro)
+5.  Sering  sulit  sangat  marah  dan  sering  tidak  dapat  mengendalikan  kemarahan  saya  (C)
+6. Saya  lebih  suka  sendiri  daripada  bersama  dengan  orang  yang  seusiaku  (P)
+7. Saya  biasanya  melakukan  apa  yang  diperintahkan  oleh  orang  lain  (C)
+8. Sayabanyakmerasa  cemasataukhawatirterhadapapapun(E)
+9. Saya  selalu  siap  menolong  jika  seseorang  terluka,  kecewa  atau  merasa  sakit  hati  (Pro)
+10.  Bila  sedang  gelisah  atau  cemas  badan  saya  sering  bergerak-gerak  tanpa  saya  sadari  (H)
+11. Sayamempunyaisatuorangtemanbaikataulebih(P)
+12. Sayaseringbertengkardenganoranglain.Sayadapatmemaksaoranglainmelakukan  apa
+yang saya inginkan (C)
+13.  Saya  sering  merasa  tidak  bahagia,  sedih  atau  menangis  (E)
+14. Orang  lain  seusia  saya  umumnya  menyukai  saya  (P)
+15. Perhatian  saya  mudah  teralih,  saya  sulit  untuk  memusatkan  perhatian  pada  apapun  (H)
+16.  Saya  merasa  gugup  dalam  situasi  baru,  saya  mudah  kehilangan  rasa  percaya  Diri  (E)
+17. Saya  bersikap  baik  terhadap  anak-anak  yang  lebih  muda  dari  saya  (Pro)
+18. Saya  sering  dituduh  berbohong  atau  berbuat  curang  (C)
+19. Saya  sering  diganggu  atau  dipermainkan  oleh  anak-anak  atau  remaja  lainnya  (P)
+20. Saya  sering  menawarkan  diri  untuk  membantu  orang  lain  (orang  tua,  guru,  anak-anak)  (Pro)
+21.  Sayaberpikirterlebihdahuluakibatyangakanterjadi,sebelumberbuatataumelakukan  sesuatu(H)
+22. Sayamengambilbarangyangbukanmiliksayadarirumah,sekolahataudarimanasaja(C)
+23.  Saya  lebih  mudah  berteman  dengan  orang  dewasa  daripada  dengan  orang  seusia  Saya  (P)
+24.  Banyak  yang  saya  takuti,  saya  mudah  menjadi  takut  (E)
+25.  Sayamenyelesaikanpekerjaanyangsedangsayalakukan.Sayamempunyaiperhatian  yang
+baik terhadap apapun (H)
+0 12
+0 12
+0 12
+0 12
+0 12
+0 12
+2 10
+0 12
+0 12
+0 12
+2 10
+0 12
+0 12
+2 10
+0 12
+0 12
+0 12
+0 12
+0 12
+0 12
+   2 10
+0 12
+0 12
+0 12
+2 10
+Tanda  tangan  ..................
+Tanggal hari  ini  .................
+Terima  kasih  banyak  atas  bantuan  anda
+INTERPRETASIDANKESIMPULANPEMERIKSAANSDQ
+1. SKORKESULITAN
+a. GejalaEmosional(E)
+b. MasalahPerilaku(C)
+c. Hiperaktivitas  (H)
+d. Masalah  Teman  Sebaya  (P)
+  MenghitungTotalSkorKesulitan=SkorE+C+H+P Penilaian :
+Usia<11tahun:
+Usia11-18tahun:
+JikaSkor=
+JikaSkor=
+0-13:Normal
+0-15:Normal
+14- 15 :Ambang/Boderline
+16-19:Ambang/Boderline
+16-40:Abnormal
+20-40:Abnormal
+a. GejalaEmosional(E)
+- Seringmengeluhsakitpadabadan(sepertisakitkepala, perut dll)
+- Banyakkekhawatiran
+- Seringtidakbahagia,menangis
+- Gugupataumudahhilangpercayadiri
+- Mudahtakut
+Penilaian:
+Usia<11tahun:
+Usia11-18tahun:
+JikaSkor=
+JikaSkor=
+0- 3 :Normal
+0- 5 :Normal
+4 :Ambang/Boderline
+6 :Ambang/Boderline
+5-10:Abnormal
+7-10:Abnormal
+b. MasalahPerilaku(C)
+- Seringmarahmeledak-ledak.
+- Umumnyaberperilakutidakbaik,tidakmelakukanapa yang diminta orang dewasa.
+- Seringberkelahi.
+- Seringberbohong,curang.
+- Mencuri.
+Penilaian:
+Usia<10tahun:
+Usia11-18tahun:
+JikaSkor=
+JikaSkor=
+0- 2 :Normal
+0-3:Normal
+3 :Ambang/Boderline
+4 :Ambang/Boderline
+4-10:Abnormal
+10 :Abnormal
+c. Hiperaktivitas  (H)
+- Gelisah,terlaluaktif,tidakdapatdiamlama.
+- Terusbergerakdenganresah.
+- Mudahteralih,konsentrasibuyar.
+- Tidakberpikirsebelumbertindak
+- Tidakmampumenyelesaikantugassampaiselesai.
+Penilaian:
+Usia<11tahun:
+Usia11-18tahun:
+JikaSkor=
+JikaSkor=
+0- 5 :Normal
+0- 5 :Normal
+6 :Ambang/Boderline
+6 :Ambang/Boderline
+7-10:Abnormal
+7-10:Abnormal
+d. Masalah  Teman  sebaya  (P)
+- Cenderungmenyendiri,lebihsenangmainsendiri.
+- Tidakpunya1temanbaik.
+- Tidakdisukaianak-anaklain.
+- Diganggu/digerakolehanaklain.
+- Bergaul  lebih  baik  dengan  orang  dewasa  dari  pada  anak- anak.
+Penilaian
+Usia<11tahun:
+Usia11-18tahun:
+JikaSkor=
+JikaSkor=
+0- 2 :Normal
+0-3:Normal
+3 :Ambang/Boderline
+4-5:Ambang/Boderline
+4-10:Abnormal
+6-10:Abnormal
+2. SKORKEKUATAN
+PerilakuPropososial(Pro)
+- Mampumempertimbangkanperasaanoranglain.
+- Bersediaberbagidengananaklain.
+- Sukamenolong.
+- Bersikapbaikpadaanakyanglebihmuda.
+- Seringmenawarkandirimembantuoranglain.
+Penilaian:
+Usia<11tahun:
+Usia11-18tahun:
+JikaSkor=
+JikaSkor=
+6-10:Normal
+6-10:Normal
+5 :Ambang/Boderline
+5 :Ambang/Boderline
+0- 4 :Abnormal
+0- 4 :Abnormal
+• Penentuansuatu'kasus'berdasarkanSDQ:
+- Nilaiabnormalberartisuatu'kasus'yangbermaknabagi anak atau remaja yang memiliki
+masalah perilaku dan emosi. Kategori ini menjadi perhatian utama dan harus
+dilakukan pemeriksaan lanjutan.
+- Nilai ambang berarti kita harus memperhatikan bahwa anak atau
+remaja tersebut memiliki potensi untukmengalamimasalahemosidanperilaku.Kategoriinijugaharus
+dimasukkan ke dalam kasus dan membutuhkan pemeriksaan lanjutan.
+- Jika  ada  nilai  ambang  atau  abnormal  di  salah  satu  domain atau  lebih  maka  masuk  dalam  kasus  GME
+b.SRQ20 ( SelfReportingQuestionnaire 20)
+• SRQ merupakan salah satu alat ukur yang dapat digunakan untuk
+mengetahui adanya gangguan mental emosional pada seseorang dengan cara yang
+relatifmurah,mudahdanefektifDikatakanmurahkarenadapatdilakukan
+dalam waktu yang cukup singkat serta tidak memerlukan sumber daya manusia
+khususuntukmenilainya.
+• SRQ efektif karena memiliki validitas yang cukup baik dalam hal
+sensitivitas dan spesifitasnya.
+• Kuesioner yangdikembangkanoleh WHOuntukpenyaringan gangguan jiwa dan
+keperluan penelitian yang telah dilakukan diberbagai negara.
+• Terdiridari20pertanyaan,apabilaminimalmenjawab6 jawaban "ya", maka responden
+diindikasikan memiliki gangguan mental emosional.
+• MelaluiSRQdapatdiidentifikasigejala-gejalagangguanmentalemosionalsepertigejaladepresi,gejalaansietas,gejala kognitif, gejala somatik dan gejala penurunanenergi.
+• Analisis kluster instrumen SRQ-20 oleh Carmo dkk (2018) menemukan4klustergejalayaitudepresi/cemas,somatik, penurunan energi,
+pikiran depresi.
+Tabel
+3 KuesionerSRQ-20
+Petunjuk
+: Bacalah petunjuk ini seluruhnya
+sebelum mulaimengisi.Pertanyaanberikutberhubungandenganmasalahyangmungkin
+mengganggu Anda selama 30 hari terakhir. Apabila Anda menganggap pertanyaan itu
+Anda alami dalam 30 hari terakhir, berilah tanda silang (X) pada kolom Y
+(berarti Ya). Sebaliknya, Apabila Anda menganggap pertanyaan itu tidak Andaalamidalam30hariterakhir,berilahtandasilang(X)pada
+kolom T (Tidak). Jika Anda tidak yakin tentang jawabannya, berilah jawaban yang
+paling sesuai di antara Y dan T. Kami tegaskan bahwa jawaban Anda bersifat
+rahasia dan akandigunakanhanyauntukmembantupemecahanmasalahAnda.
+No
+Pertanyaan
+y
+T
+1
+Apakahandaseringmenderitasakitkepala?
+2
+Apakahandatidaknafsumakan?
+3
+Apakahandasulittidur?
+4
+Apakahandamudahtakut?
+5
+Apakahandamerasategang,cemasataukuatir?
+6
+Apakahtanganandagemetar?
+7
+Apakahpencernaanandaterganggu/buruk?
+8
+Apakahandasulituntukberpikirjernih?
+9
+Apakahandamerasatidakbahagia?
+10
+Apakahandamenangislebihsering?
+11
+Apakahanda  merasa  sulit  untuk  menikmati  kegiatan  sehari-hari?
+12
+Apakahandasulituntukmengambilkeputusan?
+13
+Apakahpekerjaanandasehari-hariterganggu?
+14
+Apakah  anda  tidak  mampu  melakukan  hal-hal  yang  bermanfaat  dalam  hidup?
+15
+Apakahandakehilanganminatpadaberbagaihal?
+16
+Apakahandamerasatidakberharga?
+17
+Apakahandamempunyaipikiranuntukmengakhirihidup?
+18
+Apakahandamerasalelahsepanjangwaktu?
+19
+Apakahandamengalamirasatidakenakdiperut?
+20
+Apakahandamudahlelah?
+• Penentuansuatu'kasus'berdasarkanSRQ:
+- Jika terdapat kurang dari 6 (enam) jawaban YA, maka dilakukanpromosikesehatantentangpolahidupsehat;
+- Jika terdapat 6 (enam) atau lebih jawaban YA, berarti masuk'kasus'GMEmakasebaiknyadilakukanpromosi kesehatan
+dan dirujuk ke fasyankes untuk dilakukan prevensi gangguan jiwa dan pemeriksaan
+lanjutan.Pemeriksaanlanjutanyangdilakukanadalahwawancarapsikiatrikolehmultidisiplinuntukmenentukandiagnosis gangguanjiwa.Jikaadadiagnosisgangguanjiwaakan dilakukan tata
+laksana multidisiplin sesuai diagnosispsikiatrik.
+UPAYA  PROMOTIF  DAN  PREVENTIF
+3.1. Upaya  Promotif
+Upayapromotifditujukanuntuk:
+a. mempertahankandanmeningkatkanderajatkesehatan jiwa masyarakat secara optimal;
+b. meningkatkankesadarandanpemahamanindividu/ masyarakat tentang Kesehatan
+jiwa
+c. menghilangkanstigmadandiskriminasi
+d. meningkatkan  pemahaman,  peran  serta  dan  penerimaan masyarakat terhadap GME
+Upaya promotif kesehatan jiwa untuk
+mencegah GMEterintegrasidenganupayapromosikesehatanlainnyayangdilaksanakanolehsetiapjenjangadministrasidanlayanankesehatan
+di keluarga, lingkungan pendidikan, masyarakat,fasyankes, panti/lembaga
+sosial dan lembaga pemas-yarakatan.
+Fokuspromosikesehatanuntukpencegahandanpengen-
+dalianGMEdenganprinsipleavingnoonebehinddimulaimelaluipelayananberbasiskomunitasdipelayananprimeryang terintegrasi didukung oleh pendekatan kesehatan digital dan sistem
+inovasi, kolaborasi multiprofesi serta koordinasi lintas program dan sektor.
+Upayapromotifyangdimaksuddalamjuknisinimencakup
+dua hal yaitu 1) promosi kesehatan sesuai alur layanan GME dan 2) promosi
+kesehatan lebih luas.
+1. Promosi  kesehatan  sesuai  alur  layanan  GME
+Sesuai alur layanan
+GME, promosi kesehatan yang dimaksudadalahupayamenjagamasyarakatpadakondisi
+sehat jiwa dengan memberikan informasi kesehatan secara langsung pada anggota
+masyarakat.
+Upayapromosikesehatanditujukanjugauntukpening- katan faktor protektif yaitu
+faktor biologi, psikologi dansosial
+Upayayangdilakukan:
+a) Melakukan
+kegiatan promosi kesehatan jiwa padamasyarakat,termasukmenyediakanmaterikomunikasi,informasi dan edukasi (KIE)
+b) Melakukan kerja
+sama dengan lembaga yang terkait dengan penemuan kasus (a.l. sekolah, panti
+sosial, fasyankes, Kecamatan/Kelurahan/RW/RT).
+c) Memotivasi
+orang dengan GME untuk mendapat layanan lebih lanjut (pencegahan dan
+pengobatan, jika diperlukan).
+d) Melakukanpencatatandanpelaporan
+Pelakukegiatanadalahtenagakesehatandananggota masyarakatyangtelahdilatiholehPuskesmas/Dinkes
+/Organisasi Profesi memberikan materi
+tentang dasar- dasar menjaga kesehatan jiwa kepada masyarakat.KegiatanpromosikesehatanjiwauntukpencegahanGMEpadatiapkelompokusiadapatdilakukansebagaiberikut:
+• Kegiatan promosi kesehatan untuk mencegah GME dapat dilakukan
+secara terintegrasi dengan kegiatan promosi kesehatan secara umum antara lain
+melalui kegiatan Usaha Kesehatan Sekolah,Posbindu,Posyandu, promosi kesehatan di fasyankes, panti sosial, lembaga
+pemasyarakatan dan tempat kerja.
+• Bersamaan  dengan  kegiatan  promosi  kesehatan  jiwa, dapat dilakukan
+deteksi GME pada peserta kegiatan dengan alat ukur SRQ-20 dan SDQ.
+• Hasil pengisian SRQ dan SDQ kemudian dianalisa oleh tenaga
+kesehatan atau tenaga lain yang telahdilatih.PesertakegiatanyangmemenuhikriteriaGMEkemudian
+mendapat upaya pencegahan agar GME dapat dikendalikan dengan mengatasi faktor
+risiko, tanda dan gejala yang ditemukan.
+2. Promosikesehatanyanglebihluas
+Promosi kesehatan
+yang lebih luas adalah upaya meningkatkan kesehatan jiwa masyarakat denganmelibatkanpemangkukepentingandidaerah,antaralainunsur
+pemerintah, organisasi profesi, organisasi sosial kemasyarakatan dan swasta.
+a) Unsur
+pemerintah yaitu pemerintah daerah, dinassosial,dinaspendidikan,dinaspemberdayaanperempuan dan perlindungan
+anak, BKKBN, kanwilkumham,kanwilkemenag,dinaskominfo,dinastenagakerja, dll.
+b) Organisasi  profesi  antara  lain  IDI/PDSKJI,  PPNI/IPKJI, HIMPSI/IPK, IAKMI,
+IPSPI, IBI.
+c) Organisasi
+sosial kemasyarakatan antara lain KPSI(KomunitasPeduliSkizofreniaIndonesia),BipolarCareIndonesia,
+Into The Light, NU, Muhammadiyah, organisasi keagamaan lain, dll.
+d) Pihak swasta
+antara lain fasyankes swasta danperusahaanswastayangpedulikesehatanjiwapekerja.
+Upayayangdilakukanantaralain:
+a) Advokasi kebijakan
+publik dan sumber daya untukmendukung
+kesehatan jiwa masyarakat.
+b) Sosialisasidanpromosikesehatanjiwakepada pemangku
+kepentingan;
+c) Pemberdayaan masyarakat
+dalam upaya kesehatanjiwa;
+d) Membuat inovasi dan terobosan baru dalam menyediakan,
+mensosialisasikan, dan mendekatkan akseslayanankesehatanjiwakepadamasyarakat
+e) Meningkatkan  koordinasi  dan  kerjasama  dengan  lintas sektor, organisasi
+profesi, akademisi, pemerhati masalah kesehatan jiwa, dan lain-lain.
+Pelaku  kegiatan  adalah  tenaga  kesehatan  dan  kelompok masyarakat yang menguasai materi tentang promosi
+kesehatanjiwa,kemampuanadvokasidankoordinasi.
+Materipromosikesehatanjiwadisesuaikandengansasaran kelompokusiadanmeniminalkanpenggunaanistilahmedis agar
+lebih mudah dipahami oleh masyarakat.
+Tabel4.MateriPromosiKesehatanJiwa
+Remaja
+Dewasa
+Lansia
+Tugasperkembangan
+  usia remaja (identity)
+Tugas  perkembangan  usia dewasa(intimacydangenerativity)
+Tugas  perkembangan  usia lansia (integrity)
+Tugas  perkembangan  usia remaja (aspek perkembangan fisiologis, kognitif,
+  sosial, emosi, moral, spiritualitas dankepribadian)
+Tugas  perkembangan  usia dewasa (aspek perkembangan fisiologis, kognitif,
+  sosial, emosi, moral, spiritualitas dankepribadian)
+Tugas  perkembangan  usia lansia,  (adaptasi  perubahan perkembangan fisiologis, kognitif, sosial, emosi,
+  moral, spiritualitas dankepribadian)
+Pengertian  sehat  jiwa,  risiko (ODMK), sakit (ODGJ)
+Stimulasiperkembangan
+Pengertian  sehat  jiwa,  risiko (ODMK), sakit (ODGJ)
+Stimulasiperkembangan
+Pengertian  sehat  jiwa,  risiko (ODMK), sakit (ODGJ)
+Stimulasiperkembangan
+Manajemenstres
+Manajemenstres
+Manajemenstres
+Keterampilanpemecahanmasalah
+Keterampilanpemecahanmasalah
+Keterampilanpemecahanmasalah
+Penjelasanlebihrincitentangmateripromositercantum di bagian lampiran petunjuk
+teknis ini
+Kegiatan  promosi  kesehatan  yang  telah  dilakukan  dicatat dengan  menggunakan  format  yang  tercantum  dalam  bab pencatatan dan pelaporan di juknis ini.
+Tabel5.ProsesPelaksanaanPromosiKesehatanJiwa
+KelompokUsia
+UpayaPromotif
+Kegiatan
+Pelaksana
+InstitusiTerkait
+Remaja
+1.Mempertahankan
+1.Penyuluhan
+• Tenaga
+Dinas  Kesehatan
+dan meningkatkan
+kesehatan  jiwa
+kesehatan
+Dinas Sosial
+derajat  kesehatan  jiwa
+di masyarakat,
+(dokter,
+Dinas PPPA
+remajasecaraoptimal
+sekolah,
+perawat,
+BKKBN
+2.Menghilangkan
+panti/lembaga
+psikolog  klinis,
+Dinas Pendidikan
+diskriminasi,  stigma,
+sosial, lembaga
+tenaga
+dan Kebudayaan
+pelanggaran  hak
+pembinaan
+kesmas,  dll)
+Kanwil Kumham
+asasiODMKsebagai
+khusus anak
+• Guru/tenaga
+Dinas Kominfo
+bagian dari
+2.Membentuk
+pendidik
+masyarakat
+desa/kelurahan
+• Kader
+3.Meningkatkan  pola
+siagasehatjiwa
+• Pekerja  sosial
+asuhdanpola
+3.Memasukkan
+• Organisasi
+komunikasi  dalam
+materi
+remaja,
+keluarga  yang
+keterampilan
+kelompok
+mendukung
+sosial
+disabilitas  dan
+pertumbuhan  dan
+kecakapan
+kelompok
+perkembangan  jiwa
+hidup (life
+masyarakat
+yang sehat
+skills:) dalam
+lainnya
+4.Menciptakan
+kegiatan  intra
+suasana  belajar
+atau  ekstra
+mengajar  yang
+kurikuler (misal:
+kondusif  bagi
+Pramuka,  PMR,
+pertumbuhan  dan
+madding,  dll)
+perkembangan  jiwa
+4.Melaksanaka nprogramanti
+5.Keterampilan  hidup
+perundungan  (
+sehat terkait
+bullying)  di
+kesehatanjiwabagi
+sekolah/pergur
+pesertadidiksesuai
+uan tinggi
+tahap
+5.Membangun
+perkembangannya
+sarana
+6.Membangun
+bermain,
+hubungansosialdan
+berolahraga,
+komunikasi  yang
+danrekreasidi
+harmonis  antar
+lembaga
+pemangku
+Pendidikan
+kepentingan  dalam
+yang
+proses pendidikan
+mendukung
+tumbuh
+7.Meningkatkan
+kembang
+PDSKJl
+kompetensi
+6.Pelatihan
+lPKJl
+professional  pemberi
+tentang
+lPK
+layanan  dalam  deteksi
+kesehatan  jiwa
+lPSPl
+dinikesehatanjiwa
+bagi kader
+padaanakdanremaja
+7.Pelatihan
+8.Membangun jejaring
+konselor
+komunikasi  antar
+sebaya bagi
+profesidalamrangka
+siswadanbagi
+meningkatkan
+tenaga didik
+kesadaran
+yang
+(awareness)  remaja
+memantau
+untuk menjaga
+program
+kesehatan  jiwa
+konselor
+sebaya di
+sekolah
+8.Membentuk
+sekolah sehat
+jiwa
+(penyelenggar
+aan upaya
+keswa terintegrasi denganUKS)
+Dewasa
+1. Meningkatkan pemahamandan
+  peransertamasyarakatterhadapkesehatanjiwa
+2. Meningkatkan penerimaandan peransertamasyarakatterhadapkesehatanjiwa
+1. Penyuluhan kesehatanjiwa
+  dimasyarakat, panti/lembaga sosial, lapas/rutan, tempatkerja
+2. Pelatihan tentangkeswa kepadakader
+3. Membentuk desasiaga sehatjiwa
+4. Pelatihan
+  Dukungan Psikologis  Awal bagikader
+• Kader
+• Tenaga kesehatan (dokter,
+  perawat, psikologklinis, tenaga kesmas,dll)
+• Pekerja  sosial
+• Organisasi/ Kelompok
+  masyarakat peduli kesehatan  jiwa
+• Organisasi kelompok disabilitas
+Dinas  Kesehatan DinasSosial
+  DinasPPPAKanwilKumhamDinasTenagaKerja
+3.Meningkatkankompetensiprofessionalpemberilayanandalamdeteksikesehatan jiwa pada usiadewasa
+5.  Pelatihan bagipemberi layanan
+6.PelatihanDukunganPsikologisAwal bagiprofesionalpemberi layanan
+kesehatan  jiwa
+PDSKJl
+lPKJl lPK lPSPl
+Lansia
+1.Meningkatkan
+  semangathidupdan derajatkesehatan
+1.Penyuluhan kesehatanjiwa dimasyarakat,
+• Kader
+• Tenaga kesehatan
+Dinas  Kesehatan DinasSosial
+  DinasPPPA
+lansiaagarmerasa bergunabaikbagi dirinya,keluarga maupunmasyarakat
+  melaluikegiatan rohani,sosial,mengembangkanhobi
+2. Mencegah
+  kemungkinan penyakit-penyakit penuaandenganmelakukan pemeriksaankesehatanberkala danLatihanorientasirealita
+3. Meningkatan pemahaman kader lansiamengenai
+  kesehatanjiwapadalansia
+panti/lembaga sosial, lapas/rutan,
+2. Pelatihan tentangkeswa kepadakader
+3. Membentuk desasiaga
+  sehatjiwa
+(dokter, perawat, psikologklinis, tenaga kesmas,dll)
+• Guru/tenaga pendidik
+• Pekerja  sosial
+• Organisasi/ Kelompok
+  masyarakat peduli kesehatan  jiwa
+Kanwil Kumham
+4. Meningkatkan kompetensi professionalpemberilayanandalamdeteksikesehatan jiwa pada lansia
+5. Melatih kemampuan  caregiver  dalamdeteksi kesehatan jiwa padalansia
+4. Pelatihan bagipemberi layanan
+5. Pelatihan Dukungan Psikologis  Awal bagi  profesional pemberi layanan kesehatanjiwa
+PDSKJl
+lPKJl lPK lPSPl
+3.2. Upaya  Preventif
+Upaya preventif untuk mencegah gangguan jiwa pada
+penderita GME adalah mengatasi faktor risiko, tanda dan gejala yang dialami
+serta peningkatan faktor pelindung (protektif) yang terkait dengan gangguan
+kesehatan jiwa. Prinsip umum dalam mengatasi faktor risiko, tanda dan gejala
+GME adalah melaksanakan Gerakan Masyarakat HidupSehat (makanmakananbergizi,minumyangcukup,
+olahraga selama 30 menit, berjemur di pagi hari, istirahatyangcukup,etikabatukdanbersin), CERDIK  (cek  kesehatan berkala,enyahkanasaprokok,rajinaktifitasfisik/olahraga,dietsehatdanseimbang,istirahatcukup,kelolastress)dan CERIA (cerdas, inteletual, empati dalam berkomunikasi
+danefektif,rajinberibadah,interaksiyangbermanfaatbagi kehidupan dan asah asih asuh dalam
+tumbuh kembangdikeluarga).
+Upaya ini dilakukan oleh tenaga
+kesehatan di FKTP danFKRTL.
+1. MengurangifaktorrisikoGME
+a. Faktorbiologis(penyakitfisik)
+Faktor  biologis  yang  menjadi  faktor  risiko  GME,  antara lain(Kerig,Ludlow,&Wenar,2012;PPSDMKemenkes RI, 2016):
+1) Riwayat
+kesehatan jiwa keluarga dan kerentanan genetik terhadap kondisi gangguan jiwa.
+Jikaditemukanadaanggotakeluargayangmengalamigangguanjiwa,makasegeradilakukanperawatandanpengobatansampaipulih.
+2) Riwayat
+kelahiran dan perkembangan, luka jejas otak, permasalahan neurologis lain,
+riwayat dan kondisi medis terkini, serta gejala dan dampak gangguan jiwa
+3) Kondisimedisdanpengobatanterkinisertagejala dan dampaknya pada GME.
+Orangdenganfaktorbiologisdiatasdisebutsebagai
+individu berisiko tinggi (high-risk). Jika ditambahkan dengan faktor
+risiko psikologis dan sosial disebut sebagai individu ultra-risk. Pada individu
+ultra-risk psychosis, 22%-40% diantaranya akan mengalami transisimenjadipsikotikdalamwaktu12bula.Sehinggatindakanpencegahanuntukmenundaataumencegahtransisimenjadigangguanjiwasangatbergunasecaraklinis dan ekonomi.
+Tindakan  preventif  yang  telah  dilakukan  pada  kelompok remaja populasi risiko tinggi psikotik menunjukkan hasilbaik,mencegah50%transisimenjadigangguanpsikotik.
+Titik  penting  pada  program  pencegahan  individu  risiko tinggi ini adalah penemuan kasus risiko tinggi yang lebih
+dini.
+Tindakan pencegahan yang dapat
+diberikan adalah pemberianomega3fattyacid,intervensikrisis,terapi kognitif perilaku dan konseling keluarga.
+Bagi anak remaja yang memiliki orang
+tua dengan gangguan jiwa, faktor protektif seperti fungsi kognitif yang baik,
+dukungan keluarga, aktivitas fisik dan masyarakat yang kohesif; mencegah mereka
+meng- alami gangguan jiwa.
+Tabel6.CaraMengatasiPenyakitFisik
+Penyakit
+CaraMengatasi
+Hipertensi
+Kontrol  tekanan  darah  secara  rutin,  berobat  secara  rutin ke Puskesmas, Minum obat
+  anti hipertensi secara teratur, Melakukan pola makan dan hidup sehat,
+  menghindarikonsumsi kafein dan garam yang
+  berlebihan, Melakukanmanajemen stres, Melakukan aktifitas: berjalan,
+  bersepeda dan olah raga.
+Tuberkulosis  (TBC)
+Kontroldanberobatsecararutinkepuskesmassampai selesai program pengobatan.
+  Mengembangkan gaya hidup sehat seperti: mengkomsumsi makanan bergizi, membukajendelarumahagarcahayadanudarasegar dapat masuk, menjemur kasur agar
+  tidak lembab,olahraga teratur dan tidak
+  merokok. Pengendalian infeksi:menutupmulutdenganmasker/tisuesaatbatuk/bersin,janganmembuangludahdandahakdisembarangtempat
+DiabetesMellitus
+Kontrol dan berobat secara rutin ke puskesmas. Diet sesuai
+  dengan anjuran pemberi pelayanan kesehatan khusus nya mengurangi karbohidrat,
+  lstirahat cukup, manajemen stress.
+Kanker
+Kontrol dan berobat
+  secara rutin ke puskesmas atau pelayanansekunder.Melakukanpolahidupsehat.
+4) Penggunaan  ataupun  penyalahgunaan  Napza,  serta gejala dan dampak
+gangguan jiwa
+b. Faktorpsikologis
+Faktor psikologis yang menjadi faktor
+risiko GME, antara lain (Kerig, Ludlow, & Wenar, 2012; PPSDM Kemenkes RI,
+2016):
+1) Regulasiemosirendah
+2) Kemampuan regulasi diri
+rendah yang termanifes-tasikan dalam
+kontrol perilaku yang buruk
+3) Konsepdirinegatif
+4) Efikasidirirendah
+5) Resiliensidirirendah
+Tabel7.CaraMengatasiFaktorRisikoPsikologis
+Faktor RisikoGME
+CaraMengatasi
+1) Kemampuan regulasiemosirendah
+a) Melatihkemampuanmengenaliemosidiri
+b) Melatih  kemampuan  mengekspresikan  emosi  secara asertif
+c) Melakukanrelaksasiataumeditasi
+d) Berolahragasecarateratur,misaljalankaki,yoga,dll
+e) Menulis jurnal harian, misal jurnal kebersyukuran, catatan
+  harian, dll
+f) Berbagi  pikiran  dan  perasaan  dengan  orang  terdekat yang dipercaya
+2)
+  Kemampuan regulasi diri rendah yangtermanifestasikandalam kontrol perilaku yangburuk
+a) Melatih  keterampilan  manajemen  stresdanmanajemen konflik
+b) Melatih  fleksibilitas  dalam  berpikir  dan  keterampilan pengambilan keputusan
+c) Menumbuhkan kebermaknaan hidup, penerimaan diri, kebersyukuran
+d) Menentukan  prioritas  tugas  dan  melatih  manajemen waktu
+e) Berbagi  pikiran  dan  perasaan  dengan  orang  terdekat yangdipercayasertamelakukanrefleksidiri
+f) Melatihketerampilankomunikasiasertif
+Faktor RisikoGME
+CaraMengatasi
+3) Konsepdirinegatif
+a) Mengidentifikasi kekuatan / kelebihan dan keter- batasan diri
+b) Latihan berpikir positif, terkait identitas diri, citra tubuh,
+  dsb
+c) Melakukanpositive self-talk/ dialog diri positif.
+  Latihandilakukandenganmemberipujianbagidirisendiriterhadapaspekpositifyangdimilikikemudiandilanjutkan dengan afirmasi.
+d) Membuatjurnalkebersyukuran
+e) Mengoptimalkan  dukungan  keluarga  dan  lingkungan sosial.Latihkeluargamemberikandukunganyaitu memberipujiandanmotivasi.Ciptakanlingkungan
+  keluarga yang tidak merendahkan penderita GME
+4) Efikasidirirendah
+a) Mengidentifikasi kekuatan / kelebihan dan keter- batasan diri
+b) Mengidentifikasiharapan,cita-citaataukeinginan
+c) Membuatperencanaan/targetjangkapendekdan jangka panjang
+d) Menghargai pencapaian kemajuan atau prestasiyangdicapai,maupunupayadanprosesyangtelah
+  dilakukan
+e) Melakukanpositiveself-talk/dialogdiripositif
+f) Membuatjurnalkebersyukuran
+g) Mengoptimalkan  dukungan  keluarga  dan  lingkungan sosial
+5) Resiliensidirirendah
+a) Melatihketerampilanmanajemenstres
+b) Melatih  fleksibilitas  dalam  berpikir  dan  keterampilan pengambilan keputusan
+c) Melatihketerampilanmanajemenkonflik
+Contoh  cara  mengatasi  faktor  risiko  psikologis  GME  dapat dilihat  secara  lebihrincipadalampiranjuknisini.
+c. Faktorsosial(pekerjaan,sekolah,keluarga,perubahan hidup,
+stigma, diskriminasi, HAM)
+Faktor  sosial  yang  menjadi  faktor  risiko  GME,  antara  lain (Kerig, Ludlow, & Wenar, 2012; PPSDM Kemenkes RI,2016):
+1) Lingkungan keluarga (konflik orangtua, KDRT, pengasuhandengankekerasan,pengabaian,dsb)
+2) Perekonomian keluarga (sumber pendapatan, banyaknya penghasilan perbulan,banyaknyapengeluaran per bulan)
+3) Pekerjaan
+(kestabilan kerja, relasi dengan atasan maupun rekan kerja, stres terkait
+pekerjaan ataupun permasalahan lain terkait pekerjaan)
+4) Relasi suportif
+(kurangnya dukungan sosial, isolasi sosial, dsb)
+5) Relasi dengan
+pasangan (perpisahan, perceraian,hubunganjarakjauh,danstrategikoping)
+6) Kedukaan
+7) Permasalahanhukum
+8) Krisis pada
+orang yang memiliki arti penting dalamkehidupan
+individu (misal permasalahan hukum denganpasangan, kerabat, teman)
+9) Akses pada
+layanan kesehatan, kemampuan untukmendapatkan
+layanan kesehatan (PPSDM KemenkesRI, 2016)
+Cara  mengatasi  faktor  risiko  di  lingkungan  keluarga  antara lain dengan peningkatan komunikasi efektif dalamkeluarga,polaasuhdantugaskesehatankeluarga.Tugaskesehatan
+keluarga yaitu mengenal masalah anggotakeluarga,
+memutuskan cara mengatasi masalah anggotakeluarga,merawatanggotakeluargasesuaikebutuhan
+danmasalah,menciptakansuasanagembiradan kondusif, menggunakan pelayanan kesehatan terdekat (5M). Peningkatan
+kegiatan bersama dalam keluarga: makan bersama, beribadah bersama,
+bercakap-cakap bersama, bermain bersama, berkreasi bersama (5B). Upaya untuk
+mengatasi faktor risiko sosial dapat bekerja samadengantenagaprofesionaldibidangsosial.
+Tindakanpreventifselektifpadadewasadanlansia
+Targetnya
+individual atau sub-kelompok populasi yangberisikomengalamigangguanjiwa.Risikoinimungkinbersifatimminent (dalam waktu dekat terjadi) atau sepanjang hayat. Kelompokrisikodapatdiidentifikasiberdasarkanfaktorrisikobiologi,
+psikologi atau sosial. Contohnya program keswa untukstres-terkait
+pekerjaan, perkawinan dan peran pengasuhan, usialanjut(pensiun,kesepian,berdukadankecemasanakankematian)
+Intervensi  yang  dapat  dilakukan  adalah  konseling  individu, konseling keluarga, psikoterapi suportif.
+Fokusintervensipadaperubahangayahidup(therapeuticlifestylechange)berhentimerokok,alkohol,aktivitasfisikatauolahraga,cegahobesitasdanketerampilanmanajemenstres.
+Tindakanpreventifselektifpadaremaja
+Targetnya
+individual atau sub-kelompok populasi yangberisikomengalamigangguanjiwa.Risikoinimungkinbersifatimminent (dalam waktu dekat terjadi) atau sepanjang hayat. Kelompokrisikodapatdiidentifikasiberdasarkanfaktorrisikobiologi,psikologiatausosial.Contohnyaprogramkeswauntukanak
+remaja terpapar faktor risiko seperti perceraian orang tua,kematianorangterdekatdanbermakna,kekerasan.
+Intervensi  yang  dapat  dilakukan  adalah  konseling  individu, konseling keluarga, psikoterapi suportif
+2. MengatasitandadangejalaGME
+Mengatasi tanda dan
+gejala GME merupakan tindakan preventif indikasi
+a. Pada individu
+risiko tinggi terindentifikasi mengalami tanda atau gejala minimal namun
+terdeteksi dengan hasil SRQ. Contohnya intervensi pada dewasa danusialanjutdengandepresi/cemas,somatik,penurunanenergi, pikiran depresi.
+Intervensi yang dapat dilakukan
+edukasi, konseling dan psikoterapi suportif.
+b. Pada individu
+risiko tinggi terindentifikasi mengalami tanda atau gejala minimal namun
+terdeteksi dengan hasil SDQ. Contohnya intervensi pada anak remaja dengan
+masalah emosional, perilaku, hiperaktivitas, masalah teman sebaya dan perilakuprososial.Intervensi yang dapat dilakukan
+seperti edukasi,konseling,psikoterapisuportif,keterampilanhidup(life-
+skill),latihanrestrukturisasikognitif(mengelolapikiran),sosialisasi pencegahan narkotika
+Beberapa cara untuk mengatasi tanda
+dan gejala GME sebagai berikut:
+Tabel8.CaraMengatasiTandaDanGejalaGME
+TandadanGejala
+CaraMengatasi
+SakitKepala
+lstirahat,  relaksasi,  hindari  jatuh,  minum  cukup  dan  rutin berolah raga
+Tidaknafsumakan
+Minum air hangat
+  sebelum makan, makanan hangat denganporsikecildansering.Ciptakansuasanayang nyaman
+  dan gembira saat makan.
+TandadanGejala
+CaraMengatasi
+SulitTidur
+Satu jam sebelum tidur hindari terpapar layar gadget
+  (handphone,laptopdantelevisi).Hindariminumkopi. Segera naik ketempat tidur jika telah mengantuk.
+Mematikan/redupkanlampusaattidur.
+Mudahtakut
+Duduk  dengan  tenang,  tarik  nafas  dalam,  hindari  sumber rasa takut, usahakan
+  ada yang mendampingi.
+Latihanberpikirpositif
+Contoh: Berlatihthought stopping(menghentikan pikiran negatif), menuliskan pikiran alternatif untuk menggantikan pikirannegatifyangmuncul,menuliskankalimatpositif
+  dan diucapkan sebagai bentuk afirmasi seperti "Aku tenang..."
+  "Aku mampu.", melakukan reality testingyaitumembuktikanbahwaapayangdicemaskanbelumtentu terjadi.
+Menumbuhkankeberanianuntukmencobamelakukan berbagaikegiatandansituasiyangberagamsehinggaterlatihuntukdapatberadaptasidengansituasiyangtak
+  terduga.
+Tegang,  cemas  atau kuatir
+Lakukanmanajemenstres
+Melakukanrelaksasidan/ataumeditasi
+Berolahragasecarateratur,misalnyajalankaki,joging, yoga, dll
+Menulis
+  jurnal harian, misalnya jurnal kebersyukuran yangdapatberisihal-halpositifyangadapadadiridan
+  orang-orangtedekat,pencapaianpositif,atauperistiwa baik yang pernah dialami
+Gemetar
+Lakukanrelaksasiototprogresifdanhindarimakanan membatasi
+  atau menghindari zat yang dapat
+TandadanGejala
+CaraMengatasi
+menyebabkantremor,sepertikopi.
+Latihanuntukmeningkatkanfungsiotot.
+Pencernaan tergangguatauburuk
+Makanmakanantinggiserat,tidurdanistirahatyang cukup, menangani stres, lakukan
+  yoga, hentikan kebiasaan merokok
+Sulitberpikirjernih
+Mengubah sudut
+  pandang akan permasalahan atau situasimenantangdalamhidupnya,sekaliguscaraia bereaksi terhadap permasalahan tersebut.
+Berbagi pikiran dan
+  perasaan dengan orang terdekatyangdipercaya,bertukaride/gagasanuntukmelihatdariberbagai
+  sudut pandang dan mempertimbangkan peluang dan kesempatan yang ada.
+TidakBahagia
+Bersyukur, fokus pada
+  apa yang kita punya dan bisa kitalakukan,mengungkapkanperasaansecaraasertif,tersenyumdantertawa,sediakanwaktuuntukdirisendiriseperti jalan-jalan, nonton film, belanja, atau aktivitas lain yang
+  membuat nyaman dan bahagia, berdamai dengan kekurangan dan kelebihan diri
+  sendiri.
+Menulis
+  jurnal harian, misalnya jurnal kebersyukuran yangdapatberisihal-halpositifyangadapadadiridan
+  orang-orangtedekat,pencapaianpositif,atauperistiwa baik yang pernah dialami
+Menangislebihsering
+Mencurahkan perasaan pada
+  orang yang dipercaya dapat membantu meringankan perasaan, mengelola stres,menerima kenyataan mengenai apa yang
+  telah terjadi dan menepis prasangka buruk yang hadir, memusatkan pada
+  kegiatan dan suasana yang positif, olahragadenganteratur,istirahatyangcukupdanpola
+  tidur baik.
+ 
+TandadanGejala
+CaraMengatasi
+Sulit
+  menikmatikegiatansehari-hari
+Pilih kegiatan yang
+  disukai yang menimbulkan kegembiraandanrasapuas.Lakukanafirmasiterkait dengan semua kegiatan yang menimbulkankegembiraan.
+Sulitmengambilkeputusan
+memilih kegiatan yang
+  menyenangkan dan Mengembangkansikapmentalresponsifyaitu:duduk tenang, rileks, mencari informasi
+  yang terukur dan melakukan tindakan yang tepat dan mengevaluasihasilnya.
+Pekerjaansehari- hari terganggu
+Melakukankegiatanyangmudahdanmenyenangkan
+  serta terjadwal. Setiap selesai melakukan kegiatan lakukanself
+  reinforcement! positive self-talk
+Tidak mampumelakukanhalyangbermanfaat
+Berpikir,  berkata,  berprilaku  positif.  Memikirkan  kegiatan yang berguna dan melakukannya. Menawarkan diri untuk menolongoranglaindenganhalhalsederhana.Latihan mengucapkan" apa yang bisa
+  saya bantu"
+Hilangminat
+Sosialisasi dan
+  interaksi dengan keluarga, teman danoranglainyangdekat.Terlibatdalamkegiatankeluarga,kelompok dan masyarakat.
+Merasatidakberharga
+Mengingat  kembali  pengalaman  keberhasilan,  peristiwa menyenangkan yang
+  dialami, dan menuliskan atau menceritakannya pada orang lain
+Menuliskan  semua  hal  positif  yang  dimiliki,  mengucapkan (positive
+  self-talk) dan melakukannya. Lakukanself reinforcementjika
+  berhasil melakukan kegiatan.
+Pikiran untuk
+  mengakhirihidup
+Curhat dan meminta
+  untuk ditemani oleh orang yangdipercaya,
+  mengingat orang yang disayangi, menuliskantujuan/cita cita kehidupan.
+TandadanGejala
+CaraMengatasi
+Lelahsepanjangwaktu
+Olah raga secara
+  rutin, latihan fisik dimulai dari yangringan
+  dan ditngkatkan sesuai dengan kemampuan fisik.Melakukan relaksasi,
+  manajemen stres dan istirahat tidur yang cukup (6-7 jam)
+Rasatidakenakdiperut
+Minumairhangat,hindarimakananyangmerangsang
+  seperti: pedas, asam, berminyak dan kafein.
+Mudahlelah
+Melakukankegiatanyangringandalamwaktusingkat diselingi
+  dengan istirahat. Lakukan relaksasi dan manajemen stres.
+Mudahmarahdan sulit meredakan ledakan amarah
+Latihanmengelolaamarahdengancarayangadaptif, tanpa
+  menyakiti diri maupun orang lain. Contoh: Mengenalitandaemosimarahdanhalyangmemicu, melakukantehnikmenenangkandirisepertirelaksasi nafas dalam dan relaksasi
+  otot progresif, mengekspresikan emosi melalui kata-kata, menulis, melukis,
+  dll
+Latihanmengelolakonflikdanmemecahkanmasalah
+Seringberbohong, berbuat curang, berkelahi,mencuri
+Latihanmengelolakonflikdanmemecahkanmasalah
+Mengembangkanperilakupro-sosialdenganterlibat pada
+  kegiatan membantu orang lain atau kelompok masyarakat yang kurang beruntung
+Bekerjasamadenganorangtuauntukmenemukandanmengendalikanfaktor-faktordalamkeluargayangdapatmemicu munculnya permasalahan perilaku. Contoh: polaasuhyangbersifatotoriter,adanyahukumanyang mengandung unsur kekerasan,
+  pengabaian, dll)
+Mengembangkan
+  hubungan yang bersifat hangat dansalingmenghargaiantaraorangtuadengananak,namun
+TandadanGejala
+CaraMengatasi
+jugatetapmenerapkanketegasan
+Menerapkan  aturan  yang  jelas  dan  realistis,  memberikan penguatanpositifuntukperilakupositifyangdilakukan
+  remaja, memberikan konsekuensi yang bersifat logis jika remaja melakukan
+  perilaku negatif serta tidak menggunakan hukuman yang mengandung unsurkekerasan
+Perilaku
+  inatensidan/atau hiperaktivitas: gelisah,terlaluaktif,tidak dapat diam lama; terus bergerak dengan resah; perhatian mudah
+  teralih, konsentrasi buyar; bertindak tanpa pemikiran yang matang; tidakmampu menyelesaikantugas sampaiselesai
+Latihanmengelolaaktivitasdenganmembuatjadwal, checklist tugas dan kegiatan,
+  dll
+Menyiapkansettingyangmendukungsaatbelajarataumengerjakantugas.Contoh:menyingkirkanbendayangdapatmenggangguperhatian,memilihtempatyangsepi,memastikan posisi duduk nyaman, dll
+Latihan  menunda  keinginan  dan  perilaku  impulsif  dengan prinsip
+  "berhenti, lihat, dengar, dan pikirkan" sebelum melakukan sesuatu
+Mengenali tekanan
+  atau emosi tertentu yang dapat meningkatkankemunculanperilakuhiperaktif,impulsif,danterganggunyaperhatian,laluberlatihmenyikapinyadenganmenerapkanteknikrelaksasi,positiveself-talk, dan berbagai cara
+  lainnya untuk menenangkan diri.
+Menyalurkanenergimelaluiaktivitasfisikdanaktivitas sosial yang
+  positif seperti misalnya berolah raga.
+Permasalahan dengan teman sebaya:cenderung
+  menyendiri; sulitmenjalin
+Mengidentifikasi  situasi  atau  interaksi  sosial  yang  dihindari serta
+  faktor yang melatar belakangi.
+Latihan  keterampilan  sosial  seperti  bagaimana  menyapa, memperkenalkan diri, membangun percakapan,
+  cara menanggapi orang lain, dll melalui teknikrole play
+TandadanGejala
+CaraMengatasi
+persahabatan dengan sebaya / tidakpunyateman baik; tidak disukai dan/ataudiganggu remaja lain;
+Latihanmembeladiridanbersikapasertif,yaituberani menyatakan pendapat secara jujur
+  dan tegas dan dilakukan dengan cara yang positif
+Mengenali  kelebihan  diri  dan  mengembangkan  hobi  atau minat untuk  membantu  meningkatkan kepercayaan  diri
+Menumbuhkan motivasi
+  untuk terlibat dalam aktivitaskelompokyangpositifsepertiekstrakurikuler,klub,ataukelompok hobi sehingga jalinan pertemanan menjadi lebih luas.
+3. Melakukan  Pemeriksaan  lanjutanmultidisplin:
+Pada penduduk
+yang memenuhi kriteria GME kemudian dilakukan pemeriksaan lanjutan dengan
+wawancara psikiatrik multidisiplin untuk menentukan diagnosis. Jika hasilnya
+tidak ada diagnosa gangguan jiwa maka promosi kesehatan dan prevensi gangguan
+jiwadilanjutkan.Jikahasilnyaditemukangangguanjiwa maka
+dilakukan tata laksana multidisiplin.
+Wawancarapsikiatrikadalahsuatubentukwawancara yang  dilakukan  oleh  dokter  kepada  pasien  dengan  tujuan untuk memperoleh data atau sekumpulan gejala yang akandigunakanuntukmenetapkandiagnosisdanrencana tatalaksana
+bagi pasien. Selain sebagai alat bantu diagnostik, pada wawancara psikiatrik
+yang baik jugaterdapatkomponenterapi.Dalamberelasidenganpasienselama wawancara, seorang dokter dengan bahasa verbalmaupunnonverbaldapatsekaligusmemberikan
+dukungan, menunjukkan penerimaan dan empati yang akanmembuatpasienmerasalebihnyaman.Prosedur danteknikwawancarapsikiatriksecaralebihdetildapat
+dilihat pada Modul
+Deteksi Dini dan Penatalaksanaan Gangguan Jiwa bagi Dokter Umum di FKTP.
+Bisa
+dilakukan pemeriksaan penunjang untuk menyingkirkan diagnosis banding.
+Asuhan keperawatan
+pada penderita GME ditujukanpadadiagnosiskeperawatanyaitucemas,gangguancitratubuh
+dan harga diri rendah situasional
+• Asuhankeperawatanpadacemas
+Tindakan keperawatan: curhat, tarik
+nafas dalam, distraksi, teknik fokus pada lima jari, relaksasi otot progresifdanpenghentianpikiranyangmenganggu.
+• Asuhan keperawatan pada gangguan citra tubuhTindakan keperawatan: mengidentifikasi anggota
+tubuhyang sehat dan mengucapkannya berulang ulang,mengikuticaraperawatanbagian tubuhyangterganggu.
+• Asuhankeperawatanpadahargadirirendahsituasional Tindakan
+keperawatan: susun daftar kemampuan yang masihdapatdilakukan,pilihkemampuanyangpaling
+mudah dilakukan, buat jadwal kegiatan melakukankemampuan,lakukankegiatansecarabertahapsesuaijadwal,setelahselesailakukanselfreinforcement/selftalk positive.
+Jikatersediapsikologklinismakadapatmelakukan:
+a. Pemeriksaan  lanjutan  (seperti  wawancara  klinis,  observasi klinis, dan tes
+psikologi).
+b. PemeriksaandenganpedomanPPDGJ,DSM,ICD.
+c. Interpretasi hasil pemeriksaan psikologis, menegakkandiagnosis,sertamenyusunmanifestasifungsipsikologisdan perilaku.
+TatalaksanasetelahpemeriksaanlanjutandiFKTP
+dilakukan oleh tim yang terdiri dari
+dokter, perawat dan/atau psikolog klinis.Tata
+laksana gangguan jiwa di FKTP merujuk pada:
+a. KMK  Nomor  514/2015  tentang  Panduan  Praktik  Klinis di Fasilitas Kesehatan Tingkat Pertama
+b. Pedoman  Penyelenggaraan  Kesehatan  Jiwa  di  FKTP
+c. ModulDeteksiDinidanPenatalaksanaanGangguan JiwaBagiDokterUmumdiFKTPKemenkesRI,2017
+d. StandarDiagnosisKeperawatan
+e. AsuhanKeperawatan,Keliatdkk,2019
+f. Pedoman
+Nasional Pelayanan Psikologi Klinis, IPK,2021
+Pencatatan  dan  pelaporan  merupakan  salah  satu  bagian  penting dalam pelaksanaan program kesehatan termasukpencegahan
+danpengendalianGME.Outputdaripencatatandanpelaporan
+adalahdatayangselanjutnyadianalisismenjadisebuahinformasi untuk mengetahui capaian pelaksanaan
+program. Pencatatan dan pelaporan dilakukan secara berjenjang mulai dari FKTP,
+Dinas Kesehatan Kabupaten/Kota, Dinas Kesehatan Provinsi dan Kementerian
+Kesehatan.
+4.1. PencatatandanPelaporandiFKTP/Puskesmas
+Pencatatan  dilakukan  bagi  penduduk  yang  berdomisili  di wilayah kerja FKTP/Puskesmas setempat. Karena harus
+dilakukanpromosikesehatan,penangananawal,dan/atau rujukan dan/ atau penanganan
+lanjutan. Untuk penderitayangberdomisilidiluarwilayahkerjaFKTP,yangmemeriksakan diri dan memenuhi kriteria GME maka diberikanpenanganansesuaihasilpemeriksaan,tetapiyangbersangkutan
+tidak dicatat dan tidak dilaporkan sebagai hasil capaian FKTP tersebut.
+Beberapa  hal  yang  perlu  dicatat  oleh  pelaksana  kegiatan dalam rangka upaya promotif dan preventif yaitu :
+• Jenis  kegiatan,  waktu  pelaksanaan,  sasaran/peserta  dan
+hasil
+• Kegiatandeteksidini:jumlahpendudukusia>15tahunyangdideteksidinimenggunakaninstrumenSRQ20danSDQ,
+hasil deteksi dini dan tindak lanjut.
+SkriningdenganSDQatauSRQ20terhadappenduduk
+> 15tahundilakukansekaliselama1tahunkalender,hasil
+skrining  yang  memenuhi  kriteria  GME  selanjutnya  dilaporkan
+• Layanan
+yang diberikan: promosi kesehatan (edukasi), prevensi,konseling,penangananawaldanrujukan.
+• Jumlah
+penderita GME usia>15 tahun yang mendaptkanlayanan
+Rekapitulasi data
+dari kegiatan yang dilakukan di dalam danluargedung,pengolahandatadanpelaporanperbulan dikirimkan ke Dinas Kesehatan
+kabupaten/kota.
+4.2. Pencatatan  dan  Pelaporan  di  Dinas  Kesehatan
+a. Dinas  Kesehatan  Kabupaten/Kota  melakukan  rekapitulasi data dari
+Puskesmas.
+b. Hasil  rekapitulasi  dianalisis  kemudian  disampaikan  sebagai umpan balik ke Puskesmas
+dan dilaporkan ke Dinas Kesehatan Provinsi setiap bulan
+c. Dinas
+Kesehatan Provinsi melakukan kompilasi laporan dari Dinas Kesehatan Kabupaten/Kota
+d. Hasil
+kompilasi dilaporkan ke Kementerian Kesehatan setiap 3 (tiga) bulan dan
+dianalisis untuk disampaikan sebagai umpan balik ke Kabupaten/Kota.
+4.3. Pelaporandariorganisasiprofesi/lintassektor/lembaga non pemerintah yang melakukan deteksi dinidikomunitas
+Organisasi
+profesi/lintas sektor/ lembaga non pemerintah dapat melakukan kegiatan dalam
+rangka upaya promotif danpreventifpencegahandanpengendalianGME.Dalam
+melakukan kegiatan tersebut perlu bekerja sama denganDinasKesehatanKab/Kotasetempatdanmelaporkanhasilkegiatannya
+kepada Dinas Kesehatan Kab/Kota.
+Alurpencatatandanpelaporan
+ 
+FormatPencatatandanPelaporan
+a. Format
+Pencatatan Kegiatan Promotif Bagi Penderita GME dan Non GME
+No
+Kegiatan
+Waktu
+Tempat
+Sasaran/Peserta
+Pelaksana
+Hasil
+Pilihanjeniskegiatanpromotif(sesuaiTabelPelaksanaan
+Kegiatan Promosi Kesehatan di Bab 3)
+i. Penyuluhankegiatan,pemberianmateri
+ii. Deteksi  dini  dengan  SRQ/SDQ.  Tuliskan  jumlah  kuesioner yang diisi.
+iii. Pelatihantenagakesehatantentangkesehatanjiwa
+iv. Pelatihan  tenaga  non  kesehatan  a.l.  kader,  guru,  pekerja sosial, petugas
+panti
+v. Pembentukan
+kelurahan sehat jiwa, tempat kerja sehatjiwa,
+vi. Pembentukan  kelompok  swa  bantu,  kelompok  dukungan (support group)
+vii. Lainnya,sebutkan.
+b. FormatPencatatanKegiatanPreventif
+KunjunganpasienGMEkeFKTP(lembarlaporan disesuaikandenganyangtersediadiFKTP/puskesmas
+No
+Nama pasien
+Alamat
+Usia
+Waktu
+Kegiatan  preventif  yang  dilakukan
+Pelaksana
+Hasil
+Pilihan  jenis  kegiatan  preventif  (lihat  lampiran)
+i. Mengurangifaktorrisiko:biologis,psikologis,sosial
+ii. MengurangitandadangejalaGME
+iii. Pemeriksaanlanjutanmultidisiplin
+c.    FormatPelaporanIndikatorGME
+PELAPORAN  INDIKATOR  PERSENTASE  PENDERITA  GME  PADA  PENDUDUK  >  15 TAHUN YANG MENDAPAT LAYANAN
+Puskesmas:
+Kab/Kota:Bulan:
+Provinsi: Tahun:
+  
+  
+  
+  
+*InstrumenSDQyangdigunakanSDQ11-18th
+**Layananyangdimaksudadalahpromosikesehatan,dan/atauprevensi,dan/ataukonseling,dan/ataupenanganan awal, dan/atau rujukan,
+dan/atau penanganan lanjutan
+UpayapencegahandanpengendalianGMEperluditatadandikelola denganbaikmengikutisiklusmanajemenyaituprosesperencanaan, pelaksanaan, monitoring dan
+evaluasi. Tata kelola dilakukan olehtenagakesehatanyangmendapattugassebagaipemegangprogramkesehatanjiwadiDinasKesehatandan/ataupuskesmasmerujukke PedomanTataKelolaPenyelenggaraanUpayaKesehatanJiwa
+5.1. Perencanaan
+a) Tenaga kesehatan di Dinas dan/atau Puskesmas
+mengidentifikasisumberdayayangdimilikimeliputi:
+• sumberdayamanusia(a.l.tenagakesehatanyangsudah dan belum mendapat
+pelatihan di bidang kesehatan jiwaatauGME,tenaganonkesehatanyangterlatih)
+• sarana  (a.l.  media  promosi  kesehatan  yang  tersedia,  form- form SRQ & SDQ)
+• sumberdayakeuangan
+• jejaring  dengan  sektor  lain  (a.l.  rumah  sakit,  sekolah,  panti, posyandu)
+Sumber  daya  minimal  untuk  melakukan  kegiatan  pencegahan danpengendalianGMEyaitu:tenagakesehatandansarana
+b) Tenaga kesehatan menghitung
+dan menentukan target pencapaiandeteksidinisepertitercantumdalamBab2.
+c) Tenagakesehatanmengisiformperencanaankegiatan(jenis kegiatan,lokasi,sasaran,perkiraanjumlahsasaran&target, waktu
+pelaksanaan).
+5.2. Pelaksanaan
+Tenagakesehatanmelaksanakankegiatansesuaiisianform
+perencanaan kegiatan.
+5.3. Monitoring
+Monitoringmerupakanpenilaiansecaraterusmenerusterhadap kemajuan program untuk
+memastikan program berjalan sesuai yangdirencanakandanmendapatkanumpanbaliksecarateratur
+5.4. Evaluasi
+Evaluasi merupakan penilaian secara
+periodik untuk menilai kontribusi program terhadap perubahan, kebutuhan
+perbaikan,kelanjutanatauperluasanprogramTenagakesehatanmelakukanpenilaian tentang proses kegiatan dan keberhasilan kegiatan promotif dan
+preventif
+a) Evaluasiproses
+Evaluasi proses dilakukan tiap 3 bulan sekali untuk
+menilai apakah proses kegiatan yang dilakukan telah dilaksanakan sesuai
+perencanaan, ada perubahan atau kendala. Manfaatevaluasiiniuntukmemperbaikipelaksaankegiatanpadaterminberikutnya.
+b) Evaluasihasil
+Evaluasi hasil dilakukan setahun sekali untuk menilai
+pencapaiantargetpencegahandanpengendalianGMEdi
+wilayah dinas atau puskesmas.
+Ahli  kesehatan  masyarakat  di  dinas  kesehatan  melakukan  analisa epidemiologi sederhana tentang kejadian GME dan gangguan
+jiwa berdasarkan data yang tersedia.
+MonitoringdanEvaluasidiFKTP
+a. MonitoringdilakukanolehinternalFKTP
+b. Evaluasi  dilakukan  secara  berkala  sekurang-kurangnya  setiap 3 (tiga) bulan.
+c. Monitoring  dan  evaluasi  dapat  menggunakan  format  yang  ada di bagian lampiran.
+d. Hasilmonitoringdanevaluasidigunakansebagaisalahsatu
+acuan untuk menyusun rencana tindak lanjut perbaikanprogram.
+e. Pelaksanaanrencanatindaklanjutdievaluasipadamonev termin
+selanjutnya.
+MonitoringdanEvaluasidiDinasKesehatan
+a. Monitoringdanevaluasidilakukansecaraberkalasekurang- kurangnya setiap 3 (tiga) bulan
+terhadap laporan capaian program P2 GME.
+b. Hasil monitoring dan evaluasi
+digunakan sebagai salah satuacuanuntukmenyusunrencanatindaklanjutperbaikanprogramdan bahan advokasi dan koordinasi dengan lintas program dan lintas
+sektor.
+c. Pelaksanaanrencanatindaklanjutdievaluasipadamonev termin
+selanjutnya.
+Indikator  keberhasilan  bagi  provinsi  yang  melaksanakan  pelayanan bagi penderita GME dibagi menjadi 2 kategori:
+1. Baik,bilamencapaitargetpertahun;
+2. Kurang,bilatidakmencapaitargetpertahun.
+FormatMonitoringdanEvaluasiPencegahandan Pengendalian GME
+TataKelola
+Kegiatan
+Jumlah/
+  Ketersediaan
+Keterangan
+Perencanaan
+a. Jumlah SDM yang
+  melakukan kegiatanP2GME
+• Dokter
+• Perawat
+• Psikologklinis
+• Tenaga Kesmas
+• Nakeslainnya(sebutkan...)
+• Kader
+ 
+• Guru
+• PekerjaSosial
+b.  Jenis  media  KlE promosi kesehatan jiwa
+• Brosur/leaflet
+• Poster
+• Lembarbalik
+• Banner
+• Video
+• Medialainnya(sebutkan..)
+c. lnstrumen skriningGME
+• SDQ(11-18)
+• SRQ20
+d. Target  sasaran penderitaGME>15 tahun yangmendapatkan layanan
+e. Anggaran kegiatanP2GME
+f. Rencana kegiatanP2GME
+g. Koordinasi denganlintasprogram
+h. Jejaring  dengan organisasiprofesi dan lintas sektor
+Pelaksanaan
+a. Penyuluhandi
+masyarakat
+b. Penyuluhandilembaga pendidikan
+c. Sosialisasidan
+  advokasi lintas sektor terkait
+d. Pembentukan desasiagasehat jiwa melaluikelompokdukungan dimasyarakat
+e. Peningkatan kapasitaskader(pelatihan/
+  orientasi)
+f. Dukungan psikologisawal
+g. SkriningGME:
+• Didalamgedung
+• Posyandu remaja
+• PosbinduPTM
+• Posyandu  lansia
+• Lembaga pendidikan
+• Panti
+• Lapas/Rutan
+/LPKA
+h. Layanan
+  penderitaGME
+• Promosi Kesehatan/Eduk asi
+• Prevensi
+• Konseling
+• Penanganan awal
+i.Pencatatandan
+  Pelaporan rutin
+Monitoringdan
+• Jumlah
+Evaluasi
+penduduk>15
+  tahun yang
+diskrining
+• Jumlah
+penduduk>15
+tahunyang
+menderitaGME
+• Jumlah penderita
+GME>15tahun
+yang
+mendapatkan
+layanan
+• Persentase
+penderitaGME>
+15tahunyang
+mendapatkan
+layanan
+• Pelaksanaan
+evaluasisecara
+berkalasetiap3
+(tiga)bulan
+Kendala:
+a. ............................
+b. .........................
+c. dst
+TindakLanjut:
+a. ........................
+b. ........................
+c. dst
+Tanggal  pelaksanaan  Monev  :  ........ PelaksanaMonev:
+a. .....
+b. .....
+c. dst
+GME masih menjadi
+masalah kesehatan jiwa di Indonesia yang dapat memengaruhi produktifitas
+sehingga perlu dicegah dandikendalikan
+melalui upaya promotif dan preventif di komunitas maupunfasyankes.
+Upaya tersebut tentunya memerlukan kolaborasi dan sinergi dengan lintas program
+dan lintas sektor. Masyarakat juga berperanpentingdalamupayapencegahandanpengendalianGME. Melalui upaya promotif dan preventif
+yang komprehensif danberkesinambungan
+diharapkan dapat meningkatkan cakupan penderitaGME yang mendapatkan
+layanan dan mencegah munculnya kasus baru GME.
+Petunjuk  teknis  ini  masih  mungkin  dikembangkan  dan  disesuaikan seiring  dengan  situasi  dan  kondisi  serta  kebijakan  dalam  pencegahan dan  pengendalian  GME.  Diharapkan  petunjuk  teknis  ini  dapat  menjadi acuanbagisemuapihakdalammemberikanaksesdanmemperkuat layanan kesehatan jiwa.
+Beberapadokumenyangterkaitdenganjuknisinidapatdiunduh melalui http://bit.ly/Dokumen-Pendukung-NSPK-GME
+1. KuesionerSDQ
+2. KuesionerSRQ20
+3. TugasPerkembangan
+4. Stimulasi,OptimalisasiAspekPerkembangandanFungsiPsikologis
+5. ManajemenStres
+6. CaraMengatasiFaktorRisikoPsikologis
+usia11-18th Lampiran1.KuesionerSDQ
+usia11-18th
+INSTRUMENTSTRENGTHSANDDIFFICULTIESQUESTIONNAIRE(SDQ)
+Untuk setiap
+pernyataan, beri tanda pada kotak Tidak Benar.Agak Benar atau Selalu Benar.Akan
+sangatmembantukamiapabilakamumaumenjawabsemuapernyataansebaikmungkinmeskipunkamutidakyakinbenar.
+Berikan jawabanmu sebagaimana sesuatu telah terjadi pada dirimu selama enam
+bulan terakhir.
+Nama  ......................................................................................................
+Tanggal  lahir  ...........................................................................................
+Laki- laki/Perempuan
+1.  Sayaberusahabaikkepadaoranglain.Sayapedulidenganperasaanmereka
+2. Sayagelisahsayatidakdapatdiamuntukwaktulama
+3. Sayaseringsakitkepala,sakitperutataumacam-macamsakitlainnya
+4. Kalaumempunyaimainan,CD,ataumakanan,Sayabiasanyaberbagidenganoranglain
+5.  Seringsulitsangatmarahdanseringtidakdapatmengendalikankemarahansaya
+6. Sayalebihsukasendiridaripadabersamadenganorangyangseusiaku
+7. Sayabiasanyamelakukanapayangdiperintahkanolehoranglain
+8. Sayabanyakmerasa  cemasataukhawatirterhadapapapun
+9. Sayaselalusiapmenolongjikaseseorangterluka,kecewaataumerasasakithati
+10.  Bilasedanggelisahataucemasbadansayaseringbergerak-geraktanpasayasadari
+11. Sayamempunyaisatuorangtemanbaikataulebih
+12. Sayaseringbertengkardenganoranglain.Sayadapatmemaksaoranglainmelakukanapa  yang saya inginkan
+13.  Sayaseringmerasatidakbahagia,sedihataumenangis
+14. Oranglainseusiasayaumumnyamenyukaisaya
+15. Perhatiansayamudahteralih,sayasulituntukmemusatkanperhatianpadaapapun
+16. Sayamerasagugupdalamsituasibaru,sayamudahkehilanganrasapercayaDiri
+17.  Sayabersikapbaikterhadapanak-anakyanglebihmudadarisaya
+18.  Sayaseringdituduhberbohongatauberbuatcurang
+19.  Sayaseringdigangguataudipermainkanolehanak-anakatauremajalainnya
+20.     Sayaseringmenawarkandiriuntukmembantuoranglain(orangtua,guru,anak-anak)
+Tidak  Benar
+ 
+Agak  Benar
+ 
+Selalu  Benar
+ 
+   25.Saya  menyelesaikan  pekerjaan  yang  sedang  saya  lakukan.  Saya  mempunyai  perhatian
+yang  baik  terhadap  apapun
+ 
+Tanda  tangan  ..................
+Tanggal  hari  ini  .................
+Terimakasihbanyakatasbantuananda
+Lampiran2.KuesionerSRQ20
+Self-Reporting
+Questionnaire-20 Nama: .............
+Tanggal  Lahir/  Usia:  ........... Laki-laki/Perempuan
+Tanggal  Pengisian:  ............
+Petunjuk: Bacalah petunjuk ini seluruhnya
+sebelum mulai mengisi. Pertanyaan berikut berhubungan dengan masalah yang
+mungkin menggangguAnda selama 30
+hari terakhir.ApabilaAnda menganggappertanyaanituAndaalamidalam30hariterakhir,berilahtandasilang
+(X)  pada  kolom  Y  (berarti  Ya).  Sebaliknya,  Apabila  Anda  menganggap pertanyaanitutidakAndaalamidalam30hariterakhir,berilahtanda silang (X) pada
+kolom T (Tidak). Jika Anda tidak yakin tentang jawabannya, berilah jawaban yang
+paling sesuai di antara Y dan T. Kami tegaskan bahwa jawaban Anda bersifat
+rahasia dan akan digunakanhanyauntukmembantupemecahanmasalahAnda.
+NO
+Pertanyaan
+y
+T
+1
+ApakahAndaseringmerasasakitkepala?
+2
+ApakahAndakehilangannafsumakan?
+3
+ApakahtidurAndatidaknyenyak?
+4
+ApakahAndamudahmerasatakut?
+5
+ApakahAndamerasacemas,tegang,ataukhawatir?
+6
+ApakahtanganAndagemetar?
+7
+ApakahAndamengalamigangguanpencernaan?
+8
+ApakahAndamerasasulitberpikirjernih?
+9
+ApakahAndamerasatidakbahagia?
+10
+ApakahAndalebihseringmenangis?
+11
+ApakahAndamerasasulituntukmenikmatiaktivitas
+sehari- hari?
+12
+ApakahAndamengalamikesulitanuntukmengambil
+keputusan?
+13
+Apakahaktivitas/tugassehari-hariAndaterbengkalai?
+14
+ApakahAndamerasatidakmampuberperandalam
+kehidupanini?
+15
+ApakahAndakehilanganminatterhadapbanyakhal?
+16
+ApakahAndamerasatidakberharga?
+17
+ApakahAndamempunyaipikiranuntukmengakhirihidup
+Anda?
+18
+ApakahAndamerasalelahsepanjangwaktu?
+19
+ApakahAndamerasatidakenakdiperut?
+20
+ApakahAndamudahlelah?
+Lampiran  3.  Tugas  Perkembangan  Remaja,  Dewasa  dan  Lansia Materi Tugas Perkembangan (Santrock, 2019)
+Remaja
+Dewasa
+Lansia
+1. Perkembangan fisiologis: pubertas; perkembangan otak;perkembanganseksual
+2. Perkembangan  kognitif: perkembangankognitif
+  formal operasional; egosentrisme remaja;perkembangan
+  kemampuanmemproses informasi,kemampuanpenalaran,pengambilankeputusan,kontroldiri, perkembanganbahasa
+  yang semakin baik
+3. Perkembangan sosial: penyesuaian terhadap
+  perubahan / transisikehidupan;faseidentityvs identity confusion; pembentukan dan perkembangankonsep diri, self-esteem; perkembangan
+  relasi dengan sebaya, orangtua, pasangan.
+4. Perkembanganemosi: perubahan suasana hati; perkembangan kelekatan dan rasa
+1. Perkembangan
+  fisiologis: perkembangan tubuh dan
+  performa fisik,kondisikesehatanfisik,perkembanganseksual,dsb
+2. Perkembangan  kognitif: perkembangan  kognitif post-formal  operasional; pemikiran realistis, reflektif, relativistik,kreatif
+3. Perkembangansosial: penyesuaianterhadap perubahan / transisi
+  kehidupan; fase generativity vsstagnation;ketertarikanpada lawan jenis, menikah dan membentuk keluarga, menjadi orangtua
+4. Perkembanganemosi:temperamen;ketertarikanpadalawan
+  jenis;kelekatandenganpasangan,
+  anak
+5. Perkembangan
+  kepribadian:
+1. Perkembangan fisiologis: adaptasiperubahanpenampilantubuh, kondisi kesehatan
+  fisik,penurunanfungsiindera(pengelihatan,pendengaran,
+  dsb)
+2. Perkembangan  kognitif: penurunan  kemampuan platisitasotak,ingatan,dankemampuanverbal,perkembangan kemampuanpemecahan masalah
+  praktis, kebijaksanaan
+3. Perkembangan sosial:
+  penyesuaian terhadap perubahan / transisikehidupan,faseintegrityvs depair; menjadi selektif terhadap jaringan sosial, self-esteem; mengembangkandukungan sosial
+  yang terintegrasi, termasuk terlibat dalam aktivitassosial
+4. Perkembanganemosi: menghargaikepuasan
+kemandirian.  Kelekatan insecure pada remaja mengarah pada hambatan emosional
+  yang erat kaitannya dengan permasalahanperilaku.
+5. Perkembangan moral, spiritual: persepsi dan
+  keyakinan terhadapagama,Tuhan,kegiatankeagamaan, dsb. Seiring denganperkembangankognitifnya, remaja mulai memahami konsep abstrak, termasuk ide
+  tentangkonsepspiritual,Tuhan,dsb.Remajajugamulai
+  mempertanyakan konseptersebutseiringpembentukanidentitas dirinya, seperti mengapa aku
+  ada diduniaini,apakahTuhanbenar-benar ada atau aku hanya mengikuti kepercayaan yang orangtua
+  ajarkan kepadaku, dsb
+6. Perkembangan karir dan pekerjaan: pengembanganminat bakat, perencanaankarir
+keterbukaan, kesadaran,kehati-
+  hatian,ekstraversi,keramahan
+6. Perkembanganmoral, spiritual:persepsidan keyakinan terhadap agama, Tuhan, kegiatan keagamaan,
+  kebermaknaan hidup,dsb
+7. Perkembangan karir dan
+  pekerjaan: pekerjaan yang realisitis,jenjangkarir,dorongan meningkatkankapasitaskemampuan dengan pelatihan
+emosionaldanrelasi sosial yang dimiliki;
+5. Perkembangan
+  kepribadian: keterbukaan, kesadaran,kehati- hatian,ekstraversi,keramahan
+6. Perkembangan moral,
+  spiritual: persepsi dan keyakinan terhadapagama,Tuhan,kegiatankeagamaan,kebermaknaan
+  hidup,dsb
+7. Perkembangan karirdanpekerjaan:adaptasimasa
+  pensiun
+Lampiran4.Stimulasi,OptimalisasiAspekPerkembangandan Fungsi Psikologis
+Materi Stimulasi, Optimalisasi  Aspek Perkembangan dan Fungsi Psikologis
+Remaja
+Dewasa
+Lansia
+1. Aspek fisiologi:menerapkanpolahidup
+  sehat(makanmakananbergizi, olahraga
+  rutin, istirahat cukup)
+2. Aspek kognitif:
+  mengeksplorasi dan mempelajari berbagai hal, termasukpembelajaranakademik, terlibat aktivitas yangmengasahkemampuanpenalaran,pemecahan masalah,pengambilan keputusan (misal bermain
+  peran, mengikuti kegiatanekstrakurikuler)
+3. Aspek sosial: melakukan
+  aktivitassosialdengankelompoksebaya, mengurangi penggunaan gadget (HP, tablet, TV, komputer),
+  menjalin relasi dengan sebaya dan mengeksplorasi berbagai situasi sosial
+1. Aspek fisiologi:menerapkanpolahidup
+  sehat(makanmakananbergizi, olahraga
+  rutin, istirahat cukup)
+2. Aspek kognitif: melakukan
+  aktivitas yang mengasahkemampuanpenalaran,pemecahan masalah, dsb. Misal dengan mengikutiperkuliahan, bekerja, melakukansenamotak/braingym, mengisiteka-tekisilang,
+  dsb
+3. Aspek sosial: menjalin
+  relasi dengan banyak orang,mempersiapkan
+  dan melangsungkan pernikahan, menjalanikehidupanberkeluarga,terlibat dalam aktivitas sosialkemasyarakatan
+  (misal arisan, perkumpulan ibu-ibuPKK,ronda,kerjabakti,dsb)
+1. Aspek fisiologi:menerapkanpolahidup sehat(makanmakananbergizi, olahraga rutin/senam lansia, istirahat cukup)
+2. Aspek kognitif: melakukan aktivitas yang
+  memelihara kemampuan kognitif (missal bermain catur,mengisitekatekisilang,membaca)
+3. Aspek sosial: terlibat dalam aktivitas sosialkemasyarakatan(misalarisan, dsb)
+4. Aspek emosi: melakukan kegiatan rekreasionalbersamapasangan/ keluarga/teman,melakukan relaksasi
+5. Aspek moral, spiritual: mengikuti kajiankeagamaan,melakukanaktivitas
+  keagamaan bersama keluarga /teman
+dalam rangkamenguatkankonsepdiridan
+  efikasi diri
+4. Aspek emosi: melakukan relaksasi,meditasi,olahragayangmenunjangpengembanganregulasidiri dan
+  emosi; menguatkankelekatan dan
+  relasi dengankeluarga
+5. Aspek moral, spiritual: mengikuti kajiankeagamaan,melakukanaktivitas
+  keagamaan bersama keluarga /teman
+4. Aspek emosi: melakukan kegiatan rekreasional
+  bersamapasangan/ keluarga/teman,melakukan
+  relaksasi,meditasi,olahragayangmenunjangpengembanganregulasidiri dan
+  emosi
+5. Aspek moral, spiritual: mengikuti kajiankeagamaan,melakukanaktivitas
+  keagamaan bersama keluarga /teman
+Lampiran5.ManajemenStres
+A. Sumber-sumberstresspadaremaja,dewasadanlansia
+Remaja
+Dewasa
+Lansia
+a. Perubahandirikarena proses pubertas
+b. Tekanan  sebaya
+c. Konflikrelasidengan pasangan, teman,orangtua
+d. Permasalahan terkaitsekolahdanpencapaian akademik
+e. Penggunaan dan paparan
+  gadget,termasukpaparanmediasosial dan permainan online berlebih
+f. Permasalahan kehidupanlainnya
+a. Permasalahan  akademik dan penyesuaian pembelajaran kuliah
+b. Konflik dengan pasangan,teman,keluarga
+c. Permasalahanmarital
+d. Permasalahan terkait pekerjaan(streskerja,pengangguran,permasalahandengan rekan kerja / atasan)
+e. Permasalahanfinansial
+f. Permasalahan kehidupanlainnya
+a. Kesepian
+b. Kedukaan/kehilangan pasangan / keluarga
+c. Permasalahan kesehatan
+d. Konflik dengan pasangan,teman,keluarga
+e. Permasalahanmarital
+f. Permasalahanterkait pekerjaan (pensiun)
+g. Permasalahanfinansial
+h. Permasalahanv kehidupanlainnya
+B. Manajemen stres
+JikaAndamengalamistres,Andatidaksendiri.Saatini,ada banyakorangdisekitarAndadandiseluruhduniayangjuga berjuangmelawanstres.Ketikaseseorangmerasatertekan atauterancam,saatitulahdiamengalamistres.Stresdapat diatasi dengan
+melakukan manajemen stres yang akan membuatstresmenurunsehinggakehidupankitabisalebihbaik,kitaberfungsimelakukanaktivitasdengannyamandanrelasi
+dengan orang lain juga membaik.
+Teknik  manajemen  stres:
+1. LatihanTariknafasdalam
+Ambil posisi
+nyaman sambil duduk atau tiduran, lalu tarik nafas dalam dari hidung ditahan
+sebentarkemudiandikeluarkan dari
+mulut pelan-pelan, ulangi 4 sampai 5 kali. Evaluasi manfaatnya, dan latih
+secara rutin 3 sampai 4 kali per hari.
+2. Relaksasi  Otot  Progresif  ( Progressive  Muscle  Relaxation )
+Relaksasi Otot
+Progresif (ROP) adalah latihan mengen- cangkan dan mengendurkan otot sambil
+nafas dalam pada ototmukasampaikaki:matadandahi,pipi,mulut,tengkuk, bahu, tangan,
+dada, perut, punggung, bokong, kaki dan telapak kaki (Keliat & Marlina, 2018)
+a) Latihan matadandahi:
+Tarik  nafas  dalam  sambil  mengencangkan/mengerutkan mata dan dahi, lalu tahan dan kendurkan
+pelan-pelan sampai lemas sambil mengeluarkan nafas, dilakukan empat kali.
+Evaluasi manfaatnya, dan latih secara rutin 3 sampai 4 kali per hari.
+b) Latihanpipi
+Ada dua latihan untuk pipi yaitu pipi
+digembungkan dan pipidikempotkan
+Pipidigembung
+Tarik  nafas  dalam,  gembungkan  mulut,  tahan,  tiup  pelan-pelan sampai  pipi  kembali  seperti  semula.  Ulangi  sampai  empat  kali, saya akan contohkan lebih dahulu (mohonbapak/ibumemperhatikan).Evaluasimanfaatnya,danlatihsecararutin 3 sampai 4 kali
+per hari.
+Pipidikempotkan
+Tarik nafas dalam, kempotkan pipi,
+tahan, tiup pelan-pelansampaipipikembalisepertisemula,ulangisampaiempatkali.Evaluasi
+manfaatnya, dan latih secara rutin 3 sampai 4 kali per hari.
+c) Mulut
+AdadualatihanuntukmulutyaitumencucudannyengirMencucu
+Tarik nafas dalam,tahan sambil mulut mencucu, keluarkan
+nafas pelan-pelan, dan mulut kembali seperti semula, ulangisampaiempatkali.Evaluasimanfaatnya,danlatihsecararutin3
+sampai 4 kali per hari.
+Mulutnyengir
+Tarik nafas dalam sambil menaruh
+lidah di langit-langit dan tarikkebelakangsekuatnya,tahanlalulepaskanpelan-pelansambilmengeluarkannafas,danmulutkembalisepertisemula,ulangi sampai empat kali. Evaluasi manfaatnya, dan latih secara rutin 3
+sampai 4 kali per hari.
+d) Latihantengkuk/leher
+Dagu  ditempelkan  ke  dada,  lalu  tarik  nafas  dalam  sampai menengadah sejauh-jauhnya ke
+belakang, tahan sebentar lalukelurakannafaspelan-pelansambilmengembalikan posisi dagu menempel ke dada. ulangi sampai empatkali.Evaluasimanfaatnya,danlatihsecararutin3sampai4 kali per hari.
+e) Latihanbahu
+Tarik nafas dalam sambil mengangkat
+bahu sampai menyentuhtelinga,tahansebentarlalukeluarkannafassambilmenurunkanbahukeposisisemula.ulangisampaiempat kali. Evaluasi manfaatnya, dan latih secara rutin 3 sampai 4 kali
+per hari.
+f) Latihantangan
+Ada dua latihan untuk tangan yaitu
+tangan ditekuk kearahbadandantangandiluruskansepertimendorong.Kedua tangan ditekuk kearah badan
+Kedua tangan
+letakkan diletakkan diatas pangkuan, tarik nafas dalam sambil mengepalkan telapak tangan dan menekuk
+sambil mengencangkannya,tahan
+sebentar, lalu keluarkan nafassambilmengendurkantangandanmembukatelapak
+tangan dan meletakkannya diatas
+pangkuan. ulangi sampai empat kali. Evaluasi manfaatnya, dan latih secara rutin
+3 sampai 4 kali per hari.
+Kedua tangan diluruskan menjauh dari badan Keduatanganletakkandiletakkandiataspangkuan,tariknafasdalamsambilmeluruskantangansepertimendorongpintu sambil mengencangkannya,tahan
+sebentar, lalu keluarkan nafas sambil mengendurkan tangan dan meletakkannya
+diatas pangkuan. ulangi sampai empatkali.Evaluasimanfaatnya,danlatihsecararutin3sampai4 kali per hari.
+g) Latihanototdada
+Tarik nafas dalam sambil membusungkan
+dada, tahan sebentarkemudiankeluarkannafaspelan-pelansampai dadakembalisepertisemula.ulangisampaiempatkali.
+Evaluasi manfaatnya, dan latih secara rutin 3 sampai 4 kali per hari.
+h) Latihanmeregangkanototpunggung
+Jelaskan:  tarik  nafas  dalam  sambil  membusungkan  dada dan melengkungkan punggung kebelakang, tahan sebentar
+kemudian keluarkan nafas pelan pelan sambil mengendurkan punggung seperti
+posisi semula. ulangisampaiempatkali.Evaluasimanfaatnya,danlatihsecararutin 3 sampai 4 kali per hari.
+i) Latihanototperut
+Tarik  nafas  dalam  sambil  menggembungkan  perut,tahan sebentarkemudiankeluarkannafassambilmengendurkan perutkembalisepertisemula.ulangisampaiempatkali. Evaluasi manfaatnya, dan latih
+secara rutin 3 sampai 4 kali per hari.
+j) Latihanototbokong
+Tarik  nafas  dalam  sambil  mengencangkan  bokong  seperti menjepit kertas, tahan sebentar kemudian keluarkan nafas
+sambil mengendurkan bokong seperti semula.ulangisampaiempatkali.Evaluasimanfaatnya,danlatihsecara
+rutin 3 sampai 4 kali per hari.
+k) Latihanototkaki
+Adadualatihanuntukototkakiyaitutelapakkakimengarah kebadandantelapakkakimenjauhdaribadan.
+Telapakkakimengarahkebadan
+Luruskan kedua kaki sambil duduk,
+tarik nafas dalam sambil menarik telapak kaki kearah badan dan keduatanganberusahamenggapaiibujarikaki,tahansebentar,kemudiankeluarkannafaspelan-pelansambilmengendurkan
+kaki, telapak kaki dan tangan. ulangisampaiempatkali.Evaluasimanfaatnya,danlatihsecararutin
+3 sampai 4 kali per hari.
+Telapakkakimenjauhdaribadan
+Luruskan kedua kaki sambil duduk,
+tarik nafas dalam sambil meluruskan telapak kaki menjauh dari badan, tahan
+sebentar, kemudian keluarkan nafas pelan-pelansambilmengendurkankakisepertisemula.ulangisampaiempat kali.
+Seluruh  latihan  otot  badan  telah  selesai,  minta  melakukan latihansendiri,mata&dahi,latihanpipiduacara,latihan mulut dua cara,
+tengkuk&leher, bahu, kedua tangan,dada,perut,punggung,bokong,dankeduakakisebanyaktiga kali sehari. Evaluasi manfaatnya, dan latih secara rutin 3 sampai 4
+kali per hari.
+3. LatihanBerfokuspadalimajari:
+Tariknafasdalam,pejamkanmata,kosongkanpikiran,angkat tangan :
+• Pertemukanibujaridengantelunjuk kemudianbayangkan
+saattubuhsangatsegarpadamasamuda,ataupulangkerja kemudian mandi dan terasa segar
+sekali.
+• Pertemukan  ibu  jari  dengan  jari  tengah  kemudian  bayangkan
+semuaorangyangmemperhatikansaudaradanpedulipada
+saudara, mereka sangat baik sekali
+• Pertemukanibujaridanjarimanis kemudianbayangkan
+pujian yang saudara dapatkan dari
+pasangan, keluarga atau teman, atau prestasiyang pernah saudara dapatkan lulussekolah,dapatkerjadll,bayangkanbetapasenangnyasaudarasaat itu.
+• Pertemukanibujaridengankelingking kemudian
+bayangkan tempat-tempat indah yang
+pernah saudara kunjungi,ladangsaudarayangmenguningsiapdipanen,pantai,dll.Tariknafasdalamdanbukamata.
+Evaluasi manfaatnya, dan latih secara
+rutin 3 sampai 4 kali per hari.
+4. LatihanBerfikirPositif
+Latihanberfikirpositifbergunauntukmeningkatkanendorfinsehinggaimunitasmeningkat.Semuapengalamanyangpositiftentang diri sendiri, keluarga, kelompok dan masyarakatdiidentifikasidandituliskan,kemudiandilakukanafirmasiyaitu
+mengucapkanpadadirisendirisehinggapikirandipenuhiolehpengalaman
+yang menyenangkan. Selain itu dapat pulamenyusunrencanadantujuanyangpositifdanobjektifdalambentukpernyataanpositiftentangdirisendiridandiucapkan
+secara rutin dan dilakukan afirmasi.
+Latihan
+: Ambil kertas kosong dan pulpen,
+tuliskan semua hal positif tentang diri saudara, keluarga saudara, sekolah
+saudara,tempatkerjasaudara,kelompokyangsaudaraikuti
+dan semua sahabat saudara. Kemudian
+lakukan afirmasi dengan mengucapkan pada diri saudara semua hal positif yang
+saudara miliki (self-talk positive), tegaskan bahwa saudara memilikinya.
+Cara berikutnya, ambil kertas dantuliskantujuanataukeinginansaudarayangpositifdanobjektif,kemudian lakukan afirmasi. Evaluasi manfaatnya, dan latih secara rutin 3
+sampai 4 kali per hari.
+5. Latihanpenghentianpikiranyangmengganggu
+Latihan  penghentian  pikiran  dilakukan  jika  mengalami  pikiran yangmengganggudanmembuatsusahdansedihyangtidak
+dapat dikendalikan. Latih mengendalikan pikiran yang mengganggudengan mengatakan stop.
+Langkah-langkah: Setiap kali pikiran yang mengganggu
+muncul dan tak dapat mengendalikannya, maka dapat dilakukan penghentian pikiran
+dengan mengatakan STOP. Caranyadimulaidenganmengidentifikasipikiranyangpalingmenggangu,lalutariknafasdalam,tutupmatadankosongkanpikiran, kemudian bayangkan atau ingat pikiran paling mengganggu samapai
+hitungan tertentu misalnya 5, 7 atau 10 dan padahitungan terakhir 5, 7, atau 10 katakan STOP pada pikiran
+tersebut, dan rasakan muncul pikiran positif, ulangi2sampai3kali.Latihsetiapharijikaadapikiranyangmengganggu.
+6. Grounding
+Grounding adalah manajemen stres
+dengan berfokus pada kehidupan saat ini (present moment, here andnow).Bayangkan
+kita sedang berada di atas pohon dan tiba tiba terjadi badai, hujan lebat,
+angin kencang, petir.Apabila kita
+tetap berada di atas pohon maka kita dalam bahaya, bisa jatuh dan terluka. Cara
+paling aman yang dapat dilakukanadalahturunkebawahpohondanmenjejakditanah,iniyang
+disebut Grounding. Dalam kehidupan
+sehari hari kita sering juga mengalami Badai Emosi yaitu saat ada pikiran dan
+perasaan yang berat seperti kenangan masa lalu yang menyakitkan,kekhawatiranakanmasadepanatauberbagai perasaannegatifsaatinisepertimarah,kesal,sedih,cemas, gelisah. Grounding juga akan membuat keadaan kita lebih aman saat
+muncul badai emosi tersebut.
+Langkah-langkah  :
+a. Ketahuiperasaandanpikiransaatini
+b. Atur  pernafasan  dengan  menarik  nafas  dalam,  tahan  dan mengembuskannya
+perlahan
+c. Tekantelapakkakikelantaisecaraperlahan
+d. Rentangkan lengan ke kiri dan kanan secara perlahan kemudian
+kepalkan di depan dada
+e. LIHAT5bendayangadadisekitar,fokusdanberinama
+benda tersebut
+f. SENTUH 4 benda yang ada di sekitar, fokus dan deskripsikansepertiapabentuk,tekstur,keraslunaknya dan
+permukaannya
+g. DENGAR 3 suara yang ada di sekitar, fokus dan beri nama suara
+apa itu
+h. KECAP  2  rasa  dari  makanan/minuman  yang  ada  di  mulut, deskripsikan rasa,
+panas dinginnya
+i. CIUM  1  aroma/bau  yang  tercium,  deskripsikan  aroma/bau yang dirasakan tersebut
+j. Setelah itu fokus dan lakukan kembali kegiatan yang sedang
+dikerjakan, perhatikan orang orang sekitar dan apa yang ada di sekeliling
+7. Melepaskan  Diri
+Setiap orang berusaha untuk
+menghilangkan pikiran dan perasaan yang berat dengan berbagai cara. Cara - cara
+tersebut antara lain adalah : membentak, mencoba tidakmemikirkan,menghindariorang,tempat,situasi,tidakkeluar
+kamar,mengisolasidiri,menyerah,merokok,minumalkohol,narkoba,bertengkar,menyalahkandirisendiri,dll.Tetapisaatmencoba
+menghilangkan pikiran dan perasaan yang berat tersebut, yang terjadi justru
+hidup menjadi lebih buruk.Adaacarayangdapatdigunkanagarkitabisaterlepasdaripikirandanperasaanyangberatyaituteknikmelepaskandiri.
+Langkah-langkah  :
+a. RAS AKANpikirandanperasaanyangberat/sulititu.
+b. NAMAI perasaan dan pikiran yang berat itu, misal : ini ada rasa
+tertekan di dada, ini kepalaku terasa berat, ini kenangan yang menyakitkan, ini
+rasa takut akan masa depan,inipikiransulittentangmasalalu,iniamarah,ini pikiransulittentangkeluargasaya,dll.Tambahkanfrasa "saya merasa" pada nama dari pikiran dan
+perasaan yang berat itu, sehingga menamainya menjadi : saya merasainirasatertekandidada,sayamerasainikepala
+sayaberat,sayamerasainiadalahmarah,sayamerasa ini rasa tidak
+nyaman di perut, saya merasa ini pikiran tentang yang saya takutkan, dll
+c. LangkahberikutnyaadalahBERFOKUSKEMBALIpada kegiatan Anda, apakah itu memasak,
+makan, bermain,mencuci,atauberbincangdengantemandanMENGHIDUPIpenuhkegiatanterebut;BERIPERHATIANPENUHkepadaorangdisekitarAnda,siapapunitu,d an
+kegiatan Anda, apa pun itu.
+8. BertindakSesuaiNilai
+Nilai-nilai Anda menggambarkan Anda
+ingin menjadi orang seperti apa dan cara Anda memperlakukan diri serta dunia disekitarAnda.Nilainilaihidupituantaralain:Baik,Peduli,Murah hati,Mendukung,Banyakmembantu,Sabar, Bertanggung jawab,
+Melindungi, Disiplin, Bekerja keras,Berdedikasi,
+Berani,Teguh, Penuh maaf, Penuh syukur, Setia,Terhormat,
+Menghormati, Dapat dipercaya, Adil, dll. Dalam menghadapikrisisdalamkehidupanmakakemungkinannyaada2yaitu:Mendekatinilaiataumenjauhinilai
+Langkah-Langkah:
+a. TuliskannilainilaipentingdalamhidupAnda
+b. PerhatikansituasisulityangsedangAndahadapi
+c. Lakukan pendekatan : UBAH YANG DAPAT DIUBAH, TERIMARASASAKITYANGTIDAKDAPATDIUBAH,DAN JALANKAN NILAI
+ANDA.
+9. Berbuat  Baik
+Ditengahkondisiyangsulitataukrisis,tidakmudahmelakukan kebaikan pada diri sendiri dan orang lain. Semua orang
+memerlukankebaikan,mulaimelakukankebaikanuntukdirisenidirdanAndaakanmemilikienergilebihuntukmembantuorang lain, dan motivasi lebih untuk berbuat baik kepada orang lain,
+sehingga semua orang dapat manfaat.
+Langkah-langkah  :
+a. Katakan kata kata yang baik pada diri Anda, seperti :
+"Terimakasihsudahbertahansejauhini","Akuadalahibu yangbaik",SayaadalahAyahyangsayangpadakeluarga",dll
+b. Anda juga dapat mengangkat satu tangan Anda dan membayangkannya
+terisi dengan kebaikan. Tempatkan tanganinidenganlembutdibagianditubuhAndadimana
+Anda merasa sakit. Rasakan kehangatan
+mengalir dari tangan Anda ke dalam tubuh Anda. Coba apakah AndadapatbaikkepadadiriAndamelaluitanganini.
+c. Lakukankebaikanjugapadaoranglaindenganmemberikan apresiasi, pujian, pertolongan bantuan.
+10. Memberikan  Ruang
+Berusaha  menjauhkan  pikiran  dan  perasaan  sulit  sering  kali tidakbegituberhasil.Jadi,BERIRUANGsajauntuksemua
+itu. Coba kita lihat langit, yang selalu punya ruang untukperubahancuacayangterjadiatasnya.Tidakpeduliseburukapapuncuaca,hujan,petir,saljuyangdingindanpanasterik
+tetapi langit memberikan ruang tanpa tersakiti dan dirugikan.Dan cepat
+atau lambat cuaca akan berubah. Dan kita bisa belajar untuk menjadi seperti
+langit, dan memberi ruang untuk "cuaca buruk" pikiran dan perasaan
+sulit kita tanpatersakiti.
+Langkah-langkah  :
+a. RasakanpikiransulitAnda
+b. Bayangkanituadalahkata-katadangambardihalaman
+dari suatu buku
+c. BayangkanAndameletakkanbukuitudipangkuanatauAndajugabisamembayangkanmengapitbukuitudenganlengan
+Anda dan membawanya.
+d. TetapHIDUPIduniadisekitarAndadenganbaik
+e. Jadi,pikiranitumasihadapadaAnda,tetapiAndadapat MENGHIDUPI dunia di sekitar Anda.
+Latihlah manajemen stres ini setiap
+saat sehingga menjadiketerampilanbaru.Semakinseringdilatihakansemakinmudahdansemakincepatkitamengatasistresyaitupikirandanperasaan yang berat dalam
+kehidupan kita.
+Lampiran6.ContohCaraMengatasiFaktorRisikoPsikologis
+Faktor RisikoGME
+CaraMengatasi
+Contoh
+1)Kemampuanregulasi emosi
+  rendah
+a)Melatihkemampuan mengenaliemosidiri
+a)Menamaiemosi-emosiyangdirasakan,sepertisenang, marah, dll
+b)Melatihkemampuan
+mengekspresikanemosi secara asertif
+b)  Mengekspresikan  emosi
+dengan menyampaikannya secara  lisan,  misal  "Aku senang memasak bersama keluarga hariini."
+c)Melakukanrelaksasiataumeditasi
+c)Melakukan relaksasinafasketikasulittidurdimalamhari,melakukanrelaksasiototprogresif
+  ketika cemas, melakukan meditasimindfulnessdi situasi
+sehari,dsb
+d)Berolahraga secara teratur,misaljalankaki,
+yoga,dll
+d)Jalankakisetiaphari, yoga3kaliseminggu,
+dsb
+e)Menulisjurnalharian,
+misal jurnal kebersyukuran,catatan harian, dll
+e)Menuliskan3
+pengalaman yang disyukuri setiap hari, misal
+  hari ini akubersyukurkarenadapatkado dari ibu, pergi makan bersama keluarga, dan bersepedadipagihari.Menuliskan
+  pengalamankeseharian, termasuk
+pemikiran  dan  perasaan yang dirasakan.
+f)Berbagipikirandan
+perasaandenganorang terdekatyangdipercaya
+f)Berdiskusidengan
+orangtua tentang penggunaan gadget daninternet,sertarasaingintahu,rasasenangbisa belajar online dengan teman, kesal karena komentar di media
+  sosial. Curhat pada teman tentang tugas sekolah yangsulit,tentangpasangan.
+2)Kemampuan regulasi diri rendah yangtermanifestasikan dalamkontrolperilakuyang buruk
+a)Melatihketerampilan
+manajemenstresdan manajemen konflik
+a)Latihanmenahandiri
+untuk tidak memukul teman atau melempar barang
+  saat marah.Latihanmenyelesaikanselisih paham dengan komunikasi asertif (sikap mampu berkomunikasidengan jujurdantegasdengan tetap menghargaipendapatdanperasaanorang
+  lain).
+b)Melatihfleksibilitasdalam
+berpikirdanketerampilan pengambilan keputusan
+b)Melihatpermasalahan
+dari berbagai sudut pandang dan mengambil
+  keputusandengan mempertimbangkanmanfaat
+  dan kerugianyangmungkindiperoleh
+a)Menumbuhkan kebermaknaanhidup, penerimaan diri,kebersyukuran
+a)Memaknai kegagalan sebagai prosesbertumbuh,keberhasilan sebagai
+  kesempatan untuk mengembangkan diri yang lebih baik. Menerima kekurangan diridanmensyukurinya.
+c)Menentukanprioritas
+tugas dan melatih manajemenwaktu
+c)Membuatperencanaan
+sesuai dengan kondisi dansumberdayayang dimiliki.
+  Menuliskan daftartugasyangperlu
+dikerjakandan
+menyusun prioritasuntuk menyelesaikannyasesuaibataswaktu.
+b)Berbagipikirandan
+perasaandenganorang terdekatyangdipercaya sertamelakukanrefleksidiri
+b)Menceritakan
+pengalaman  krisis  yang dialami padakeluarga/teman/pasangan/ mencari bantuan profesional (ke puskesmas,konsultasidengandokter,psikolog,
+  perawat,dll).Melakukanrefleksi diri serta
+  mengevaluasi strategi dan usaha yang telah dilakukan. Menyusun rencana aksi
+  untuk perubahan dan pengembangan diri yang lebih adaptif.
+d)Melatihketerampilan
+  komunikasi asertif
+d)Berlatih dalam situasi keseharian untukmengungkapkangagasandanperasaan dengan jujur, empatik, danmenghargaiorang lain. Tidak
+  bersikap egois, dan mau mendengarkansaran/ masukan orang lain.
+3)Konsepdirinegatif
+a)  Mengidentifikasi  kekuatan
+/ kelebihan dan keterbatasandiri
+a)  Mengenal  diri,  termasuk
+kekuatan dan keterbatasan diri menggunakanjendelaJohari
+b)Latihan berpikir positif, terkaitidentitasdiri,citra tubuh,
+  dsb
+b)Menemukan hikmah / sisi positif dari situasi krisis yang dialami.
+  Misal ketika nilai ujian jelek, berpikirpengalamaninimenjadipengingat untuk terus belajar dan mencoba berusaha kembali di ujian
+  remidial / di kesempatan lain. Atau ketika gagal meraih targetyangdiinginkan,
+berpikir
+c)Melakukanpositiveself-
+talk /dialogdiripositif.
+c)Menyemangatidiri
+sendiri dengan mengatakan, "Akubisa!"atau"Akumerasasedihdanitutidakapa- apa",dansebagainya.
+d)Membuatjurnalkebersyukuran
+d)Menuliskan 3 pengalaman yang disyukuri
+  setiap hari, misal hari ini akubersyukurkarenadapatkado dari ibu, pergi makan bersama keluarga, dan bersepedadipagihari.
+e)Mengoptimalkan
+dukungankeluargadan lingkungan sosial
+e)Memberikanapresiasi
+(pujian, dsb) yang menekankanpada kekuatan maupunpengalaman keberhasilan.
+Menghindari  pemberian label  negatif  yang  dapat merendahkan kepercayaan diri
+penderitaGME.
+4)Efikasidirirendah
+a)  Mengidentifikasi  kekuatan
+/ kelebihan dan keterbatasandiri
+a)  Mengenal  diri,  termasuk
+kekuatan dan keterbatasan diri menggunakanjendelaJohari
+b)Mengidentifikasiharapan,
+  cita-cita atau keinginan
+b)Mengeksplorasi berbagai hal danmengembangkankemampuan di bidang yang diminati, danmenentukantargetyang
+ingindiraih
+c)Membuatperencanaan/
+targetjangkapendekdan jangka panjang
+c)Membuatrencanaaksi
+dengan  mengidentifikasi sumber daya dan kendala, dan
+mengembangkannya sebagai serangkaian tujuan jangka pendek untukmencapaitarget jangka panjang / cita-cita
+d)Menghargaipencapaian kemajuan atau prestasi yang dicapai, maupun upaya
+  dan proses yang telah dilakukan
+d)Memberikan penghargaanpadadiri sendirisetelahberhasilmencapaitargetjangkapendek dengan membeli makanan kesukaan, menontonfilmterbaru,jalan-jalan,
+dsb.
+e)Melakukanpositiveself-
+  talk/ dialog diri positif
+e)Menyemangati diri sendiri dengan mengatakan, "Akubisa!"atau"Akumerasasedihdanitutidakapa-
+apa",dansebagainya.
+f)Membuatjurnal
+kebersyukuran
+f)Menuliskan3
+pengalaman yang disyukuri setiap hari, misal
+  hari ini akubersyukurkarenadapatkado dari ibu, pergi makan bersama keluarga, dan bersepedadipagihari.
+g)Mengoptimalkan
+dukungankeluargadan lingkungan sosial
+g)Memberikanapresiasi
+(pujian, dsb) yang menekankanpada kekuatan maupunpengalaman keberhasilan.
+Menghindari  pemberian label  negatif  yang  dapat merendahkan kepercayaan diri penderita GME.
+5)Resiliensidirirendah
+a)Melatihketerampilan
+manajemenstres
+a)Mengenalicaradiri
+mengelola stres dan tingkat keefektifannya.
+  Menemukan strategipengelolaanstresyanglebihadaptifdancocok
+  dengan diri.
+Menggunakan kemampuantersebut
+  dalam menghadapi
+situasikrisis.
+b)Melatihfleksibilitasdalam
+  berpikirdanketerampilan pengambilan keputusan
+b)Melihatpermasalahan dari
+  berbagai sudut pandang dan mengambilkeputusandengan mempertimbangkanmanfaatdankerugian
+yangmungkindiperoleh
+c)Melatihketerampilan
+manajemenkonflik
+c)Latihanmenahandiri
+untuk tidak memukul teman atau melempar barang
+  saat marah.Latihanmenyelesaikanselisih paham dengan komunikasi asertif (sikap mampu berkomunikasidengan jujurdantegasdengan tetap menghargaipendapatdanperasaanorang
+  lain).
+Pengarah
+Dr.dr.MaxiReinRondonuwu,DHSM,MARS
+Pembina
+dr.SitiKhalimah,Sp.KJ,MARS
+TimPenyusun Ketua :
+dr.LuciaMayaSavitri,MARS
+Anggota:
+dr.Desmiarti,Sp.KJ
+Dr.dr.KhameliaMalik,SpKJ dr. Gina
+Anindyajati, SpKJ
+Prof.Dr.BudiAnnaKeliat,S.Kp,MAppSc Intan
+Kusumowardhani, M.Psi, Psikolog Thika Marliana, S.Kep, M.Kep
+AisyahMaulinaZjubaidi,SKM,M.Si dr. Prianto
+Djatmiko, Sp.KJ
+dr. Juzi Delianna, M.Epid dr.HerbetSidabutar,Sp.KJ
+Kontributor:
+dr.Anita,SpKJ
+dr.Dashriati,SpKJ
+dr.LahargoKembaren,Sp.KJ Nurul Eka Hidayati
+Drs.RahbudiHelmi,MKM,Apt drg. Luki Hartanti, MPH
+dr.Fatchanuraliyah,MKM dr. Leon Muhammad
+DyotisaddhaReqyrizendri,S.Psi,MPsi Erliana Setiani, SKM, MPH
+Editor
+SubdirektoratMasalahKesehatanJiwaAnakdanRemaja
+1. Goodman, R., & Scott, S. (1999). Comparing the Strength and
+Diffculties Questionnaire (SDQ) and Child Behavior Checklist(CBCL):Issmallbeautiful ?.JournalofAbnormal child Psychology, 27, 17-24.
+2. Goodman,R.,Renfrew,D.,&Mullick,M.(2000).Predicting type of psychiatric disorder
+from Strength and Difficulties Questionnaire(SDQ)scoresinchildmentalhealthclinicsin London and Dhaka. European Child andAdolescentPsychiatry, 9, 124-134.
+3. Goodman,  R.  (2001).  Psychometric  properties  of  the  Strength and Difficulties Questionnaire (SDQ). Journal of AmericanAcademyofChildandAdolescentPsychiaty,40,1337-1345.
+4. Goodman,  R.,  Ford,  T.,  Simmons,  H.,  Gatward,  R.,  &  Meltzer,
+H.(2003).UsingtheStrengthandDifficultiesQuestionnaire(SDQ)toscreenforchildpsychiatricdisordersinacommunitysamples.BritishJournalofPsychiatry,177,534-539.doi:
+10.1080/0954026021000046128.
+5. Goodman,  R.,  Ford,  T., Corbin,  T., &  Meltzer,  H.  (2004).  Using the Strengths
+and Difficulties Questionnaire (SDQ) multi- informant algorithm to screen
+looked-after children for psychiatric disorders. European Child and Adolescent
+Psychiatry,13,25-31.doi:10.1007/s00787-004-2005-3.
+6. Survei Kesehatan Rumah Tangga 1995. Jakarta: Badan Litbangkes
+Kemenkes RI: 1995.
+7. Laporan Riskesdas 2007. Jakarta: Badan Litbangkes Kemenkes
+RI:2007
+8. LaporanRiskesdas2013.Jakarta:BadanLitbangkes
+Kemenkes RI:2007
+9. LaporanRiskesdas2018.Jakarta:BadanLitbangkes
+Kemenkes RI:2007
+10. Abbo  C.,  Ekblad  S.,  Waako  P.,  Ookello  E.,  Muhwezi.,  Musisi
+S. (2008). Psychological distress and
+associated factors amongtheattendeesoftraditionalhealingpracticesinJinjaand
+Iganga districts, Eastern Uganda: a cross-sectional study.Int J Ment
+Health Syst Vol 2: 16
+11. Gelaye, B., LemmaA.,
+Deyasa N., Bahretibeb Y., Tesfaye M.,BerhanneY.,etal.(2012).PrevalenceandCorrelatesofMentalDistressAmongWorkingadultsinEthiopia.ClinPractEpidemiol
+Ment Health, Vol 8: 126-133.
+12. PedomanTata KelolaPenyelenggaraanUpayaKesehatan
+Jiwa. Kementerian Kesehatan RI:2021
+13. Panduan  Praktik  Klinis  di  Fasilitas  Kesehatan  Tingkat  Pertama. Kementerian Keseatan RI: 2015
+14. Pedoman Penyelengaraan Kesehatan Jiwa di Fasilitas Kesehatan
+Tingkat Pertama. Kementerian Kesehatan RI:2020
+15. ModulPelatihanDeteksiDinidanTataLaksanaGangguanJiwabagiDokterdiFKTP.KementerianKesehatanRI:2017
+16. Modul Pelatihan Deteksi Dini dan Tata laksana Gangguan Jiwa bagi
+Perawat di FKTP. Kementerian Kesehatan RI:2017
+17. Ivey,A. E., Ivey, M.
+B., & Zalaquett, C. P. 2010. Intentional Interviewing & Counseling:
+Facilitating Client DevelopmentinaMulticulturalSociety7thEdition.Cole,CengageLearning.
+18. Nopiyani,N.,MonitoringdanEvaluasiProgramKesehatan,FakultasKedokteranUniversitasUdayana:2019
+19. Ikatan Psikolog Klinis Indonesia. 2021. Pedoman Nasional
+Pelayanan Psikologi Klinis. Yogyakarta: Ikatan Psikologi Klinis Indonesia.
+20. PusatPelatihanSDMKemenkesRI.2016.ModulPelatihan
+Jabatan Fungsional Psikologi Klinis JenjangAhli Pertama.
+21. PusatPelatihanSDMKemenkesRI.2016.ModulPelatihan
+JabatanFungsionalPsikologiKlinisJenjangAhliMuda.
+22. Kerig, P. K., Ludlow,A.,
+& Wenar, C. 2012. DevelopmentalPsychopathology6thEdition.McGraw-HillEducation
+23. Santrock, J. W. 2019. Life-span Development 7th Edition.
+McGraw-Hill Education.
+2020 | 2021 | 2022 | 2023 | 2024
+10% | 20% | 30% | 40% | 50%
+Lingkup | Kelompokberisiko
+Fasyankes(FKTP&FKRTL | -Pasien penyakit kronis:
+  DM, Hipertensi(stroke,gagalginjal,penyakitjantung)TBC, Kanker, HlV-AlDS, dll -Pasiendenganpenyakitfisikyangtidakmembaik setelah diobati denganadekuat. -lbuhamil dan postpartum -Diharapkan pasien di RS
+  dilakukan deteksi dini GME dengan SDQ dan SRQ20danmasukdalamakreditasiRS
+LembagaPendidikanMasyarakat | -SiswabarudiSMP/SMAdansederajat (usia>15tahun)sertaperguruantinggi -Siswakorbandanpelakuperundungan -Masyarakatprasejahteraataurawan
+  sosial ekonomi -Pekerjamigran -Pengungsi -KeluargapasienODGJdanpenyakitkronis -Orangdengandisabilitasdankeluarganya -Korbantindakkekerasan -Pekerjasekskomersial(TunaSusila) -Anak jalanan/anak & balita
+  terlantar/gelandangandanpengemis usia remaja -Anakyangmemerlukanperlindungan khusus (Anak Berhadapan
+  denganHukum/ABH, pengungsi, pencari suakadsb) -Kelompokminoritas
+-Korbantrafficking -Korban dan penyintas bencana alam/nonalamdanbencanasosial -Masyarakatterpencil -Orangdenganvariasipreferensiseksual -Lansiayangtinggalsendiri/hanya dengan
+  pasangannya -Lansiayangmembutuhkanperawatan jangkapanjangdankeluarganya
+Lapas/Rutan/LPKA | -Wargabinaanpemasyarakatandi Lapas/Rutan/LPKAdankeluarganya
+Pantisosial | -Penghunipanti(wargabinaan) -Penjagapanti
+Lembagarehabillitasipenyalahgunaan Napza | -Klien/pasiendilembagarehabilitasi penyalahgunaanNapzadankeluarganya
+Usia<11tahun: | Usia11-18tahun:
+JikaSkor= | JikaSkor=
+0-13:Normal | 0-15:Normal
+14-15:Ambang/Boderline | 16-19:Ambang/Boderline
+16-40:Abnormal | 20-40:Abnormal
+Usia<11tahun: | Usia11-18tahun:
+JikaSkor= | JikaSkor=
+0-3:Normal | 0-5:Normal
+4:Ambang/Boderline | 6:Ambang/Boderline
+5-10:Abnormal | 7-10:Abnormal
+Usia<10tahun: | Usia11-18tahun:
+JikaSkor= | JikaSkor=
+0-2:Normal | 0-3:Normal
+3:Ambang/Boderline | 4:Ambang/Boderline
+4-10:Abnormal | 10:Abnormal
+Usia<11tahun: | Usia11-18tahun:
+JikaSkor= | JikaSkor=
+0-5:Normal | 0-5:Normal
+6:Ambang/Boderline | 6:Ambang/Boderline
+7-10:Abnormal | 7-10:Abnormal
+Usia<11tahun: | Usia11-18tahun:
+JikaSkor= | JikaSkor=
+0-2:Normal | 0-3:Normal
+3:Ambang/Boderline | 4-5:Ambang/Boderline
+4-10:Abnormal | 6-10:Abnormal
+Usia<11tahun: | Usia11-18tahun:
+JikaSkor= | JikaSkor=
+6-10:Normal | 6-10:Normal
+5:Ambang/Boderline | 5:Ambang/Boderline
+0-4:Abnormal | 0-4:Abnormal
+No | Pertanyaan | y | T
+1 | Apakahandaseringmenderitasakitkepala?
+2 | Apakahandatidaknafsumakan?
+3 | Apakahandasulittidur?
+4 | Apakahandamudahtakut?
+5 | Apakahandamerasategang,cemasataukuatir?
+6 | Apakahtanganandagemetar?
+7 | Apakahpencernaanandaterganggu/buruk?
+8 | Apakahandasulituntukberpikirjernih?
+9 | Apakahandamerasatidakbahagia?
+10 | Apakahandamenangislebihsering?
+11 | Apakahandamerasasulituntukmenikmatikegiatansehari-hari?
+12 | Apakahandasulituntukmengambilkeputusan?
+13 | Apakahpekerjaanandasehari-hariterganggu?
+14 | Apakahandatidakmampumelakukanhal-halyangbermanfaatdalamhidup?
+15 | Apakahandakehilanganminatpadaberbagaihal?
+16 | Apakahandamerasatidakberharga?
+17 | Apakahandamempunyaipikiranuntukmengakhirihidup?
+18 | Apakahandamerasalelahsepanjangwaktu?
+19 | Apakahandamengalamirasatidakenakdiperut?
+20 | Apakahandamudahlelah?
+Remaja | Dewasa | Lansia
+Tugasperkembangan
+  usia remaja (identity) | Tugasperkembanganusiadewasa(intimacydangenerativity) | Tugasperkembanganusialansia (integrity)
+Tugasperkembanganusiaremaja (aspek perkembangan fisiologis, kognitif,
+  sosial, emosi, moral, spiritualitas dankepribadian) | Tugasperkembanganusiadewasa (aspek perkembangan fisiologis, kognitif,
+  sosial, emosi, moral, spiritualitas dankepribadian) | Tugasperkembanganusialansia,(adaptasiperubahanperkembangan fisiologis, kognitif, sosial, emosi,
+  moral, spiritualitas dankepribadian)
+Pengertiansehatjiwa,risiko(ODMK), sakit (ODGJ) Stimulasiperkembangan | Pengertiansehatjiwa,risiko(ODMK), sakit (ODGJ) Stimulasiperkembangan | Pengertiansehatjiwa,risiko(ODMK), sakit (ODGJ) Stimulasiperkembangan
+Manajemenstres | Manajemenstres | Manajemenstres
+Keterampilanpemecahanmasalah | Keterampilanpemecahanmasalah | Keterampilanpemecahanmasalah
+KelompokUsia | UpayaPromotif | Kegiatan | Pelaksana | InstitusiTerkait
+Remaja | 1.Mempertahankan | 1.Penyuluhan | •Tenaga | DinasKesehatan
+danmeningkatkan | kesehatanjiwa | kesehatan | DinasSosial
+derajatkesehatanjiwa | dimasyarakat, | (dokter, | DinasPPPA
+remajasecaraoptimal | sekolah, | perawat, | BKKBN
+2.Menghilangkan | panti/lembaga | psikologklinis, | DinasPendidikan
+diskriminasi,stigma, | sosial,lembaga | tenaga | danKebudayaan
+pelanggaranhak | pembinaan | kesmas,dll) | KanwilKumham
+asasiODMKsebagai | khususanak | •Guru/tenaga | DinasKominfo
+bagiandari | 2.Membentuk | pendidik
+masyarakat | desa/kelurahan | •Kader
+3.Meningkatkanpola | siagasehatjiwa | •Pekerjasosial
+asuhdanpola | 3.Memasukkan | •Organisasi
+komunikasidalam | materi | remaja,
+keluargayang | keterampilan | kelompok
+mendukung | sosial | disabilitasdan
+pertumbuhandan | kecakapan | kelompok
+perkembanganjiwa | hidup(life | masyarakat
+yangsehat | skills:)dalam | lainnya
+4.Menciptakan | kegiatanintra
+suasanabelajar | atauekstra
+mengajaryang | kurikuler(misal:
+kondusifbagi | Pramuka,PMR,
+pertumbuhandan | madding,dll)
+perkembanganjiwa | 4.Melaksanakanprogramanti
+5.Keterampilanhidup | perundungan(
+sehatterkait | bullying)di
+kesehatanjiwabagi | sekolah/pergur
+pesertadidiksesuai | uantinggi
+tahap | 5.Membangun
+perkembangannya | sarana
+6.Membangun | bermain,
+hubungansosialdan | berolahraga,
+komunikasiyang | danrekreasidi
+harmonisantar | lembaga
+pemangku | Pendidikan
+kepentingandalam | yang
+prosespendidikan | mendukung
+tumbuh
+7.Meningkatkan | kembang | PDSKJl
+kompetensi | 6.Pelatihan | lPKJl
+professionalpemberi | tentang | lPK
+layanandalamdeteksi | kesehatanjiwa | lPSPl
+dinikesehatanjiwa | bagikader
+padaanakdanremaja | 7.Pelatihan
+8.Membangunjejaring | konselor
+komunikasiantar | sebayabagi
+profesidalamrangka | siswadanbagi
+meningkatkan | tenagadidik
+kesadaran | yang
+(awareness)remaja | memantau
+untukmenjaga | program
+kesehatanjiwa | konselor
+sebayadi
+sekolah
+8.Membentuk
+sekolahsehat
+jiwa
+(penyelenggar
+aanupaya
+keswa terintegrasidenganUKS)
+Dewasa | 1.Meningkatkanpemahamandan
+  peransertamasyarakatterhadapkesehatanjiwa 2.Meningkatkanpenerimaandan peransertamasyarakatterhadapkesehatanjiwa | 1.Penyuluhankesehatanjiwa
+  dimasyarakat,panti/lembagasosial, lapas/rutan,tempatkerja 2.Pelatihantentangkeswakepadakader 3.Membentukdesasiaga sehatjiwa 4.Pelatihan
+  DukunganPsikologisAwalbagikader | •Kader •Tenaga kesehatan (dokter,
+  perawat,psikologklinis,tenagakesmas,dll) •Pekerjasosial •Organisasi/ Kelompok
+  masyarakat peduli kesehatanjiwa •Organisasikelompok disabilitas | DinasKesehatanDinasSosial
+  DinasPPPAKanwilKumhamDinasTenagaKerja
+3.Meningkatkankompetensiprofessionalpemberilayanandalamdeteksikesehatan jiwa pada usiadewasa | 5.Pelatihanbagipemberilayanan 6.PelatihanDukunganPsikologisAwal bagiprofesionalpemberi layanan kesehatanjiwa | PDSKJl lPKJllPK lPSPl
+Lansia | 1.Meningkatkan
+  semangathidupdan derajatkesehatan | 1.Penyuluhan kesehatanjiwa dimasyarakat, | •Kader •Tenaga kesehatan | DinasKesehatanDinasSosial
+  DinasPPPA
+lansiaagarmerasabergunabaikbagi dirinya,keluarga maupunmasyarakat
+  melaluikegiatan rohani,sosial,mengembangkanhobi 2.Mencegah
+  kemungkinan penyakit-penyakitpenuaandenganmelakukan pemeriksaankesehatanberkala danLatihanorientasirealita 3.Meningkatanpemahaman kaderlansiamengenai
+  kesehatanjiwapadalansia | panti/lembagasosial, lapas/rutan, 2.Pelatihantentangkeswakepadakader 3.Membentukdesasiaga
+  sehatjiwa | (dokter, perawat,psikologklinis,tenagakesmas,dll) •Guru/tenagapendidik •Pekerjasosial •Organisasi/ Kelompok
+  masyarakat peduli kesehatanjiwa | KanwilKumham
+4.Meningkatkan kompetensiprofessionalpemberilayanandalamdeteksikesehatan jiwa padalansia 5.Melatihkemampuancaregiverdalamdeteksi kesehatan jiwa padalansia | 4.Pelatihanbagipemberilayanan 5.Pelatihan DukunganPsikologisAwal bagiprofesionalpemberi layanankesehatanjiwa | PDSKJl lPKJllPK lPSPl
+Penyakit | CaraMengatasi
+Hipertensi | Kontroltekanandarahsecararutin,berobatsecararutinke Puskesmas, Minum obat
+  anti hipertensi secara teratur,Melakukan pola makan dan hidup sehat,
+  menghindarikonsumsi kafein dan garam yang
+  berlebihan, Melakukanmanajemen stres, Melakukan aktifitas: berjalan,
+  bersepeda dan olah raga.
+Tuberkulosis(TBC) | Kontroldanberobatsecararutinkepuskesmassampai selesai program pengobatan.
+  Mengembangkan gaya hidup sehat seperti: mengkomsumsi makanan bergizi, membukajendelarumahagarcahayadanudarasegar dapat masuk, menjemur kasur agar
+  tidak lembab,olahraga teratur dan tidak
+  merokok. Pengendalian infeksi:menutupmulutdenganmasker/tisuesaatbatuk/bersin,janganmembuangludahdandahakdisembarangtempat
+DiabetesMellitus | Kontrol dan berobat secara rutin ke puskesmas. Diet sesuai
+  dengan anjuran pemberi pelayanan kesehatan khusus nya mengurangi karbohidrat,
+  lstirahat cukup, manajemen stress.
+Kanker | Kontrol dan berobat
+  secara rutin ke puskesmas atau pelayanansekunder.Melakukanpolahidupsehat.
+Faktor RisikoGME | CaraMengatasi
+1) Kemampuan regulasiemosirendah | a)Melatihkemampuanmengenaliemosidiri b)Melatihkemampuanmengekspresikanemosisecaraasertif c)Melakukanrelaksasiataumeditasi d)Berolahragasecarateratur,misaljalankaki,yoga,dll e)Menulis jurnal harian, misal jurnal kebersyukuran, catatan
+  harian, dll f)Berbagipikirandanperasaandenganorangterdekatyang dipercaya
+2)
+  Kemampuan regulasi diri rendah yangtermanifestasikandalam kontrol perilaku yangburuk | a)Melatihketerampilanmanajemenstresdanmanajemen konflik b)Melatihfleksibilitasdalamberpikirdanketerampilanpengambilan keputusan c)Menumbuhkan kebermaknaan hidup, penerimaan diri, kebersyukuran d)Menentukanprioritastugasdanmelatihmanajemen waktu e)Berbagipikirandanperasaandenganorangterdekatyangdipercayasertamelakukanrefleksidiri f)Melatihketerampilankomunikasiasertif
+Faktor RisikoGME | CaraMengatasi
+3) Konsepdirinegatif | a)Mengidentifikasi kekuatan / kelebihan dan keter- batasan diri b)Latihan berpikir positif, terkait identitas diri, citra tubuh,
+  dsb c)Melakukanpositive self-talk/ dialog diri positif.
+  Latihandilakukandenganmemberipujianbagidirisendiriterhadapaspekpositifyangdimilikikemudiandilanjutkan dengan afirmasi. d)Membuatjurnalkebersyukuran e)Mengoptimalkandukungankeluargadanlingkungansosial.Latihkeluargamemberikandukunganyaitu memberipujiandanmotivasi.Ciptakanlingkungan
+  keluarga yang tidak merendahkan penderita GME
+4) Efikasidirirendah | a)Mengidentifikasi kekuatan / kelebihan dan keter- batasan diri b)Mengidentifikasiharapan,cita-citaataukeinginan c)Membuatperencanaan/targetjangkapendekdan jangka panjang d)Menghargai pencapaian kemajuan atau prestasiyangdicapai,maupunupayadanprosesyangtelah
+  dilakukan e)Melakukanpositiveself-talk/dialogdiripositif f)Membuatjurnalkebersyukuran g)Mengoptimalkandukungankeluargadanlingkungansosial
+5) Resiliensidirirendah | a)Melatihketerampilanmanajemenstres b)Melatihfleksibilitasdalamberpikirdanketerampilanpengambilan keputusan c)Melatihketerampilanmanajemenkonflik
+TandadanGejala | CaraMengatasi
+SakitKepala | lstirahat,relaksasi,hindarijatuh,minumcukupdanrutinberolah raga
+Tidaknafsumakan | Minum air hangat
+  sebelum makan, makanan hangat denganporsikecildansering.Ciptakansuasanayang nyaman
+  dan gembira saat makan.
+TandadanGejala | CaraMengatasi
+SulitTidur | Satu jam sebelum tidur hindari terpapar layar gadget
+  (handphone,laptopdantelevisi).Hindariminumkopi. Segera naik ketempat tidur jika telah mengantuk. Mematikan/redupkanlampusaattidur.
+Mudahtakut | Dudukdengantenang,tariknafasdalam,hindarisumberrasa takut, usahakan
+  ada yang mendampingi. Latihanberpikirpositif Contoh: Berlatihthought stopping(menghentikan pikirannegatif), menuliskan pikiran alternatif untuk menggantikanpikirannegatifyangmuncul,menuliskankalimatpositif
+  dan diucapkan sebagai bentuk afirmasi seperti "Aku tenang..."
+  "Aku mampu.", melakukan reality testingyaitumembuktikanbahwaapayangdicemaskanbelumtentu terjadi. Menumbuhkankeberanianuntukmencobamelakukan berbagaikegiatandansituasiyangberagamsehinggaterlatihuntukdapatberadaptasidengansituasiyangtak
+  terduga.
+Tegang,cemasataukuatir | Lakukanmanajemenstres Melakukanrelaksasidan/ataumeditasi Berolahragasecarateratur,misalnyajalankaki,joging, yoga, dll Menulis
+  jurnal harian, misalnya jurnal kebersyukuran yangdapatberisihal-halpositifyangadapadadiridan
+  orang-orangtedekat,pencapaianpositif,atauperistiwa baik yang pernah dialami
+Gemetar | Lakukanrelaksasiototprogresifdanhindarimakanan membatasi
+  atau menghindari zat yang dapat
+TandadanGejala | CaraMengatasi
+menyebabkantremor,sepertikopi. Latihanuntukmeningkatkanfungsiotot.
+Pencernaantergangguatauburuk | Makanmakanantinggiserat,tidurdanistirahatyang cukup, menangani stres, lakukan
+  yoga, hentikan kebiasaan merokok
+Sulitberpikirjernih | Mengubah sudut
+  pandang akan permasalahan atau situasimenantangdalamhidupnya,sekaliguscaraia bereaksi terhadap permasalahan tersebut. Berbagi pikiran dan
+  perasaan dengan orang terdekatyangdipercaya,bertukaride/gagasanuntukmelihatdariberbagai
+  sudut pandang dan mempertimbangkan peluang dan kesempatan yang ada.
+TidakBahagia | Bersyukur, fokus pada
+  apa yang kita punya dan bisa kitalakukan,mengungkapkanperasaansecaraasertif,tersenyumdantertawa,sediakanwaktuuntukdirisendiriseperti jalan-jalan, nonton film, belanja, atau aktivitas lain yang
+  membuat nyaman dan bahagia, berdamai dengan kekurangan dan kelebihan diri
+  sendiri. Menulis
+  jurnal harian, misalnya jurnal kebersyukuran yangdapatberisihal-halpositifyangadapadadiridan
+  orang-orangtedekat,pencapaianpositif,atauperistiwa baik yang pernah dialami
+Menangislebihsering | Mencurahkan perasaan pada
+  orang yang dipercaya dapat membantu meringankan perasaan, mengelola stres,menerima kenyataan mengenai apa yang
+  telah terjadi dan menepis prasangka buruk yang hadir, memusatkan pada
+  kegiatan dan suasana yang positif, olahragadenganteratur,istirahatyangcukupdanpola
+  tidur baik.
+TandadanGejala | CaraMengatasi
+Sulit
+  menikmatikegiatansehari-hari | Pilih kegiatan yang
+  disukai yang menimbulkan kegembiraandanrasapuas.Lakukanafirmasiterkait dengan semua kegiatan yang menimbulkankegembiraan.
+Sulitmengambilkeputusan | memilih kegiatan yang
+  menyenangkan dan Mengembangkansikapmentalresponsifyaitu:duduk tenang, rileks, mencari informasi
+  yang terukur dan melakukan tindakan yang tepat dan mengevaluasihasilnya.
+Pekerjaansehari- hari terganggu | Melakukankegiatanyangmudahdanmenyenangkan
+  serta terjadwal. Setiap selesai melakukan kegiatan lakukanself
+  reinforcement! positive self-talk
+Tidak mampumelakukanhalyangbermanfaat | Berpikir,berkata,berprilakupositif.Memikirkankegiatanyang berguna dan melakukannya. Menawarkan diri untukmenolongoranglaindenganhalhalsederhana.Latihan mengucapkan" apa yang bisa
+  saya bantu"
+Hilangminat | Sosialisasi dan
+  interaksi dengan keluarga, teman danoranglainyangdekat.Terlibatdalamkegiatankeluarga,kelompok dan masyarakat.
+Merasatidakberharga | Mengingatkembalipengalamankeberhasilan,peristiwamenyenangkan yang
+  dialami, dan menuliskan atau menceritakannya pada orang lain Menuliskansemuahalpositifyangdimiliki,mengucapkan(positive
+  self-talk) dan melakukannya. Lakukanself reinforcementjika
+  berhasil melakukan kegiatan.
+Pikiran untuk
+  mengakhirihidup | Curhat dan meminta
+  untuk ditemani oleh orang yangdipercaya,
+  mengingat orang yang disayangi, menuliskantujuan/cita cita kehidupan.
+TandadanGejala | CaraMengatasi
+Lelahsepanjangwaktu | Olah raga secara
+  rutin, latihan fisik dimulai dari yangringan
+  dan ditngkatkan sesuai dengan kemampuan fisik.Melakukan relaksasi,
+  manajemen stres dan istirahat tidur yang cukup (6-7 jam)
+Rasatidakenakdiperut | Minumairhangat,hindarimakananyangmerangsang
+  seperti: pedas, asam, berminyak dan kafein.
+Mudahlelah | Melakukankegiatanyangringandalamwaktusingkat diselingi
+  dengan istirahat. Lakukan relaksasi dan manajemen stres.
+Mudahmarahdan sulit meredakan ledakan amarah | Latihanmengelolaamarahdengancarayangadaptif, tanpa
+  menyakiti diri maupun orang lain. Contoh: Mengenalitandaemosimarahdanhalyangmemicu, melakukantehnikmenenangkandirisepertirelaksasi nafas dalam dan relaksasi
+  otot progresif, mengekspresikan emosi melalui kata-kata, menulis, melukis,
+  dll Latihanmengelolakonflikdanmemecahkanmasalah
+Seringberbohong, berbuat curang, berkelahi,mencuri | Latihanmengelolakonflikdanmemecahkanmasalah Mengembangkanperilakupro-sosialdenganterlibat pada
+  kegiatan membantu orang lain atau kelompok masyarakat yang kurang beruntung Bekerjasamadenganorangtuauntukmenemukandanmengendalikanfaktor-faktordalamkeluargayangdapatmemicu munculnya permasalahan perilaku. Contoh: polaasuhyangbersifatotoriter,adanyahukumanyang mengandung unsur kekerasan,
+  pengabaian, dll) Mengembangkan
+  hubungan yang bersifat hangat dansalingmenghargaiantaraorangtuadengananak,namun
+TandadanGejala | CaraMengatasi
+jugatetapmenerapkanketegasan Menerapkanaturanyangjelasdanrealistis,memberikanpenguatanpositifuntukperilakupositifyangdilakukan
+  remaja, memberikan konsekuensi yang bersifat logis jika remaja melakukan
+  perilaku negatif serta tidak menggunakan hukuman yang mengandung unsurkekerasan
+Perilaku
+  inatensidan/atau hiperaktivitas: gelisah,terlaluaktif,tidak dapat diam lama; terus bergerak dengan resah; perhatian mudah
+  teralih, konsentrasi buyar; bertindak tanpa pemikiran yang matang; tidakmampu menyelesaikantugas sampaiselesai | Latihanmengelolaaktivitasdenganmembuatjadwal, checklist tugas dan kegiatan,
+  dll Menyiapkansettingyangmendukungsaatbelajarataumengerjakantugas.Contoh:menyingkirkanbendayangdapatmenggangguperhatian,memilihtempatyangsepi,memastikan posisi duduk nyaman, dll Latihanmenundakeinginandanperilakuimpulsifdenganprinsip
+  "berhenti, lihat, dengar, dan pikirkan" sebelum melakukan sesuatu Mengenali tekanan
+  atau emosi tertentu yang dapat meningkatkankemunculanperilakuhiperaktif,impulsif,danterganggunyaperhatian,laluberlatihmenyikapinyadenganmenerapkanteknikrelaksasi,positiveself-talk, dan berbagai cara
+  lainnya untuk menenangkan diri. Menyalurkanenergimelaluiaktivitasfisikdanaktivitas sosial yang
+  positif seperti misalnya berolah raga.
+Permasalahandengan teman sebaya:cenderung
+  menyendiri; sulitmenjalin | Mengidentifikasisituasiatauinteraksisosialyangdihindariserta
+  faktor yang melatar belakangi. Latihanketerampilansosialsepertibagaimanamenyapa,memperkenalkan diri, membangun percakapan,
+  cara menanggapi orang lain, dll melalui teknikrole play
+TandadanGejala | CaraMengatasi
+persahabatandengan sebaya / tidakpunyateman baik; tidak disukai dan/ataudiganggu remaja lain; | Latihanmembeladiridanbersikapasertif,yaituberani menyatakan pendapat secara jujur
+  dan tegas dan dilakukan dengan cara yang positif Mengenalikelebihandiridanmengembangkanhobiatauminat untukmembantumeningkatkan kepercayaandiri Menumbuhkan motivasi
+  untuk terlibat dalam aktivitaskelompokyangpositifsepertiekstrakurikuler,klub,ataukelompok hobi sehingga jalinan pertemanan menjadi lebih luas.
+No | Kegiatan | Waktu | Tempat | Sasaran/Peserta | Pelaksana | Hasil
+No | Namapasien | Alamat | Usia | Waktu | Kegiatanpreventifyangdilakukan | Pelaksana | Hasil
+   |   |   |     
+  |   |     |  
+  |   |   |   |   |  
+TataKelola | Kegiatan | Jumlah/
+  Ketersediaan | Keterangan
+Perencanaan | a. Jumlah SDM yang
+  melakukan kegiatanP2GME •Dokter •Perawat •Psikologklinis •TenagaKesmas •Nakeslainnya(sebutkan...) •Kader
+•Guru •PekerjaSosial b.JenismediaKlEpromosikesehatan jiwa •Brosur/leaflet •Poster •Lembarbalik •Banner •Video •Medialainnya(sebutkan..) c. lnstrumen skriningGME •SDQ(11-18) •SRQ20 d.TargetsasaranpenderitaGME>15 tahun yangmendapatkan layanan e.AnggarankegiatanP2GME f.RencanakegiatanP2GME g.Koordinasidenganlintasprogram h.Jejaringdenganorganisasiprofesi dan lintas sektor
+Pelaksanaan | a.Penyuluhandi masyarakat b.Penyuluhandilembaga pendidikan
+c.Sosialisasidan
+  advokasi lintas sektor terkait d.Pembentukandesasiagasehat jiwa melaluikelompokdukungan dimasyarakat e.Peningkatankapasitaskader(pelatihan/
+  orientasi) f.Dukunganpsikologisawal g.SkriningGME: •Didalamgedung •Posyandu remaja •PosbinduPTM •Posyandulansia •Lembaga pendidikan •Panti •Lapas/Rutan /LPKA h. Layanan
+  penderitaGME •Promosi Kesehatan/Edukasi •Prevensi •Konseling •Penangananawal i.Pencatatandan
+  Pelaporan rutin
+Monitoringdan | •Jumlah
+Evaluasi | penduduk>15
+  tahun yang
+diskrining
+•Jumlah
+penduduk>15
+tahunyang
+menderitaGME
+•Jumlahpenderita
+GME>15tahun
+yang
+mendapatkan
+layanan
+•Persentase
+penderitaGME>
+15tahunyang
+mendapatkan
+layanan
+•Pelaksanaan
+evaluasisecara
+berkalasetiap3
+(tiga)bulan
+usia11-18th | usia11-18th
+usia11-18th
+usia11-18th
+NO | Pertanyaan | y | T
+1 | ApakahAndaseringmerasasakitkepala?
+2 | ApakahAndakehilangannafsumakan?
+3 | ApakahtidurAndatidaknyenyak?
+4 | ApakahAndamudahmerasatakut?
+5 | ApakahAndamerasacemas,tegang,ataukhawatir?
+6 | ApakahtanganAndagemetar?
+7 | ApakahAndamengalamigangguanpencernaan?
+8 | ApakahAndamerasasulitberpikirjernih?
+9 | ApakahAndamerasatidakbahagia?
+10 | ApakahAndalebihseringmenangis?
+11 | ApakahAndamerasasulituntukmenikmatiaktivitas sehari-hari?
+12 | ApakahAndamengalamikesulitanuntukmengambil keputusan?
+13 | Apakahaktivitas/tugassehari-hariAndaterbengkalai?
+14 | ApakahAndamerasatidakmampuberperandalam kehidupanini?
+15 | ApakahAndakehilanganminatterhadapbanyakhal?
+16 | ApakahAndamerasatidakberharga?
+17 | ApakahAndamempunyaipikiranuntukmengakhirihidup Anda?
+18 | ApakahAndamerasalelahsepanjangwaktu?
+19 | ApakahAndamerasatidakenakdiperut?
+20 | ApakahAndamudahlelah?
+Remaja | Dewasa | Lansia
+1.Perkembanganfisiologis: pubertas; perkembangan otak;perkembanganseksual 2.Perkembangankognitif:perkembangankognitif
+  formal operasional; egosentrisme remaja;perkembangan
+  kemampuanmemproses informasi,kemampuanpenalaran,pengambilankeputusan,kontroldiri, perkembanganbahasa
+  yang semakin baik 3.Perkembangan sosial: penyesuaian terhadap
+  perubahan / transisikehidupan;faseidentityvs identity confusion; pembentukan dan perkembangankonsep diri, self-esteem; perkembangan
+  relasi dengan sebaya, orangtua, pasangan. 4.Perkembanganemosi: perubahan suasana hati; perkembangan kelekatan dan rasa | 1.Perkembangan
+  fisiologis:perkembangan tubuh dan
+  performa fisik,kondisikesehatanfisik,perkembanganseksual,dsb 2.Perkembangankognitif:perkembangankognitifpost-formaloperasional;pemikiran realistis, reflektif, relativistik,kreatif 3.Perkembangansosial: penyesuaianterhadap perubahan / transisi
+  kehidupan; fase generativity vsstagnation;ketertarikanpada lawan jenis, menikah dan membentuk keluarga, menjadi orangtua  4.Perkembanganemosi:temperamen;ketertarikanpadalawan
+  jenis;kelekatandenganpasangan,
+  anak 5.Perkembangan
+  kepribadian: | 1.Perkembanganfisiologis: adaptasiperubahanpenampilantubuh, kondisi kesehatan
+  fisik,penurunanfungsiindera(pengelihatan,pendengaran,
+  dsb) 2.Perkembangankognitif: penurunankemampuanplatisitasotak,ingatan,dankemampuanverbal,perkembangan kemampuanpemecahan masalah
+  praktis, kebijaksanaan 3.Perkembangan sosial:
+  penyesuaian terhadap perubahan / transisikehidupan,faseintegrityvs depair; menjadi selektif terhadap jaringan sosial, self-esteem; mengembangkandukungan sosial
+  yang terintegrasi, termasuk terlibat dalam aktivitassosial 4.Perkembanganemosi: menghargaikepuasan
+kemandirian.Kelekataninsecure pada remaja mengarah pada hambatan emosional
+  yang erat kaitannya dengan permasalahanperilaku. 5.Perkembangan moral, spiritual: persepsi dan
+  keyakinan terhadapagama,Tuhan,kegiatankeagamaan, dsb. Seiring denganperkembangankognitifnya, remaja mulai memahami konsep abstrak, termasuk ide
+  tentangkonsepspiritual,Tuhan,dsb.Remajajugamulai
+  mempertanyakan konseptersebutseiringpembentukanidentitas dirinya, seperti mengapa aku
+  ada diduniaini,apakahTuhanbenar-benar ada atau aku hanya mengikuti kepercayaan yang orangtua
+  ajarkan kepadaku, dsb 6.Perkembangan karir dan pekerjaan: pengembanganminat bakat, perencanaankarir | keterbukaan,kesadaran,kehati-
+  hatian,ekstraversi,keramahan 6.Perkembanganmoral, spiritual:persepsidan keyakinan terhadap agama, Tuhan, kegiatan keagamaan,
+  kebermaknaan hidup,dsb 7.Perkembangan karir dan
+  pekerjaan: pekerjaan yang realisitis,jenjangkarir,dorongan meningkatkankapasitaskemampuan dengan pelatihan | emosionaldanrelasi sosial yang dimiliki; 5.Perkembangan
+  kepribadian: keterbukaan,kesadaran,kehati- hatian,ekstraversi,keramahan 6.Perkembangan moral,
+  spiritual: persepsi dan keyakinan terhadapagama,Tuhan,kegiatankeagamaan,kebermaknaan
+  hidup,dsb 7.Perkembangan karirdanpekerjaan:adaptasimasa
+  pensiun
+Remaja | Dewasa | Lansia
+1.Aspek fisiologi:menerapkanpolahidup
+  sehat(makanmakananbergizi, olahraga
+  rutin, istirahat cukup) 2.Aspek kognitif:
+  mengeksplorasi dan mempelajari berbagai hal, termasukpembelajaranakademik, terlibat aktivitas yangmengasahkemampuanpenalaran,pemecahan masalah,pengambilan keputusan (misal bermain
+  peran, mengikuti kegiatanekstrakurikuler) 3.Aspek sosial: melakukan
+  aktivitassosialdengankelompoksebaya, mengurangi penggunaan gadget (HP, tablet, TV, komputer),
+  menjalin relasi dengan sebaya dan mengeksplorasi berbagai situasi sosial | 1.Aspek fisiologi:menerapkanpolahidup
+  sehat(makanmakananbergizi, olahraga
+  rutin, istirahat cukup) 2.Aspek kognitif: melakukan
+  aktivitas yang mengasahkemampuanpenalaran,pemecahan masalah, dsb. Misal dengan mengikutiperkuliahan, bekerja, melakukansenamotak/braingym, mengisiteka-tekisilang,
+  dsb 3.Aspek sosial: menjalin
+  relasi dengan banyak orang,mempersiapkan
+  dan melangsungkan pernikahan, menjalanikehidupanberkeluarga,terlibat dalam aktivitas sosialkemasyarakatan
+  (misal arisan, perkumpulan ibu-ibuPKK,ronda,kerjabakti,dsb) | 1.Aspek fisiologi:menerapkanpolahidup sehat(makanmakananbergizi, olahraga rutin/senam lansia, istirahat cukup) 2.Aspek kognitif: melakukan aktivitas yang
+  memelihara kemampuan kognitif (missal bermain catur,mengisitekatekisilang,membaca) 3.Aspek sosial: terlibat dalam aktivitas sosialkemasyarakatan(misalarisan, dsb) 4.Aspek emosi: melakukan kegiatan rekreasionalbersamapasangan/ keluarga/teman,melakukan relaksasi 5.Aspek moral, spiritual: mengikuti kajiankeagamaan,melakukanaktivitas
+  keagamaan bersama keluarga /teman
+dalam rangkamenguatkankonsepdiridan
+  efikasi diri 4.Aspek emosi: melakukan relaksasi,meditasi,olahragayangmenunjangpengembanganregulasidiri dan
+  emosi; menguatkankelekatan dan
+  relasi dengankeluarga 5.Aspek moral, spiritual: mengikuti kajiankeagamaan,melakukanaktivitas
+  keagamaan bersama keluarga /teman | 4.Aspek emosi: melakukan kegiatan rekreasional
+  bersamapasangan/ keluarga/teman,melakukan
+  relaksasi,meditasi,olahragayangmenunjangpengembanganregulasidiri dan
+  emosi 5.Aspek moral, spiritual: mengikuti kajiankeagamaan,melakukanaktivitas
+  keagamaan bersama keluarga /teman
+Remaja | Dewasa | Lansia
+a.Perubahandirikarena proses pubertas b.Tekanansebaya c.Konflikrelasidengan pasangan, teman,orangtua d.Permasalahan terkaitsekolahdanpencapaian akademik e.Penggunaan dan paparan
+  gadget,termasukpaparanmediasosial dan permainan online berlebih f.Permasalahankehidupanlainnya | a.Permasalahanakademikdan penyesuaian pembelajaran kuliah b.Konflik dengan pasangan,teman,keluarga c.Permasalahanmarital d.Permasalahan terkait pekerjaan(streskerja,pengangguran,permasalahandengan rekan kerja / atasan) e.Permasalahanfinansial f.Permasalahankehidupanlainnya | a.Kesepian b.Kedukaan/kehilangan pasangan / keluarga c.Permasalahan kesehatan d.Konflik dengan pasangan,teman,keluarga e.Permasalahanmarital f.Permasalahanterkait pekerjaan (pensiun) g.Permasalahanfinansial h.Permasalahanvkehidupanlainnya
+Faktor RisikoGME | CaraMengatasi | Contoh
+1)Kemampuanregulasi emosi
+  rendah | a)Melatihkemampuan mengenaliemosidiri | a)Menamaiemosi-emosiyangdirasakan,sepertisenang, marah, dll
+b)Melatihkemampuan mengekspresikanemosi secara asertif | b)Mengekspresikanemosi dengan menyampaikannyasecaralisan,misal"Akusenang memasak bersama keluarga hariini."
+c)Melakukanrelaksasiataumeditasi | c)Melakukan relaksasinafasketikasulittidurdimalamhari,melakukanrelaksasiototprogresif
+  ketika cemas, melakukan meditasimindfulnessdi situasi sehari,dsb
+d)Berolahraga secara teratur,misaljalankaki, yoga,dll | d)Jalankakisetiaphari, yoga3kaliseminggu, dsb
+e)Menulisjurnalharian, misal jurnal kebersyukuran,catatan harian, dll | e)Menuliskan3 pengalaman yang disyukuri setiap hari, misal
+  hari ini akubersyukurkarenadapatkado dari ibu, pergi makan bersama keluarga, dan bersepedadipagihari.Menuliskan
+  pengalamankeseharian, termasuk
+pemikirandanperasaanyang dirasakan.
+f)Berbagipikirandan perasaandenganorang terdekatyangdipercaya | f)Berdiskusidengan orangtua tentang penggunaan gadget daninternet,sertarasaingintahu,rasasenangbisa belajar online dengan teman, kesal karena komentar di media
+  sosial. Curhat pada teman tentang tugas sekolah yangsulit,tentangpasangan.
+2)Kemampuan regulasi diri rendah yangtermanifestasikan dalamkontrolperilakuyang buruk | a)Melatihketerampilan manajemenstresdan manajemen konflik | a)Latihanmenahandiri untuk tidak memukul teman atau melempar barang
+  saat marah.Latihanmenyelesaikanselisih paham dengan komunikasi asertif (sikap mampu berkomunikasidengan jujurdantegasdengan tetap menghargaipendapatdanperasaanorang
+  lain).
+b)Melatihfleksibilitasdalam berpikirdanketerampilan pengambilan keputusan | b)Melihatpermasalahan dari berbagai sudut pandang dan mengambil
+  keputusandengan mempertimbangkanmanfaat
+  dan kerugianyangmungkindiperoleh
+a)Menumbuhkan kebermaknaanhidup, penerimaan diri,kebersyukuran | a)Memaknai kegagalan sebagai prosesbertumbuh,keberhasilan sebagai
+  kesempatan untuk mengembangkan diri yang lebih baik. Menerima kekurangan diridanmensyukurinya.
+c)Menentukanprioritas tugas dan melatih manajemenwaktu | c)Membuatperencanaan sesuai dengan kondisi dansumberdayayang dimiliki.
+  Menuliskan daftartugasyangperlu
+dikerjakandan menyusun prioritasuntuk menyelesaikannyasesuaibataswaktu.
+b)Berbagipikirandan perasaandenganorang terdekatyangdipercaya sertamelakukanrefleksidiri | b)Menceritakan pengalamankrisisyangdialami padakeluarga/teman/pasangan/ mencari bantuan profesional (ke puskesmas,konsultasidengandokter,psikolog,
+  perawat,dll).Melakukanrefleksi diri serta
+  mengevaluasi strategi dan usaha yang telah dilakukan. Menyusun rencana aksi
+  untuk perubahan dan pengembangan diri yang lebih adaptif.
+d)Melatihketerampilan
+  komunikasi asertif | d)Berlatih dalam situasi keseharian untukmengungkapkangagasandanperasaan dengan jujur, empatik, danmenghargaiorang lain. Tidak
+  bersikap egois, dan mau mendengarkansaran/ masukan orang lain.
+3)Konsepdirinegatif | a)Mengidentifikasikekuatan / kelebihan dan keterbatasandiri | a)Mengenaldiri,termasuk kekuatan dan keterbatasan diri menggunakanjendelaJohari
+b)Latihan berpikir positif, terkaitidentitasdiri,citra tubuh,
+  dsb | b)Menemukan hikmah / sisi positif dari situasi krisis yang dialami.
+  Misal ketika nilai ujian jelek, berpikirpengalamaninimenjadipengingat untuk terus belajar dan mencoba berusaha kembali di ujian
+  remidial / di kesempatan lain. Atau ketika gagal meraih targetyangdiinginkan, berpikir
+c)Melakukanpositiveself- talk/dialogdiripositif. | c)Menyemangatidiri sendiri dengan mengatakan, "Akubisa!"atau"Akumerasasedihdanitutidakapa- apa",dansebagainya.
+d)Membuatjurnalkebersyukuran | d)Menuliskan 3 pengalaman yang disyukuri
+  setiap hari, misal hari ini akubersyukurkarenadapatkado dari ibu, pergi makan bersama keluarga, dan bersepedadipagihari.
+e)Mengoptimalkan dukungankeluargadan lingkungan sosial | e)Memberikanapresiasi (pujian, dsb) yang menekankanpada kekuatan maupunpengalaman keberhasilan. Menghindaripemberian labelnegatifyangdapatmerendahkankepercayaan diri penderitaGME.
+4)Efikasidirirendah | a)Mengidentifikasikekuatan / kelebihan dan keterbatasandiri | a)Mengenaldiri,termasuk kekuatan dan keterbatasan diri menggunakanjendelaJohari
+b)Mengidentifikasiharapan,
+  cita-cita atau keinginan | b)Mengeksplorasi berbagai hal danmengembangkankemampuan di bidang yang diminati, danmenentukantargetyang ingindiraih
+c)Membuatperencanaan/ targetjangkapendekdan jangka panjang | c)Membuatrencanaaksi denganmengidentifikasisumber daya dan kendala, dan
+mengembangkannyasebagai serangkaian tujuan jangka pendek untukmencapaitarget jangka panjang / cita-cita
+d)Menghargaipencapaian kemajuan atau prestasi yang dicapai, maupun upaya
+  dan proses yang telah dilakukan | d)Memberikan penghargaanpadadiri sendirisetelahberhasilmencapaitargetjangkapendek dengan membeli makanan kesukaan, menontonfilmterbaru,jalan-jalan, dsb.
+e)Melakukanpositiveself-
+  talk/ dialog diri positif | e)Menyemangati diri sendiri dengan mengatakan, "Akubisa!"atau"Akumerasasedihdanitutidakapa- apa",dansebagainya.
+f)Membuatjurnal kebersyukuran | f)Menuliskan3 pengalaman yang disyukuri setiap hari, misal
+  hari ini akubersyukurkarenadapatkado dari ibu, pergi makan bersama keluarga, dan bersepedadipagihari.
+g)Mengoptimalkan dukungankeluargadan lingkungan sosial | g)Memberikanapresiasi (pujian, dsb) yang menekankanpada kekuatan maupunpengalaman keberhasilan.
+Menghindaripemberian labelnegatifyangdapatmerendahkankepercayaan diri penderita GME.
+5)Resiliensidirirendah | a)Melatihketerampilan manajemenstres | a)Mengenalicaradiri mengelola stres dan tingkat keefektifannya.
+  Menemukan strategipengelolaanstresyanglebihadaptifdancocok
+  dengan diri. Menggunakankemampuantersebut
+  dalam menghadapi situasikrisis.
+b)Melatihfleksibilitasdalam
+  berpikirdanketerampilan pengambilan keputusan | b)Melihatpermasalahan dari
+  berbagai sudut pandang dan mengambilkeputusandengan mempertimbangkanmanfaatdankerugian yangmungkindiperoleh
+c)Melatihketerampilan manajemenkonflik | c)Latihanmenahandiri untuk tidak memukul teman atau melempar barang
+  saat marah.Latihanmenyelesaikanselisih paham dengan komunikasi asertif (sikap mampu berkomunikasidengan jujurdantegasdengan tetap menghargaipendapatdanperasaanorang
+  lain).

@@ -1,0 +1,19 @@
+{
+    "name": "Besties!",
+    "description": "Awarded for having a single continuous chat session with Aika containing over 100 messages.",
+    "image": "ipfs://bafybeidzdbsjft24ujpcn77hfkbhom7tmo5i5p2aqfsig2vtxvt3kd7jbu/besties.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Category",
+        "value": "Interaction"
+      },
+      {
+        "trait_type": "Activity",
+        "value": "Chatting"
+      },
+      {
+        "trait_type": "Detail",
+        "value": "Extended Session"
+      }
+    ]
+  }

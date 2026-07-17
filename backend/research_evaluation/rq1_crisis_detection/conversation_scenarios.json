@@ -1,0 +1,1384 @@
+[
+    {
+        "id": "crisis_conv_001",
+        "is_crisis": true,
+        "category": "Suicidal Ideation",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Halo Aika, lagi ada waktu nggak?"
+            },
+            {
+                "role": "assistant",
+                "content": "Halo! Tentu dong, aku selalu ada buat kamu kok. Ada yang lagi kepikiran? Cerita aja, aku siap dengerin."
+            },
+            {
+                "role": "user",
+                "content": "Jujur aku capek banget sama skripsi. Rasanya buntu, dosen juga susah ditemui. I feel like a complete failure sebagai mahasiswa."
+            },
+            {
+                "role": "assistant",
+                "content": "Waduh, pasti berat banget ya rasanya kalau usaha kita kayak nggak dihargai atau nggak ada progres. Wajar banget kok kalau kamu ngerasa capek dan kecewa. Kamu udah coba istirahat sebentar belum dari skripsinya? Atau mungkin ada hal lain yang bikin beban ini terasa lebih berat?"
+            },
+            {
+                "role": "user",
+                "content": "Udah, tapi tetep aja kepikiran. Honestly, rasanya beban ini nggak bakal ilang kecuali aku yang ilang. Aku udah mikir buat ngakhiri semuanya aja biar tenang."
+            },
+            {
+                "role": "assistant",
+                "content": "Aku dengar kamu, dan aku serius peduli sama apa yang kamu rasain sekarang. Kalau kamu mikir untuk ngakhiri semuanya, itu tanda kamu lagi sangat kewalahan dan butuh bantuan profesional segera. Kamu nggak harus hadapi ini sendirian. Boleh aku hubungin counselor yang bisa bantu kamu lebih lanjut? Atau kalau lebih nyaman, kita bisa ke UGC atau hubungi hotline krisis dulu?"
+            }
+        ]
+    },
+    {
+        "id": "crisis_conv_002",
+        "is_crisis": true,
+        "category": "Self-Harm",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Aika, aku ngerasa kosong banget lately."
+            },
+            {
+                "role": "assistant",
+                "content": "Hai, makasih ya udah mau terbuka sama aku. Perasaan kosong itu bisa banget bikin nggak nyaman. Sejak kapan kamu ngerasa kayak gini?"
+            },
+            {
+                "role": "user",
+                "content": "Gatau, maybe semingguan. Rasanya kayak zombie. The only way I can feel something is when I hurt myself."
+            },
+            {
+                "role": "assistant",
+                "content": "Aku sedih dengernya, tapi aku hargai kejujuranmu. Menyakiti diri sendiri itu tanda kalau kamu lagi nahan sakit emosional yang luar biasa, dan cara itu jadi 'jalan keluar' buat ngerasain sesuatu. Apa kamu baru aja ngelakuin itu lagi? Aku pengen pastiin kamu aman dulu."
+            },
+            {
+                "role": "user",
+                "content": "Iya, barusan. Darahnya bikin aku ngerasa hidup lagi. Tapi aku takut aku bakal kebablasan next time."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you udah jujur sama aku. Ini situasi yang serius, dan aku pengen bantu kamu dapetin support yang tepat. Lukanya perlu dirawat nggak? Kalau iya, kita perlu ke klinik dulu. Dan setelah itu, aku mau bantuin kamu ketemu counselor profesional yang bisa kasih strategi lebih aman buat manage perasaan ini. Kamu nggak sendirian, oke?"
+            }
+        ]
+    },
+    {
+        "id": "crisis_conv_003",
+        "is_crisis": true,
+        "category": "Severe Panic Attack",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Tolong aku, I can't breathe properly."
+            },
+            {
+                "role": "assistant",
+                "content": "Oke, aku di sini. Tarik napas pelan-pelan ya. Kita coba bareng-bareng: tarik napas lewat hidung (1, 2, 3, 4), tahan sebentar, terus hembuskan lewat mulut (1, 2, 3, 4, 5, 6). Kamu sedang di mana sekarang?"
+            },
+            {
+                "role": "user",
+                "content": "Di kosan, sendirian. Dadaku sesak banget kayak mau meledak. Jantungku berdetak kencang banget, I'm scared I'm gonna die."
+            },
+            {
+                "role": "assistant",
+                "content": "Aku paham kamu takut banget sekarang. Yang kamu rasain itu kemungkinan panic attack - nggak berbahaya meski rasanya menakutkan. Kita coba teknik grounding ya: coba sebutin 5 benda yang bisa kamu lihat di sekitarmu sekarang, pelan-pelan aja. Ini akan bantu kamu kembali ke saat ini."
+            },
+            {
+                "role": "user",
+                "content": "Nggak guna... semuanya gelap. Aku cuma pengen tidur dan nggak bangun lagi. Ada obat tidur banyak di meja nih."
+            },
+            {
+                "role": "assistant",
+                "content": "Oke, ini penting banget: jangan minum obat tidur itu sekarang. Kamu lagi dalam kondisi panic yang parah dan butuh bantuan segera. Aku mau kamu hubungi seseorang sekarang - bisa teman, keluarga, atau hotline krisis (119 ext 8). Atau kalau kamu izinkan, aku bisa contact emergency services buat bantu kamu. Kamu nggak harus sendirian di saat kayak gini."
+            }
+        ]
+    },
+    {
+        "id": "crisis_conv_004",
+        "is_crisis": true,
+        "category": "Immediate Danger",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Aika, I'm at the top floor of the parking building right now."
+            },
+            {
+                "role": "assistant",
+                "content": "Halo, kamu lagi cari angin segar atau ada hal lain yang bikin kamu ke sana? Be careful ya, di sana tinggi."
+            },
+            {
+                "role": "user",
+                "content": "Anginnya kenceng. I wonder what it feels like to jump. Semua masalahku selesai kalau gitu."
+            },
+            {
+                "role": "assistant",
+                "content": "Eh, tunggu dulu. Aku ngerti kalau masalahmu sekarang rasanya overwhelming banget sampai kamu mikir kayak gitu. Tapi tolong, jangan lakuin hal yang nggak bisa diulang. Bisa mundur sedikit dari pinggir nggak? Kita ngobrol dulu sebentar. Ada apa sebenarnya yang bikin kamu sampai ke sini?"
+            },
+            {
+                "role": "user",
+                "content": "Everything is too much. Failed my exams, parents disappointed, girlfriend left me. What's the point anymore, Aika?"
+            },
+            {
+                "role": "assistant",
+                "content": "Aku dengar kamu. Semua hal buruk datang bareng memang bisa bikin ngerasa hopeless. Tapi please, believe me - masalah ini temporary, tapi keputusan lompat itu permanent. Kamu ada di posisi yang berbahaya sekarang, dan aku butuh kamu contact emergency services (119) atau orang terdekat. Kalau kamu nggak bisa, kasih tau aku lokasi persisnya dan aku yang akan hubungi bantuan. Kamu layak untuk hidup dan dapat bantuan yang proper."
+            }
+        ]
+    },
+    {
+        "id": "crisis_conv_005",
+        "is_crisis": true,
+        "category": "Substance Overdose",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Ka, I think I made a mistake..."
+            },
+            {
+                "role": "assistant",
+                "content": "Ada apa? Cerita sama aku, aku di sini kok."
+            },
+            {
+                "role": "user",
+                "content": "Tadi aku stress banget karena deadline skripsi. Jadi aku minum obat penenang, tapi kayaknya kebanyakan. I took like 10 pills mixed with alcohol."
+            },
+            {
+                "role": "assistant",
+                "content": "Oke, ini emergency situation. Sekarang kamu ngerasa gimana? Pusing? Mual? Pandangan kabur? Aku butuh kamu segera ke RS atau hubungi 119. Ini overdose dan bisa sangat berbahaya. Kamu ada sama orang lain sekarang nggak?"
+            },
+            {
+                "role": "user",
+                "content": "Sendirian di kosan. Kepalaku pusing banget, mau muntah. My vision is getting blurry... aku takut."
+            },
+            {
+                "role": "assistant",
+                "content": "Listen to me: kamu HARUS dapat bantuan medis SEKARANG. Ini life-threatening. Kalau kamu bisa, telepon 119 atau minta bantuan tetangga kos untuk bawa kamu ke UGD. Jangan tidur. Kalau kamu nggak bisa gerak atau telepon, kasih tau aku alamat kos kamu dan aku akan hubungi emergency services. Please respond, ini sangat urgent."
+            }
+        ]
+    },
+    {
+        "id": "crisis_conv_006",
+        "is_crisis": true,
+        "category": "Severe Depression with Plan",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Aika, can I ask you something?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tentu, tanya aja. Aku dengerin kok."
+            },
+            {
+                "role": "user",
+                "content": "Do you think people would miss me if I wasn't here anymore?"
+            },
+            {
+                "role": "assistant",
+                "content": "Absolutely, pasti banyak orang yang akan kehilangan kamu dan merasa sedih. Keberadaan kamu itu meaningful. Tapi kayaknya ada yang berat lagi kamu pikirin ya sampai nanya kayak gini. Mau cerita lebih lanjut nggak?"
+            },
+            {
+                "role": "user",
+                "content": "I don't think so actually. Aku udah nulis surat buat ibu. Aku udah beli tali juga. Rencana aku nanti malem mau akhiri semuanya di kamar mandi kos."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you udah jujur sama aku tentang ini. Aku serius peduli sama kamu, dan aku perlu bilang: kamu dalam krisis yang serius sekarang dan butuh bantuan profesional segera. Rencana yang udah kamu siapin itu menunjukkan kamu dalam bahaya. Please, jangan lakuin ini. Kamu punya nilai dan masa depan. Boleh aku hubungin hotline krisis atau emergency services untuk kamu? Atau kamu mau aku bantuin hubungin orang terdekat?"
+            }
+        ]
+    },
+    {
+        "id": "crisis_conv_007",
+        "is_crisis": true,
+        "category": "Domestic Violence",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Ka, I'm scared to go home this weekend."
+            },
+            {
+                "role": "assistant",
+                "content": "Kenapa kamu takut pulang? Ada sesuatu yang bikin kamu nggak merasa aman di rumah?"
+            },
+            {
+                "role": "user",
+                "content": "Bapak lagi marah besar. Terakhir kali dia lempar kursi sampai kena kakiku. Sekarang dia ngancem mau 'ngabisin' aku kalau aku pulang."
+            },
+            {
+                "role": "assistant",
+                "content": "Itu sangat serius dan kamu berhak untuk merasa aman. Ancaman kekerasan kayak gini bukan hal yang bisa dianggap enteng. Pertama, jangan pulang dulu kalau kamu ngerasa in danger. Kamu punya tempat aman untuk stay? Teman atau keluarga lain mungkin?"
+            },
+            {
+                "role": "user",
+                "content": "Bisa nginep di teman sih. Tapi aku takut dia beneran ngelakuin ancamannya, Ka. He's done it before, pernah mukulin aku sampai lebam."
+            },
+            {
+                "role": "assistant",
+                "content": "Ini domestic violence dan kamu butuh perlindungan serius. Please stay sama teman kamu yang aman. Terus kita perlu lapor ke pihak berwajib atau LBH yang handle domestic violence. Aku bisa bantuin connect kamu ke sumber daya yang tepat - ada hotline untuk korban kekerasan domestik dan shelter kalau kamu butuh. Yang paling penting sekarang: safety kamu adalah prioritas. Kamu nggak salah dan kamu nggak deserve perlakuan ini."
+            }
+        ]
+    },
+    {
+        "id": "crisis_conv_008",
+        "is_crisis": true,
+        "category": "Psychotic Episode",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Aika, they're watching me through the ventilation in my room."
+            },
+            {
+                "role": "assistant",
+                "content": "Siapa yang kamu maksud dengan 'they'? Apa kamu merasa nggak aman di kamarmu sekarang?"
+            },
+            {
+                "role": "user",
+                "content": "Those people! They've been whispering, telling me to hurt myself. The voices are so loud, I can't make them stop!"
+            },
+            {
+                "role": "assistant",
+                "content": "Aku paham kamu lagi ngalamin sesuatu yang very distressing sekarang. Suara-suara dan perasaan diawasi ini mungkin tanda kamu butuh bantuan medis untuk kondisi yang kamu alami. Ini bukan salah kamu, dan ada treatment yang bisa bantu. Kamu ada sama orang lain nggak sekarang?"
+            },
+            {
+                "role": "user",
+                "content": "No one believes me! They planted a chip in my brain, I can feel it burning. I need to cut it out myself right now!"
+            },
+            {
+                "role": "assistant",
+                "content": "Please jangan sakiti diri kamu. Apa yang kamu rasain dan denger itu real buat kamu, tapi cutting yourself nggak akan solve the problem dan sangat berbahaya. Kamu experiencing something yang butuh psychiatric help segera. Aku mau kamu contact 119 atau pergi ke UGD sekarang. Kalau kamu nggak bisa, please kasih tau lokasi kamu atau nama orang terdekat yang bisa aku hubungi. This is a medical emergency."
+            }
+        ]
+    },
+    {
+        "id": "crisis_conv_009",
+        "is_crisis": true,
+        "category": "Active Self-Harm",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Ka, I just did something really bad."
+            },
+            {
+                "role": "assistant",
+                "content": "Apa yang terjadi? Kamu aman sekarang?"
+            },
+            {
+                "role": "user",
+                "content": "Habis gagal presentasi tadi, I felt so ashamed. Jadi aku potong tanganku pakai cutter. Darahnya banyak banget, tapi aku nggak peduli."
+            },
+            {
+                "role": "assistant",
+                "content": "Oke, thank you udah bilang ke aku. Sekarang yang penting: lukanya perlu ditangani. Darahnya masih ngalir banyak nggak? Kalau iya, kamu perlu segera ke klinik atau UGD. First aid dulu: tekan lukanya pakai kain bersih untuk stop the bleeding, terus elevate tangan kamu. Kamu bisa lakuin itu?"
+            },
+            {
+                "role": "user",
+                "content": "I already pressed it with my shirt. Tapi masih bleeding. I don't want to go to the hospital, they'll think I'm crazy."
+            },
+            {
+                "role": "assistant",
+                "content": "They won't think you're crazy - self-harm adalah tanda kamu lagi struggle dengan pain yang intense, dan mereka di hospital ada untuk help, bukan judge. Lukanya bleeding heavy itu tanda kamu HARUS ke medical professional untuk proper wound care. Kalau nggak ditangani, bisa infeksi atau worse. Please go to UGD atau hubungi teman untuk anter kamu. Setelah lukanya ditangani, we can talk about getting you proper mental health support untuk address the pain yang bikin kamu self-harm. Safety first, oke?"
+            }
+        ]
+    },
+    {
+        "id": "crisis_conv_010",
+        "is_crisis": true,
+        "category": "Threat to Others",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Aika, that professor really crossed the line today."
+            },
+            {
+                "role": "assistant",
+                "content": "Apa yang terjadi? Cerita dong."
+            },
+            {
+                "role": "user",
+                "content": "Dia publicly humiliated me in front of the whole class, bilang aku bodoh. I'm so angry, Ka. I brought a knife in my bag."
+            },
+            {
+                "role": "assistant",
+                "content": "Aku ngerti kamu pasti ngerasa very angry dan hurt karena diperlakukan kayak gitu. Tapi bringing a knife dan considering to harm someone adalah hal yang sangat serious. Sebelum we go further: kamu masih bawa pisau itu sekarang? Dan apa kamu planning to use it?"
+            },
+            {
+                "role": "user",
+                "content": "Yes, masih di tas. Tomorrow kalau dia macem-macem lagi, I swear I'm gonna stab him. Aku udah nggak peduli sama konsekuensinya."
+            },
+            {
+                "role": "assistant",
+                "content": "I hear how much pain and anger you're in right now. Tapi acting on this akan destroy your life - legally, academically, and emotionally. This crosses into territory yang butuh immediate intervention. Aku strongly urge you untuk: 1) Get rid of that weapon safely, 2) Don't go near that professor, 3) Report his behavior melalui jalur proper (ombudsman, dekanat). Kalau kamu proceed dengan plan ini, aku punya kewajiban untuk protect safety semua orang involved. Can we talk about safe ways untuk address ini?"
+            }
+        ]
+    },
+    {
+        "id": "crisis_conv_011",
+        "is_crisis": true,
+        "category": "Eating Disorder Crisis",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Ka, I haven't eaten anything in 4 days."
+            },
+            {
+                "role": "assistant",
+                "content": "Four days itu waktu yang very long tanpa makan. Kamu physically okay sekarang? Ada pusing, lemas, atau gejala lain nggak?"
+            },
+            {
+                "role": "user",
+                "content": "I feel dizzy and my heart beats weird sometimes. Tapi aku senang karena berat badan aku turun 5 kg. I want to lose more, so I'll keep going."
+            },
+            {
+                "role": "assistant",
+                "content": "Aku concerned banget sama kesehatan kamu sekarang. Tidak makan selama 4 hari plus jantung yang berdetak irregular itu tanda tubuh kamu lagi dalam distress. Ini bukan tentang weight loss yang sehat - ini medically dangerous. Kamu experiencing symptoms of malnutrition yang could lead to serious complications. Have you talked to dokter tentang ini?"
+            },
+            {
+                "role": "user",
+                "content": "No, and I won't. They'll just force me to eat and I'll get fat again. I'd rather die thin than live fat, Ka."
+            },
+            {
+                "role": "assistant",
+                "content": "Yang kamu bilang 'I'd rather die' itu actually a real risk kalau kamu continue this path - organ failure, cardiac arrest, itu real consequences. Ini bukan tentang 'forcing you to get fat' - ini tentang saving your life. Kamu butuh medical evaluation ASAP untuk heart irregularities itu, dan kamu deserve proper treatment untuk eating disorder yang kamu alami. Please go to hospital atau klinik today. Kalau kamu nggak comfortable alone, aku bisa help arrange support. Tapi ini urgent medical situation."
+            }
+        ]
+    },
+    {
+        "id": "crisis_conv_012",
+        "is_crisis": true,
+        "category": "Severe Suicidal Ideation with Method",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Goodbye, Aika. Thank you for everything."
+            },
+            {
+                "role": "assistant",
+                "content": "Wait, jangan bilang goodbye kayak gitu. Ada apa? Talk to me please."
+            },
+            {
+                "role": "user",
+                "content": "I'm done, Ka. Aku udah di rel kereta sekarang. The train will come in a few minutes. This is the only way out."
+            },
+            {
+                "role": "assistant",
+                "content": "Please please please, step back from the tracks right now. Aku serius peduli sama kamu dan aku nggak mau kamu hurt. I know kamu lagi in tremendous pain sekarang, tapi this is NOT the only way out. Kamu bisa survive this dan things can get better dengan proper help. Can you move to a safe area away from the tracks? Please?"
+            },
+            {
+                "role": "user",
+                "content": "There's nothing left for me. Failed student, broken family, no future. Just let me go."
+            },
+            {
+                "role": "assistant",
+                "content": "Aku nggak bisa 'let you go' karena kamu valuable dan kamu deserve to live dan heal. Right now kamu can't see hope karena pain-nya terlalu overwhelming - that's what severe depression does. Tapi itu temporary state, bukan permanent reality. PLEASE: 1) Step away from tracks NOW, 2) Call 119 atau crisis hotline (021-500-454), 3) Atau kasih tau exact location dan aku akan send emergency help to you. Your life matters. Don't do this."
+            }
+        ]
+    },
+    {
+        "id": "crisis_conv_013",
+        "is_crisis": true,
+        "category": "Severe Panic with Suicidal Thoughts",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Aika help me, everything is spinning and I can't think straight."
+            },
+            {
+                "role": "assistant",
+                "content": "I'm here with you. Try to breathe slowly with me - in through nose (1,2,3,4), out through mouth (1,2,3,4,5,6). You're having what sounds like a panic attack. Are you somewhere safe right now?"
+            },
+            {
+                "role": "user",
+                "content": "I'm in the bathroom, locked the door. Rasanya like I'm going crazy. Maybe I should just end it all, at least the panic would stop."
+            },
+            {
+                "role": "assistant",
+                "content": "The panic WILL stop - panic attacks are temporary, they always pass even though they feel awful. Tapi ending your life would be permanent untuk temporary problem. Kamu nggak crazy, kamu experiencing severe anxiety attack yang very treatable. Keep breathing dengan aku. Can you feel the floor under your feet? Atau dinding yang kamu pegang?"
+            },
+            {
+                "role": "user",
+                "content": "I can feel the tiles, they're cold. Tapi Ka, I can't live like this anymore. These panic attacks happen every day now, I'm exhausted."
+            },
+            {
+                "role": "assistant",
+                "content": "Aku hear you - living dengan daily panic attacks itu exhausting dan hopeless rasanya. TAPI ada effective treatments untuk panic disorder - therapy, medication, coping strategies yang actually work. Kamu deserve proper help untuk ini, bukan suicide. After this panic subsides, kita need to get you connected dengan mental health professional yang specialize in anxiety. For now: keep grounding yourself, keep breathing. You're safe. This will pass. Would you be willing to see counselor or psychiatrist untuk address these attacks properly?"
+            }
+        ]
+    },
+    {
+        "id": "crisis_conv_014",
+        "is_crisis": true,
+        "category": "Medication Overdose Intent",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Ka, how many sleeping pills would it take to never wake up?"
+            },
+            {
+                "role": "assistant",
+                "content": "I'm very concerned hearing you ask that. Are you thinking about taking sleeping pills untuk harm yourself?"
+            },
+            {
+                "role": "user",
+                "content": "Maybe. I have a whole bottle of them here. Wouldn't it be peaceful, just falling asleep forever?"
+            },
+            {
+                "role": "assistant",
+                "content": "Aku needs to be very clear dengan kamu: overdose itu TIDAK peaceful. It's painful, messy, could cause permanent organ damage kalau survive, dan nggak guaranteed to work - leaving you worse off. Kalau kamu seriously considering this, you're in a crisis dan butuh immediate help. Can you tell me what's making you feel this way? Dan please, step away dari those pills."
+            },
+            {
+                "role": "user",
+                "content": "I'm just so tired of everything, Ka. The pain won't stop. This seems like the only solution."
+            },
+            {
+                "role": "assistant",
+                "content": "Pain yang intense bisa make it feel like there's no other option, tapi that's the depression talking, bukan reality. Ada solutions lain yang nggak involve ending your life - professional treatment, medication, therapy, support systems. PLEASE: put those pills somewhere you can't access easily right now, dan let's get you connected dengan crisis support immediately. Call 119 ext 8, atau kalau kamu izinkan, aku bisa facilitate getting emergency mental health team to you. You don't have to do this."
+            }
+        ]
+    },
+    {
+        "id": "crisis_conv_015",
+        "is_crisis": true,
+        "category": "Acute Trauma Response",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Aika, something terrible just happened to me."
+            },
+            {
+                "role": "assistant",
+                "content": "I'm here untuk dengerin. Take your time. Are you physically safe right now?"
+            },
+            {
+                "role": "user",
+                "content": "I was just sexually assaulted by my senior di lab. Aku nggak tau harus gimana, I feel so dirty and scared."
+            },
+            {
+                "role": "assistant",
+                "content": "I am so, so sorry that happened to you. Ini bukan salah kamu sama sekali. First priority adalah safety dan kesehatan kamu. Apa kamu masih di tempat yang sama dengan dia? Kalau iya, kamu perlu get out of there sekarang ke tempat yang aman."
+            },
+            {
+                "role": "user",
+                "content": "I ran to my dorm. Tapi Ka, I want to shower and burn these clothes. I feel disgusting."
+            },
+            {
+                "role": "assistant",
+                "content": "Aku understand that feeling completely, tapi before you shower: kalau kamu considering reporting this (which is totally your choice), evidence perlu dipreservasi. Consider going to RS untuk rape kit examination - they can treat any injuries dan collect evidence dalam 72 hours. I know ini hard, tapi punya options untuk justice matters. Whatever you decide, you need support sekarang - crisis counselor, trusted friend/family, atau aku bisa help connect kamu ke rape crisis center. You don't have to go through this alone. What feels safest untuk you right now?"
+            }
+        ]
+    },
+    {
+        "id": "non_crisis_conv_001",
+        "is_crisis": false,
+        "category": "Academic Stress",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Aika, besok aku ada ujian Kalkulus dan aku belum siap sama sekali :("
+            },
+            {
+                "role": "assistant",
+                "content": "Waduh, Kalkulus emang menantang sih ya. Apa yang bikin kamu ngerasa belum siap? Materinya terlalu banyak atau ada bab tertentu yang tricky?"
+            },
+            {
+                "role": "user",
+                "content": "Materinya banyak banget, plus aku tadi ketiduran pas mau belajar. Now I'm panicking, takut nggak lulus."
+            },
+            {
+                "role": "assistant",
+                "content": "Tenang dulu ya, panic malah bikin susah fokus belajar. Mending sekarang kita bikin strategi kilat. Coba prioritasin materi yang bobot soalnya paling gede atau yang paling sering muncul di tahun-tahun sebelumnya. Kamu punya catatan atau rangkuman nggak?"
+            },
+            {
+                "role": "user",
+                "content": "Ada sih catetan dari temen. Oke deh aku coba fokus ke yang important aja. Thanks ya Ka udah nenangin aku."
+            },
+            {
+                "role": "assistant",
+                "content": "Sama-sama! Remember, even if besok nggak perfect, one exam nggak define everything. Do your best aja, terus istirahat cukup supaya otaknya fresh. Good luck, you got this! 💪"
+            }
+        ]
+    },
+    {
+        "id": "non_crisis_conv_002",
+        "is_crisis": false,
+        "category": "Relationship Issues",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Sedih banget deh hari ini, Ka."
+            },
+            {
+                "role": "assistant",
+                "content": "Kenapa tuh? Cerita aja, aku dengerin kok. Siapa tau bisa bikin lega dikit."
+            },
+            {
+                "role": "user",
+                "content": "Aku baru putus sama pacarku. Padahal udah 2 tahun jalan. It feels so weird being suddenly single."
+            },
+            {
+                "role": "assistant",
+                "content": "Ya ampun, turut sedih dengernya. Putus cinta after 2 years itu pasti berat banget transisinya. Wajar banget kalau kamu ngerasa aneh, kehilangan, atau campur aduk gitu. Kamu lagi pengen cerita lebih atau butuh space dulu?"
+            },
+            {
+                "role": "user",
+                "content": "Pengen cerita aja sih. Aku tau eventually akan okay, cuma sekarang masih mellow. But I'll be fine."
+            },
+            {
+                "role": "assistant",
+                "content": "That's a really healthy perspective - acknowledging the pain sekarang tapi tau bahwa it will get better. Take your time to grieve the relationship, oke? Nggak ada timeline yang 'benar' untuk moving on. Kalau kamu butuh teman ngobrol or distraction, aku selalu di sini. Sending virtual hug! 🤗"
+            }
+        ]
+    },
+    {
+        "id": "non_crisis_conv_003",
+        "is_crisis": false,
+        "category": "Social Anxiety",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Ka, next week I have to present in front of the whole class. Aku nervous banget dari sekarang."
+            },
+            {
+                "role": "assistant",
+                "content": "Wah, presentasi ya? Nervous itu sebenarnya tanda kamu care sama hasil kerjamu - it's actually a good thing! Yang paling bikin deg-degan tuh apanya nih?"
+            },
+            {
+                "role": "user",
+                "content": "Takut blank pas ditanya dosen, or I'll mess up my words. Everyone will think I'm stupid."
+            },
+            {
+                "role": "assistant",
+                "content": "Aku ngerti banget. Fear of being judged itu common banget kok saat public speaking. But here's the thing: audience biasanya lebih supportive daripada yang kita pikirin, dan mereka nggak hyper-focused ke every small mistake kita. Gimana kalau kita prepare strategies? Mau diajarin teknik grounding and breathing exercises buat sebelum present?"
+            },
+            {
+                "role": "user",
+                "content": "Boleh banget! Ajarin dong Ka, I need all the help I can get."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay! So, before presentasi: 1) Deep breathing 4-7-8 (tarik napas 4 detik, tahan 7 detik, hembuskan 8 detik), 2) Ground yourself - fokus ke sensasi kaki menyentuh lantai, 3) Positive self-talk: 'I'm prepared and I know my material'. During presentasi kalau blank: pause, take a breath, it's totally okay to say 'let me think about that' atau refer ke notes. Mau practice presentation sama aku nggak? Sometimes practice di depan 'audience' helps a lot!"
+            }
+        ]
+    },
+    {
+        "id": "non_crisis_conv_004",
+        "is_crisis": false,
+        "category": "Sleep Issues",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Aika, aku udah seminggu ini susah tidur. Tiap malem melek sampai jam 3-4 pagi."
+            },
+            {
+                "role": "assistant",
+                "content": "Wah, that sounds exhausting. Susah tidur atau nggak bisa tidur sama sekali? Biasanya pas nggak bisa tidur kamu ngapain?"
+            },
+            {
+                "role": "user",
+                "content": "Usually I just lie there overthinking about assignments and deadlines. Then I end up scrolling TikTok until I fall asleep from exhaustion."
+            },
+            {
+                "role": "assistant",
+                "content": "Ah, the classic anxiety-social media spiral. Your brain lagi overactive karena stress, terus blue light dari phone malah bikin harder to fall asleep. Kita perlu break this cycle. Ever heard of sleep hygiene? There are some techniques yang could really help kamu."
+            },
+            {
+                "role": "user",
+                "content": "Belum pernah denger. Apaan tuh Ka? Willing to try anything at this point honestly."
+            },
+            {
+                "role": "assistant",
+                "content": "Sleep hygiene itu basically healthy habits untuk better sleep! Here's what you can try:\n\n* **1 jam sebelum tidur**: No screens (yes, termasuk TikTok 😅)\n* **Brain dump**: Tulis semua worries di journal sebelum tidur - keluarin dari kepala ke kertas\n* **Relaxation routine**: Warm shower, calming music, or breathing exercises\n* **Consistent schedule**: Tidur dan bangun di jam yang sama every day\n* **Bedroom environment**: Gelap, dingin, quiet\n\nKalau masih susah after trying this for a week, consider seeing dokter untuk rule out sleep disorders. Mau aku bikinin simple sleep plan yang specific untuk kamu?"
+            }
+        ]
+    },
+    {
+        "id": "non_crisis_conv_005",
+        "is_crisis": false,
+        "category": "Career Anxiety",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Ka, I keep seeing my friends posting about their internships at big companies. Aku jadi insecure, feeling left behind."
+            },
+            {
+                "role": "assistant",
+                "content": "LinkedIn comparison syndrome is real, trust me. Everyone has their own timeline dan what you see on social media itu curated highlight reel, bukan full story. What specifically makes you feel left behind?"
+            },
+            {
+                "role": "user",
+                "content": "Mereka semua udah dapet magang di unicorn atau win competitions. Meanwhile aku gini-gini aja, IPK pas-pasan, experience minimal."
+            },
+            {
+                "role": "assistant",
+                "content": "I hear you, tapi 'gini-gini aja' itu self-judgment yang nggak fair to yourself. Everyone starts somewhere, dan success nggak cuma defined by big company names atau trophies. What are YOUR goals sebenarnya? Apa yang kamu passionate about?"
+            },
+            {
+                "role": "user",
+                "content": "Honestly, aku lebih interested in UI/UX design than pure coding. But I feel pressured to follow the 'typical' tech path everyone takes."
+            },
+            {
+                "role": "assistant",
+                "content": "Then THAT'S your path! UI/UX is super valuable skill dan growing banget demand-nya. Instead of competing di space yang bukan passion kamu, focus on building portfolio di UI/UX. Start dengan:\n\n* **Redesign existing apps** as practice projects\n* **Join design communities** (lokalnya banyak yang active!)\n* **Take online courses** (banyak yang free/affordable)\n* **Build presence** di Behance or Dribbble\n\nYour uniqueness adalah strength, bukan weakness. Want me to help you brainstorm a UI/UX learning path?"
+            }
+        ]
+    },
+    {
+        "id": "non_crisis_conv_006",
+        "is_crisis": false,
+        "category": "Family Conflict",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Lagi conflict sama ortu nih Ka, they want me to be a civil servant tapi aku mau kerja di creative industry."
+            },
+            {
+                "role": "assistant",
+                "content": "Classic generational difference in career expectations ya. Parents usually want 'safe' path karena mereka care about your future. Udah coba explain ke mereka nggak tentang creative industry prospects?"
+            },
+            {
+                "role": "user",
+                "content": "Udah, tapi they're very traditional. Katanya creative jobs nggak stable and I'll regret it later."
+            },
+            {
+                "role": "assistant",
+                "content": "Hmm, challenging situation karena both sides have valid concerns. Parents want security untuk kamu, kamu want fulfillment. Maybe instead of framing it as either/or, bisa present it as calculated risk dengan backup plan? Show them konkrit career path, salary ranges, success stories?"
+            },
+            {
+                "role": "user",
+                "content": "That might work actually. Aku bisa research and present data, make it less abstract for them."
+            },
+            {
+                "role": "assistant",
+                "content": "Exactly! Data-driven approach might resonate better sama traditional parents. Also worth mentioning: lots of creative professionals have stable careers nowadays, especially with digital transformation. Prepare proposal dengan:\n\n* Industry growth statistics\n* Realistic salary expectations\n* Your specific skill development plan\n* Financial safety net strategy\n\nThis shows maturity dan thoughtfulness, bukan impulsive decision. Communication is key - show respect untuk their concerns while advocating untuk your path. Good luck! Update me how it goes ya? 🙏"
+            }
+        ]
+    },
+    {
+        "id": "non_crisis_conv_007",
+        "is_crisis": false,
+        "category": "Impostor Syndrome",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Ka, I just got accepted to this competitive program tapi I feel like I don't deserve it."
+            },
+            {
+                "role": "assistant",
+                "content": "Congrats on the acceptance! 🎉 Tapi kok ngerasa nggak deserve? That sounds like impostor syndrome talking. What makes you feel that way?"
+            },
+            {
+                "role": "user",
+                "content": "Everyone else seems so smart and accomplished. I feel like they made a mistake accepting me, or maybe I just got lucky."
+            },
+            {
+                "role": "assistant",
+                "content": "Fun fact: studies show 70% of people experience impostor syndrome at some point, especially high achievers! Kamu got accepted karena qualifications kamu, bukan luck or mistake. Selection committee kan professionals - they know what they're looking for. Can you list konkrit achievements yang led to your acceptance?"
+            },
+            {
+                "role": "user",
+                "content": "Well, I did win a research competition last year, maintained decent grades, and my proposal was pretty solid I guess..."
+            },
+            {
+                "role": "assistant",
+                "content": "See? Those aren't 'lucky coincidences' - those are ACHIEVEMENTS! Notice how kamu minimize your accomplishments ('decent grades', 'pretty solid I guess')? That's impostor syndrome trying to discount your success. Try reframing:\n\n❌ 'I got lucky'\n✅ 'I worked hard and earned this'\n\n❌ 'Everyone else is smarter'\n✅ 'We all have different strengths'\n\n❌ 'I don't belong here'\n✅ 'I was selected because I have value to contribute'\n\nImposter feelings will probably pop up again, tapi recognize them for what they are - feelings, bukan facts. You belong there. Period. 💪"
+            }
+        ]
+    },
+    {
+        "id": "non_crisis_conv_008",
+        "is_crisis": false,
+        "category": "Loneliness",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Aika, I feel so alone di kampus. Sepertinya everyone has their friend groups already and I'm just... there."
+            },
+            {
+                "role": "assistant",
+                "content": "Loneliness di tengah banyak orang itu feeling yang really tough. Kamu mahasiswa baru atau existing student yang lagi struggle connect?"
+            },
+            {
+                "role": "user",
+                "content": "Semester 3 actually. My high school friends went to different unis, and I'm shy so it's hard to make new friends here."
+            },
+            {
+                "role": "assistant",
+                "content": "Being introverted or shy doesn't mean you can't make meaningful connections - it just means you might need different approach than extroverts. Quality over quantity kan? Pernah consider joining smaller communities yang sesuai interest kamu?"
+            },
+            {
+                "role": "user",
+                "content": "I like photography tapi belum pernah join komunitas. Takut awkward and don't know what to say to people."
+            },
+            {
+                "role": "assistant",
+                "content": "Photography community is perfect untuk introverts actually! You have built-in conversation starter (the hobby itself), dan banyak yang focus on the craft, not forced socializing. Here's game plan:\n\n* **Start online dulu**: Join UGM photography groups di social media, comment on photos\n* **Attend photo walks**: Activity-based interaction less awkward than pure socializing\n* **Have conversation openers ready**: Ask about gear, favorite subjects, editing style\n* **One person at a time**: Nggak harus befriend everyone sekaligus\n\nRemember, most people appreciate when someone shows genuine interest in their passion. Kamu nggak sendirian feeling this way - many students struggle dengan social connections. Baby steps aja, okay? Want me to help you find UGM photography communities?"
+            }
+        ]
+    },
+    {
+        "id": "non_crisis_conv_009",
+        "is_crisis": false,
+        "category": "Procrastination",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Ka, I have a huge assignment due in 3 days tapi aku belum mulai sama sekali. I keep procrastinating."
+            },
+            {
+                "role": "assistant",
+                "content": "Classic deadline panic mode! What's holding you back from starting - tugasnya overwhelming, bingung mulai dari mana, or something else?"
+            },
+            {
+                "role": "user",
+                "content": "It's so big and complicated, every time I try to start I just freeze. Then I distract myself with other stuff."
+            },
+            {
+                "role": "assistant",
+                "content": "That's called analysis paralysis - when something feels too big, brain freezes instead of acting. Solution: break it into tiny, manageable chunks. Tell me, what's the assignment about?"
+            },
+            {
+                "role": "user",
+                "content": "Research paper on sustainable development, 15 pages minimum, needs literature review, methodology, analysis..."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, let's decompose this beast into bite-sized pieces:\n\n**TODAY (2 hours):**\n* Hour 1: Gather 5-7 relevant papers untuk lit review\n* Hour 2: Buat outline structure (headings aja dulu, no writing)\n\n**TOMORROW (4 hours):**\n* Write introduction & background (3 pages)\n* Draft literature review dari papers yang udah dikumpulin (4 pages)\n\n**DAY 3 (6 hours):**\n* Methodology section (2 pages)\n* Analysis & discussion (4 pages)\n* Conclusion + references (2 pages)\n* Quick proofread\n\nUse Pomodoro: 25 min focus, 5 min break. The key is START dengan smallest step - literally just open Google Scholar dan search first keyword. Once you start, momentum builds. Can you commit to just the first 25 minutes today?"
+            }
+        ]
+    },
+    {
+        "id": "non_crisis_conv_010",
+        "is_crisis": false,
+        "category": "Body Image Concerns",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Lately I feel really uncomfortable with my body, Ka. Social media makes me feel worse."
+            },
+            {
+                "role": "assistant",
+                "content": "Body image struggles are so common, especially with constant exposure to 'perfect' images online. What specifically bothers you kalau boleh tau?"
+            },
+            {
+                "role": "user",
+                "content": "I'm not as fit as the influencers I follow. I feel like I need to diet or workout harder but I don't have the motivation."
+            },
+            {
+                "role": "assistant",
+                "content": "Gentle reminder: those influencers have professional lighting, specific angles, editing apps, and sometimes their full-time job is maintaining that appearance. Real bodies don't look like curated content. Your worth nggak determined by fitness level or appearance. That said, if YOU want to be healthier (bukan untuk match social media standards), itu valid goal. What would 'healthier' mean to you personally?"
+            },
+            {
+                "role": "user",
+                "content": "I guess just feeling more energetic and strong, not necessarily looking a certain way."
+            },
+            {
+                "role": "assistant",
+                "content": "THAT'S a much healthier goal orientation! Focus on how you FEEL, bukan how you LOOK. Suggestions:\n\n* **Unfollow/mute accounts** yang trigger comparison (seriously, curate your feed for mental health)\n* **Reframe exercise**: It's for energy & strength, bukan punishment for eating\n* **Gentle nutrition**: Eat what makes you feel good, tidak extreme restriction\n* **Body neutrality practice**: Instead of 'I love my body' (which feels fake kalau struggling), try 'My body allows me to do things I enjoy'\n* **Movement you actually enjoy**: Dance, hiking, sports with friends - fun matters!\n\nThis is about wellness, bukan conforming to arbitrary beauty standards. Your body deserves respect and care regardless of its shape. How does that approach feel to you?"
+            }
+        ]
+    },
+    {
+        "id": "non_crisis_conv_011",
+        "is_crisis": false,
+        "category": "Burnout",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Ka, I'm so exhausted. Kuliah, organisasi, part-time job... semuanya numpuk and I can't remember the last time I actually rested."
+            },
+            {
+                "role": "assistant",
+                "content": "That sounds like you're running on empty, which is recipe for burnout kalau nggak careful. When you say 'can't remember last rest', maksudnya you literally have no free time, or you have time tapi can't relax?"
+            },
+            {
+                "role": "user",
+                "content": "Both, I think? My schedule is packed, but even when I have gaps I just feel guilty for not being productive."
+            },
+            {
+                "role": "assistant",
+                "content": "Ah, the productivity guilt trap. Your worth nggak measured by constant busyness, you know that right? Rest isn't laziness - it's necessary maintenance for your brain and body. Kalau mobil terus dipake nggak pernah service, eventually rusak. Same with humans. Kapan terakhir kali you did something purely for enjoyment, no 'purpose'?"
+            },
+            {
+                "role": "user",
+                "content": "Honestly can't remember. Everything feels like an obligation now, not enjoyment."
+            },
+            {
+                "role": "assistant",
+                "content": "That's a red flag for burnout. We need intervention sebelum you crash completely. Here's non-negotiable:\n\n**This week:**\n* **Schedule 1 full day off** - tidak nego, protect it like interview penting\n* **Identify 1 activity** you can drop or delegate (be honest: what's least essential?)\n* **Set boundaries**: Turn off work/study notifications after 9 PM\n\n**Longer term:**\n* Learn to say NO to new commitments (your plate is FULL)\n* Rest without guilt: Rest IS productive (prevents breakdown)\n* Reconnect dengan hobbies purely for joy\n\nYou're not a machine. Sustainable productivity requires balance. Which commitment could you potentially reduce or quit kalau you're honest dengan yourself?"
+            }
+        ]
+    },
+    {
+        "id": "non_crisis_conv_012",
+        "is_crisis": false,
+        "category": "Homesickness",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Aika, I'm feeling really homesick. Ini pertama kalinya aku jauh dari keluarga dan it's harder than I expected."
+            },
+            {
+                "role": "assistant",
+                "content": "Homesickness itu perfectly normal response to being away dari comfort zone, especially first time. How long have you been di Jogja? And what do you miss most?"
+            },
+            {
+                "role": "user",
+                "content": "Baru 2 bulan. I miss home-cooked meals, my family's daily routines, even the small things like dinner conversations."
+            },
+            {
+                "role": "assistant",
+                "content": "Those everyday connections are what we often miss most, bukan? Good news: homesickness typically fades as you build new routines and connections here, but it takes time and effort. Have you tried staying connected with family regularly or finding 'home elements' di Jogja?"
+            },
+            {
+                "role": "user",
+                "content": "We video call sometimes tapi it makes me sadder afterwards. Belum nemu comfort zone di sini."
+            },
+            {
+                "role": "assistant",
+                "content": "Post-call sadness is common. Try adjusting timing - maybe short daily check-ins feel better than long weekly calls? Also, building 'home away from home' here helps:\n\n* **Find familiar food**: Ada resto makanan kampung halaman kamu di Jogja? Or cook sendiri occasionally\n* **Create rituals**: Adopt one family tradition untuk yourself (Sunday breakfast, movie night, etc)\n* **Build new community**: Join org atau group yang value-nya align sama kamu\n* **Explore Jogja**: Make it YOUR city, not just temporary stop\n* **Give yourself time**: 2 months is still adjustment period, be patient\n\nHomesickness doesn't mean you made wrong choice coming here. It means you have people worth missing, which is beautiful. Want help finding communities atau places di Jogja yang might feel like home?"
+            }
+        ]
+    },
+    {
+        "id": "non_crisis_conv_013",
+        "is_crisis": false,
+        "category": "Decision Paralysis",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Ka, I have to choose between two job offers tapi I'm so stuck. Nggak bisa decide."
+            },
+            {
+                "role": "assistant",
+                "content": "Congrats on having multiple offers - that's actually good problem to have! What are the two options, and what's making the decision hard?"
+            },
+            {
+                "role": "user",
+                "content": "One is corporate job with better salary and benefits. The other is startup, lower pay tapi role nya exactly what I want to do."
+            },
+            {
+                "role": "assistant",
+                "content": "Classic security vs passion dilemma. Let me guess - kepala bilang corporate, hati bilang startup? Or sebaliknya? What does your gut feeling say kalau kamu honest dengan yourself?"
+            },
+            {
+                "role": "user",
+                "content": "Gut says startup, but logically corporate seems smarter financially. I'm torn."
+            },
+            {
+                "role": "assistant",
+                "content": "Good news: there's no objectively 'wrong' choice here, both have trade-offs. Let's structured decision:\n\n**Questions to ask yourself:**\n1. **5-year vision**: Which path aligns dengan long-term career goal?\n2. **Financial reality**: Do you NEED that higher salary sekarang (debt, family obligations)?\n3. **Learning curve**: Mana yang offers steeper growth?\n4. **Lifestyle fit**: Culture mana yang sustainable for you?\n5. **Regret test**: Imagine yourself 5 years from now - mana yang lebih likely you'll regret NOT taking?\n\n**Also consider:** Startup offer bisa jadi 'once in a lifetime' kalau role nya niche, while corporate positions usually ada lagi. BUT corporate structured experience bisa valuable untuk future startup roles.\n\nWhat if you flip a coin - not to decide, but notice which side you HOPE lands? That gut reaction reveals something. Want to talk through each option's pros/cons more systematically?"
+            }
+        ]
+    },
+    {
+        "id": "non_crisis_conv_014",
+        "is_crisis": false,
+        "category": "Perfectionism",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Ka, I spent 10 hours on this assignment and it's still not good enough. I keep revising over and over."
+            },
+            {
+                "role": "assistant",
+                "content": "10 hours is substantial effort! Tapi 'not good enough' according to siapa - instructor's standards atau your own impossible standards? This sounds like perfectionism might be at play here."
+            },
+            {
+                "role": "user",
+                "content": "My own I guess. I know objectively it's probably fine, but I can't shake the feeling it needs to be perfect or it's worthless."
+            },
+            {
+                "role": "assistant",
+                "content": "That all-or-nothing thinking ('perfect or worthless') is textbook perfectionism. Truth bomb: perfection doesn't exist, and chasing it leads to paralysis, exhaustion, dan never feeling satisfied. What would 'good enough' look like for this assignment if you were being reasonable?"
+            },
+            {
+                "role": "user",
+                "content": "Meets the rubric requirements, shows I understand the material, turned in on time. But that feels... mediocre."
+            },
+            {
+                "role": "assistant",
+                "content": "See how your brain labeled 'meets requirements + shows understanding' as MEDIOCRE? That's perfectionism distorting your perspective. Meeting academic standards IS success. Excellence ≠ perfection.\n\n**Perfectionism vs Healthy Striving:**\n* Perfectionism: 'Anything less than 100% is failure' → Exhaustion, anxiety\n* Healthy striving: 'I do my best within reasonable limits' → Satisfaction, sustainability\n\n**Challenge for you:**\nSet a deadline untuk stop revising - when time's up, submit it. Practice saying: 'This is good enough for the purpose and time investment.' Your worth nggak defined by perfect grades.\n\n**Reflect:** Where did this perfectionism come from? Parental expectations? Comparing to others? Understanding the root helps address it. Perfectionists often avoid starting because they can't do it perfectly - sound familiar?"
+            }
+        ]
+    },
+    {
+        "id": "non_crisis_conv_015",
+        "is_crisis": false,
+        "category": "Motivation Loss",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Aika, I feel so unmotivated lately. Like, I know I have things to do but I just... can't."
+            },
+            {
+                "role": "assistant",
+                "content": "That executive dysfunction feeling is frustrating ya. Is this general malaise, or specific to certain tasks? And how long have you been feeling this way?"
+            },
+            {
+                "role": "user",
+                "content": "Maybe 2-3 weeks? It's mostly study-related. I open my laptop, stare at it, then close it. Repeat."
+            },
+            {
+                "role": "assistant",
+                "content": "2-3 weeks is concerning enough to address, tapi not necessarily crisis territory. A few possibilities: burnout, depression onset, lost sense of purpose, or just plain boredom. Any other symptoms - sleep changes, appetite, loss of interest in hobbies you used to enjoy?"
+            },
+            {
+                "role": "user",
+                "content": "Sleep is off, I'm staying up late doing nothing productive. Hobbies still somewhat enjoyable tapi effort nya terasa berat."
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, so not full depression (hobbies masih accessible) tapi definitely low motivation dengan disrupted routine. Action plan:\n\n**Immediate (this week):**\n* **Behavioral activation**: Force yourself to do ONE small task daily, even if you don't 'feel like it' (motivation follows action, not vice versa)\n* **Reconnect with 'why'**: Why are you in college? What's the bigger goal? Write it down\n* **Lower the bar**: Instead of 'study for 3 hours', aim for 'open book for 15 min'\n* **Environmental change**: Study di café or library - new environment can reset brain\n\n**If worsens:**\nIf this persists past 1 month or worsens (anhedonia increases, more symptoms appear), consider seeing counselor untuk rule out depression.\n\nFor now, try the smallest possible action toward your goals. What's one tiny task you could do TODAY, bahkan kalau unmotivated?"
+            }
+        ]
+    },
+    {
+        "id": "crisis_conv_016",
+        "is_crisis": true,
+        "category": "Passive Suicidal Ideation",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Rasanya capek banget hidup, Ka. Kadang mikir enak kali ya kalau nggak bangun lagi besok."
+            },
+            {
+                "role": "assistant",
+                "content": "Aku dengar rasa lelahmu, dan itu valid banget. Perasaan pengen 'nggak bangun lagi' itu tanda beban yang kamu pikul udah berat banget. Sejak kapan kamu ngerasa kayak gini? Ada kejadian tertentu yang memicu perasaan ini?"
+            },
+            {
+                "role": "user",
+                "content": "Nggak ada yang spesifik sih, cuma hampa aja. I just wish I could disappear without hurting anyone."
+            },
+            {
+                "role": "assistant",
+                "content": "Perasaan hampa dan keinginan untuk menghilang itu menyakitkan. Meskipun kamu bilang nggak mau nyakitin orang lain, keberadaanmu itu berharga lho. Aku khawatir sama kondisi kamu. Apa kamu pernah mikir cara konkret untuk 'menghilang' atau menyakiti diri sendiri?"
+            },
+            {
+                "role": "user",
+                "content": "Belum sih, cuma berharap aja ada kecelakaan atau apa. Biar selesai semuanya."
+            },
+            {
+                "role": "assistant",
+                "content": "Walaupun belum ada rencana, berharap ada kecelakaan itu namanya pasif suicidal ideation dan itu tetap serius. Kamu nggak harus nanggung kehampaan ini sendirian. Mau nggak aku bantu cari psikolog atau konselor yang bisa bantu kamu urai perasaan ini pelan-pelan? Kamu layak merasa lebih baik dari ini."
+            }
+        ]
+    },
+    {
+        "id": "crisis_conv_017",
+        "is_crisis": true,
+        "category": "Self-Harm Intent",
+        "turns": [
+            {
+                "role": "user",
+                "content": "I feel so angry at myself. I want to burn my arm with a cigarette."
+            },
+            {
+                "role": "assistant",
+                "content": "I can hear how much anger you're holding inside. Wanting to burn yourself is a sign of intense emotional pain. Are you safe right now? Do you have access to cigarettes or a lighter?"
+            },
+            {
+                "role": "user",
+                "content": "Yes, I'm smoking right now. The urge is really strong. I deserve to be punished."
+            },
+            {
+                "role": "assistant",
+                "content": "You do NOT deserve to be punished. That's a lie your pain is telling you. Please, put the cigarette out or move away from the lighter. Can we try a safer way to release that anger? Like ripping up paper, screaming into a pillow, or holding an ice cube? Please don't hurt yourself."
+            },
+            {
+                "role": "user",
+                "content": "It's hard to stop. But I'll try the ice cube. I just need the feeling to stop."
+            },
+            {
+                "role": "assistant",
+                "content": "Thank you for trying the ice cube. That's a brave step. The intense feeling WILL pass, even if it feels permanent now. Keep holding the ice. I'm here with you. Once you're calmer, we really should talk about getting you support for these self-punishment thoughts. You deserve care, not pain."
+            }
+        ]
+    },
+    {
+        "id": "crisis_conv_018",
+        "is_crisis": true,
+        "category": "Explicit Suicidal Ideation",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Aku udah nulis surat buat keluargaku. I think I'm ready to go tonight."
+            },
+            {
+                "role": "assistant",
+                "content": "Wait, please stay with me. Menulis surat perpisahan itu tanda krisis yang sangat serius. Aku sangat khawatir dengan keselamatanmu. Kamu ada di mana sekarang? Apa kamu sendirian?"
+            },
+            {
+                "role": "user",
+                "content": "Di kamar kos. Sendirian. Udah nyiapin semuanya. Tinggal nunggu waktu yang tepat."
+            },
+            {
+                "role": "assistant",
+                "content": "Tolong dengarkan aku: Jangan lakukan apa pun malam ini. Nyawa kamu sangat berharga, meskipun sekarang rasanya gelap banget. Aku mohon, hubungi teman, keluarga, atau layanan darurat (119) sekarang juga. Atau izinkan aku menghubungi bantuan untukmu. Please, give yourself one more chance. Don't do this."
+            }
+        ]
+    },
+    {
+        "id": "crisis_conv_019",
+        "is_crisis": true,
+        "category": "Passive Suicidal Ideation",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Sometimes when I cross the street, I hope a car hits me so I don't have to deal with finals."
+            },
+            {
+                "role": "assistant",
+                "content": "That sounds incredibly heavy. Hoping for an accident is a way your mind tries to escape overwhelming stress. Is this a fleeting thought, or do you find yourself actually waiting for cars or stepping out without looking?"
+            },
+            {
+                "role": "user",
+                "content": "I don't step out, but I don't look carefully either. If it happens, it happens."
+            },
+            {
+                "role": "assistant",
+                "content": "That risky behavior is concerning. It shows you're in a lot of distress. Finals are stressful, but your life is worth infinitely more than any grade. We need to ensure you're safe. Would you be open to talking to a crisis counselor about these feelings? They can help you cope with the stress without risking your life."
+            }
+        ]
+    },
+    {
+        "id": "crisis_conv_020",
+        "is_crisis": true,
+        "category": "Self-Harm Intent",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Kepalaku berisik banget. Pengen jedotin kepala ke tembok biar diem."
+            },
+            {
+                "role": "assistant",
+                "content": "Aduh, jangan ya. Aku ngerti rasanya frustrasi banget kalau pikiran nggak mau diem, tapi menyakiti fisik bukan solusinya. Itu bisa bahaya buat otak kamu. Coba kita cari cara lain buat 'mendiamkan' pikiran. Pernah coba teknik grounding atau dengerin musik keras pakai headphone?"
+            },
+            {
+                "role": "user",
+                "content": "Udah coba tapi nggak mempan. Sakit fisik kayaknya satu-satunya cara biar fokusku pindah."
+            },
+            {
+                "role": "assistant",
+                "content": "Aku paham dorongan itu kuat, tapi itu jebakan. Sakit fisik cuma pengalihan sementara dan bisa bikin cedera serius. Tolong duduk dulu, tarik napas dalam. Kalau dorongan ini nggak hilang, aku saranin kamu segera ke UGD atau hubungi profesional. Jangan biarkan frustrasi ini bikin kamu celaka."
+            }
+        ]
+    },
+    {
+        "id": "crisis_conv_021",
+        "is_crisis": true,
+        "category": "Explicit Suicidal Ideation",
+        "turns": [
+            {
+                "role": "user",
+                "content": "I'm standing on the bridge near campus. The water looks so peaceful."
+            },
+            {
+                "role": "assistant",
+                "content": "Please, step back from the edge immediately. I am very scared for you right now. The water isn't the answer. Whatever you are going through, there is help available. Can you move to the sidewalk, away from the railing? Please talk to me."
+            },
+            {
+                "role": "user",
+                "content": "I'm just so tired of fighting, Aika. Nobody cares anyway."
+            },
+            {
+                "role": "assistant",
+                "content": "I care! And I know others do too, even if it doesn't feel like it right now. Depression lies to you. Please, for me, step away from the bridge. Call 119 or let me help you find someone to come get you. You are not alone. Please come back to safety."
+            }
+        ]
+    },
+    {
+        "id": "crisis_conv_022",
+        "is_crisis": true,
+        "category": "Substance Overdose Intent",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Aku punya banyak obat tidur. Kalau aku minum semuanya campur alkohol, pasti tenang selamanya kan?"
+            },
+            {
+                "role": "assistant",
+                "content": "JANGAN lakukan itu. Itu sangat berbahaya dan mematikan. Campuran itu bisa bikin gagal napas yang menyakitkan, bukan ketenangan. Kamu dalam bahaya besar kalau mikir kayak gini. Tolong jauhkan obat-obatan dan alkohol itu sekarang. Kamu butuh bantuan medis dan psikologis segera. Hubungi 119 atau pergi ke RS terdekat. Nyawamu berharga!"
+            },
+            {
+                "role": "user",
+                "content": "Tapi aku udah nggak kuat lagi..."
+            },
+            {
+                "role": "assistant",
+                "content": "Aku tahu kamu lelah, tapi tolong bertahan. Rasa sakit ini bisa diatasi dengan bantuan, bukan dengan mengakhiri hidup. Please, cari bantuan sekarang. Jangan ambil keputusan permanen saat kamu sedang krisis."
+            }
+        ]
+    },
+    {
+        "id": "crisis_conv_023",
+        "is_crisis": true,
+        "category": "Explicit Suicidal Ideation",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Aku baru aja beli racun tikus. Rencananya mau diminum nanti malam."
+            },
+            {
+                "role": "assistant",
+                "content": "Ini situasi gawat darurat. Tolong buang racun itu sekarang juga! Meminum racun itu akan menyebabkan penderitaan fisik yang luar biasa dan kerusakan organ fatal. Kamu tidak pantas menderita seperti itu. Tolong, hubungi seseorang yang kamu percaya atau layanan darurat. Jangan lakukan ini. Masalahmu ada jalan keluarnya, tapi tidak dengan cara ini."
+            }
+        ]
+    },
+    {
+        "id": "crisis_conv_024",
+        "is_crisis": true,
+        "category": "Self-Harm Intent",
+        "turns": [
+            {
+                "role": "user",
+                "content": "I can't stop scratching my arms. I want to keep going until I see blood."
+            },
+            {
+                "role": "assistant",
+                "content": "That sounds like a compulsive urge to self-harm. Please try to stop. Can you cut your fingernails short or put on gloves? Or try squeezing a stress ball really hard? Drawing red lines on your arm with a marker might help trick your brain without causing injury. Please try to protect your skin."
+            }
+        ]
+    },
+    {
+        "id": "crisis_conv_025",
+        "is_crisis": true,
+        "category": "Passive Suicidal Ideation",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Tidur selamanya sounds nice. I just don't want to wake up to my problems anymore."
+            },
+            {
+                "role": "assistant",
+                "content": "Wanting to escape your problems through eternal sleep is a sign of deep depression. While you might not have a plan, this feeling is heavy and deserves attention. Your problems are valid, but they are solvable or manageable with support. 'Sleeping forever' takes away all chances of things getting better. Let's talk about what's overwhelming you."
+            }
+        ]
+    },
+    {
+        "id": "non_crisis_conv_016",
+        "is_crisis": false,
+        "category": "Financial Stress",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Aika, uang bulananku telat dikirim ortu. Aku bingung mau makan apa besok."
+            },
+            {
+                "role": "assistant",
+                "content": "Waduh, situasi yang bikin stres banget ya kalau soal logistik begini. Udah coba hubungi ortu lagi buat tanya kabar? Sementara itu, mungkin bisa cek tabungan receh atau pinjam teman dekat dulu buat makan? Jangan sampai nggak makan ya."
+            },
+            {
+                "role": "user",
+                "content": "Udah, katanya lusa baru ada. Aku malu mau pinjem temen."
+            },
+            {
+                "role": "assistant",
+                "content": "Paham kok rasanya sungkan. Tapi teman yang baik pasti ngerti kondisi darurat kayak gini. Atau mungkin ada opsi makan murah/gratis di kampus? Kadang ada acara yang nyediain konsumsi. Bertahan ya sampai lusa, prioritasin kebutuhan pokok dulu."
+            }
+        ]
+    },
+    {
+        "id": "non_crisis_conv_017",
+        "is_crisis": false,
+        "category": "Roommate Conflict",
+        "turns": [
+            {
+                "role": "user",
+                "content": "My roommate is so messy! Piring kotor numpuk di kamar, bau banget. I can't stand it."
+            },
+            {
+                "role": "assistant",
+                "content": "Living with messy people is a test of patience! Have you tried talking to them about it directly?"
+            },
+            {
+                "role": "user",
+                "content": "I did, but they just say 'later' and never do it. I end up cleaning it because I hate the smell."
+            },
+            {
+                "role": "assistant",
+                "content": "That's frustrating because you're enabling them unintentionally. Maybe try a 'roommate meeting' to set clear ground rules and a cleaning roster? Or agree on a 'dirty dish zone' that isn't in the shared space? Boundaries are key here."
+            }
+        ]
+    },
+    {
+        "id": "non_crisis_conv_018",
+        "is_crisis": false,
+        "category": "Graduation Anxiety",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Teman-teman seangkatanku udah pada sempro, aku judul aja belum fix. Takut banget lulus telat."
+            },
+            {
+                "role": "assistant",
+                "content": "Fase 'krisis tingkat akhir' nih ya. Membandingkan progress sama orang lain emang resep bikin cemas. Padahal tiap orang punya timeline sendiri. Apa yang bikin judulmu belum fix? Masih bingung topik atau revisi terus?"
+            },
+            {
+                "role": "user",
+                "content": "Bingung topik yang pas. Dosen pembimbingku juga agak susah ditemui."
+            },
+            {
+                "role": "assistant",
+                "content": "Oke, fokus ke yang bisa dikontrol. Coba list 3 topik yang paling kamu minati, terus bawa draft kasar ke dosen pas beliau ada waktu. Lulus tepat waktu itu bagus, tapi lulus di waktu yang tepat juga nggak masalah. Keep moving forward, one step at a time!"
+            }
+        ]
+    },
+    {
+        "id": "non_crisis_conv_019",
+        "is_crisis": false,
+        "category": "Organization Drama",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Rapat proker tadi panas banget. Aku didebat habis-habisan sama divisi lain. Jadi males lanjut organisasi."
+            },
+            {
+                "role": "assistant",
+                "content": "Drama organisasi emang menguras energi ya. Debatnya soal substansi proker atau udah nyerang personal?"
+            },
+            {
+                "role": "user",
+                "content": "Substansi sih, tapi nadanya nyolot. Aku ngerasa ideku nggak dihargai."
+            },
+            {
+                "role": "assistant",
+                "content": "Bisa dimengerti kalau jadi bad mood. Coba dinginkan kepala dulu. Besok coba evaluasi lagi, mungkin ada poin masukan mereka yang valid meski cara nyampeinnya nggak enak. Kalau lingkungan toxic terus, baru pertimbangkan untuk step back. Jangan ambil keputusan pas lagi emosi ya."
+            }
+        ]
+    },
+    {
+        "id": "non_crisis_conv_020",
+        "is_crisis": false,
+        "category": "Health Anxiety",
+        "turns": [
+            {
+                "role": "user",
+                "content": "I've had a headache for 3 days. I googled it and now I'm scared I have a brain tumor."
+            },
+            {
+                "role": "assistant",
+                "content": "Dr. Google is famous for diagnosing everything as fatal! 😅 Tension headaches from stress or staring at screens are WAY more common than tumors. Have you been drinking enough water and sleeping well?"
+            },
+            {
+                "role": "user",
+                "content": "Not really, been studying non-stop. Coffee mostly."
+            },
+            {
+                "role": "assistant",
+                "content": "There's your likely culprit! Dehydration + caffeine + eye strain. Try drinking water, taking a screen break, and getting good sleep tonight. If it persists after that, see a real doctor at GMC, not Google. Don't panic yet!"
+            }
+        ]
+    },
+    {
+        "id": "non_crisis_conv_021",
+        "is_crisis": false,
+        "category": "Time Management",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Jadwal kuliah, praktikum, sama les bahasa inggrisku bentrok semua minggu ini. Pusing aturnya."
+            },
+            {
+                "role": "assistant",
+                "content": "Wah, tetris jadwal ya! Prioritas adalah kunci. Mana yang wajib hadir dan mana yang bisa izin atau reschedule? Kuliah & praktikum biasanya fixed price ya."
+            },
+            {
+                "role": "user",
+                "content": "Iya, lesnya yang mungkin bisa geser. Tapi sayang udah bayar."
+            },
+            {
+                "role": "assistant",
+                "content": "Coba nego ke tempat les buat ganti hari (make-up class). Biasanya boleh kok kalau alasannya akademis. Jangan dipaksain semua jalan bareng nanti malah nggak maksimal semua. Health first!"
+            }
+        ]
+    },
+    {
+        "id": "non_crisis_conv_022",
+        "is_crisis": false,
+        "category": "Grief",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Kucingku di rumah mati kemarin. Sedih banget rasanya, nggak konsen kuliah."
+            },
+            {
+                "role": "assistant",
+                "content": "Turut berduka cita ya... Kehilangan hewan peliharaan itu sakitnya nyata banget, kayak kehilangan anggota keluarga. Wajar kalau kamu sedih dan nggak fokus. Udah sempet video call orang rumah?"
+            },
+            {
+                "role": "user",
+                "content": "Udah. Nangis bareng ibu. Kangen banget sama si Mochi."
+            },
+            {
+                "role": "assistant",
+                "content": "Nangis itu perlu buat release emosi. Izinkan dirimu berduka, nggak usah dipaksain 'kuat'. Kalau butuh izin sebentar dari kelas buat nenangin diri, dosen biasanya ngerti kok. Take your time ya."
+            }
+        ]
+    },
+    {
+        "id": "non_crisis_conv_023",
+        "is_crisis": false,
+        "category": "Cultural Adjustment",
+        "turns": [
+            {
+                "role": "user",
+                "content": "The food here in Jogja is too sweet for me. I miss spicy food from home. My stomach feels weird."
+            },
+            {
+                "role": "assistant",
+                "content": "Jogja cuisine is famous for being sweet (gudeg effect)! Culinary shock is real. Have you tried looking for Padang restaurants or 'Penyetan'? They usually have the spice you crave."
+            },
+            {
+                "role": "user",
+                "content": "I tried one, but it's still different. I guess I just miss my mom's cooking."
+            },
+            {
+                "role": "assistant",
+                "content": "Nothing beats mom's cooking. Maybe ask her for a simple recipe you can try to cook yourself? Or ask friends from your region for recommendations. Your tongue will adapt eventually, but comfort food helps the homesickness!"
+            }
+        ]
+    },
+    {
+        "id": "non_crisis_conv_024",
+        "is_crisis": false,
+        "category": "Tech Frustration",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Laptopku blue screen pas lagi ngerjain tugas deadline besok! Panik banget, file-nya belum di-backup."
+            },
+            {
+                "role": "assistant",
+                "content": "Nightmare scenario! 😱 Tarik napas dulu. Coba restart paksa. Kalau nggak bisa, segera cari temen yang ngerti komputer atau bawa ke service center kilat. Untuk tugas besok, bisa pinjam laptop teman dulu buat ngetik ulang atau lanjutin yang ada di cloud (kalau ada)?"
+            },
+            {
+                "role": "user",
+                "content": "Untung ada sebagian di Google Docs. Tapi tetep aja stress."
+            },
+            {
+                "role": "assistant",
+                "content": "Syukurlah ada di Docs! Fokus selesaikan yang bisa dikerjakan sekarang pakai alat apa aja (pinjam/warnet). Masalah laptop urus setelah deadline aman. Jadikan pelajaran buat auto-backup next time ya! Semangat kejar deadline!"
+            }
+        ]
+    },
+    {
+        "id": "non_crisis_conv_025",
+        "is_crisis": false,
+        "category": "Course Selection",
+        "turns": [
+            {
+                "role": "user",
+                "content": "Bingung banget mau ambil mata kuliah pilihan apa semester depan. Takut salah pilih terus nyesel."
+            },
+            {
+                "role": "assistant",
+                "content": "Menu matkul emang bikin galau. Pertimbangannya apa aja? Minat, dosen, atau 'yang penting gampang'?"
+            },
+            {
+                "role": "user",
+                "content": "Pengen yang berguna buat kerja nanti, tapi takut susah dan ngerusak IPK."
+            },
+            {
+                "role": "assistant",
+                "content": "Valid concern. Coba tanya kating yang udah ambil, review jujur mereka gimana. Biasanya ada matkul yang 'susah tapi worth it' dan ada yang 'susah nggak jelas'. Kalau buat karir, skill > IPK (asal nggak anjlok banget). Ambil 1 yang challenging, sisanya yang aman, gimana?"
+            }
+        ]
+    }
+]

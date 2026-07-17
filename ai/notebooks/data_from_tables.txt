@@ -1,0 +1,500 @@
+2020 | 2021 | 2022 | 2023 | 2024
+10% | 20% | 30% | 40% | 50%
+Lingkup | Kelompok berisiko
+Fasyankes (FKTP & FKRTL | Pasien penyakit kronis: DM, Hipertensi (stroke, gagal ginjal, penyakit jantung) TBC, Kanker, HlV-AlDS, dll
+Pasien dengan penyakit fisik yang tidak membaik setelah diobati dengan adekuat.
+lbu hamil dan post partum
+Diharapkan pasien di RS dilakukan deteksi dini GME dengan SDQ dan SRQ 20 dan masuk dalam akreditasi RS
+Lembaga Pendidikan Masyarakat | Siswa baru di SMP/SMA dan sederajat (usia > 15 tahun) serta perguruan tinggi
+Siswa korban dan pelaku perundungan
+Masyarakat pra sejahtera atau rawan sosial ekonomi
+Pekerja migran
+Pengungsi
+Keluarga pasien ODGJ dan penyakit kronis
+Orang dengan disabilitas dan keluarganya
+Korban tindak kekerasan
+Pekerja seks komersial (Tuna Susila)
+Anak jalanan/anak & balita terlantar/gelandangan dan pengemis usia remaja
+Anak yang memerlukan perlindungan khusus (Anak Berhadapan dengan Hukum/ABH, pengungsi, pencari suaka dsb)
+Kelompok minoritas
+Korban trafficking
+Korban dan penyintas bencana alam/non alam dan bencana sosial
+Masyarakat terpencil
+Orang dengan variasi preferensi seksual
+Lansia yang tinggal sendiri/hanya dengan pasangannya
+Lansia yang membutuhkan perawatan
+jangka panjang dan keluarganya
+Lapas/Rutan/LPKA | -  Warga binaan pemasyarakatan di
+Lapas/Rutan/ LPKA dan keluarganya
+Panti sosial | Penghuni panti (warga binaan)
+Penjaga panti
+Lembaga rehabillitasi penyalahgunaan
+Napza | -  Klien/pasien di lembaga rehabilitasi
+penyalahgunaan Napza dan keluarganya
+Usia < 11 tahun : | Usia 11-18 tahun :
+Jika Skor = | Jika Skor =
+0 - 13	: Normal | 0 - 15	: Normal
+14-15	: Ambang/Boderline | 16 - 19	: Ambang/Boderline
+16 - 40 : Abnormal | 20 - 40	: Abnormal
+Usia < 11 tahun : | Usia 11-18 tahun :
+Jika Skor = | Jika Skor =
+0-3	: Normal | 0-5	: Normal
+4	: Ambang/Boderline | 6	: Ambang/Boderline
+5-10 : Abnormal | 7-10 : Abnormal
+Usia < 10 tahun : | Usia 11-18 tahun :
+Jika Skor = | Jika Skor =
+0-2	: Normal | 0-3 : Normal
+3	: Ambang/Boderline | 4	: Ambang/Boderline
+4-10 : Abnormal | 10	: Abnormal
+Usia < 11 tahun : | Usia 11-18 tahun :
+Jika Skor = | Jika Skor =
+0-5	: Normal | 0-5	: Normal
+6	: Ambang/Boderline | 6	: Ambang/Boderline
+7-10 : Abnormal | 7-10 : Abnormal
+Usia < 11 tahun : | Usia 11-18 tahun :
+Jika Skor = | Jika Skor =
+0-2	: Normal | 0-3 : Normal
+3	: Ambang/Boderline | 4-5 : Ambang/Boderline
+4-10 : Abnormal | 6-10 : Abnormal
+Usia < 11 tahun : | Usia 11-18 tahun :
+Jika Skor = | Jika Skor =
+6-10 : Normal | 6-10 : Normal
+5	: Ambang/Boderline | 5	: Ambang/Boderline
+0-4	: Abnormal | 0-4	: Abnormal
+No | Pertanyaan | y | T
+1 | Apakah anda sering menderita sakit kepala?
+2 | Apakah anda tidak nafsu makan?
+3 | Apakah anda sulit tidur?
+4 | Apakah anda mudah takut?
+5 | Apakah anda merasa tegang, cemas atau kuatir?
+6 | Apakah tangan anda gemetar?
+7 | Apakah pencernaan anda terganggu/ buruk?
+8 | Apakah anda sulit untuk berpikir jernih?
+9 | Apakah anda merasa tidak bahagia?
+10 | Apakah anda menangis lebih sering?
+11 | Apakah anda merasa sulit untuk menikmati kegiatan sehari-hari?
+12 | Apakah anda sulit untuk mengambil keputusan?
+13 | Apakah pekerjaan anda sehari-hari terganggu?
+14 | Apakah anda tidak mampu melakukan hal-hal yang bermanfaat dalam hidup?
+15 | Apakah anda kehilangan minat pada berbagai hal?
+16 | Apakah anda merasa tidak berharga?
+17 | Apakah anda mempunyai pikiran untuk mengakhiri hidup?
+18 | Apakah anda merasa lelah sepanjang waktu?
+19 | Apakah anda mengalami rasa tidak enak di perut?
+20 | Apakah anda mudah lelah?
+Remaja | Dewasa | Lansia
+Tugas perkembangan usia remaja (identity) | Tugas perkembangan usia dewasa (intimacy dan generativity) | Tugas perkembangan usia lansia (integrity)
+Tugas perkembangan usia remaja (aspek perkembangan fisiologis, kognitif, sosial, emosi, moral, spiritualitas dan kepribadian) | Tugas perkembangan usia dewasa (aspek perkembangan fisiologis, kognitif, sosial, emosi, moral, spiritualitas dan kepribadian) | Tugas perkembangan usia lansia, (adaptasi perubahan perkembangan fisiologis, kognitif, sosial, emosi, moral, spiritualitas dan kepribadian)
+Pengertian sehat jiwa, risiko (ODMK), sakit (ODGJ)
+Stimulasi perkembangan | Pengertian sehat jiwa, risiko (ODMK), sakit (ODGJ)
+Stimulasi perkembangan | Pengertian sehat jiwa, risiko (ODMK), sakit (ODGJ)
+Stimulasi perkembangan
+Manajemen stres | Manajemen stres | Manajemen stres
+Keterampilan pemecahan masalah | Keterampilan pemecahan masalah | Keterampilan pemecahan masalah
+Kelompok Usia | Upaya Promotif | Kegiatan | Pelaksana | Institusi Terkait
+Remaja | 1.Mempertahankan | 1.Penyuluhan | Tenaga | Dinas Kesehatan
+dan meningkatkan | kesehatan jiwa | kesehatan | Dinas Sosial
+derajat kesehatan jiwa | di masyarakat, | (dokter, | Dinas PPPA
+remaja secara optimal | sekolah, | perawat, | BKKBN
+2.Menghilangkan | panti/lembaga | psikolog klinis, | Dinas Pendidikan
+diskriminasi, stigma, | sosial, lembaga | tenaga | dan Kebudayaan
+pelanggaran hak | pembinaan | kesmas, dll) | Kanwil Kumham
+asasi ODMK sebagai | khusus anak | Guru/tenaga | Dinas Kominfo
+bagian dari | 2.Membentuk | pendidik | Dinas Kominfo
+bagian dari | 2.Membentuk | pendidik
+masyarakat | desa/kelurahan | Kader
+3.Meningkatkan pola | siaga sehat jiwa | Pekerja sosial
+asuh dan pola | 3.Memasukkan | Organisasi
+komunikasi dalam | materi | remaja,
+keluarga yang | keterampilan | kelompok
+mendukung | sosial | disabilitas dan
+pertumbuhan dan | kecakapan | kelompok
+perkembangan jiwa | hidup (life | masyarakat
+yang sehat | skills:) dalam | lainnya
+4.Menciptakan | kegiatan intra
+suasana belajar | atau ekstra
+mengajar yang | kurikuler (misal:
+kondusif bagi | Pramuka, PMR,
+pertumbuhan dan | madding, dll)
+perkembangan jiwa | 4.Melaksanaka n program anti
+5.Keterampilan hidup | perundungan (
+sehat terkait | bullying) di
+kesehatan jiwa bagi | sekolah/pergur
+peserta didik sesuai | uan tinggi
+tahap | 5.Membangun
+perkembangannya | sarana
+6.Membangun | bermain,
+hubungan sosial dan | berolahraga,
+komunikasi yang | dan rekreasi di
+harmonis antar | lembaga
+pemangku | Pendidikan
+kepentingan dalam | yang
+proses pendidikan | mendukung
+tumbuh
+tumbuh
+7.Meningkatkan | kembang | PDSKJl
+kompetensi | 6.Pelatihan | lPKJl
+professional pemberi | tentang | lPK
+layanan dalam deteksi | kesehatan jiwa | lPSPl
+dini kesehatan jiwa | bagi kader
+pada anak dan remaja | 7.Pelatihan
+8.Membangun jejaring | konselor
+komunikasi antar | sebaya bagi
+profesi dalam rangka | siswa dan bagi
+meningkatkan | tenaga didik
+kesadaran | yang
+(awareness) remaja | memantau
+untuk menjaga | program
+kesehatan jiwa | konselor
+sebaya di
+sekolah
+8.Membentuk
+sekolah sehat
+jiwa
+(penyelenggar
+aan upaya
+keswa terintegrasi dengan UKS)
+Dewasa | Meningkatkan pemahaman dan peran serta masyarakat terhadap kesehatan jiwa
+Meningkatkan penerimaan dan peran serta masyarakat terhadap kesehatan jiwa | Penyuluhan kesehatan jiwa di masyarakat, panti/lembaga sosial, lapas/rutan, tempat kerja
+Pelatihan tentang keswa kepada kader
+Membentuk desa siaga sehat jiwa
+Pelatihan Dukungan Psikologis Awal bagi kader | Kader
+Tenaga kesehatan (dokter, perawat, psikolog klinis, tenaga kesmas, dll)
+Pekerja sosial
+Organisasi/ Kelompok masyarakat peduli kesehatan jiwa
+Organisasi kelompok disabilitas | Dinas Kesehatan Dinas Sosial Dinas PPPA Kanwil Kumham Dinas Tenaga Kerja
+3. Meningkatkan kompetensi professional pemberi layanan dalam deteksi kesehatan jiwa pada usia dewasa | 5. Pelatihan bagi pemberi layanan
+6. Pelatihan Dukungan Psikologis Awal bagi profesional pemberi layanan
+kesehatan jiwa | PDSKJl
+lPKJl lPK lPSPl
+Lansia | 1. Meningkatkan semangat hidup dan derajat kesehatan | 1. Penyuluhan kesehatan jiwa di masyarakat, | Kader
+Tenaga kesehatan | Dinas Kesehatan Dinas Sosial Dinas PPPA
+lansia agar merasa berguna baik bagi dirinya, keluarga maupun masyarakat melalui kegiatan rohani, sosial, mengembangkan hobi
+Mencegah kemungkinan penyakit-penyakit penuaan dengan melakukan pemeriksaan kesehatan berkala dan Latihan orientasi realita
+Meningkatan pemahaman kader lansia mengenai kesehatan jiwa pada lansia | panti/lembaga sosial, lapas/rutan,
+Pelatihan tentang keswa kepada kader
+Membentuk desa siaga sehat jiwa | (dokter, perawat, psikolog klinis, tenaga kesmas, dll)
+Guru/tenaga pendidik
+Pekerja sosial
+Organisasi/ Kelompok masyarakat peduli kesehatan jiwa | Kanwil Kumham
+Meningkatkan kompetensi professional pemberi layanan dalam deteksi kesehatan jiwa pada lansia
+Melatih kemampuan caregiver dalam deteksi kesehatan jiwa pada lansia | Pelatihan bagi pemberi layanan
+Pelatihan Dukungan Psikologis Awal bagi profesional pemberi layanan kesehatan jiwa | PDSKJl
+lPKJl lPK lPSPl
+Penyakit | Cara Mengatasi
+Hipertensi | Kontrol tekanan darah secara rutin, berobat secara rutin ke Puskesmas, Minum obat anti hipertensi secara teratur, Melakukan pola makan dan hidup sehat, menghindari konsumsi kafein dan garam yang berlebihan, Melakukan manajemen stres, Melakukan aktifitas: berjalan, bersepeda dan olah raga.
+Tuberkulosis (TBC) | Kontrol dan berobat secara rutin ke puskesmas sampai selesai program pengobatan. Mengembangkan gaya hidup sehat seperti: mengkomsumsi makanan bergizi, membuka jendela rumah agar cahaya dan udara segar dapat masuk, menjemur kasur agar tidak lembab, olahraga teratur dan tidak merokok. Pengendalian infeksi: menutup mulut dengan masker/tisue saat batuk/bersin, jangan membuang ludah dan dahak disembarang tempat
+Diabetes Mellitus | Kontrol dan berobat secara rutin ke puskesmas. Diet sesuai dengan anjuran pemberi pelayanan kesehatan khusus nya mengurangi karbohidrat, lstirahat cukup, manajemen stress.
+Kanker | Kontrol dan berobat secara rutin ke puskesmas atau pelayanan sekunder. Melakukan pola hidup sehat.
+Faktor Risiko GME | Cara Mengatasi
+1) Kemampuan regulasi emosi rendah | Melatih kemampuan mengenali emosi diri
+Melatih kemampuan mengekspresikan emosi secara asertif
+Melakukan relaksasi atau meditasi
+Berolahraga secara teratur, misal jalan kaki, yoga, dll
+Menulis jurnal harian, misal jurnal kebersyukuran, catatan harian, dll
+Berbagi pikiran dan perasaan dengan orang terdekat yang dipercaya
+2) Kemampuan regulasi diri rendah yang termanifestasikan dalam kontrol perilaku yang buruk | Melatih keterampilan manajemen stres dan manajemen konflik
+Melatih fleksibilitas dalam berpikir dan keterampilan pengambilan keputusan
+Menumbuhkan kebermaknaan hidup, penerimaan diri, kebersyukuran
+Menentukan prioritas tugas dan melatih manajemen waktu
+Berbagi pikiran dan perasaan dengan orang terdekat yang dipercaya serta melakukan refleksi diri
+Melatih keterampilan komunikasi asertif
+Faktor Risiko GME | Cara Mengatasi
+3) Konsep diri negatif | Mengidentifikasi kekuatan / kelebihan dan keter- batasan diri
+Latihan berpikir positif, terkait identitas diri, citra tubuh, dsb
+Melakukan positive self-talk / dialog diri positif. Latihan dilakukan dengan memberi pujian bagi diri sendiri terhadap aspek positif yang dimiliki kemudian dilanjutkan dengan afirmasi.
+Membuat jurnal kebersyukuran
+Mengoptimalkan dukungan keluarga dan lingkungan sosial. Latih keluarga memberikan dukungan yaitu memberi pujian dan motivasi. Ciptakan lingkungan keluarga yang tidak merendahkan penderita GME
+4) Efikasi diri rendah | Mengidentifikasi kekuatan / kelebihan dan keter- batasan diri
+Mengidentifikasi harapan, cita-cita atau keinginan
+Membuat perencanaan / target jangka pendek dan jangka panjang
+Menghargai pencapaian kemajuan atau prestasi yang dicapai, maupun upaya dan proses yang telah dilakukan
+Melakukan positive self-talk / dialog diri positif
+Membuat jurnal kebersyukuran
+Mengoptimalkan dukungan keluarga dan lingkungan sosial
+5) Resiliensi diri rendah | Melatih keterampilan manajemen stres
+Melatih fleksibilitas dalam berpikir dan keterampilan pengambilan keputusan
+Melatih keterampilan manajemen konflik
+Tanda dan Gejala | Cara Mengatasi
+Sakit Kepala | lstirahat, relaksasi, hindari jatuh, minum cukup dan rutin berolah raga
+Tidak nafsu makan | Minum air hangat sebelum makan, makanan hangat dengan porsi kecil dan sering. Ciptakan suasana yang nyaman dan gembira saat makan.
+Tanda dan Gejala | Cara Mengatasi
+Sulit Tidur | Satu jam sebelum tidur hindari terpapar layar gadget (handphone, laptop dan televisi). Hindari minum kopi. Segera naik ketempat tidur jika telah mengantuk.
+Mematikan/redupkan lampu saat tidur.
+Mudah takut | Duduk dengan tenang, tarik nafas dalam, hindari sumber rasa takut, usahakan ada yang mendampingi.
+Latihan berpikir positif
+Contoh: Berlatih thought stopping (menghentikan pikiran negatif), menuliskan pikiran alternatif untuk menggantikan pikiran negatif yang muncul, menuliskan kalimat positif dan diucapkan sebagai bentuk afirmasi seperti "Aku tenang..." "Aku mampu.", melakukan reality testing yaitu membuktikan bahwa apa yang dicemaskan belum tentu terjadi.
+Menumbuhkan keberanian untuk mencoba melakukan berbagai kegiatan dan situasi yang beragam sehingga terlatih untuk dapat beradaptasi dengan situasi yang tak terduga.
+Tegang, cemas atau kuatir | Lakukan manajemen stres
+Melakukan relaksasi dan/atau meditasi
+Berolahraga secara teratur, misalnya jalan kaki, joging, yoga, dll
+Menulis jurnal harian, misalnya jurnal kebersyukuran yang dapat berisi hal-hal positif yang ada pada diri dan orang-orang tedekat, pencapaian positif, atau peristiwa baik yang pernah dialami
+Gemetar | Lakukan relaksasi otot progresif dan hindari makanan membatasi atau menghindari zat yang dapat
+Tanda dan Gejala | Cara Mengatasi
+menyebabkan tremor, seperti kopi.
+Latihan untuk meningkatkan fungsi otot.
+Pencernaan terganggu atau buruk | Makan makanan tinggi serat, tidur dan istirahat yang cukup, menangani stres, lakukan yoga, hentikan kebiasaan merokok
+Sulit berpikir jernih | Mengubah sudut pandang akan permasalahan atau situasi menantang dalam hidupnya, sekaligus cara ia bereaksi terhadap permasalahan tersebut.
+Berbagi pikiran dan perasaan dengan orang terdekat yang dipercaya, bertukar ide/gagasan untuk melihat dari berbagai sudut pandang dan mempertimbangkan peluang dan kesempatan yang ada.
+Tidak Bahagia | Bersyukur, fokus pada apa yang kita punya dan bisa kita lakukan, mengungkapkan perasaan secara asertif, tersenyum dan tertawa, sediakan waktu untuk diri sendiri seperti jalan-jalan, nonton film, belanja, atau aktivitas lain yang membuat nyaman dan bahagia, berdamai dengan kekurangan dan kelebihan diri sendiri.
+Menulis jurnal harian, misalnya jurnal kebersyukuran yang dapat berisi hal-hal positif yang ada pada diri dan orang-orang tedekat, pencapaian positif, atau peristiwa baik yang pernah dialami
+Menangis lebih sering | Mencurahkan perasaan pada orang yang dipercaya dapat membantu meringankan perasaan, mengelola stres, menerima kenyataan mengenai apa yang telah terjadi dan menepis prasangka buruk yang hadir, memusatkan pada kegiatan dan suasana yang positif, olahraga dengan teratur, istirahat yang cukup dan pola tidur baik.
+Tanda dan Gejala | Cara Mengatasi
+Sulit menikmati kegiatan sehari-hari | Pilih kegiatan yang disukai yang menimbulkan kegembiraan dan rasa puas. Lakukan afirmasi terkait dengan semua kegiatan yang menimbulkan kegembiraan.
+Sulit mengambil keputusan | memilih kegiatan yang menyenangkan dan Mengembangkan sikap mental responsif yaitu: duduk tenang, rileks, mencari informasi yang terukur dan melakukan tindakan yang tepat dan mengevaluasi hasilnya.
+Pekerjaan sehari- hari terganggu | Melakukan kegiatan yang mudah dan menyenangkan serta terjadwal. Setiap selesai melakukan kegiatan lakukan self reinforcement! positive self-talk
+Tidak mampu melakukan hal yang bermanfaat | Berpikir, berkata, berprilaku positif. Memikirkan kegiatan yang berguna dan melakukannya. Menawarkan diri untuk menolong oranglain dengan hal hal sederhana. Latihan mengucapkan" apa yang bisa saya bantu"
+Hilang minat | Sosialisasi dan interaksi dengan keluarga, teman dan oranglain yang dekat. Terlibat dalam kegiatan keluarga, kelompok dan masyarakat.
+Merasa tidak berharga | Mengingat kembali pengalaman keberhasilan, peristiwa menyenangkan yang dialami, dan menuliskan atau menceritakannya pada orang lain
+Menuliskan semua hal positif yang dimiliki, mengucapkan (positive self-talk) dan melakukannya. Lakukan self reinforcement jika berhasil melakukan kegiatan.
+Pikiran untuk mengakhiri hidup | Curhat dan meminta untuk ditemani oleh orang yang dipercaya, mengingat orang yang disayangi, menuliskan tujuan/cita cita kehidupan.
+Tanda dan Gejala | Cara Mengatasi
+Lelah sepanjang waktu | Olah raga secara rutin, latihan fisik dimulai dari yang ringan dan ditngkatkan sesuai dengan kemampuan fisik. Melakukan relaksasi, manajemen stres dan istirahat tidur yang cukup (6-7 jam)
+Rasa tidak enak di perut | Minum air hangat, hindari makanan yang merangsang seperti: pedas, asam, berminyak dan kafein.
+Mudah lelah | Melakukan kegiatan yang ringan dalam waktu singkat diselingi dengan istirahat. Lakukan relaksasi dan manajemen stres.
+Mudah marah dan sulit meredakan ledakan amarah | Latihan mengelola amarah dengan cara yang adaptif, tanpa menyakiti diri maupun orang lain. Contoh: Mengenali tanda emosi marah dan hal yang memicu, melakukan tehnik menenangkan diri seperti relaksasi nafas dalam dan relaksasi otot progresif, mengekspresikan emosi melalui kata-kata, menulis, melukis, dll
+Latihan mengelola konflik dan memecahkan masalah
+Sering berbohong, berbuat curang, berkelahi, mencuri | Latihan mengelola konflik dan memecahkan masalah
+Mengembangkan perilaku pro-sosial dengan terlibat pada kegiatan membantu orang lain atau kelompok masyarakat yang kurang beruntung
+Bekerjasama dengan orang tua untuk menemukan dan mengendalikan faktor-faktor dalam keluarga yang dapat memicu munculnya permasalahan perilaku. Contoh: pola asuh yang bersifat otoriter, adanya hukuman yang mengandung unsur kekerasan, pengabaian, dll)
+Mengembangkan hubungan yang bersifat hangat dan saling menghargai antara orang tua dengan anak, namun
+Tanda dan Gejala | Cara Mengatasi
+juga tetap menerapkan ketegasan
+Menerapkan aturan yang jelas dan realistis, memberikan penguatan positif untuk perilaku positif yang dilakukan remaja, memberikan konsekuensi yang bersifat logis jika remaja melakukan perilaku negatif serta tidak menggunakan hukuman yang mengandung unsur kekerasan
+Perilaku inatensi dan/atau hiperaktivitas: gelisah, terlalu aktif, tidak dapat diam lama; terus bergerak dengan resah; perhatian mudah teralih, konsentrasi buyar; bertindak tanpa pemikiran yang matang; tidak mampu menyelesaikan tugas sampai selesai | Latihan mengelola aktivitas dengan membuat jadwal, checklist tugas dan kegiatan, dll
+Menyiapkan setting yang mendukung saat belajar atau mengerjakan tugas. Contoh: menyingkirkan benda yang dapat mengganggu perhatian, memilih tempat yang sepi, memastikan posisi duduk nyaman, dll
+Latihan menunda keinginan dan perilaku impulsif dengan prinsip "berhenti, lihat, dengar, dan pikirkan" sebelum melakukan sesuatu
+Mengenali tekanan atau emosi tertentu yang dapat meningkatkan kemunculan perilaku hiperaktif, impulsif, dan terganggunya perhatian, lalu berlatih menyikapinya dengan menerapkan teknik relaksasi, positive self-talk, dan berbagai cara lainnya untuk menenangkan diri.
+Menyalurkan energi melalui aktivitas fisik dan aktivitas sosial yang positif seperti misalnya berolah raga.
+Permasalahan dengan teman sebaya: cenderung menyendiri; sulit menjalin | Mengidentifikasi situasi atau interaksi sosial yang dihindari serta faktor yang melatar belakangi.
+Latihan keterampilan sosial seperti bagaimana menyapa, memperkenalkan diri, membangun percakapan, cara menanggapi orang lain, dll melalui teknik role play
+Tanda dan Gejala | Cara Mengatasi
+persahabatan dengan sebaya / tidak punya teman baik; tidak disukai dan/atau diganggu remaja lain; | Latihan membela diri dan bersikap asertif, yaitu berani menyatakan pendapat secara jujur dan tegas dan dilakukan dengan cara yang positif
+Mengenali kelebihan diri dan mengembangkan hobi atau minat untuk membantu meningkatkan kepercayaan diri
+Menumbuhkan motivasi untuk terlibat dalam aktivitas kelompok yang positif seperti ekstrakurikuler, klub, atau kelompok hobi sehingga jalinan pertemanan menjadi lebih luas.
+No | Kegiatan | Waktu | Tempat | Sasaran/Peserta | Pelaksana | Hasil
+No | Nama pasien | Alamat | Usia | Waktu | Kegiatan preventif yang dilakukan | Pelaksana | Hasil
+Tata Kelola | Kegiatan | Jumlah/ Ketersediaan | Keterangan
+Perencanaan | a. Jumlah SDM yang melakukan kegiatan P2 GME
+Dokter
+Perawat
+Psikolog klinis
+Tenaga Kesmas
+Nakes lainnya (sebutkan...)
+Kader
+Guru
+Pekerja Sosial
+b. Jenis media KlE promosi kesehatan jiwa
+Brosur/leaflet
+Poster
+Lembar balik
+Banner
+Video
+Media lainnya (sebutkan..)
+c. lnstrumen skrining GME
+SDQ (11-18)
+SRQ 20
+Target sasaran penderita GME > 15 tahun yang mendapatkan layanan
+Anggaran kegiatan P2 GME
+Rencana kegiatan P2 GME
+Koordinasi dengan lintas program
+Jejaring dengan organisasi profesi dan lintas sektor
+Pelaksanaan | Penyuluhan di
+masyarakat
+Penyuluhan di lembaga pendidikan
+Sosialisasi dan advokasi lintas sektor terkait
+Pembentukan desa siaga sehat jiwa melalui kelompok dukungan di masyarakat
+Peningkatan kapasitas kader (pelatihan/ orientasi)
+Dukungan psikologis awal
+Skrining GME:
+Di dalam gedung
+Posyandu remaja
+Posbindu PTM
+Posyandu lansia
+Lembaga pendidikan
+Panti
+Lapas/Rutan
+/LPKA
+h. Layanan penderita GME
+Promosi Kesehatan/Eduk asi
+Prevensi
+Konseling
+Penanganan awal
+i. Pencatatan dan Pelaporan rutin
+Monitoring dan | Jumlah
+Evaluasi | penduduk > 15 tahun yang
+diskrining
+Jumlah
+penduduk > 15
+tahun yang
+menderita GME
+Jumlah penderita
+GME > 15 tahun
+yang
+mendapatkan
+layanan
+Persentase
+penderita GME >
+15 tahun yang
+mendapatkan
+layanan
+Pelaksanaan
+evaluasi secara
+berkala setiap 3
+(tiga) bulan
+NO | Pertanyaan | y | T
+1 | Apakah Anda sering merasa sakit kepala?
+2 | Apakah Anda kehilangan nafsu makan?
+3 | Apakah tidur Anda tidak nyenyak?
+4 | Apakah Anda mudah merasa takut?
+5 | Apakah Anda merasa cemas, tegang, atau khawatir?
+6 | Apakah tangan Anda gemetar?
+7 | Apakah Anda mengalami gangguan pencernaan?
+8 | Apakah Anda merasa sulit berpikir jernih?
+9 | Apakah Anda merasa tidak bahagia?
+10 | Apakah Anda lebih sering menangis?
+11 | Apakah Anda merasa sulit untuk menikmati aktivitas
+sehari-hari?
+12 | Apakah Anda mengalami kesulitan untuk mengambil
+keputusan?
+13 | Apakah aktivitas/tugas sehari-hari Anda terbengkalai?
+14 | Apakah Anda merasa tidak mampu berperan dalam
+kehidupan ini?
+15 | Apakah Anda kehilangan minat terhadap banyak hal?
+16 | Apakah Anda merasa tidak berharga?
+17 | Apakah Anda mempunyai pikiran untuk mengakhiri hidup
+Anda?
+18 | Apakah Anda merasa lelah sepanjang waktu?
+19 | Apakah Anda merasa tidak enak di perut?
+20 | Apakah Anda mudah lelah?
+Remaja | Dewasa | Lansia
+Perkembangan fisiologis: pubertas; perkembangan otak; perkembangan seksual
+Perkembangan kognitif: perkembangan kognitif formal operasional; egosentrisme remaja; perkembangan kemampuan memproses informasi, kemampuan penalaran, pengambilan keputusan, kontrol diri, perkembangan bahasa yang semakin baik
+Perkembangan sosial: penyesuaian terhadap perubahan / transisi kehidupan; fase identity vs identity confusion; pembentukan dan perkembangan konsep diri, self-esteem; perkembangan relasi dengan sebaya, orangtua, pasangan.
+Perkembangan emosi: perubahan suasana hati; perkembangan kelekatan dan rasa | Perkembangan fisiologis: perkembangan tubuh dan performa fisik, kondisi kesehatan fisik, perkembangan seksual, dsb
+Perkembangan kognitif: perkembangan kognitif post-formal operasional; pemikiran realistis, reflektif, relativistik, kreatif
+Perkembangan sosial: penyesuaian terhadap perubahan / transisi kehidupan; fase generativity vs stagnation; ketertarikan pada lawan jenis, menikah dan membentuk keluarga, menjadi orangtua
+
+Perkembangan emosi: temperamen; ketertarikan pada lawan jenis; kelekatan dengan pasangan, anak
+Perkembangan kepribadian: | Perkembangan fisiologis: adaptasi perubahan penampilan tubuh, kondisi kesehatan fisik, penurunan fungsi indera (pengelihatan, pendengaran, dsb)
+Perkembangan kognitif: penurunan kemampuan platisitas otak, ingatan, dan kemampuan verbal, perkembangan kemampuan pemecahan masalah praktis, kebijaksanaan
+Perkembangan sosial: penyesuaian terhadap perubahan / transisi kehidupan, fase integrity vs depair; menjadi selektif terhadap jaringan sosial, self- esteem; mengembangkan dukungan sosial yang terintegrasi, termasuk terlibat dalam aktivitas sosial
+Perkembangan emosi: menghargai kepuasan
+kemandirian. Kelekatan insecure pada remaja mengarah pada hambatan emosional yang erat kaitannya dengan permasalahan perilaku.
+Perkembangan moral, spiritual: persepsi dan keyakinan terhadap agama, Tuhan, kegiatan keagamaan, dsb. Seiring dengan perkembangan kognitifnya, remaja mulai memahami konsep abstrak, termasuk ide tentang konsep spiritual, Tuhan, dsb. Remaja juga mulai mempertanyakan konsep tersebut seiring pembentukan identitas dirinya, seperti mengapa aku ada di dunia ini, apakah Tuhan benar-benar ada atau aku hanya mengikuti kepercayaan yang orangtua ajarkan kepadaku, dsb
+Perkembangan karir dan pekerjaan: pengembangan minat bakat, perencanaan karir | keterbukaan, kesadaran, kehati- hatian, ekstraversi, keramahan
+Perkembangan moral, spiritual: persepsi dan keyakinan terhadap agama, Tuhan, kegiatan keagamaan, kebermaknaan hidup, dsb
+Perkembangan karir dan pekerjaan: pekerjaan yang realisitis, jenjang karir, dorongan meningkatkan kapasitas kemampuan dengan pelatihan | emosional dan relasi sosial yang dimiliki;
+Perkembangan kepribadian: keterbukaan, kesadaran, kehati- hatian, ekstraversi, keramahan
+Perkembangan moral, spiritual: persepsi dan keyakinan terhadap agama, Tuhan, kegiatan keagamaan, kebermaknaan hidup, dsb
+Perkembangan karir dan pekerjaan: adaptasi masa pensiun
+Remaja | Dewasa | Lansia
+Aspek fisiologi: menerapkan pola hidup sehat (makan makanan bergizi, olahraga rutin, istirahat cukup)
+Aspek kognitif: mengeksplorasi dan mempelajari berbagai hal, termasuk pembelajaran akademik, terlibat aktivitas yang mengasah kemampuan penalaran, pemecahan masalah, pengambilan keputusan (misal bermain peran, mengikuti kegiatan ekstrakurikuler)
+Aspek sosial: melakukan aktivitas sosial dengan kelompok sebaya, mengurangi penggunaan gadget (HP, tablet, TV, komputer), menjalin relasi dengan sebaya dan mengeksplorasi berbagai situasi sosial | Aspek fisiologi: menerapkan pola hidup sehat (makan makanan bergizi, olahraga rutin, istirahat cukup)
+Aspek kognitif: melakukan aktivitas yang mengasah kemampuan penalaran, pemecahan masalah, dsb. Misal dengan mengikuti perkuliahan, bekerja, melakukan senam otak / brain gym, mengisi teka-teki silang, dsb
+Aspek sosial: menjalin relasi dengan banyak orang, mempersiapkan dan melangsungkan pernikahan, menjalani kehidupan berkeluarga, terlibat dalam aktivitas sosial kemasyarakatan (misal arisan, perkumpulan ibu-ibu PKK, ronda, kerja bakti, dsb) | Aspek fisiologi: menerapkan pola hidup sehat (makan makanan bergizi, olahraga rutin/senam lansia, istirahat cukup)
+Aspek kognitif: melakukan aktivitas yang memelihara kemampuan kognitif (missal bermain catur, mengisi teka teki silang, membaca)
+Aspek sosial: terlibat dalam aktivitas sosial kemasyarakatan (misal arisan, dsb)
+Aspek emosi: melakukan kegiatan rekreasional bersama pasangan/ keluarga/teman, melakukan relaksasi
+Aspek moral, spiritual: mengikuti kajian keagamaan, melakukan aktivitas keagamaan bersama keluarga / teman
+dalam rangka menguatkan konsep diri dan efikasi diri
+Aspek emosi: melakukan relaksasi, meditasi, olahraga yang menunjang pengembangan regulasi diri dan emosi; menguatkan kelekatan dan relasi dengan keluarga
+Aspek moral, spiritual: mengikuti kajian keagamaan, melakukan aktivitas keagamaan bersama keluarga / teman | Aspek emosi: melakukan kegiatan rekreasional bersama pasangan/ keluarga/teman, melakukan relaksasi, meditasi, olahraga yang menunjang pengembangan regulasi diri dan emosi
+Aspek moral, spiritual: mengikuti kajian keagamaan, melakukan aktivitas keagamaan bersama keluarga / teman
+Remaja | Dewasa | Lansia
+Perubahan diri karena proses pubertas
+Tekanan sebaya
+Konflik relasi dengan pasangan, teman, orangtua
+Permasalahan terkait sekolah dan pencapaian akademik
+Penggunaan dan paparan gadget, termasuk paparan media sosial dan permainan online berlebih
+Permasalahan kehidupan lainnya | Permasalahan akademik dan penyesuaian pembelajaran kuliah
+Konflik dengan pasangan, teman, keluarga
+Permasalahan marital
+Permasalahan terkait pekerjaan (stres kerja, pengangguran, permasalahan dengan rekan kerja / atasan)
+Permasalahan finansial
+Permasalahan kehidupan lainnya | Kesepian
+Kedukaan / kehilangan pasangan / keluarga
+Permasalahan kesehatan
+Konflik dengan pasangan, teman, keluarga
+Permasalahan marital
+Permasalahan terkait pekerjaan (pensiun)
+Permasalahan finansial
+Permasalahanv kehidupan lainnya
+Faktor Risiko GME | Cara Mengatasi | Contoh
+1) Kemampuan regulasi emosi rendah | a) Melatih kemampuan mengenali emosi diri | a) Menamai emosi-emosi yang dirasakan, seperti senang, marah, dll
+1) Kemampuan regulasi emosi rendah | b) Melatih kemampuan
+mengekspresikan emosi secara asertif | b) Mengekspresikan emosi
+dengan menyampaikannya secara lisan, misal "Aku senang memasak bersama keluarga hari ini."
+1) Kemampuan regulasi emosi rendah | c) Melakukan relaksasi atau meditasi | c) Melakukan relaksasi nafas ketika sulit tidur di malam hari, melakukan relaksasi otot progresif ketika cemas, melakukan meditasi mindfulness di situasi
+sehari, dsb
+1) Kemampuan regulasi emosi rendah | d) Berolahraga secara teratur, misal jalan kaki,
+yoga, dll | d) Jalan kaki setiap hari, yoga 3 kali seminggu,
+dsb
+1) Kemampuan regulasi emosi rendah | e) Menulis jurnal harian,
+misal jurnal kebersyukuran, catatan harian, dll | e) Menuliskan 3
+pengalaman yang disyukuri setiap hari, misal hari ini aku bersyukur karena dapat kado dari ibu, pergi makan bersama keluarga, dan bersepeda di pagi hari. Menuliskan pengalaman keseharian, termasuk
+pemikiran dan perasaan yang dirasakan.
+f)  Berbagi pikiran dan
+perasaan dengan orang terdekat yang dipercaya | f) Berdiskusi dengan
+orangtua tentang penggunaan gadget dan internet, serta rasa ingin tahu, rasa senang bisa belajar online dengan teman, kesal karena komentar di media sosial. Curhat pada teman tentang tugas sekolah yang sulit, tentang pasangan.
+2) Kemampuan regulasi diri rendah yang termanifestasikan dalam kontrol perilaku yang buruk | a) Melatih keterampilan
+manajemen stres dan manajemen konflik | a) Latihan menahan diri
+untuk tidak memukul teman atau melempar barang saat marah. Latihan menyelesaikan selisih paham dengan komunikasi asertif (sikap mampu berkomunikasi dengan jujur dan tegas dengan tetap menghargai pendapat dan perasaan orang lain).
+2) Kemampuan regulasi diri rendah yang termanifestasikan dalam kontrol perilaku yang buruk | b) Melatih fleksibilitas dalam
+berpikir dan keterampilan pengambilan keputusan | b) Melihat permasalahan
+dari berbagai sudut pandang dan mengambil keputusan dengan mempertimbangkan manfaat dan kerugian yang mungkin diperoleh
+a) Menumbuhkan kebermaknaan hidup, penerimaan diri, kebersyukuran | a) Memaknai kegagalan sebagai proses bertumbuh, keberhasilan sebagai kesempatan untuk mengembangkan diri yang lebih baik. Menerima kekurangan diri dan mensyukurinya.
+c) Menentukan prioritas
+tugas dan melatih manajemen waktu | c) Membuat perencanaan
+sesuai dengan kondisi dan sumber daya yang dimiliki. Menuliskan daftar tugas yang perlu
+dikerjakan dan
+menyusun prioritas untuk menyelesaikannya sesuai batas waktu.
+b) Berbagi pikiran dan
+perasaan dengan orang terdekat yang dipercaya serta melakukan refleksi diri | b) Menceritakan
+pengalaman krisis yang dialami pada keluarga/teman/pasan gan/ mencari bantuan profesional (ke puskesmas, konsultasi dengan dokter, psikolog, perawat, dll). Melakukan refleksi diri serta mengevaluasi strategi dan usaha yang telah dilakukan. Menyusun rencana aksi untuk perubahan dan pengembangan diri yang lebih adaptif.
+d) Melatih keterampilan komunikasi asertif | d) Berlatih dalam situasi keseharian untuk mengungkapkan gagasan dan perasaan dengan jujur, empatik, dan menghargai orang lain. Tidak bersikap egois, dan mau mendengarkan saran / masukan orang lain.
+3)  Konsep diri negatif | a) Mengidentifikasi kekuatan
+/ kelebihan dan keterbatasan diri | a) Mengenal diri, termasuk
+kekuatan dan keterbatasan diri menggunakan jendela Johari
+3)  Konsep diri negatif | b) Latihan berpikir positif, terkait identitas diri, citra tubuh, dsb | b) Menemukan hikmah / sisi positif dari situasi krisis yang dialami. Misal ketika nilai ujian jelek, berpikir pengalaman ini menjadi pengingat untuk terus belajar dan mencoba berusaha kembali di ujian remidial / di kesempatan lain. Atau ketika gagal meraih target yang diinginkan,
+berpikir
+3)  Konsep diri negatif | c) Melakukan positive self-
+talk / dialog diri positif. | c) Menyemangati diri
+sendiri dengan mengatakan, "Aku bisa!" atau "Aku merasa sedih dan itu tidak apa- apa", dan sebagainya.
+d) Membuat jurnal kebersyukuran | d) Menuliskan 3 pengalaman yang disyukuri setiap hari, misal hari ini aku bersyukur karena dapat kado dari ibu, pergi makan bersama keluarga, dan bersepeda di pagi hari.
+e) Mengoptimalkan
+dukungan keluarga dan lingkungan sosial | e) Memberikan apresiasi
+(pujian, dsb) yang menekankan pada kekuatan maupun pengalaman keberhasilan.
+Menghindari pemberian label negatif yang dapat merendahkan kepercayaan diri
+penderita GME.
+4)  Efikasi diri rendah | a) Mengidentifikasi kekuatan
+/ kelebihan dan keterbatasan diri | a) Mengenal diri, termasuk
+kekuatan dan keterbatasan diri menggunakan jendela Johari
+4)  Efikasi diri rendah | b) Mengidentifikasi harapan, cita-cita atau keinginan | b) Mengeksplorasi berbagai hal dan mengembangkan kemampuan di bidang yang diminati, dan menentukan target yang
+ingin diraih
+4)  Efikasi diri rendah | c) Membuat perencanaan /
+target jangka pendek dan jangka panjang | c) Membuat rencana aksi
+dengan mengidentifikasi sumber daya dan kendala, dan
+mengembangkannya sebagai serangkaian tujuan jangka pendek untuk mencapai target jangka panjang / cita- cita
+d) Menghargai pencapaian kemajuan atau prestasi yang dicapai, maupun upaya dan proses yang telah dilakukan | d) Memberikan penghargaan pada diri sendiri setelah berhasil mencapai target jangka pendek dengan membeli makanan kesukaan, menonton film terbaru, jalan-jalan,
+dsb.
+e) Melakukan positive self- talk / dialog diri positif | e) Menyemangati diri sendiri dengan mengatakan, "Aku bisa!" atau "Aku merasa sedih dan itu tidak apa-
+apa", dan sebagainya.
+f)  Membuat jurnal
+kebersyukuran | f) Menuliskan 3
+pengalaman yang disyukuri setiap hari, misal hari ini aku bersyukur karena dapat kado dari ibu, pergi makan bersama keluarga, dan bersepeda di pagi hari.
+g) Mengoptimalkan
+dukungan keluarga dan lingkungan sosial | g) Memberikan apresiasi
+(pujian, dsb) yang menekankan pada kekuatan maupun pengalaman keberhasilan.
+Menghindari pemberian label negatif yang dapat merendahkan kepercayaan diri penderita GME.
+5)  Resiliensi diri rendah | a) Melatih keterampilan
+manajemen stres | a) Mengenali cara diri
+mengelola stres dan tingkat keefektifannya. Menemukan strategi pengelolaan stres yang lebih adaptif dan cocok dengan diri.
+Menggunakan kemampuan tersebut dalam menghadapi
+situasi krisis.
+5)  Resiliensi diri rendah | b) Melatih fleksibilitas dalam berpikir dan keterampilan pengambilan keputusan | b) Melihat permasalahan dari berbagai sudut pandang dan mengambil keputusan dengan mempertimbangkan manfaat dan kerugian
+yang mungkin diperoleh
+5)  Resiliensi diri rendah | c) Melatih keterampilan
+manajemen konflik | c) Latihan menahan diri
+untuk tidak memukul teman atau melempar barang saat marah. Latihan menyelesaikan selisih paham dengan komunikasi asertif (sikap mampu berkomunikasi dengan jujur dan tegas dengan tetap menghargai pendapat dan perasaan orang lain).

@@ -1,0 +1,20 @@
+version: "3.9"
+
+services:
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: production
+      args:
+        NEXT_PUBLIC_API_URL: ${NEXT_PUBLIC_API_URL}
+    env_file:
+      - .env.local
+    ports:
+      - "${FRONTEND_EXTERNAL_PORT:-22000}:22000"
+    healthcheck:
+      test: ["CMD-SHELL", "node -e \"const http=require('http');const port=process.env.PORT||22000;const req=http.get({host:'127.0.0.1',port,path:'/'},res=>{process.exit(res.statusCode && res.statusCode < 400 ? 0 : 1);});req.on('error',()=>process.exit(1));\""]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    restart: unless-stopped

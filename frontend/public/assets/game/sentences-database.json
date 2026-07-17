@@ -1,0 +1,207 @@
+{
+  "sentences": [
+    {
+      "id": "aff_001",
+      "text_en": "I am worthy of love and care",
+      "text_id": "Saya layak mendapat cinta dan perhatian",
+      "category": "Affirmations",
+      "difficulty": 1
+    },
+    {
+      "id": "aff_002",
+      "text_en": "I am enough just as I am",
+      "text_id": "Saya sudah cukup apa adanya",
+      "category": "Affirmations",
+      "difficulty": 1
+    },
+    {
+      "id": "aff_003",
+      "text_en": "My feelings are valid and important",
+      "text_id": "Perasaan saya valid dan penting",
+      "category": "Affirmations",
+      "difficulty": 1
+    },
+    {
+      "id": "aff_004",
+      "text_en": "I choose peace over worry",
+      "text_id": "Saya memilih kedamaian dari kekhawatiran",
+      "category": "Affirmations",
+      "difficulty": 1
+    },
+    {
+      "id": "aff_005",
+      "text_en": "Today I will be kind to myself",
+      "text_id": "Hari ini saya akan baik pada diri sendiri",
+      "category": "Affirmations",
+      "difficulty": 1
+    },
+    {
+      "id": "aff_006",
+      "text_en": "I deserve happiness and joy",
+      "text_id": "Saya layak bahagia dan gembira",
+      "category": "Affirmations",
+      "difficulty": 1
+    },
+    {
+      "id": "aff_007",
+      "text_en": "I am doing my best and that is enough",
+      "text_id": "Saya melakukan yang terbaik dan itu cukup",
+      "category": "Affirmations",
+      "difficulty": 1
+    },
+    {
+      "id": "cope_001",
+      "text_en": "This feeling will pass eventually",
+      "text_id": "Perasaan ini akan berlalu pada waktunya",
+      "category": "Coping",
+      "difficulty": 2
+    },
+    {
+      "id": "cope_002",
+      "text_en": "I can handle one thing at a time",
+      "text_id": "Saya bisa menangani satu hal pada satu waktu",
+      "category": "Coping",
+      "difficulty": 2
+    },
+    {
+      "id": "cope_003",
+      "text_en": "My breath is my anchor to the present",
+      "text_id": "Napas saya adalah jangkar ke saat ini",
+      "category": "Coping",
+      "difficulty": 2
+    },
+    {
+      "id": "cope_004",
+      "text_en": "It is okay to ask for help when needed",
+      "text_id": "Tidak apa meminta bantuan saat dibutuhkan",
+      "category": "Coping",
+      "difficulty": 2
+    },
+    {
+      "id": "cope_005",
+      "text_en": "I am learning and growing every day",
+      "text_id": "Saya belajar dan berkembang setiap hari",
+      "category": "Coping",
+      "difficulty": 2
+    },
+    {
+      "id": "cope_006",
+      "text_en": "I can take a break when I need rest",
+      "text_id": "Saya bisa istirahat saat membutuhkannya",
+      "category": "Coping",
+      "difficulty": 2
+    },
+    {
+      "id": "cbt_001",
+      "text_en": "I choose to respond with calm and clarity",
+      "text_id": "Saya memilih merespons dengan tenang dan jelas",
+      "category": "CBT",
+      "difficulty": 3
+    },
+    {
+      "id": "cbt_002",
+      "text_en": "My thoughts are not facts, they are just thoughts",
+      "text_id": "Pikiran saya bukan fakta, hanya pikiran saja",
+      "category": "CBT",
+      "difficulty": 3
+    },
+    {
+      "id": "cbt_003",
+      "text_en": "I can observe my anxiety without becoming it",
+      "text_id": "Saya bisa mengamati kecemasan tanpa menjadi itu",
+      "category": "CBT",
+      "difficulty": 3
+    },
+    {
+      "id": "cbt_004",
+      "text_en": "Progress is not linear and that is okay",
+      "text_id": "Kemajuan tidak linear dan itu tidak apa-apa",
+      "category": "CBT",
+      "difficulty": 3
+    },
+    {
+      "id": "cbt_005",
+      "text_en": "I am capable of handling difficult emotions",
+      "text_id": "Saya mampu menangani emosi yang sulit",
+      "category": "CBT",
+      "difficulty": 3
+    },
+    {
+      "id": "cbt_006",
+      "text_en": "I can challenge negative thoughts with evidence",
+      "text_id": "Saya bisa tantang pikiran negatif dengan bukti",
+      "category": "CBT",
+      "difficulty": 3
+    },
+    {
+      "id": "wisdom_001",
+      "text_en": "The only way out is through acceptance and action",
+      "text_id": "Satu-satunya jalan keluar adalah menerima dan bertindak",
+      "category": "Wisdom",
+      "difficulty": 4
+    },
+    {
+      "id": "wisdom_002",
+      "text_en": "Vulnerability is not weakness, it is courage to be authentic",
+      "text_id": "Kerentanan bukan kelemahan, tetapi keberanian untuk autentik",
+      "category": "Wisdom",
+      "difficulty": 4
+    },
+    {
+      "id": "wisdom_003",
+      "text_en": "Self-compassion is treating yourself like you would a good friend",
+      "text_id": "Belas kasih diri adalah memperlakukan diri seperti sahabat baik",
+      "category": "Wisdom",
+      "difficulty": 4
+    },
+    {
+      "id": "wisdom_004",
+      "text_en": "You cannot control the waves but you can learn to surf",
+      "text_id": "Anda tak bisa kontrol ombak namun bisa belajar berselancar",
+      "category": "Wisdom",
+      "difficulty": 4
+    },
+    {
+      "id": "wisdom_005",
+      "text_en": "Between stimulus and response there is a space for choice",
+      "text_id": "Antara stimulus dan respons ada ruang untuk memilih",
+      "category": "Wisdom",
+      "difficulty": 4
+    },
+    {
+      "id": "indo_001",
+      "text_en": "After hardship comes ease, patience brings reward",
+      "text_id": "Sesudah kesulitan ada kemudahan, kesabaran membawa hasil",
+      "category": "Indonesian Sayings",
+      "difficulty": 5
+    },
+    {
+      "id": "indo_002",
+      "text_en": "Small steps forward are still progress worth celebrating",
+      "text_id": "Langkah kecil maju tetap kemajuan yang patut dirayakan",
+      "category": "Indonesian Sayings",
+      "difficulty": 5
+    },
+    {
+      "id": "indo_003",
+      "text_en": "Your mental health is just as important as physical health",
+      "text_id": "Kesehatan mental sama pentingnya dengan kesehatan fisik",
+      "category": "Indonesian Sayings",
+      "difficulty": 5
+    },
+    {
+      "id": "indo_004",
+      "text_en": "It takes courage to ask for help and strength to accept it",
+      "text_id": "Butuh keberanian meminta bantuan dan kekuatan menerimanya",
+      "category": "Indonesian Sayings",
+      "difficulty": 5
+    },
+    {
+      "id": "indo_005",
+      "text_en": "Resilience means finding strength within yourself",
+      "text_id": "Ketahanan berarti menemukan kekuatan dalam diri sendiri",
+      "category": "Indonesian Sayings",
+      "difficulty": 5
+    }
+  ]
+}

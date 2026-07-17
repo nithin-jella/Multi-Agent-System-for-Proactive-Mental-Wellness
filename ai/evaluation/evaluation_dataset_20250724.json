@@ -1,0 +1,4108 @@
+{
+  "data": [
+    {
+      "id": null,
+      "query": "Apa itu Kesehatan Jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Kesehatan Jiwa"
+      ],
+      "golden_answer": "Kesehatan Jiwa adalah kondisi di mana seseorang dapat berkembang secara fisik, mental, spiritual, dan sosial sehingga menyadari kemampuan diri, mampu mengatasi tekanan, berproduktivitas, dan berkontribusi pada komunitas mereka. Ini penting untuk kesejahteraan keseluruhan Anda."
+    },
+    {
+      "id": null,
+      "query": "Bisakah kamu menjelaskan Gejala Gangguan Jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Gejala Gangguan Jiwa"
+      ],
+      "golden_answer": "Gejala Gangguan Jiwa mencakup kombinasi pikiran yang abnormal, emosi atau perasaan yang tidak biasa, perubahan persepsi, perilaku, serta kesulitan dalam hubungan dengan orang lain. Mengetahui gejala ini dapat membantu Anda memahami kondisi diri atau orang terdekat."
+    },
+    {
+      "id": null,
+      "query": "Apa yang dimaksud dengan Faktor Psikologis?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Faktor Psikologis"
+      ],
+      "golden_answer": "Faktor Psikologis meliputi hal-hal seperti kegagalan, kekecewaan, atau trauma yang dapat menimbulkan stres. Kondisi ini berperan penting dalam meningkatkan risiko gangguan jiwa jika tidak ditangani dengan tepat."
+    },
+    {
+      "id": null,
+      "query": "Apa saja contoh Faktor Biologis?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Faktor Biologis"
+      ],
+      "golden_answer": "Faktor Biologis mencakup aspek genetik, status gizi, dan kemungkinan infeksi perinatal. Elemen-elemen ini dapat memengaruhi kerentanan seseorang terhadap gangguan jiwa."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Stres?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Stres"
+      ],
+      "golden_answer": "Stres adalah kondisi tertekan atau terancam yang dialami seseorang, seringkali sebagai respons terhadap tekanan psikologis seperti kegagalan atau trauma. Memahami stres membantu Anda mencari cara mengelolanya."
+    },
+    {
+      "id": null,
+      "query": "Siapa yang disebut Orang Dengan Masalah Kejiwaan (ODMK)?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Orang Dengan Masalah Kejiwaan (ODMK)"
+      ],
+      "golden_answer": "Orang Dengan Masalah Kejiwaan adalah individu yang mengalami gangguan mental emosional dan memiliki masalah fisik, mental, sosial, pertumbuhan, atau kualitas hidup yang memberikan risiko gangguan jiwa lebih tinggi."
+    },
+    {
+      "id": null,
+      "query": "Apa itu SKRT 1995?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "SKRT 1995"
+      ],
+      "golden_answer": "SKRT 1995 adalah Survei Kesehatan Rumah Tangga tahun 1995 yang menggunakan istilah gangguan mental emosional untuk mengukur kondisi kesehatan jiwa penduduk pada masa itu."
+    },
+    {
+      "id": null,
+      "query": "Apa tujuan Self Reporting Questionnaire (SRQ)?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Self Reporting Questionnaire (SRQ)"
+      ],
+      "golden_answer": "Self Reporting Questionnaire (SRQ) adalah alat ukur yang digunakan pertama kali dalam Survei Kesehatan Jiwa Penduduk Indonesia untuk mendeteksi adanya gangguan mental emosional pada responden."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Prevalensi Gangguan Mental Emosional (Riskesdas 2018)?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Prevalensi Gangguan Mental Emosional (Riskesdas 2018)"
+      ],
+      "golden_answer": "Prevalensi Gangguan Mental Emosional menurut Riskesdas 2018 adalah 9,8% dari populasi penduduk Indonesia, menunjukkan hampir sepuluh dari seratus orang mengalami tanda-tanda distress psikologik."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Bonus Demografi Indonesia (2030-2040)?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Bonus Demografi Indonesia (2030-2040)"
+      ],
+      "golden_answer": "Bonus Demografi Indonesia 2030–2040 adalah periode di mana penduduk usia produktif (15–64 tahun) diproyeksikan menjadi 64% dari total 297 juta jiwa, potensi besar untuk pembangunan jika didukung kesehatan jiwa yang baik."
+    },
+    {
+      "id": null,
+      "query": "Apa yang dimaksud dengan Monitoring dan Evaluasi Program?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Monitoring dan Evaluasi Program"
+      ],
+      "golden_answer": "Monitoring dan Evaluasi Program adalah proses sistematis untuk menilai pelaksanaan dan hasil upaya pencegahan serta pengendalian gangguan mental emosional, agar intervensi dapat diperbaiki secara berkelanjutan."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Surveilans Gangguan Mental Emosional?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Surveilans Gangguan Mental Emosional"
+      ],
+      "golden_answer": "Surveilans Gangguan Mental Emosional adalah kegiatan pemantauan terus-menerus untuk mendeteksi insiden atau tren distress psikologik dalam masyarakat, sebagai bagian dari tindakan preventif."
+    },
+    {
+      "id": null,
+      "query": "Jelaskan Program Pencegahan dan Pengendalian Masalah Kesehatan Jiwa dan Napza.",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Program Pencegahan dan Pengendalian Masalah Kesehatan Jiwa dan Napza"
+      ],
+      "golden_answer": "Program ini menargetkan penurunan beban gangguan jiwa dengan indikator kinerja persentase penderita gangguan mental emosional yang menerima layanan, termasuk upaya promotif, preventif, kuratif, dan rehabilitatif."
+    },
+    {
+      "id": null,
+      "query": "Apa isi Undang-Undang No. 18 tahun 2014?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Undang-Undang No. 18 tahun 2014"
+      ],
+      "golden_answer": "Undang-Undang No. 18/2014 tentang Kesehatan Jiwa mengatur upaya promotif, preventif, kuratif, dan rehabilitatif untuk kesehatan jiwa yang diselenggarakan terpadu oleh Pemerintah, Pemerintah Daerah, dan masyarakat."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Puskesmas?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Puskesmas"
+      ],
+      "golden_answer": "Puskesmas adalah fasilitas layanan kesehatan tingkat pertama di kecamatan yang melakukan promosi, pencegahan, serta pencatatan dan pelaporan gangguan mental emosional bagi penduduk di wilayah kerjanya."
+    },
+    {
+      "id": null,
+      "query": "Siapa yang termasuk sasaran Dinas Kesehatan Provinsi?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Dinas Kesehatan Provinsi"
+      ],
+      "golden_answer": "Sasaran Dinas Kesehatan Provinsi adalah tenaga kesehatan dan pengelola program di tingkat daerah, yang bertugas mengkoordinasi laporan dari kabupaten/kota dan melaporkannya ke Kementerian Kesehatan."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Indikator Penderita Gangguan Mental Emosional?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Indikator Penderita Gangguan Mental Emosional"
+      ],
+      "golden_answer": "Indikator ini mengukur persentase penderita gangguan mental emosional yang menerima layanan, sebagai tolok ukur efektivitas upaya kesehatan jiwa di masyarakat."
+    },
+    {
+      "id": null,
+      "query": "Apa tujuan Tujuan Umum Petunjuk Teknis?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Tujuan Umum Petunjuk Teknis"
+      ],
+      "golden_answer": "Tujuan Umum Petunjuk Teknis adalah memberikan panduan teknis untuk upaya pencegahan dan pengendalian gangguan mental emosional secara menyeluruh, terpadu, dan berkesinambungan."
+    },
+    {
+      "id": null,
+      "query": "Apa tujuan spesifik dari Tujuan Khusus Petunjuk Teknis?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Tujuan Khusus Petunjuk Teknis"
+      ],
+      "golden_answer": "Tujuan Khusus Petunjuk Teknis mencakup meningkatkan pemahaman kebijakan, melaksanakan upaya promotif dan preventif, melakukan surveilans, serta monitoring dan evaluasi program kesehatan jiwa."
+    },
+    {
+      "id": null,
+      "query": "Apa peran Masyarakat dalam kesehatan jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Masyarakat"
+      ],
+      "golden_answer": "Masyarakat berperan aktif mendukung upaya promotif, preventif, serta menyediakan dukungan sosial bagi individu dengan gangguan mental emosional untuk menciptakan lingkungan yang peduli dan inklusif."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana Faktor Sosial Budaya memengaruhi Kesehatan Jiwa?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Faktor Sosial Budaya",
+        "Kesehatan Jiwa"
+      ],
+      "golden_answer": "Faktor Sosial Budaya—seperti norma, nilai, dan dukungan komunitas—dapat membentuk cara seseorang memahami dan menangani stres, sehingga sangat mempengaruhi kondisi kesehatan jiwa secara menyeluruh."
+    },
+    {
+      "id": null,
+      "query": "Mengapa Faktor Ekonomi dapat berkontribusi pada beban gangguan jiwa?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Faktor Ekonomi",
+        "Beban Gangguan Jiwa"
+      ],
+      "golden_answer": "Keterbatasan ekonomi sering kali meningkatkan tekanan hidup, mengurangi akses ke layanan kesehatan, dan menambah beban gangguan jiwa, yang pada gilirannya memengaruhi kualitas hidup dan hak asasi seseorang."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana Faktor Lingkungan terkait dengan gangguan jiwa?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Faktor Lingkungan",
+        "Beban Gangguan Jiwa"
+      ],
+      "golden_answer": "Kondisi lingkungan yang buruk—seperti polusi, kemiskinan, atau akses terbatas ke fasilitas—dapat menambah stres dan memperberat beban gangguan jiwa, mempengaruhi kesejahteraan mental individu."
+    },
+    {
+      "id": null,
+      "query": "Mengapa Dukungan Komunitas penting dalam Pencegahan dan Pengendalian Gangguan Mental Emosional?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Dukungan Komunitas",
+        "Pencegahan dan Pengendalian Gangguan Mental Emosional"
+      ],
+      "golden_answer": "Dukungan Komunitas memberikan rasa keterikatan, empati, dan bantuan praktis yang membuat individu merasa didengar dan didukung, sehingga menjadi salah satu kunci pencegahan dan pengendalian gangguan mental emosional."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana Kebijakan Nasional membantu mengurangi Kesenjangan Pengobatan?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Kebijakan Nasional",
+        "Kesenjangan Pengobatan"
+      ],
+      "golden_answer": "Kebijakan Nasional yang mendukung program kesehatan jiwa dapat memperluas akses layanan, mengalokasikan sumber daya, dan memfasilitasi distribusi layanan sehingga mengurangi persentase penderita yang belum mendapatkan pengobatan."
+    },
+    {
+      "id": null,
+      "query": "Mengapa Sistem Kesehatan belum merespons beban gangguan jiwa dengan adekuat?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Sistem Kesehatan",
+        "Beban Gangguan Jiwa"
+      ],
+      "golden_answer": "Sistem Kesehatan di banyak tempat belum memiliki kapasitas atau prioritas yang cukup untuk gangguan jiwa, sehingga respons terhadap beban yang terus meningkat masih kurang optimal."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana trauma sebagai bagian dari Faktor Psikologis dapat memicu Stres?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Faktor Psikologis",
+        "Stres"
+      ],
+      "golden_answer": "Trauma—sebagai elemen utama Faktor Psikologis—dapat menciptakan perasaan terancam atau cemas yang intens, memicu stres berkepanjangan jika tidak dikelola dengan dukungan yang tepat."
+    },
+    {
+      "id": null,
+      "query": "Mengapa genetik dalam Faktor Biologis dapat berkontribusi pada gangguan jiwa?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Faktor Biologis",
+        "Beban Gangguan Jiwa"
+      ],
+      "golden_answer": "Keturunan genetik dapat memengaruhi kerentanan otak terhadap stres atau ketidakseimbangan kimia, menjadikan genetika sebagai salah satu penyebab penting beban gangguan jiwa."
+    },
+    {
+      "id": null,
+      "query": "Apa hubungan antara Usia 14 Tahun dan awal gangguan jiwa?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Usia 14 Tahun",
+        "Beban Gangguan Jiwa"
+      ],
+      "golden_answer": "Sekitar 50% gangguan jiwa mulai tampak pada usia 14 tahun, menandakan pentingnya deteksi dini dan dukungan pada masa remaja untuk mencegah beban yang lebih berat di kemudian hari."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana Riskesdas 2007 dan Riskesdas 2018 mencerminkan perubahan prevalensi?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Riskesdas 2007",
+        "Riskesdas 2018"
+      ],
+      "golden_answer": "Riskesdas 2007 melaporkan prevalensi 11,6%, sementara Riskesdas 2018 menunjukkan 9,8%, menggambarkan fluktuasi angka gangguan mental emosional dari waktu ke waktu di Indonesia."
+    },
+    {
+      "id": null,
+      "query": "Mengapa prevalensi pada Perempuan lebih tinggi dibanding Laki-laki?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Perempuan",
+        "Laki-laki"
+      ],
+      "golden_answer": "Data Riskesdas 2018 menunjukkan prevalensi 12,1% pada perempuan dan 7,6% pada laki-laki, kemungkinan karena perempuan lebih mungkin melaporkan gejala atau menghadapi tekanan sosial dan hormonal yang berbeda."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana beban gangguan jiwa dapat memengaruhi Produktifitas?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Beban Gangguan Jiwa",
+        "Produktifitas"
+      ],
+      "golden_answer": "Beban gangguan jiwa sering tidak mematikan langsung, tetapi dapat mengganggu keseharian dan menurunkan produktifitas, baik di sekolah, pekerjaan, maupun aktivitas sosial."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana Rencana Strategis Kementerian Kesehatan 2020 - 2024 mendukung target layanan?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Rencana Strategis Kementerian Kesehatan 2020 - 2024",
+        "Target Penderita Gangguan Mental Emosional > 15 Tahun Mendapat Layanan (2024)"
+      ],
+      "golden_answer": "Rencana Strategis 2020–2024 menetapkan target 50% penderita gangguan mental emosional >15 tahun mendapat layanan, dengan program dan indikator kinerja yang terukur untuk memastikan pencapaian target tersebut."
+    },
+    {
+      "id": null,
+      "query": "Mengapa Dinas Kesehatan Kabupaten/Kota penting untuk Surveilans Gangguan Mental Emosional?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Dinas Kesehatan Kabupaten/Kota",
+        "Surveilans Gangguan Mental Emosional"
+      ],
+      "golden_answer": "Dinas Kesehatan Kabupaten/Kota melakukan rekapitulasi data dari Puskesmas, sehingga menjadi garda terdepan dalam mengumpulkan dan melaporkan temuan surveilans gangguan mental emosional ke tingkat provinsi."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana Puskesmas berperan dalam upaya promotif dan preventif gangguan mental emosional?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Puskesmas",
+        "Pencegahan dan Pengendalian Gangguan Mental Emosional"
+      ],
+      "golden_answer": "Puskesmas melatih tenaga kesehatan dan masyarakat untuk promosi kesehatan jiwa, melakukan deteksi dini, serta menjalankan kegiatan preventif untuk menurunkan risiko gangguan mental emosional di wilayahnya."
+    },
+    {
+      "id": null,
+      "query": "Apa hubungan antara Undang-Undang nomor 36 tahun 2009 dan Kesehatan Jiwa?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Undang-Undang nomor 36 tahun 2009",
+        "Kesehatan Jiwa"
+      ],
+      "golden_answer": "Undang-Undang nomor 36/2009 mengatur kesehatan secara umum, termasuk mendasari kebijakan dan standar pelayanan yang juga mencakup upaya pencegahan dan pengendalian gangguan mental emosional."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana Self Reporting Questionnaire (SRQ) bekerja dalam Survei Kesehatan Jiwa Penduduk Indonesia?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Self Reporting Questionnaire (SRQ)",
+        "Survei Kesehatan Jiwa Penduduk Indonesia"
+      ],
+      "golden_answer": "SRQ adalah alat tanya jawab mandiri yang digunakan dalam Survei Kesehatan Jiwa Penduduk Indonesia untuk mengidentifikasi gejala gangguan mental emosional secara cepat dan sistematis."
+    },
+    {
+      "id": null,
+      "query": "Mengapa Balitbangkes, 2014 mendukung penggunaan istilah gangguan mental emosional dalam SKRT 1995?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Balitbangkes, 2014",
+        "SKRT 1995"
+      ],
+      "golden_answer": "Balitbangkes, 2014 menegaskan penggunaan istilah gangguan mental emosional agar konsisten dengan Survei Kesehatan Rumah Tangga 1995 (SKRT 1995), sehingga data historis dapat dibandingkan secara akurat."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana Abbo et al, 2008 dan Gelaye et al, 2012 berbeda dalam istilah gangguan mental?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Abbo et al, 2008",
+        "Gelaye et al, 2012"
+      ],
+      "golden_answer": "Abbo et al, 2008 menggunakan istilah \"distress psikologik\", sementara Gelaye et al, 2012 memilih istilah \"mental distress\"; keduanya merujuk pada gangguan mental emosional dalam konteks survei internasional."
+    },
+    {
+      "id": null,
+      "query": "Mengapa Undang-Undang Dasar Negara RI tahun 1945 penting dalam upaya kesehatan jiwa?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Undang-Undang Dasar Negara RI tahun 1945",
+        "Undang-Undang No. 18 tahun 2014"
+      ],
+      "golden_answer": "Undang-Undang Dasar 1945 memberikan landasan konstitusional bagi pembentukan undang-undang spesifik seperti UU No. 18/2014, yang secara resmi mengatur upaya promotif, preventif, kuratif, dan rehabilitatif kesehatan jiwa di Indonesia."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Gangguan Mental Emosional (GME)?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Gangguan Mental Emosional (GME)",
+        "daya nilai realita"
+      ],
+      "golden_answer": "Saya mengerti pertanyaan ini mungkin penting bagi Anda. GME adalah tekanan emosional atau masalah kesehatan jiwa yang memengaruhi pikiran, perasaan, dan perilaku tanpa mengganggu kemampuan menilai realitas (daya nilai realita). Kondisi ini belum menimbulkan disfungsi berat dalam pekerjaan atau kehidupan sehari-hari."
+    },
+    {
+      "id": null,
+      "query": "Apa fungsi SRQ 20 dalam deteksi GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "SRQ 20",
+        "WHO"
+      ],
+      "golden_answer": "Saya paham ini bisa membingungkan. SRQ 20 adalah kuesioner skrining berisi 20 pertanyaan yang digunakan untuk mendeteksi kemungkinan GME pada usia di atas 18 tahun. Alat ini dikembangkan oleh WHO dan dianggap murah, mudah, serta efektif untuk identifikasi dini gejala seperti depresi, ansietas, somatik, kognitif, dan penurunan energi."
+    },
+    {
+      "id": null,
+      "query": "Apa itu SDQ dalam konteks GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "SDQ",
+        "Domain Masalah emosi SDQ"
+      ],
+      "golden_answer": "Saya paham Anda ingin tahu lebih lanjut. SDQ (Strength and Difficulties Questionnaire) adalah alat deteksi dini untuk GME pada usia 15–18 tahun. Ia terdiri dari 25 pernyataan dalam lima domain, termasuk Domain Masalah emosi SDQ, untuk menilai kesulitan dan kekuatan emosi serta perilaku."
+    },
+    {
+      "id": null,
+      "query": "Apa yang dimaksud dengan promosi kesehatan dalam layanan GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "promosi kesehatan",
+        "GME"
+      ],
+      "golden_answer": "Promosi kesehatan pada GME adalah upaya edukasi dan peningkatan kesadaran agar seseorang memahami tekanan emosional atau masalah kesehatan jiwa ini. Tujuannya membantu pencegahan, deteksi dini, dan mendukung individu agar dapat menjalani aktivitas sehari-hari dengan lebih baik."
+    },
+    {
+      "id": null,
+      "query": "Apa yang termasuk dalam layanan konseling untuk GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "konseling",
+        "Gangguan Mental Emosional (GME)"
+      ],
+      "golden_answer": "Saya mengerti Anda mungkin butuh kejelasan. Konseling untuk GME adalah diskusi dan bimbingan oleh tenaga terlatih untuk membantu individu mengenali dan mengelola tekanan emosional. Ini termasuk strategi pendukung agar perasaan dan perilaku dapat lebih terkontrol."
+    },
+    {
+      "id": null,
+      "query": "Apa arti ambang atau borderline dalam hasil SDQ?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "ambang/borderline",
+        "SDQ"
+      ],
+      "golden_answer": "Ambang atau borderline pada SDQ menandakan potensi masalah emosi atau perilaku yang perlu diperhatikan lebih lanjut. Hasil ini berarti remaja mungkin mengalami kesulitan ringan hingga sedang dan disarankan untuk pemeriksaan lanjutan atau pemantauan lebih intensif."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Indikator Kinerja Kegiatan (IKK) terkait GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Indikator Kinerja Kegiatan (IKK)",
+        "Target capaian IKK terkait GME"
+      ],
+      "golden_answer": "IKK untuk GME adalah persentase penderita berusia di atas 15 tahun yang mendapatkan layanan kesehatan jiwa dalam satu tahun. Targetnya disesuaikan dengan Renstra Kemenkes 2020-2024, misalnya 20% pada tahun 2021 untuk membantu monitoring capaian program."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Riskesdas dalam program kesehatan mental?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Riskesdas",
+        "Angka prevalensi Riskesdas"
+      ],
+      "golden_answer": "Riskesdas adalah Riset Kesehatan Dasar yang menjadi sumber data prevalensi GME. Angka prevalensi Riskesdas digunakan untuk memperkirakan jumlah penderita GME di wilayah tertentu sehingga dapat ditetapkan target layanan yang tepat."
+    },
+    {
+      "id": null,
+      "query": "Apa yang dimaksud Numerator IKK?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Numerator IKK",
+        "Denominator IKK"
+      ],
+      "golden_answer": "Numerator IKK adalah jumlah penderita GME berusia >15 tahun yang telah menerima layanan kesehatan jiwa dalam satu tahun. Angka ini akan dibandingkan dengan Denominator IKK untuk mendapatkan persentase capaian layanan."
+    },
+    {
+      "id": null,
+      "query": "Apa arti deteksi dini GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "deteksi dini GME",
+        "SDQ"
+      ],
+      "golden_answer": "Deteksi dini GME adalah proses penemuan kasus melalui skrining menggunakan SDQ (untuk usia 15–18 tahun) atau SRQ 20 (untuk >18 tahun), baik di fasilitas dalam maupun luar gedung Puskesmas, oleh tenaga kesehatan atau non-kesehatan terlatih."
+    },
+    {
+      "id": null,
+      "query": "Apa yang dimaksud rujukan dalam penanganan GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "rujukan",
+        "penanganan lanjutan"
+      ],
+      "golden_answer": "Rujukan adalah proses mengarahkan penderita GME dari fasilitas awal (misalnya Puskesmas) ke fasilitas lain yang lebih sesuai untuk penanganan lanjutan. Hal ini memastikan intervensi lebih mendalam jika dibutuhkan."
+    },
+    {
+      "id": null,
+      "query": "Apa itu penanganan awal pada penderita GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "penanganan awal",
+        "penanganan lanjutan"
+      ],
+      "golden_answer": "Penanganan awal adalah intervensi cepat yang diberikan setelah identifikasi GME, misalnya memberikan dukungan psikologis dasar di FKTP. Bila diperlukan, dilanjutkan ke penanganan lanjutan di fasilitas yang lebih lengkap."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Pedoman Tata Kelola Penyelenggaraan Upaya Kesehatan Jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pedoman Tata Kelola Penyelenggaraan Upaya Kesehatan Jiwa"
+      ],
+      "golden_answer": "Pedoman ini adalah dokumen rujukan Kemenkes RI tahun 2021 yang mengatur tata kelola layanan kesehatan jiwa, termasuk definisi operasional penderita GME dan jenis layanan yang harus disediakan."
+    },
+    {
+      "id": null,
+      "query": "Apa peran Dinas Kesehatan Kab/Kota dalam program GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Dinas Kesehatan Kab/Kota",
+        "Pusdatin Kemenkes"
+      ],
+      "golden_answer": "Dinas Kesehatan Kab/Kota menetapkan sasaran jumlah penderita GME berdasarkan data Pusdatin Kemenkes dan BPS, menentukan target tahunan sesuai Renstra, lalu mendistribusikan target ini ke Puskesmas untuk implementasi layanan."
+    },
+    {
+      "id": null,
+      "query": "Siapa itu non tenaga kesehatan terlatih dalam skrining GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "non tenaga kesehatan terlatih",
+        "deteksi dini GME"
+      ],
+      "golden_answer": "Non tenaga kesehatan terlatih adalah individu yang bukan tenaga medis profesional tetapi telah dilatih melakukan deteksi dini GME (SDQ atau SRQ 20) di bawah supervisi tenaga kesehatan."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana SRQ 20 membantu deteksi dini GME?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "SRQ 20",
+        "deteksi dini GME"
+      ],
+      "golden_answer": "SRQ 20 menyediakan 20 pertanyaan tentang gejala emosional, somatik, kognitif, dan energi. Jawaban “ya” pada ≥6 pertanyaan mengindikasikan kasus GME, sehingga mendorong promosi kesehatan dan rujukan untuk pemeriksaan lanjutan."
+    },
+    {
+      "id": null,
+      "query": "Apa perbedaan antara SDQ dan SRQ 20 dalam penggunaan usia?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "SDQ",
+        "SRQ 20"
+      ],
+      "golden_answer": "SDQ digunakan untuk deteksi dini GME pada usia 15–18 tahun dengan hasil ambang atau abnormal, sedangkan SRQ 20 dipakai untuk usia >18 tahun dengan cut-off >6 jawaban “ya”."
+    },
+    {
+      "id": null,
+      "query": "Mengapa IKK penting untuk pemantauan layanan GME?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Indikator Kinerja Kegiatan (IKK)",
+        "Gangguan Mental Emosional (GME)"
+      ],
+      "golden_answer": "IKK membantu memantau berapa banyak penderita GME >15 tahun yang mendapatkan layanan tiap tahun. Data ini berguna untuk menilai efektivitas program, meningkatkan akses layanan, dan menurunkan stigma."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana cara menghitung persentase penderita GME yang mendapatkan layanan?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Numerator IKK",
+        "Denominator IKK"
+      ],
+      "golden_answer": "Persentase dihitung dengan membagi Numerator IKK (jumlah penderita GME yang mendapat layanan) dengan Denominator IKK (jumlah perkiraan penderita berdasarkan prevalensi Riskesdas) lalu dikali 100%."
+    },
+    {
+      "id": null,
+      "query": "Mengapa prevalensi Riskesdas diperlukan dalam perhitungan IKK?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Angka prevalensi Riskesdas",
+        "Denominator IKK"
+      ],
+      "golden_answer": "Angka prevalensi Riskesdas digunakan untuk memperkirakan total penderita GME (>15 tahun) di wilayah tertentu. Ini menjadi Denominator IKK agar persentase layanan mencerminkan kondisi yang sebenarnya."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana Puskesmas melakukan skrining GME di fasilitas dalam gedung?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "layanan di dalam gedung Puskesmas",
+        "deteksi dini GME"
+      ],
+      "golden_answer": "Di dalam gedung Puskesmas, deteksi dini GME dilakukan melalui SDQ atau SRQ 20 saat pasien datang untuk layanan umum, penyakit kronis, kesehatan ibu, PKPR, dan lain-lain."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana SDQ mengukur masalah perilaku pada remaja?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Domain Masalah perilaku SDQ",
+        "skor kesulitan SDQ"
+      ],
+      "golden_answer": "SDQ mengelompokkan lima pernyataan dalam Domain Masalah perilaku. Skor tiap pernyataan dijumlahkan bersama domain lain untuk membentuk skor kesulitan SDQ yang menentukan klasifikasi normal, ambang, atau abnormal."
+    },
+    {
+      "id": null,
+      "query": "Apa hubungan gejala somatik dengan instrumen SRQ 20?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "gejala somatik",
+        "SRQ 20"
+      ],
+      "golden_answer": "SRQ 20 mencakup pertanyaan tentang gejala somatik seperti sakit kepala atau gangguan pencernaan. Jawaban pada item-item ini membantu mengidentifikasi kemungkinan GME dengan komponen fisik."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana proses penanganan lanjutan setelah rujukan?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "rujukan",
+        "penanganan lanjutan"
+      ],
+      "golden_answer": "Setelah rujukan, penderita GME akan menerima intervensi medis atau psikologis lebih mendalam di fasilitas yang lebih lengkap, sesuai kebutuhan kondisi mereka."
+    },
+    {
+      "id": null,
+      "query": "Mengapa setiap tahun ditetapkan target capaian IKK terkait GME?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Target capaian IKK terkait GME",
+        "Renstra Kementerian Kesehatan 2020-2024"
+      ],
+      "golden_answer": "Target capaian IKK tiap tahun (10%-50%) mengacu pada Renstra Kemenkes 2020-2024. Tujuannya memotivasi pemda agar secara bertahap meningkatkan akses dan pelayanan GME."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana Dinas Kesehatan Kab/Kota menetapkan target sasaran GME?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Dinas Kesehatan Kab/Kota",
+        "sasaran penduduk usia > 15 tahun"
+      ],
+      "golden_answer": "Dinas menentukan sasaran berdasarkan data sasaran penduduk usia >15 tahun dari Pusdatin Kemenkes dan proyeksi BPS, lalu mengalikan dengan target IKK tahunan untuk memperoleh jumlah penderita yang harus terlayani."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana SDQ dapat digunakan di luar gedung Puskesmas seperti sekolah?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "SDQ",
+        "layanan luar gedung Puskesmas"
+      ],
+      "golden_answer": "SDQ bisa diisi sendiri atau melalui wawancara oleh tenaga terlatih di sekolah (layanan luar gedung), seperti SMP/SMA, perguruan tinggi, atau panti sosial, untuk deteksi dini GME."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana kelompok berisiko GME di lembaga rehabilitasi Napza ditangani?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "kelompok berisiko GME",
+        "Klien/pasien di lembaga rehabilitasi penyalahgunaan Napza"
+      ],
+      "golden_answer": "Klien di lembaga rehabilitasi Napza termasuk kelompok berisiko GME. Mereka menjalani skrining SDQ atau SRQ 20, lalu menerima layanan promosi kesehatan, konseling, atau rujukan sesuai hasil deteksi."
+    },
+    {
+      "id": null,
+      "query": "Apa peran Badan Pusat Statistik dalam program GME?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Badan Pusat Statistik (BPS)",
+        "Pusdatin Kemenkes"
+      ],
+      "golden_answer": "BPS menyediakan proyeksi data penduduk usia >15 tahun, yang digunakan Pusdatin Kemenkes untuk menghitung sasaran dan estimasi jumlah penderita GME di tiap wilayah."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana rumus perhitungan indikator GME dirumuskan?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Numerator IKK",
+        "Denominator IKK"
+      ],
+      "golden_answer": "Rumusnya adalah (Numerator IKK ÷ Denominator IKK)×100%. Numerator adalah jumlah penderita GME yang mendapat layanan, Denominator adalah estimasi total penderita berdasarkan prevalensi Riskesdas."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana SRQ 20 menentukan seseorang sebagai kasus GME?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "SRQ 20",
+        "abnormal"
+      ],
+      "golden_answer": "Jika responden menjawab “ya” pada 6 pertanyaan atau lebih di SRQ 20, maka mereka dikategorikan abnormal, yang mengindikasikan kasus GME dan mendorong tindakan lanjutan."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana SDQ memutuskan ambang kasus GME?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "SDQ",
+        "ambang/borderline"
+      ],
+      "golden_answer": "SDQ menghitung skor total kesulitan. Jika skor masuk kategori ambang/borderline (usia 11–18 tahun skor 16–19), maka remaja berpotensi mengalami masalah emosi dan perilaku sehingga perlu pemeriksaan lanjutan."
+    },
+    {
+      "id": null,
+      "query": "Apa kaitannya stigma dengan Indikator Kinerja Kegiatan GME?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "stigma terhadap masalah kesehatan jiwa dan gangguan jiwa",
+        "Indikator Kinerja Kegiatan (IKK)"
+      ],
+      "golden_answer": "Salah satu tujuan IKK adalah menurunkan stigma. Dengan semakin banyak penderita GME yang mendapat layanan, diharapkan kesadaran masyarakat meningkat dan stigma berkurang."
+    },
+    {
+      "id": null,
+      "query": "Mengapa promosi kesehatan menjadi bagian penting dari layanan GME?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "promosi kesehatan",
+        "Gangguan Mental Emosional (GME)"
+      ],
+      "golden_answer": "Promosi kesehatan membantu meningkatkan pengetahuan dan kesadaran masyarakat tentang GME, sehingga deteksi dini lebih cepat dan akses layanan meningkat."
+    },
+    {
+      "id": null,
+      "query": "Apa arti abnormal pada hasil SDQ?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "abnormal",
+        "SDQ"
+      ],
+      "golden_answer": "Abnormal pada SDQ menunjukkan skor kesulitan tinggi (20–40 untuk usia 11–18 tahun), yang berarti ada 'kasus' GME dan perlu pemeriksaan lanjutan."
+    },
+    {
+      "id": null,
+      "query": "Apa arti normal pada interpretasi skor SDQ?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "normal",
+        "SDQ"
+      ],
+      "golden_answer": "Normal pada SDQ berarti skor kesulitan berada di rentang 0–15 (usia 11–18 tahun), menandakan tidak ada masalah emosi atau perilaku yang signifikan."
+    },
+    {
+      "id": null,
+      "query": "Apa itu gejala ansietas dalam konteks SRQ 20?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "gejala ansietas",
+        "SRQ 20"
+      ],
+      "golden_answer": "Gejala ansietas pada SRQ 20 meliputi perasaan tegang, cemas, atau kuatir. Jika pertanyaan terkait ansietas dijawab 'ya' sebanyak beberapa kali, ini mengindikasikan potensi GME."
+    },
+    {
+      "id": null,
+      "query": "Apa yang dimaksud gejala penurunan energi menurut SRQ 20?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "gejala penurunan energi",
+        "SRQ 20"
+      ],
+      "golden_answer": "Gejala penurunan energi ditanyakan di SRQ 20 sebagai rasa lelah berkepanjangan atau kehilangan motivasi, yang jika cukup banyak dijawab 'ya' dapat menunjukkan kasus GME."
+    },
+    {
+      "id": null,
+      "query": "Apa itu wawancara psikiatrik dalam penanganan GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "wawancara psikiatrik",
+        "tata laksana multidisiplin"
+      ],
+      "golden_answer": "Wawancara psikiatrik adalah pemeriksaan lanjutan oleh tim multidisiplin untuk memastikan diagnosis gangguan jiwa. Hasilnya menentukan rencana tata laksana multidisiplin yang sesuai."
+    },
+    {
+      "id": null,
+      "query": "Apa arti diagnosis gangguan jiwa dalam program kesehatan mental?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "diagnosis gangguan jiwa",
+        "wawancara psikiatrik"
+      ],
+      "golden_answer": "Diagnosis gangguan jiwa adalah penetapan kondisi kesehatan jiwa setelah wawancara psikiatrik. Ini menjadi dasar untuk tata laksana multidisiplin sesuai diagnosis tersebut."
+    },
+    {
+      "id": "1",
+      "query": "Apa itu Kesehatan Jiwa Masyarakat?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Kesehatan Jiwa Masyarakat"
+      ],
+      "golden_answer": "Kesehatan jiwa masyarakat adalah kondisi optimal kesehatan jiwa individu serta lingkungan di sekitarnya yang mendukung fungsi emosional dan sosial dengan baik."
+    },
+    {
+      "id": "2",
+      "query": "Saya sering mendengar istilah Stigma, apa maksudnya?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Stigma"
+      ],
+      "golden_answer": "Stigma adalah pandangan negatif atau label sosial yang bisa membuat seseorang merasa terasing atau takut mencari bantuan ketika mengalami masalah kesehatan jiwa."
+    },
+    {
+      "id": "3",
+      "query": "Bisakah Anda jelaskan Diskriminasi dalam konteks kesehatan jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Diskriminasi"
+      ],
+      "golden_answer": "Diskriminasi adalah perlakuan tidak adil terhadap seseorang atau kelompok karena kondisi kesehatan jiwa, yang bisa menghambat akses mereka ke layanan dan dukungan yang dibutuhkan."
+    },
+    {
+      "id": "4",
+      "query": "Apa yang dimaksud Gangguan Mental dan Emosional (GME)?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Gangguan Mental dan Emosional (GME)"
+      ],
+      "golden_answer": "GME adalah kondisi di mana seseorang mengalami gejala emosional dan mental yang mengganggu fungsi sehari-hari, seperti kecemasan berlebihan atau perubahan suasana hati yang ekstrem."
+    },
+    {
+      "id": "5",
+      "query": "Apa peran Keluarga dalam promosi kesehatan jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Keluarga",
+        "Materi Komunikasi, Informasi dan Edukasi (KIE)"
+      ],
+      "golden_answer": "Keluarga membantu menjaga kesehatan jiwa melalui komunikasi efektif, penyediaan suasana aman, serta menggunakan materi KIE untuk meningkatkan pemahaman dan dukungan."
+    },
+    {
+      "id": "6",
+      "query": "Bagaimana Lingkungan Pendidikan membantu mencegah GME?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Lingkungan Pendidikan",
+        "Gangguan Mental dan Emosional (GME)"
+      ],
+      "golden_answer": "Lingkungan pendidikan yang sehat menyediakan edukasi dan deteksi dini GME melalui penyuluhan, KIE, dan kerja sama dengan guru agar gejala dapat dikenali lebih awal."
+    },
+    {
+      "id": "7",
+      "query": "Apa itu Pelayanan Berbasis Komunitas dan manfaatnya?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pelayanan Berbasis Komunitas"
+      ],
+      "golden_answer": "Pelayanan berbasis komunitas adalah pendekatan yang memfokuskan dukungan kesehatan jiwa di lingkungan tempat tinggal, sehingga lebih dekat dan mudah diakses oleh masyarakat."
+    },
+    {
+      "id": "8",
+      "query": "Mengapa Pelayanan Primer penting dalam promosi kesehatan jiwa?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Pelayanan Primer",
+        "Kesehatan Jiwa Masyarakat"
+      ],
+      "golden_answer": "Pelayanan primer berperan sebagai pintu masuk deteksi dini GME dan promosi kesehatan jiwa sehingga masyarakat bisa mendapatkan informasi dan dukungan sejak tahap awal."
+    },
+    {
+      "id": "9",
+      "query": "Bagaimana Kesehatan Digital dapat mendukung promosi kesehatan jiwa?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Kesehatan Digital",
+        "Pelayanan Berbasis Komunitas"
+      ],
+      "golden_answer": "Kesehatan digital memperluas jangkauan edukasi dan pemantauan, memudahkan akses materi KIE, serta mendukung komunitas untuk tetap terhubung dengan tenaga kesehatan."
+    },
+    {
+      "id": "10",
+      "query": "Apa yang dimaksud Sistem Inovasi dalam konteks promosi kesehatan jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Sistem Inovasi"
+      ],
+      "golden_answer": "Sistem inovasi mendorong pengembangan ide dan solusi baru, seperti aplikasi edukasi jiwa atau platform komunitas, untuk meningkatkan efektivitas promosi kesehatan jiwa."
+    },
+    {
+      "id": "11",
+      "query": "Kenapa Kolaborasi Multiprofesi dibutuhkan dalam upaya promotif GME?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Kolaborasi Multiprofesi",
+        "Koordinasi Lintas Program dan Sektor"
+      ],
+      "golden_answer": "Kolaborasi multiprofesi dan koordinasi lintas sektor memastikan pendekatan holistik, memadukan keahlian dokter, psikolog, perawat, dan pekerja sosial demi dukungan yang menyeluruh."
+    },
+    {
+      "id": "12",
+      "query": "Bagaimana Koordinasi Lintas Program dan Sektor dapat memperkuat promosi kesehatan jiwa?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Koordinasi Lintas Program dan Sektor",
+        "Kesehatan Jiwa Masyarakat"
+      ],
+      "golden_answer": "Dengan koordinasi lintas program, kebijakan, sumber daya, dan informasi bisa terintegrasi, sehingga intervensi kesehatan jiwa di masyarakat lebih efektif dan berkelanjutan."
+    },
+    {
+      "id": "13",
+      "query": "Apa itu Faktor Protektif?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Faktor Protektif"
+      ],
+      "golden_answer": "Faktor protektif adalah elemen biologis, psikologis, dan sosial yang membantu individu lebih tahan terhadap stres dan risiko GME."
+    },
+    {
+      "id": "14",
+      "query": "Apa saja Faktor Biologi Pelindung untuk kesehatan jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Faktor Biologi (Pelindung)"
+      ],
+      "golden_answer": "Faktor biologi pelindung termasuk genetik yang sehat, nutrisi seimbang, dan fungsi kognitif optimal yang mendukung ketahanan mental."
+    },
+    {
+      "id": "15",
+      "query": "Apa itu Faktor Psikologi Pelindung?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Faktor Psikologi (Pelindung)"
+      ],
+      "golden_answer": "Faktor psikologi pelindung meliputi regulasi emosi baik, resiliensi yang kuat, dan konsep diri positif yang memudahkan pengelolaan stres."
+    },
+    {
+      "id": "16",
+      "query": "Jelaskan Faktor Sosial Pelindung bagi kesehatan jiwa.",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Faktor Sosial (Pelindung)"
+      ],
+      "golden_answer": "Faktor sosial pelindung meliputi dukungan keluarga, jaringan teman yang suportif, dan komunitas yang kohesif yang membantu mencegah GME."
+    },
+    {
+      "id": "17",
+      "query": "Apa kegunaan Materi KIE dalam promosi kesehatan jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Materi Komunikasi, Informasi dan Edukasi (KIE)"
+      ],
+      "golden_answer": "Materi KIE menyediakan informasi ringkas dan mudah dipahami tentang kesehatan jiwa, membantu masyarakat mengenali gejala dan mencari dukungan lebih awal."
+    },
+    {
+      "id": "18",
+      "query": "Siapa saja Lembaga Terkait Penemuan Kasus GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Lembaga Terkait Penemuan Kasus"
+      ],
+      "golden_answer": "Lembaga terkait meliputi sekolah, panti sosial, fasyankes, serta instansi kelurahan atau RW/RT yang berperan mendeteksi kasus GME di komunitas."
+    },
+    {
+      "id": "19",
+      "query": "Bagaimana Sekolah berperan dalam penemuan kasus GME?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Sekolah",
+        "Gangguan Mental dan Emosional (GME)"
+      ],
+      "golden_answer": "Sekolah membantu melalui skrining sederhana, penyuluhan KIE, dan kerja sama dengan puskesmas agar siswa yang menunjukkan gejala GME dapat diarahkan ke layanan lebih lanjut."
+    },
+    {
+      "id": "20",
+      "query": "Apa peran Dinas Kesehatan (Dinkes) dalam promosi kesehatan jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Dinas Kesehatan (Dinkes)"
+      ],
+      "golden_answer": "Dinkes memimpin pelaksanaan kebijakan promosi dan pencegahan GME, menyediakan pelatihan, materi KIE, serta memantau dan melaporkan kegiatan di lapangan."
+    },
+    {
+      "id": "21",
+      "query": "Mengapa Organisasi Profesi penting dalam promosi kesehatan jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Organisasi Profesi"
+      ],
+      "golden_answer": "Organisasi profesi menyediakan standar praktik, pelatihan, dan dukungan keahlian bagi tenaga kesehatan dan masyarakat dalam promosi kesehatan jiwa."
+    },
+    {
+      "id": "22",
+      "query": "Bagaimana Anggota Masyarakat yang Dilatih membantu program kesehatan jiwa?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Anggota Masyarakat yang Dilatih",
+        "Puskesmas"
+      ],
+      "golden_answer": "Anggota masyarakat yang dilatih membantu penyebaran informasi KIE, mendeteksi tanda awal GME, dan memotivasi rujukan ke layanan kesehatan yang sesuai."
+    },
+    {
+      "id": "23",
+      "query": "Apa fungsi SRQ-20 dalam deteksi dini GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "SRQ-20"
+      ],
+      "golden_answer": "SRQ-20 adalah alat ukur skrining yang membantu tenaga kesehatan atau kader mengidentifikasi gejala GME secara sederhana dan cepat."
+    },
+    {
+      "id": "24",
+      "query": "Siapa Tenaga Lain yang Dilatih dalam program deteksi dini GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Tenaga Lain yang Dilatih"
+      ],
+      "golden_answer": "Tenaga lain yang dilatih bisa meliputi kader, guru, atau pekerja sosial yang dibekali keterampilan menganalisis hasil SRQ-20 dan SDQ."
+    },
+    {
+      "id": "25",
+      "query": "Siapa Pemangku Kepentingan di Daerah dalam kesehatan jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pemangku Kepentingan di Daerah"
+      ],
+      "golden_answer": "Pemangku kepentingan meliputi pemerintah daerah, organisasi profesi, organisasi sosial kemasyarakatan, dan pihak swasta yang bersama-sama mendukung GME."
+    },
+    {
+      "id": "26",
+      "query": "Jelaskan peran Unsur Pemerintah dalam upaya kesehatan jiwa.",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Unsur Pemerintah"
+      ],
+      "golden_answer": "Unsur pemerintah menyediakan kebijakan, regulasi, dan sumber daya untuk mendukung pelaksanaan promosi dan pencegahan GME di semua level."
+    },
+    {
+      "id": "27",
+      "query": "Apa peran Dinas Sosial dalam penanganan GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Dinas Sosial"
+      ],
+      "golden_answer": "Dinas Sosial membantu aspek sosial penderita GME, melakukan advokasi hak, dan bermitra dengan puskesmas untuk pemberdayaan dan reintegrasi sosial."
+    },
+    {
+      "id": "28",
+      "query": "Bagaimana Dinas Pendidikan terlibat dalam promosi kesehatan jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Dinas Pendidikan"
+      ],
+      "golden_answer": "Dinas Pendidikan memfasilitasi program UKS, pelatihan konselor sebaya, dan integrasi materi KIE ke kurikulum untuk mencegah GME pada siswa."
+    },
+    {
+      "id": "29",
+      "query": "Apa fungsi Dinas Pemberdayaan Perempuan dan Perlindungan Anak (PPPA) dalam GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Dinas Pemberdayaan Perempuan dan Perlindungan Anak (PPPA)"
+      ],
+      "golden_answer": "Dinas PPPA melindungi kelompok rentan, mencegah kekerasan dan stigma, serta bekerja sama mencegah GME pada perempuan dan anak melalui edukasi dan advokasi."
+    },
+    {
+      "id": "30",
+      "query": "Mengapa BKKBN terlibat dalam promosi kesehatan jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "BKKBN"
+      ],
+      "golden_answer": "BKKBN mendukung keluarga berencana dan kesejahteraan psikologis, membantu menguatkan faktor protektif dalam keluarga untuk mencegah GME."
+    },
+    {
+      "id": "31",
+      "query": "Kenapa Kanwil Kumham perlu dilibatkan dalam upaya kesehatan jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Kanwil Kumham"
+      ],
+      "golden_answer": "Kanwil Kumham berperan di lembaga pemasyarakatan untuk promosi kesehatan jiwa, deteksi dini GME, dan rujukan warga binaan yang membutuhkan dukungan."
+    },
+    {
+      "id": "32",
+      "query": "Apa peran Kanwil Kemenag dalam promosi kesehatan jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Kanwil Kemenag"
+      ],
+      "golden_answer": "Kanwil Kemenag bisa memanfaatkan sarana keagamaan untuk kegiatan rohani yang memperkuat resiliensi dan dukungan sosial di masyarakat."
+    },
+    {
+      "id": "33",
+      "query": "Bagaimana Dinas Kominfo mendukung promosi kesehatan jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Dinas Kominfo"
+      ],
+      "golden_answer": "Dinas Kominfo memfasilitasi saluran informasi digital dan media sosial untuk menyebarluaskan materi KIE dan ajakan bebas stigma."
+    },
+    {
+      "id": "34",
+      "query": "Apa tugas Dinas Tenaga Kerja terkait kesehatan jiwa pekerja?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Dinas Tenaga Kerja"
+      ],
+      "golden_answer": "Dinas Tenaga Kerja memastikan kebijakan kesehatan jiwa di tempat kerja, pelatihan manajemen stres, dan kerja sama dengan fasyankes swasta."
+    },
+    {
+      "id": "35",
+      "query": "Apa itu IDI (Ikatan Dokter Indonesia)?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "IDI (Ikatan Dokter Indonesia)"
+      ],
+      "golden_answer": "IDI adalah organisasi profesi dokter yang mengatur standar praktik, pelatihan, dan advokasi kesehatan termasuk kesehatan jiwa."
+    },
+    {
+      "id": "36",
+      "query": "Apa itu PDSKJI?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "PDSKJI (Perhimpunan Dokter Spesialis Kedokteran Jiwa Indonesia)"
+      ],
+      "golden_answer": "PDSKJI adalah organisasi dokter spesialis jiwa di Indonesia yang menyusun pedoman klinis dan pelatihan penanganan GME."
+    },
+    {
+      "id": "37",
+      "query": "Apa fungsi PPNI dalam kesehatan jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "PPNI (Persatuan Perawat Nasional Indonesia)"
+      ],
+      "golden_answer": "PPNI memajukan standar keperawatan, termasuk asuhan jiwa, dan pelatihan tenaga perawat untuk deteksi dini GME."
+    },
+    {
+      "id": "38",
+      "query": "Jelaskan IPKJI.",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "IPKJI (Ikatan Perawat Kesehatan Jiwa Indonesia)"
+      ],
+      "golden_answer": "IPKJI mengembangkan kompetensi perawat jiwa melalui pelatihan, penelitian, dan praktik keperawatan psikososial."
+    },
+    {
+      "id": "39",
+      "query": "Apa peran HIMPSI?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "HIMPSI (Himpunan Psikologi Indonesia)"
+      ],
+      "golden_answer": "HIMPSI memajukan profesi psikolog, menyusun kode etik, dan menyelenggarakan pelatihan psikometri untuk deteksi GME."
+    },
+    {
+      "id": "40",
+      "query": "Apa fungsi IPK?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "IPK (Ikatan Psikolog Klinis)"
+      ],
+      "golden_answer": "IPK mengatur praktik psikolog klinis, pedoman tes psikologi, dan asuhan psikoterapi suportif."
+    },
+    {
+      "id": "41",
+      "query": "Apa peran IAKMI dalam promosi kesehatan jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "IAKMI (Ikatan Ahli Kesehatan Masyarakat Indonesia)"
+      ],
+      "golden_answer": "IAKMI meningkatkan kapasitas ahli kesehatan masyarakat untuk merancang intervensi promosi dan pencegahan GME di komunitas."
+    },
+    {
+      "id": "42",
+      "query": "Apa itu IPSPI?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "IPSPI (Ikatan Pekerja Sosial Profesional Indonesia)"
+      ],
+      "golden_answer": "IPSPI memberdayakan pekerja sosial dalam pendampingan keluarga dan komunitas untuk mengatasi faktor risiko sosial GME."
+    },
+    {
+      "id": "43",
+      "query": "Siapa IBI?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "IBI (Ikatan Bidan Indonesia)"
+      ],
+      "golden_answer": "IBI adalah organisasi bidan yang juga terlibat dalam deteksi dini dan edukasi kesehatan jiwa pada ibu hamil dan keluarga."
+    },
+    {
+      "id": "44",
+      "query": "Apa yang dimaksud Organisasi Sosial Kemasyarakatan?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Organisasi Sosial Kemasyarakatan"
+      ],
+      "golden_answer": "Organisasi sosial kemasyarakatan adalah kelompok berbasis komunitas seperti KPSI atau Bipolar Care yang peduli mendukung individu dengan GME."
+    },
+    {
+      "id": "45",
+      "query": "Siapa KPSI?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "KPSI (Komunitas Peduli Skizofrenia Indonesia)"
+      ],
+      "golden_answer": "KPSI adalah komunitas yang mendukung orang dengan skizofrenia melalui edukasi, advokasi, dan peer support."
+    },
+    {
+      "id": "46",
+      "query": "Siapa Bipolar Care Indonesia?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Bipolar Care Indonesia"
+      ],
+      "golden_answer": "Bipolar Care Indonesia mendampingi individu dengan bipolar disorder, menyediakan materi edukasi dan kelompok dukungan."
+    },
+    {
+      "id": "47",
+      "query": "Apa itu Into The Light?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Into The Light"
+      ],
+      "golden_answer": "Into The Light adalah organisasi sosial yang fokus pada pemulihan dan pemberdayaan orang dengan GME melalui kegiatan komunitas."
+    },
+    {
+      "id": "48",
+      "query": "Apa peran NU dalam kesehatan jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "NU (Nahdlatul Ulama)"
+      ],
+      "golden_answer": "NU menyediakan kegiatan rohani dan sosial yang menguatkan jaringan dukungan serta empati dalam komunitas."
+    },
+    {
+      "id": "49",
+      "query": "Apa fungsi Muhammadiyah dalam promosi kesehatan jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Muhammadiyah"
+      ],
+      "golden_answer": "Muhammadiyah menyelenggarakan seminar rohani dan program sosial yang membantu mencegah stigma dan memperkuat dukungan."
+    },
+    {
+      "id": "50",
+      "query": "Siapa Pihak Swasta dalam konteks kesehatan jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pihak Swasta"
+      ],
+      "golden_answer": "Pihak swasta mencakup lembaga dan perusahaan yang menyediakan layanan kesehatan jiwa karyawan dan mendukung program komunitas."
+    },
+    {
+      "id": "51",
+      "query": "Apa itu Fasyankes Swasta?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Fasyankes Swasta"
+      ],
+      "golden_answer": "Fasyankes swasta adalah fasilitas kesehatan milik swasta yang menyediakan layanan promotif, preventif, dan deteksi dini GME."
+    },
+    {
+      "id": "52",
+      "query": "Bagaimana Perusahaan Swasta terlibat dalam promosi kesehatan jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Perusahaan Swasta"
+      ],
+      "golden_answer": "Perusahaan swasta dapat mengadakan program manajemen stres, konseling, dan seminar kesehatan jiwa untuk karyawan."
+    },
+    {
+      "id": "53",
+      "query": "Apa tugas Pekerja Sosial dalam program P2 GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pekerja Sosial"
+      ],
+      "golden_answer": "Pekerja sosial membantu keluarga dan individu mengatasi faktor risiko sosial, memfasilitasi akses layanan, dan pendampingan komunitas."
+    },
+    {
+      "id": "54",
+      "query": "Apa itu Kader dalam promosi kesehatan jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Kader"
+      ],
+      "golden_answer": "Kader adalah anggota masyarakat terlatih yang menjadi perpanjangan tangan puskesmas untuk menyosialisasikan KIE dan deteksi dini GME."
+    },
+    {
+      "id": "55",
+      "query": "Apa karakteristik Remaja dalam konteks kesehatan jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Remaja"
+      ],
+      "golden_answer": "Remaja mengalami perubahan fisiologis, kognitif, dan sosial yang membutuhkan stimulasi dan dukungan hidup sehat untuk mencegah GME."
+    },
+    {
+      "id": "56",
+      "query": "Jelaskan kelompok usia Dewasa dan tantangannya.",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Dewasa"
+      ],
+      "golden_answer": "Dewasa menghadapi tantangan karir, hubungan, dan tanggung jawab keluarga, sehingga membutuhkan manajemen stres dan keterampilan hidup."
+    },
+    {
+      "id": "57",
+      "query": "Siapa Lansia dan apa kebutuhannya?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Lansia"
+      ],
+      "golden_answer": "Lansia adalah kelompok usia lanjut yang membutuhkan kegiatan rohani, sosial, dan pemeriksaan berkala untuk menjaga semangat hidup dan kesehatan jiwa."
+    },
+    {
+      "id": "58",
+      "query": "Apa arti ODGJ?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Orang Dengan Gangguan Jiwa (ODGJ)"
+      ],
+      "golden_answer": "ODGJ adalah individu yang telah didiagnosis mengalami gangguan jiwa dan memerlukan dukungan kesehatan serta sosial."
+    },
+    {
+      "id": "59",
+      "query": "Apa yang dimaksud Manajemen Stres?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Manajemen Stres"
+      ],
+      "golden_answer": "Manajemen stres mencakup teknik relaksasi, olahraga, dan strategi coping untuk mengurangi ketegangan dan mencegah GME."
+    },
+    {
+      "id": "60",
+      "query": "Apa itu Keterampilan Pemecahan Masalah?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Keterampilan Pemecahan Masalah"
+      ],
+      "golden_answer": "Keterampilan pemecahan masalah membantu seseorang mengenali tantangan, merencanakan solusi, dan mengambil keputusan yang efektif."
+    },
+    {
+      "id": "61",
+      "query": "Bagaimana Penyuluhan Kesehatan Jiwa dilakukan di masyarakat?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Penyuluhan Kesehatan Jiwa"
+      ],
+      "golden_answer": "Penyuluhan dilakukan oleh tenaga kesehatan atau kader dengan materi KIE, diskusi, dan lokakarya untuk meningkatkan kesadaran jiwa."
+    },
+    {
+      "id": "62",
+      "query": "Apa peran Dokter dalam promosi kesehatan jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Dokter"
+      ],
+      "golden_answer": "Dokter memberikan edukasi dasar, deteksi dini gejala GME, dan rujukan ke layanan lanjutan jika diperlukan."
+    },
+    {
+      "id": "63",
+      "query": "Bagaimana Perawat turut serta dalam upaya promotif GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Perawat"
+      ],
+      "golden_answer": "Perawat membantu penyuluhan, pemantauan, dan pendampingan individu berisiko, serta melaporkan perkembangan ke tim kesehatan."
+    },
+    {
+      "id": "64",
+      "query": "Siapa Psikolog Klinis dan apa tugasnya?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Psikolog Klinis"
+      ],
+      "golden_answer": "Psikolog klinis melakukan asesmen psikologis, konseling, dan psikoter api untuk mendukung individu dengan GME."
+    },
+    {
+      "id": "65",
+      "query": "Apa tugas Tenaga Kesmas?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Tenaga Kesmas"
+      ],
+      "golden_answer": "Tenaga kesmas merancang program promosi kesehatan jiwa, melakukan pelatihan, dan evaluasi kegiatan di tingkat komunitas."
+    },
+    {
+      "id": "66",
+      "query": "Siapa Guru/Tenaga Pendidik dalam konteks promosi jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Guru/Tenaga Pendidik"
+      ],
+      "golden_answer": "Guru atau tenaga pendidik menyampaikan materi KIE, mengidentifikasi siswa berisiko, dan bekerja sama dengan puskesmas."
+    },
+    {
+      "id": "67",
+      "query": "Apa itu Desa/Kelurahan Siaga Sehat Jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Desa/Kelurahan Siaga Sehat Jiwa"
+      ],
+      "golden_answer": "Model komunitas siap siaga yang mengidentifikasi dan mengatasi risiko GME melalui jejaring kader dan tenaga kesehatan lokal."
+    },
+    {
+      "id": "68",
+      "query": "Apa manfaat Keterampilan Sosial dalam mencegah GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Keterampilan Sosial"
+      ],
+      "golden_answer": "Keterampilan sosial memudahkan interaksi positif, mengurangi isolasi, dan memperkuat dukungan teman sebaya untuk mencegah GME."
+    },
+    {
+      "id": "69",
+      "query": "Apa itu Kecakapan Hidup (Life Skills)?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Kecakapan Hidup (Life Skills)"
+      ],
+      "golden_answer": "Kecakapan hidup mencakup manajemen stres, pemecahan masalah, dan keterampilan komunikasi asertif untuk mengelola tantangan sehari-hari."
+    },
+    {
+      "id": "70",
+      "query": "Apa tujuan Program Anti Perundungan (Bullying)?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Program Anti Perundungan (Bullying)"
+      ],
+      "golden_answer": "Program ini bertujuan mencegah dan mengatasi bullying di sekolah melalui pelatihan asertif dan kebijakan sekolah sehat jiwa."
+    },
+    {
+      "id": "71",
+      "query": "Apa fungsi Sarana Bermain, Berolahraga, dan Rekreasi?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Sarana Bermain, Berolahraga, dan Rekreasi"
+      ],
+      "golden_answer": "Fasilitas ini mendukung aktivitas fisik dan hiburan yang mengurangi stres dan meningkatkan kesejahteraan jiwa."
+    },
+    {
+      "id": "72",
+      "query": "Apa isi Pelatihan Tentang Kesehatan Jiwa bagi Kader?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pelatihan Tentang Kesehatan Jiwa bagi Kader"
+      ],
+      "golden_answer": "Pelatihan mengajarkan deteksi dini GME, teknik KIE, dan cara merujuk kasus ke tenaga kesehatan."
+    },
+    {
+      "id": "73",
+      "query": "Apa manfaat Pelatihan Konselor Sebaya?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pelatihan Konselor Sebaya"
+      ],
+      "golden_answer": "Pelatihan ini membekali siswa atau remaja dengan keterampilan mendengarkan dan memotivasi teman sebaya untuk mencari bantuan."
+    },
+    {
+      "id": "74",
+      "query": "Siapa Siswa yang terlibat dalam UKS?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Siswa"
+      ],
+      "golden_answer": "Siswa ikut serta sebagai konselor sebaya atau peserta edukasi KIE dalam Usaha Kesehatan Sekolah."
+    },
+    {
+      "id": "75",
+      "query": "Bagaimana Usaha Kesehatan Sekolah (UKS) membantu pencegahan GME?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Usaha Kesehatan Sekolah (UKS)",
+        "Gangguan Mental dan Emosional (GME)"
+      ],
+      "golden_answer": "UKS mengintegrasikan kegiatan promotif dan deteksi dini GME di sekolah, seperti penyuluhan, skrining SRQ-20, dan pelatihan kader."
+    },
+    {
+      "id": "76",
+      "query": "Apa itu Sekolah Sehat Jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Sekolah Sehat Jiwa"
+      ],
+      "golden_answer": "Sekolah Sehat Jiwa adalah integrasi layanan kesehatan jiwa dalam UKS dengan kegiatan edukasi, skrining, dan support group siswa."
+    },
+    {
+      "id": "77",
+      "query": "Apa arti Dukungan Psikologis Awal (DPA)?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Dukungan Psikologis Awal (DPA)"
+      ],
+      "golden_answer": "DPA adalah intervensi psikologis segera untuk individu dalam krisis, membantu menenangkan dan mencegah gejala memburuk."
+    },
+    {
+      "id": "78",
+      "query": "Siapa Profesional Pemberi Layanan di komunitas?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Profesional Pemberi Layanan"
+      ],
+      "golden_answer": "Mereka termasuk dokter, perawat, psikolog, pekerja sosial yang menyediakan edukasi, deteksi dini, dan dukungan GME."
+    },
+    {
+      "id": "79",
+      "query": "Apa itu Kegiatan Rohani dan bagaimana manfaatnya?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Kegiatan Rohani"
+      ],
+      "golden_answer": "Kegiatan rohani seperti ibadah dapat memperkuat ikatan komunitas, memberikan makna, dan melindungi kesejahteraan jiwa."
+    },
+    {
+      "id": "80",
+      "query": "Apa manfaat Kegiatan Sosial dalam mencegah stigma?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Kegiatan Sosial"
+      ],
+      "golden_answer": "Kegiatan sosial membangun empati, mengurangi isolasi, dan meningkatkan dukungan bagi orang yang berisiko GME."
+    },
+    {
+      "id": "81",
+      "query": "Kenapa Pengembangan Hobi penting untuk kesehatan jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pengembangan Hobi"
+      ],
+      "golden_answer": "Hobi membantu menyalurkan stres, memberikan kepuasan, dan memperkuat identitas positif bagi kesejahteraan jiwa."
+    },
+    {
+      "id": "82",
+      "query": "Apa tujuan Pemeriksaan Kesehatan Berkala?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pemeriksaan Kesehatan Berkala"
+      ],
+      "golden_answer": "Pemeriksaan rutin mendeteksi perubahan fisik dan mental, memungkinkan intervensi dini untuk mencegah GME."
+    },
+    {
+      "id": "83",
+      "query": "Apa itu Latihan Orientasi Realita bagi lansia?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Latihan Orientasi Realita"
+      ],
+      "golden_answer": "Latihan ini membantu lansia tetap mengenali lingkungan dan diri sendiri, mencegah kebingungan dan isolasi."
+    },
+    {
+      "id": "84",
+      "query": "Siapa Kader Lansia dan apa tugasnya?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Kader Lansia"
+      ],
+      "golden_answer": "Kader lansia dilatih untuk menyelenggarakan kegiatan sosial, pemeriksaan jiwa ringan, dan dukungan emosional bagi lansia."
+    },
+    {
+      "id": "85",
+      "query": "Siapa Caregiver dan perannya?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Caregiver"
+      ],
+      "golden_answer": "Caregiver merawat dan mendampingi individu dengan GME atau lansia, membantu aktivitas sehari-hari dan memantau perubahan kondisi."
+    },
+    {
+      "id": "86",
+      "query": "Apa kegunaan Gerakan Masyarakat Hidup Sehat (GERMAS)?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Gerakan Masyarakat Hidup Sehat (GERMAS)"
+      ],
+      "golden_answer": "GERMAS mendorong gaya hidup sehat seperti olahraga, diet seimbang, dan istirahat cukup untuk mencegah faktor risiko GME."
+    },
+    {
+      "id": "87",
+      "query": "Apa arti CERDIK dalam pencegahan GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "CERDIK"
+      ],
+      "golden_answer": "CERDIK adalah akronim cek kesehatan berkala, enyahkan asap rokok, rajin olahraga, diet sehat, istirahat cukup, dan kelola stres."
+    },
+    {
+      "id": "88",
+      "query": "Apa isi CERIA untuk kesehatan jiwa keluarga?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "CERIA"
+      ],
+      "golden_answer": "CERIA meliputi cerdas, empati, rajin beribadah, interaksi bermanfaat, dan asah asih asuh dalam tumbuh kembang keluarga."
+    },
+    {
+      "id": "89",
+      "query": "Apa fungsi FKTP dalam layanan jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "FKTP (Fasilitas Kesehatan Tingkat Pertama)"
+      ],
+      "golden_answer": "FKTP adalah tingkat pertama layanan yang melakukan deteksi dini, promosi, pencegahan, dan pelaporan kasus GME."
+    },
+    {
+      "id": "90",
+      "query": "Apa itu FKRTL?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "FKRTL (Fasilitas Kesehatan Rujukan Tingkat Lanjut)"
+      ],
+      "golden_answer": "FKRTL adalah fasilitas rujukan lanjutan yang menangani kasus GME kompleks dan memberikan penatalaksanaan multidisiplin."
+    },
+    {
+      "id": "91",
+      "query": "Apa yang dimaksud Faktor Risiko GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Faktor Risiko GME"
+      ],
+      "golden_answer": "Faktor risiko GME meliputi biologis, psikologis, dan sosial yang meningkatkan kemungkinan seseorang mengalami gangguan jiwa."
+    },
+    {
+      "id": "92",
+      "query": "Jelaskan Faktor Biologis Risiko GME.",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Faktor Biologis (Risiko)"
+      ],
+      "golden_answer": "Faktor biologis risiko termasuk riwayat keluarga, kerentanan genetik, luka otak, dan masalah neurologis."
+    },
+    {
+      "id": "93",
+      "query": "Apa itu Riwayat Kesehatan Jiwa Keluarga?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Riwayat Kesehatan Jiwa Keluarga"
+      ],
+      "golden_answer": "Ini adalah catatan gangguan jiwa dalam keluarga yang menjadi faktor risiko biologis bagi anggota keluarga lain."
+    },
+    {
+      "id": "94",
+      "query": "Apa arti Kerentanan Genetik dalam GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Kerentanan Genetik"
+      ],
+      "golden_answer": "Kerentanan genetik adalah kecenderungan bawaan yang dapat meningkatkan risiko seseorang mengembangkan GME."
+    },
+    {
+      "id": "95",
+      "query": "Apa yang dimaksud Luka Jejas Otak?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Luka Jejas Otak"
+      ],
+      "golden_answer": "Luka jejas otak adalah cedera pada otak yang dapat memengaruhi fungsi mental dan emosional, meningkatkan risiko GME."
+    },
+    {
+      "id": "96",
+      "query": "Apa itu Permasalahan Neurologis?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Permasalahan Neurologis"
+      ],
+      "golden_answer": "Permasalahan neurologis mencakup gangguan pada sistem saraf yang bisa berdampak pada kesehatan jiwa."
+    },
+    {
+      "id": "97",
+      "query": "Siapa Individu Berisiko Tinggi?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Individu Berisiko Tinggi (High-Risk)"
+      ],
+      "golden_answer": "Individu berisiko tinggi memiliki faktor biologis yang signifikan, seperti riwayat keluarga GME, sehingga perlu pemantauan lebih dekat."
+    },
+    {
+      "id": "98",
+      "query": "Apa itu Individu Ultra-Risk?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Individu Ultra-Risk"
+      ],
+      "golden_answer": "Individu ultra-risk memiliki risiko biologis ditambah psikologis dan sosial, sehingga kemungkinan transisi ke gangguan jiwa lebih tinggi."
+    },
+    {
+      "id": "99",
+      "query": "Apa itu Psikosis?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Psikosis"
+      ],
+      "golden_answer": "Psikosis adalah kondisi serius di mana seseorang kehilangan kontak dengan realitas, mengalami halusinasi atau delusi."
+    },
+    {
+      "id": "100",
+      "query": "Apa arti Transisi Menjadi Psikotik?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Transisi Menjadi Psikotik"
+      ],
+      "golden_answer": "Transisi menjadi psikotik adalah proses di mana individu ultra-risk berkembang menjadi kondisi psikosis klinis."
+    },
+    {
+      "id": "101",
+      "query": "Bagaimana Omega 3 Fatty Acid membantu pencegahan GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Omega 3 Fatty Acid"
+      ],
+      "golden_answer": "Omega 3 dapat mendukung kesehatan otak dan membantu mengurangi risiko transisi ke gejala GME pada individu berisiko tinggi."
+    },
+    {
+      "id": "102",
+      "query": "Apa yang dimaksud Intervensi Krisis?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Intervensi Krisis"
+      ],
+      "golden_answer": "Intervensi krisis adalah bantuan cepat untuk individu yang mengalami tekanan atau trauma mendadak agar gejala GME tidak memburuk."
+    },
+    {
+      "id": "103",
+      "query": "Apa tujuan Terapi Kognitif Perilaku (CBT)?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Terapi Kognitif Perilaku (CBT)"
+      ],
+      "golden_answer": "CBT membantu individu mengenali dan mengubah pola pikir negatif serta perilaku yang memperburuk GME."
+    },
+    {
+      "id": "104",
+      "query": "Apa itu Konseling Keluarga?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Konseling Keluarga"
+      ],
+      "golden_answer": "Konseling keluarga melibatkan anggota keluarga dalam sesi terapi untuk meningkatkan dukungan dan pemahaman terhadap GME."
+    },
+    {
+      "id": "105",
+      "query": "Apa manfaat Fungsi Kognitif yang Baik?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Fungsi Kognitif yang Baik"
+      ],
+      "golden_answer": "Fungsi kognitif yang baik memungkinkan individu memproses informasi, mengambil keputusan, dan mengelola stres dengan efektif."
+    },
+    {
+      "id": "106",
+      "query": "Apa peran Dukungan Keluarga?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Dukungan Keluarga"
+      ],
+      "golden_answer": "Dukungan keluarga memberikan keamanan emosional, motivasi, dan bantuan praktis untuk mencegah dan mengelola GME."
+    },
+    {
+      "id": null,
+      "query": "Saya ingin tahu apa itu pencatatan dan pelaporan dalam program GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Data",
+        "Informasi",
+        "Program Kesehatan"
+      ],
+      "golden_answer": "Pencatatan dan pelaporan adalah bagian penting dalam Program Kesehatan untuk GME. Data mentah dicatat di fasilitas kesehatan dan kemudian dianalisis menjadi Informasi yang membantu mengetahui capaian pelaksanaan program. Semoga membantu memahami alur tersebut."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana proses pengolahan data hingga menjadi informasi yang digunakan untuk mengetahui capaian pelaksanaan program?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Pengolahan Data",
+        "Informasi",
+        "Capaian Pelaksanaan Program"
+      ],
+      "golden_answer": "Proses dimulai dengan Pengolahan Data mentah hasil pencatatan, kemudian diolah untuk menghasilkan Informasi yang valid. Informasi ini dipakai untuk menilai dan melaporkan Capaian Pelaksanaan Program GME, sekaligus memberi umpan balik untuk perbaikan berikutnya."
+    },
+    {
+      "id": null,
+      "query": "Apa yang dimaksud dengan instrumen SRQ 20?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Instrumen SRQ 20"
+      ],
+      "golden_answer": "Instrumen SRQ 20 adalah kuesioner Self-Reporting Questionnaire 20 yang dipakai dalam Kegiatan Deteksi Dini untuk mengidentifikasi risiko Gangguan Mental Emosional pada penduduk usia >15 tahun sekali setahun."
+    },
+    {
+      "id": null,
+      "query": "Bisakah Anda menjelaskan tentang instrumen SDQ yang digunakan?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Instrumen SDQ"
+      ],
+      "golden_answer": "Instrumen SDQ adalah Strengths and Difficulties Questionnaire khususnya untuk usia 11–18 tahun. Alat ini digunakan sekali setahun dalam skrining GME untuk mendeteksi tanda-tanda awal pada remaja."
+    },
+    {
+      "id": null,
+      "query": "Mengapa skrining dengan SDQ atau SRQ 20 hanya dilakukan sekali dalam satu tahun kalender?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Skrining",
+        "Instrumen SDQ",
+        "Instrumen SRQ 20"
+      ],
+      "golden_answer": "Skrining dengan SDQ atau SRQ 20 dirancang sekali setahun agar beban pencatatan terkelola dengan baik dan hasil deteksi dini dapat dianalisis per periode. Frekuensi ini juga memungkinkan tindak lanjut dan pelaporan secara terstruktur."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana tindak lanjut dilakukan setelah hasil deteksi dini diketahui?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Hasil Deteksi Dini",
+        "Tindak Lanjut"
+      ],
+      "golden_answer": "Setelah Hasil Deteksi Dini tercatat, pelaksana kegiatan akan merencanakan Tindak Lanjut seperti konseling, rujukan, atau pemantauan lebih lanjut. Semua langkah ini dicatat untuk pelaporan dan evaluasi program."
+    },
+    {
+      "id": null,
+      "query": "Apa itu kegiatan deteksi dini dalam program GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Kegiatan Deteksi Dini"
+      ],
+      "golden_answer": "Kegiatan Deteksi Dini adalah upaya identifikasi awal Gangguan Mental Emosional menggunakan instrumen SRQ 20 atau SDQ pada penduduk usia >15 tahun untuk memastikan intervensi tepat waktu."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana layanan yang diberikan di FKTP mencakup promosi kesehatan hingga penanganan awal?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Wilayah Kerja FKTP/Puskesmas",
+        "Layanan yang Diberikan"
+      ],
+      "golden_answer": "Di Wilayah Kerja FKTP/Puskesmas, Layanan yang Diberikan meliputi promosi kesehatan, pencegahan, konseling, penanganan awal, rujukan, dan penanganan lanjutan. Semua layanan ini dicatat untuk pelaporan dan evaluasi."
+    },
+    {
+      "id": null,
+      "query": "Saya mendengar tentang rekapitulasi data, apa itu?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Rekapitulasi Data"
+      ],
+      "golden_answer": "Rekapitulasi Data adalah proses mengumpulkan dan menjumlahkan hasil pencatatan dari berbagai sumber di puskesmas, lalu menyusunnya dalam format ringkas untuk pelaporan bulanan ke dinas kesehatan."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana laporan triwulanan dikompilasi sebelum dikirim ke Kementerian Kesehatan?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Kompilasi Laporan",
+        "Pelaporan Setiap 3 (Tiga) Bulan"
+      ],
+      "golden_answer": "Dinas Kesehatan Provinsi melakukan Kompilasi Laporan dari data kabupaten/kota, memeriksa kelengkapan dan kualitasnya, lalu menyusun laporan triwulanan sesuai jadwal Pelaporan Setiap 3 (Tiga) Bulan ke Kementerian Kesehatan."
+    },
+    {
+      "id": null,
+      "query": "Apa yang dimaksud dengan umpan balik dalam pelaporan?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Umpan Balik"
+      ],
+      "golden_answer": "Umpan Balik adalah informasi hasil analisis pelaporan yang dikirim kembali ke tingkat yang lebih rendah, misalnya dari dinas kesehatan provinsi ke kabupaten/kota atau dari kabupaten/kota ke puskesmas, untuk perbaikan program."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana pemerintah daerah menggunakan umpan balik untuk meningkatkan program pencegahan GME?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Umpan Balik",
+        "Pencegahan dan Pengendalian GME"
+      ],
+      "golden_answer": "Setelah menerima Umpan Balik, pemerintah daerah menganalisis rekomendasi dan menyesuaikan strategi Pencegahan dan Pengendalian GME, seperti memperkuat kegiatan promotif, menambah kapasitas tenaga, atau meninjau ulang frekuensi skrining."
+    },
+    {
+      "id": null,
+      "query": "Apa itu kunjungan pasien GME ke FKTP?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Kunjungan Pasien GME ke FKTP"
+      ],
+      "golden_answer": "Kunjungan Pasien GME ke FKTP adalah momen di mana pasien dengan gangguan mental emosional datang ke fasilitas kesehatan tingkat pertama untuk mendapatkan layanan preventif, penanganan awal, atau rujukan."
+    },
+    {
+      "id": null,
+      "query": "Mengapa format pencatatan kegiatan preventif penting dalam upaya mengurangi faktor risiko sosial?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Format Pencatatan Kegiatan Preventif",
+        "Faktor Risiko Sosial"
+      ],
+      "golden_answer": "Format Pencatatan Kegiatan Preventif memastikan setiap intervensi, termasuk yang bertujuan mengurangi Faktor Risiko Sosial bagi GME, tercatat rapi. Data ini membantu mengevaluasi efektivitas program sosial dan memperbaiki strategi."
+    },
+    {
+      "id": null,
+      "query": "Bisakah Anda menjelaskan apa itu pembentukan kelompok dukungan (support group)?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pembentukan Kelompok Dukungan (Support Group)"
+      ],
+      "golden_answer": "Pembentukan Kelompok Dukungan (Support Group) adalah inisiatif menyatukan individu dengan tantangan serupa untuk saling berbagi pengalaman, memberikan dukungan emosional, dan menguatkan penanganan GME secara bersama."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana pembentukan kelompok swa bantu dapat membantu dalam upaya preventif GME?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Pembentukan Kelompok Swa Bantu",
+        "Pencegahan dan Pengendalian GME"
+      ],
+      "golden_answer": "Pembentukan Kelompok Swa Bantu memfasilitasi dukungan peer-to-peer di komunitas. Ini bagian penting dari Pencegahan dan Pengendalian GME dengan menciptakan lingkungan saling dukung dan mengurangi beban psikososial."
+    },
+    {
+      "id": null,
+      "query": "Apa itu format pelaporan indikator GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Format Pelaporan Indikator GME"
+      ],
+      "golden_answer": "Format Pelaporan Indikator GME adalah formulir standar untuk melaporkan indikator kinerja Gangguan Mental Emosional, termasuk persentase penderita yang mendapatkan layanan."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana pelaporan indikator persentase penderita GME pada penduduk > 15 tahun dilakukan setiap bulan?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Pelaporan Indikator Persentase Penderita GME pada Penduduk > 15 Tahun yang Mendapat Layanan",
+        "Pelaporan Perbulan"
+      ],
+      "golden_answer": "Setiap bulan puskesmas mengisi data pada format Pelaporan Indikator Persentase Penderita GME pada Penduduk > 15 Tahun yang Mendapat Layanan, lalu mengirimkannya sesuai jadwal Pelaporan Perbulan ke dinas kesehatan kabupaten/kota."
+    },
+    {
+      "id": null,
+      "query": "Apa itu petugas panti dan apa perannya dalam pencegahan GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Petugas Panti",
+        "Pencegahan dan Pengendalian GME"
+      ],
+      "golden_answer": "Petugas Panti adalah staf panti asuhan atau rehabilitasi yang dilatih berperan dalam Pencegahan dan Pengendalian GME, seperti melakukan skrining dasar atau memberikan dukungan awal."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana pelatihan tenaga non kesehatan seperti guru terlibat dalam program promotif GME?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Pelatihan Tenaga Non Kesehatan",
+        "Tabel Pelaksanaan Kegiatan Promosi Kesehatan di Bab 3"
+      ],
+      "golden_answer": "Pelatihan Tenaga Non Kesehatan, termasuk guru, dirancang berdasarkan Tabel Pelaksanaan Kegiatan Promosi Kesehatan di Bab 3. Guru mendapat pengetahuan untuk melakukan edukasi dan deteksi dini di sekolah."
+    },
+    {
+      "id": null,
+      "query": "Saya ingin tahu tentang pembentukan kelurahan sehat jiwa",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pembentukan Kelurahan Sehat Jiwa"
+      ],
+      "golden_answer": "Pembentukan Kelurahan Sehat Jiwa adalah inisiatif menciptakan lingkungan kelurahan yang mendukung kesehatan mental penduduk dengan berbagai kegiatan promotif dan preventif."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana peran lembaga non pemerintah dalam deteksi dini di komunitas?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Lembaga Non Pemerintah",
+        "Komunitas"
+      ],
+      "golden_answer": "Lembaga Non Pemerintah bekerja sama dengan dinas kesehatan kabupaten/kota untuk melakukan deteksi dini di Komunitas, melaporkan hasilnya, dan mendukung upaya promotif serta preventif GME."
+    },
+    {
+      "id": null,
+      "query": "Apa itu pengolahan data dalam konteks pencatatan dan pelaporan GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pengolahan Data"
+      ],
+      "golden_answer": "Pengolahan Data adalah tahap analisis dan transformasi data mentah dari pencatatan menjadi informasi bermakna yang nantinya digunakan untuk evaluasi dan pelaporan program GME."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana data dikumpulkan di wilayah kerja FKTP/Puskesmas untuk pelaporan GME?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Data",
+        "Wilayah Kerja FKTP/Puskesmas"
+      ],
+      "golden_answer": "Di Wilayah Kerja FKTP/Puskesmas, setiap penduduk yang diperiksa dan memenuhi kriteria GME dicatat ke dalam Data. Data ini selanjutnya diproses dan dikirim untuk pelaporan bulanan."
+    },
+    {
+      "id": null,
+      "query": "Apa itu program kesehatan dalam konteks GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Program Kesehatan"
+      ],
+      "golden_answer": "Program Kesehatan di sini adalah inisiatif terstruktur untuk pencegahan dan pengendalian Gangguan Mental Emosional, termasuk pencatatan, pelaporan, dan analisis data."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana kegiatan promotif dan preventif berkontribusi pada pencegahan dan pengendalian GME?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Pencegahan dan Pengendalian GME",
+        "Layanan yang Diberikan"
+      ],
+      "golden_answer": "Layanan yang Diberikan dalam bentuk promosi kesehatan dan prevensi adalah inti dari Pencegahan dan Pengendalian GME karena membantu menurunkan risiko dan menangani gejala lebih awal."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Siklus Manajemen?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Siklus Manajemen"
+      ],
+      "golden_answer": "Siklus Manajemen mencakup proses perencanaan, pelaksanaan, monitoring, dan evaluasi dalam tata kelola upaya pencegahan dan pengendalian GME."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Perencanaan dalam upaya P2 GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Perencanaan"
+      ],
+      "golden_answer": "Perencanaan adalah tahap awal di mana tenaga kesehatan mengidentifikasi sumber daya dan menentukan target pencapaian deteksi dini GME berdasarkan pedoman yang ada."
+    },
+    {
+      "id": null,
+      "query": "Apa yang dimaksud dengan Pelaksanaan kegiatan P2 GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pelaksanaan"
+      ],
+      "golden_answer": "Pelaksanaan adalah tahap di mana tenaga kesehatan melaksanakan kegiatan pencegahan dan pengendalian GME sesuai dengan rencana yang telah diisi dalam form perencanaan kegiatan."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Monitoring dalam program kesehatan jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Monitoring"
+      ],
+      "golden_answer": "Monitoring adalah penilaian secara terus menerus terhadap kemajuan program untuk memastikan pelaksanaan sesuai rencana dan mendapatkan umpan balik secara teratur."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Evaluasi dalam siklus manajemen?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Evaluasi"
+      ],
+      "golden_answer": "Evaluasi adalah penilaian periodik untuk menilai kontribusi program terhadap perubahan, kebutuhan perbaikan, kelanjutan, atau perluasan program P2 GME."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Form Perencanaan Kegiatan?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Form Perencanaan Kegiatan"
+      ],
+      "golden_answer": "Form Perencanaan Kegiatan adalah formulir yang diisi tenaga kesehatan untuk merencanakan jenis kegiatan, lokasi, sasaran, target, dan waktu pelaksanaan."
+    },
+    {
+      "id": null,
+      "query": "Apa yang dimaksud dengan Sumber Daya Keuangan?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Sumber Daya Keuangan"
+      ],
+      "golden_answer": "Sumber Daya Keuangan adalah bagian dari sumber daya yang diidentifikasi dalam perencanaan untuk mendukung kegiatan P2 GME."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Jejaring dengan Sektor Lain?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Jejaring dengan Sektor Lain"
+      ],
+      "golden_answer": "Jejaring dengan Sektor Lain adalah jaringan kerja sama dengan pihak di luar sektor kesehatan, seperti rumah sakit, sekolah, panti, dan posyandu."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Panti dalam konteks skrining GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Panti"
+      ],
+      "golden_answer": "Panti adalah salah satu lokasi dalam jejaring dengan sektor lain di mana skrining GME dapat dilakukan."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Instrumen Skrining GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Instrumen Skrining GME"
+      ],
+      "golden_answer": "Instrumen Skrining GME adalah alat yang digunakan untuk skrining Gangguan Mental Emosional, seperti SDQ dan SRQ."
+    },
+    {
+      "id": null,
+      "query": "Apa itu SDQ (11-18)?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "SDQ (11-18)"
+      ],
+      "golden_answer": "SDQ (11-18) adalah instrumen skrining GME khusus untuk usia 11–18 tahun yang digunakan dalam kegiatan pencegahan dan pengendalian."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Form SRQ?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Form SRQ"
+      ],
+      "golden_answer": "Form SRQ adalah instrumen skrining yang digunakan dalam pencegahan dan pengendalian GME untuk mengidentifikasi persoalan mental emosional."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Indikator Keberhasilan Program GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Indikator Keberhasilan Program GME"
+      ],
+      "golden_answer": "Indikator Keberhasilan Program GME adalah metrik untuk menilai keberhasilan pelayanan bagi penderita GME, dikategorikan Baik jika target tercapai dan Kurang jika tidak."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Evaluasi Proses?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Evaluasi Proses"
+      ],
+      "golden_answer": "Evaluasi Proses dilakukan setiap tiga bulan untuk menilai apakah proses kegiatan telah dilaksanakan sesuai perencanaan dan mengidentifikasi kendala."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Evaluasi Hasil?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Evaluasi Hasil"
+      ],
+      "golden_answer": "Evaluasi Hasil dilakukan setahun sekali untuk menilai pencapaian target pencegahan dan pengendalian GME di wilayah kerja."
+    },
+    {
+      "id": null,
+      "query": "Apa yang dimaksud Umpan Balik Program?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Umpan Balik Program"
+      ],
+      "golden_answer": "Umpan Balik Program adalah informasi yang didapat secara teratur melalui monitoring untuk perbaikan program selanjutnya."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Rencana Tindak Lanjut Perbaikan Program?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Rencana Tindak Lanjut Perbaikan Program"
+      ],
+      "golden_answer": "Rencana Tindak Lanjut Perbaikan Program adalah dokumen yang disusun berdasarkan hasil monitoring dan evaluasi untuk memperbaiki program P2 GME."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Penyuluhan di Masyarakat?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Penyuluhan di Masyarakat"
+      ],
+      "golden_answer": "Penyuluhan di Masyarakat adalah kegiatan edukasi tentang kesehatan jiwa yang dilakukan di lingkungan masyarakat sebagai bagian kegiatan promotif dan preventif."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Posbindu PTM?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Posbindu PTM"
+      ],
+      "golden_answer": "Posbindu PTM adalah salah satu lokasi pelaksanaan skrining GME yang dijalankan di pos pembinaan terpadu masyarakat."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Anggaran Kegiatan P2 GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Anggaran Kegiatan P2 GME"
+      ],
+      "golden_answer": "Anggaran Kegiatan P2 GME adalah alokasi dana yang direncanakan untuk mendukung kegiatan pencegahan dan pengendalian GME."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Tenaga Kesehatan Terlatih?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Tenaga Kesehatan Terlatih"
+      ],
+      "golden_answer": "Tenaga Kesehatan Terlatih adalah tenaga kesehatan yang sudah mendapatkan pelatihan di bidang kesehatan jiwa atau GME."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Sarana dalam perencanaan program jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Sarana"
+      ],
+      "golden_answer": "Sarana meliputi media promosi kesehatan dan form SRQ & SDQ yang digunakan untuk mendukung kegiatan pencegahan dan pengendalian GME."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Media Promosi Kesehatan?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Media Promosi Kesehatan"
+      ],
+      "golden_answer": "Media Promosi Kesehatan adalah alat seperti brosur, poster, banner, dan video yang digunakan untuk edukasi kesehatan jiwa."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Koordinasi dengan Lintas Program?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Koordinasi dengan Lintas Program"
+      ],
+      "golden_answer": "Koordinasi dengan Lintas Program adalah kegiatan kerja sama dengan program lain dalam sektor kesehatan untuk mendukung program P2 GME."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Pencatatan dan Pelaporan Rutin?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pencatatan dan Pelaporan Rutin"
+      ],
+      "golden_answer": "Pencatatan dan Pelaporan Rutin adalah aktivitas mendokumentasikan kegiatan dan hasil program secara berkala."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Data yang Tersedia dalam evaluasi GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Data yang Tersedia"
+      ],
+      "golden_answer": "Data yang Tersedia adalah informasi atau statistik yang digunakan sebagai dasar analisa epidemiologi sederhana."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Analisa Epidemiologi Sederhana?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Analisa Epidemiologi Sederhana"
+      ],
+      "golden_answer": "Analisa Epidemiologi Sederhana adalah analisis kejadian GME dan gangguan jiwa berdasarkan data yang tersedia, dilakukan oleh ahli kesehatan masyarakat."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Bab 2 dalam dokumen?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Bab 2"
+      ],
+      "golden_answer": "Bab 2 adalah bagian dokumen yang mencantumkan target pencapaian deteksi dini GME yang digunakan dalam perencanaan."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Target Pencapaian Deteksi Dini GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Target Pencapaian Deteksi Dini GME"
+      ],
+      "golden_answer": "Target Pencapaian Deteksi Dini GME adalah target yang ditentukan oleh tenaga kesehatan untuk identifikasi awal Gangguan Mental Emosional."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Pencapaian Target Pencegahan dan Pengendalian GME?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pencapaian Target Pencegahan dan Pengendalian GME"
+      ],
+      "golden_answer": "Pencapaian Target Pencegahan dan Pengendalian GME adalah tingkat keberhasilan program mencapai target pencegahan dan pengendalian GME."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana Perencanaan terkait dengan Sumber Daya Keuangan?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Perencanaan",
+        "Sumber Daya Keuangan"
+      ],
+      "golden_answer": "Perencanaan melibatkan identifikasi berbagai sumber daya, termasuk sumber daya keuangan, untuk memastikan anggaran tersedia bagi kegiatan pencegahan dan pengendalian GME."
+    },
+    {
+      "id": null,
+      "query": "Mengapa Monitoring penting dalam Siklus Manajemen?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Monitoring",
+        "Siklus Manajemen"
+      ],
+      "golden_answer": "Monitoring memberikan penilaian terus menerus terhadap kemajuan program, sehingga bagian Siklus Manajemen lainnya dapat diperbaiki berdasarkan umpan balik yang diperoleh."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana Evaluasi Proses berbeda dari Evaluasi Hasil?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Evaluasi Proses",
+        "Evaluasi Hasil"
+      ],
+      "golden_answer": "Evaluasi Proses menilai pelaksanaan kegiatan triwulanan sesuai rencana, sedangkan Evaluasi Hasil menilai pencapaian target setahun sekali untuk perbaikan program."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana Tenaga Kesehatan Terlatih berkontribusi pada Pelaksanaan?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Tenaga Kesehatan Terlatih",
+        "Pelaksanaan"
+      ],
+      "golden_answer": "Tenaga Kesehatan Terlatih menjalankan kegiatan sesuai form perencanaan, memastikan pelaksanaan kegiatan promotif dan preventif berjalan sesuai pedoman."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana Form Perencanaan Kegiatan membantu Perencanaan?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Form Perencanaan Kegiatan",
+        "Perencanaan"
+      ],
+      "golden_answer": "Form Perencanaan Kegiatan memfasilitasi tenaga kesehatan untuk mendokumentasikan jenis kegiatan, lokasi, sasaran, target, dan waktu pelaksanaan secara terstruktur."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana Umpan Balik Program diperoleh melalui Monitoring?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Monitoring",
+        "Umpan Balik Program"
+      ],
+      "golden_answer": "Monitoring secara terus menerus menghasilkan data dan umpan balik yang teratur untuk menilai kemajuan program dan kebutuhan perbaikan."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana Rencana Tindak Lanjut Perbaikan Program dibuat setelah Evaluasi?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Evaluasi",
+        "Rencana Tindak Lanjut Perbaikan Program"
+      ],
+      "golden_answer": "Setelah evaluasi, hasil monitoring dan evaluasi digunakan untuk menyusun rencana tindak lanjut perbaikan program agar efektivitas kegiatan meningkat."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana Indikator Keberhasilan Program GME digunakan untuk Evaluasi Hasil?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Indikator Keberhasilan Program GME",
+        "Evaluasi Hasil"
+      ],
+      "golden_answer": "Indikator Keberhasilan Program GME menyediakan metrik pencapaian target per tahun yang dievaluasi dalam Evaluasi Hasil untuk menentukan kategori Baik atau Kurang."
+    },
+    {
+      "id": null,
+      "query": "Mengapa Jejaring dengan Sektor Lain penting dalam Perencanaan?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Jejaring dengan Sektor Lain",
+        "Perencanaan"
+      ],
+      "golden_answer": "Jejaring dengan Sektor Lain memastikan kolaborasi dengan rumah sakit, sekolah, panti, dan posyandu sehingga sumber daya dan lokasi skrining dapat terpenuhi."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana Instrumen Skrining GME digunakan dalam Pelaksanaan?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Instrumen Skrining GME",
+        "Pelaksanaan"
+      ],
+      "golden_answer": "Dalam pelaksanaan, instrumen skrining GME seperti SDQ dan SRQ digunakan untuk deteksi dini Gangguan Mental Emosional di berbagai lokasi."
+    },
+    {
+      "id": null,
+      "query": "Mengapa Pelaksanaan sesuai Form Perencanaan Kegiatan penting?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Pelaksanaan",
+        "Form Perencanaan Kegiatan"
+      ],
+      "golden_answer": "Pelaksanaan yang sesuai form memastikan jenis kegiatan, lokasi, sasaran, dan waktu tercatat dengan jelas, memudahkan monitoring dan evaluasi."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana Analisa Epidemiologi Sederhana memanfaatkan Data yang Tersedia?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Analisa Epidemiologi Sederhana",
+        "Data yang Tersedia"
+      ],
+      "golden_answer": "Ahli kesehatan masyarakat menggunakan data yang tersedia untuk melakukan analisa epidemiologi sederhana tentang kejadian GME dan gangguan jiwa."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana Hasil Monitoring dan Evaluasi digunakan dalam Rencana Tindak Lanjut Perbaikan Program?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Hasil Monitoring dan Evaluasi",
+        "Rencana Tindak Lanjut Perbaikan Program"
+      ],
+      "golden_answer": "Hasil monitoring dan evaluasi menjadi dasar bagi penyusunan rencana tindak lanjut untuk memperbaiki dan mengembangkan kegiatan selanjutnya."
+    },
+    {
+      "id": null,
+      "query": "Mengapa Pelaksanaan Evaluasi Berkala Setiap 3 Bulan penting untuk Evaluasi Proses?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Pelaksanaan Evaluasi Berkala Setiap 3 Bulan",
+        "Evaluasi Proses"
+      ],
+      "golden_answer": "Evaluasi Proses triwulanan memungkinkan tenaga kesehatan mengidentifikasi perubahan atau kendala lebih cepat untuk perbaikan kegiatan."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana Monitoring mempengaruhi Umpan Balik Program?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Monitoring",
+        "Umpan Balik Program"
+      ],
+      "golden_answer": "Monitoring menghasilkan informasi berkelanjutan yang membentuk umpan balik program untuk menilai kemajuan dan memperbaiki pelaksanaan."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana Penyuluhan di Masyarakat berperan dalam Kegiatan Promotif dan Preventif?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Penyuluhan di Masyarakat",
+        "Kegiatan Promotif dan Preventif"
+      ],
+      "golden_answer": "Penyuluhan di Masyarakat merupakan salah satu kegiatan promotif dan preventif untuk meningkatkan kesadaran tentang kesehatan jiwa."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana penghuni Panti mendapatkan skrining GME?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Panti",
+        "Skrining GME"
+      ],
+      "golden_answer": "Di panti, skrining GME dilakukan dengan menggunakan instrumen skrining seperti SDQ atau SRQ untuk deteksi dini gangguan jiwa."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana Anggaran Kegiatan P2 GME mempengaruhi Pelaksanaan?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Anggaran Kegiatan P2 GME",
+        "Pelaksanaan"
+      ],
+      "golden_answer": "Anggaran Kegiatan P2 GME memastikan ketersediaan dana untuk pelaksanaan semua kegiatan promotif, preventif, dan skrining sesuai rencana."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana Koordinasi dengan Lintas Program dan Advokasi Lintas Sektor terkait?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Koordinasi dengan Lintas Program",
+        "Advokasi dan Koordinasi Lintas Program dan Lintas Sektor"
+      ],
+      "golden_answer": "Hasil monitoring dan evaluasi dipakai sebagai bahan advokasi dan koordinasi lintas program serta lintas sektor di dinas kesehatan."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana SDQ (11-18) berbeda dari Form SRQ?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "SDQ (11-18)",
+        "Form SRQ"
+      ],
+      "golden_answer": "SDQ (11-18) khusus untuk usia 11–18 tahun, sedangkan SRQ digunakan lebih umum untuk skrining GME di berbagai usia dan setting."
+    },
+    {
+      "id": null,
+      "query": "Apa itu kesehatan jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Kesehatan Jiwa"
+      ],
+      "golden_answer": "Kesehatan jiwa adalah kondisi di mana seseorang dapat berkembang secara fisik, mental, spiritual, dan sosial sehingga merasa tenteram dan tenang."
+    },
+    {
+      "id": null,
+      "query": "Saya sering merasa cemas, apa sebenarnya kecemasan itu?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Kecemasan"
+      ],
+      "golden_answer": "Kecemasan adalah perasaan gelisah atau khawatir yang wajar muncul ketika kita menghadapi situasi tidak pasti, dan dapat dikelola dengan teknik relaksasi."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana stres berbeda dari masalah psikologis ringan?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Stres",
+        "Stres dan masalah psikologis ringan"
+      ],
+      "golden_answer": "Stres adalah reaksi normal terhadap tekanan sehari-hari, sedangkan masalah psikologis ringan bisa melibatkan perubahan suasana hati dan membutuhkan dukungan keluarga atau komunitas."
+    },
+    {
+      "id": null,
+      "query": "Apa yang dimaksud dengan intervensi berbasis keluarga?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Intervensi Berbasis Keluarga"
+      ],
+      "golden_answer": "Intervensi berbasis keluarga adalah pendekatan yang melibatkan anggota keluarga untuk saling mendukung dalam pencegahan dan pemulihan masalah kesehatan jiwa."
+    },
+    {
+      "id": null,
+      "query": "Mengapa keluarga dianggap sistem pendukung utama?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Sistem Pendukung Keluarga",
+        "Keluarga"
+      ],
+      "golden_answer": "Keluarga adalah lingkungan terdekat sehingga dapat memberikan dukungan emosional, rutinitas, dan rasa aman saat menghadapi tekanan pandemi."
+    },
+    {
+      "id": null,
+      "query": "Apa itu protokol kesehatan 3M?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Protokol Kesehatan 3M"
+      ],
+      "golden_answer": "Protokol 3M meliputi Memakai masker, Menjaga jarak dan menghindari kerumunan, serta Mencuci tangan dengan sabun untuk mencegah penularan COVID-19."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana protokol 3M membantu ketenangan jiwa?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Protokol Kesehatan 3M",
+        "Ketangguhan Mental"
+      ],
+      "golden_answer": "Dengan mengikuti 3M, keluarga merasa lebih terlindungi, mengurangi kecemasan akan penularan, dan memperkuat ketahanan mental."
+    },
+    {
+      "id": null,
+      "query": "Apa yang dimaksud rawat diri?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Rawat Diri (Self-Care)"
+      ],
+      "golden_answer": "Rawat diri adalah melakukan tindakan seperti istirahat cukup, berolahraga ringan, dan relaksasi untuk menjaga keseimbangan emosi."
+    },
+    {
+      "id": null,
+      "query": "Mengapa self-care penting di masa pandemi?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Rawat Diri (Self-Care)",
+        "Ketangguhan Keluarga"
+      ],
+      "golden_answer": "Self-care membantu menurunkan level stres, menjaga mood, dan memberi energi agar keluarga lebih tangguh menghadapi situasi sulit."
+    },
+    {
+      "id": null,
+      "query": "Apa itu kerentanan keluarga?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Kerentanan Keluarga"
+      ],
+      "golden_answer": "Kerentanan keluarga adalah faktor seperti usia anggota, kesehatan kronis, atau tingkat ketergantungan yang meningkatkan risiko masalah jiwa."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana usia mempengaruhi kerentanan keluarga?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Usia (Faktor Kerentanan)",
+        "Kerentanan Keluarga"
+      ],
+      "golden_answer": "Semakin bertambah usia, risiko stres dan masalah kesehatan jiwa meningkat, sehingga lansia memerlukan perhatian ekstra dari keluarga."
+    },
+    {
+      "id": null,
+      "query": "Apa artinya ketergantungan dalam keluarga?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Tingkat Ketergantungan"
+      ],
+      "golden_answer": "Tingkat ketergantungan merujuk pada kebutuhan pendampingan bagi bayi, anak kecil, lansia, atau penyandang disabilitas selama pandemi."
+    },
+    {
+      "id": null,
+      "query": "Mengapa ketergantungan memengaruhi kerentanan keluarga?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Tingkat Ketergantungan",
+        "Kerentanan Keluarga"
+      ],
+      "golden_answer": "Anggota yang sangat bergantung pada orang lain lebih rentan mengalami stres ketika dukungan terbatas, sehingga keluarga perlu membuat jadwal dan aturan yang jelas."
+    },
+    {
+      "id": null,
+      "query": "Apa itu sumber daya keluarga?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Sumber Daya Keluarga"
+      ],
+      "golden_answer": "Sumber daya keluarga adalah kemampuan mengakses bantuan material, informasi, dan layanan kesehatan yang membantu menghadapi tekanan."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana sumber daya keluarga meningkatkan ketangguhan?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Sumber Daya Keluarga",
+        "Ketangguhan Keluarga"
+      ],
+      "golden_answer": "Dengan memanfaatkan jaringan sosial dan informasi terpercaya, keluarga dapat menemukan solusi praktis dan merasa lebih percaya diri menghadapi stres."
+    },
+    {
+      "id": null,
+      "query": "Apa itu stigma COVID-19?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Stigma COVID-19"
+      ],
+      "golden_answer": "Stigma COVID-19 adalah pandangan negatif terhadap penderita ataupun keluarganya yang dapat menimbulkan diskriminasi dan isolasi sosial."
+    },
+    {
+      "id": null,
+      "query": "Mengapa stigma muncul selama pandemi?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Kurangnya Informasi COVID-19",
+        "Stigma COVID-19"
+      ],
+      "golden_answer": "Karena informasi tentang virus masih baru dan banyak ketidakpastian, ketakutan memicu pandangan negatif dan diskriminasi."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana melawan stigma COVID-19?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Informasi Akurat",
+        "Stigma COVID-19"
+      ],
+      "golden_answer": "Dengan mencari dan membagikan informasi yang benar dari sumber terpercaya, kita dapat mengurangi kesalahpahaman dan meningkatkan empati."
+    },
+    {
+      "id": null,
+      "query": "Apa itu gangguan kejiwaan?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Gangguan Kejiwaan"
+      ],
+      "golden_answer": "Gangguan kejiwaan adalah kondisi serius seperti kecemasan berat, gangguan panik, atau depresi yang memerlukan pemeriksaan profesional."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana keluarga mengenali gejala masalah jiwa?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Perubahan Suasana Hati",
+        "Perubahan Tidur atau Nafsu Makan"
+      ],
+      "golden_answer": "Perubahan mood yang drastis atau nafsu makan dan pola tidur yang berbeda dapat menjadi tanda untuk memerhatikan kondisi anggota keluarga dengan lebih intens."
+    },
+    {
+      "id": null,
+      "query": "Apa itu depresi?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Depresi"
+      ],
+      "golden_answer": "Depresi adalah gangguan suasana hati yang menyebabkan kesedihan mendalam dan kehilangan minat pada aktivitas sehari-hari."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana depresi berhubungan dengan anhedonia?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Depresi",
+        "Anhedonia"
+      ],
+      "golden_answer": "Anhedonia adalah gejala depresi yang membuat seseorang kehilangan kemampuan merasakan kesenangan dalam hal-hal yang dulu dinikmati."
+    },
+    {
+      "id": null,
+      "query": "Apa itu gangguan panik?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Gangguan Panik"
+      ],
+      "golden_answer": "Gangguan panik ditandai oleh serangan tiba-tiba rasa takut hebat, detak jantung cepat, dan sulit bernapas yang berulang."
+    },
+    {
+      "id": null,
+      "query": "Mengapa orang bisa mengalami serangan panik di rumah?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Gangguan Panik",
+        "Reaksi Emosional Masa Pandemi"
+      ],
+      "golden_answer": "Kombinasi stres tinggi, isolasi, dan ketidakpastian dapat memicu serangan panik bahkan saat berada di lingkungan keluarga."
+    },
+    {
+      "id": null,
+      "query": "Apa itu tingkatan bantuan psikologis?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Tingkatan Bantuan Psikologis"
+      ],
+      "golden_answer": "Tingkatan bantuan psikologis adalah struktur berjenjang dari dukungan komunitas hingga layanan spesialis sesuai kondisi masalah jiwa."
+    },
+    {
+      "id": null,
+      "query": "Kapan sebuah keluarga perlu merujuk ke layanan profesional?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Gangguan Kejiwaan",
+        "Puskesmas"
+      ],
+      "golden_answer": "Jika gejala tidak membaik atau memburuk, seperti pikiran kacau atau kecemasan berlebihan, keluarga disarankan mengunjungi Puskesmas atau tenaga profesional."
+    },
+    {
+      "id": null,
+      "query": "Apa itu puskesmas?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Puskesmas"
+      ],
+      "golden_answer": "Puskesmas adalah fasilitas kesehatan pemerintah setempat yang bisa menjadi titik awal rujukan untuk bantuan medis dan kesehatan jiwa."
+    },
+    {
+      "id": null,
+      "query": "Apa peran psikolog klinis?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Psikolog Klinis"
+      ],
+      "golden_answer": "Psikolog klinis adalah profesional spesialis yang memberikan diagnosa dan terapi bagi orang dengan masalah jiwa yang lebih berat."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana psikolog klinis berbeda dari psikolog umum?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Psikolog Klinis",
+        "Psikolog"
+      ],
+      "golden_answer": "Psikolog klinis memiliki pelatihan lanjutan untuk menilai dan menangani gangguan mental, sedangkan psikolog umum memberikan dukungan non-spesialis."
+    },
+    {
+      "id": null,
+      "query": "Apa itu komunitas terlatih?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Komunitas Terlatih"
+      ],
+      "golden_answer": "Komunitas terlatih adalah kelompok masyarakat yang diberi pelatihan dasar untuk memberikan dukungan psikososial pada tingkat stres sedang."
+    },
+    {
+      "id": null,
+      "query": "Mengapa komunitas terlatih penting?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Komunitas Terlatih",
+        "Dukungan Komunitas"
+      ],
+      "golden_answer": "Komunitas terlatih dapat menjadi penghubung cepat untuk dukungan emosional dan membantu mengurangi beban perorangan sebelum memerlukan layanan profesional."
+    },
+    {
+      "id": null,
+      "query": "Apa itu dukungan emosional keluarga?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Dukungan Emosional Keluarga"
+      ],
+      "golden_answer": "Dukungan emosional keluarga adalah perhatian dan kepedulian yang menumbuhkan rasa nyaman, aman, dan dicintai bagi anggota yang mengalami tekanan."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana memberikan dukungan emosional yang efektif?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Dukungan Emosional Keluarga",
+        "Mendengarkan Aktif"
+      ],
+      "golden_answer": "Dengan mendengarkan cerita tanpa menghakimi, menunjukkan empati, dan memberi ruang bagi anggota untuk mengekspresikan perasaan."
+    },
+    {
+      "id": null,
+      "query": "Apa itu dukungan informasi keluarga?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Dukungan Informasi Keluarga"
+      ],
+      "golden_answer": "Dukungan informasi keluarga melibatkan berbagi nasihat, saran, dan petunjuk yang bermanfaat bagi penyintas atau anggota yang stres."
+    },
+    {
+      "id": null,
+      "query": "Mengapa informasi akurat penting bagi keluarga?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Informasi Akurat",
+        "Dukungan Informasi Keluarga"
+      ],
+      "golden_answer": "Informasi yang benar membantu keluarga membuat keputusan lebih baik dan mencegah kecemasan akibat kabar bohong atau berlebihan."
+    },
+    {
+      "id": null,
+      "query": "Apa itu dukungan penghargaan keluarga?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Dukungan Penghargaan Keluarga"
+      ],
+      "golden_answer": "Dukungan penghargaan keluarga adalah memberikan pujian dan motivasi atas upaya atau pencapaian anggota selama proses pemulihan."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana pujian memengaruhi pemulihan jiwa?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Dukungan Penghargaan Keluarga",
+        "Ketangguhan Keluarga"
+      ],
+      "golden_answer": "Pujian tulus meningkatkan rasa percaya diri anggota, memberi semangat, dan memperkuat ikatan serta ketahanan keluarga."
+    },
+    {
+      "id": null,
+      "query": "Apa arti meluangkan waktu bersama keluarga?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Waktu Berkualitas Bersama Keluarga"
+      ],
+      "golden_answer": "Meluangkan waktu bersama keluarga berarti melakukan aktivitas bersama, seperti memasak atau berdiskusi, untuk mempererat ikatan emosional."
+    },
+    {
+      "id": null,
+      "query": "Mengapa waktu bersama membantu ketangguhan keluarga?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Waktu Berkualitas Bersama Keluarga",
+        "Ketangguhan Keluarga"
+      ],
+      "golden_answer": "Kebersamaan rutin menciptakan ikatan emosional yang kuat sehingga keluarga punya landasan saling mendukung di saat krisis."
+    },
+    {
+      "id": null,
+      "query": "Apa itu dukungan material keluarga?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Dukungan Material Keluarga"
+      ],
+      "golden_answer": "Dukungan material keluarga adalah pemberian barang atau kebutuhan sehari-hari yang dibutuhkan anggota yang sedang pulih."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana bantuan materiil meringankan beban jiwa?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Dukungan Material Keluarga",
+        "Keluarga"
+      ],
+      "golden_answer": "Ketika kebutuhan dasar terpenuhi, anggota keluarga dapat lebih fokus pada pemulihan emosional tanpa khawatir masalah praktis."
+    },
+    {
+      "id": null,
+      "query": "Apa itu ketangguhan keluarga?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Ketangguhan Keluarga"
+      ],
+      "golden_answer": "Ketangguhan keluarga adalah kemampuan bersama untuk menghadapi stres dan krisis secara efektif dan bangkit kembali."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana keluarga bisa membangun ketangguhan?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Komunikasi Mendalam",
+        "Ketangguhan Keluarga"
+      ],
+      "golden_answer": "Dengan membiasakan komunikasi bermakna, menghargai perasaan, dan rutin meluangkan waktu bersama dalam suasana terbuka."
+    },
+    {
+      "id": null,
+      "query": "Apa itu komunikasi mendalam?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Komunikasi Mendalam"
+      ],
+      "golden_answer": "Komunikasi mendalam melibatkan diskusi terbuka yang menyentuh perasaan dan pengalaman pribadi, bukan sekadar basa-basi."
+    },
+    {
+      "id": null,
+      "query": "Mengapa komunikasi mendalam penting?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Komunikasi Mendalam",
+        "Ketangguhan Keluarga"
+      ],
+      "golden_answer": "Komunikasi bermakna membantu anggota merasa didengar dan dipahami, mengurangi kesalahpahaman dan mempererat ikatan."
+    },
+    {
+      "id": null,
+      "query": "Apa itu mendengarkan aktif?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Mendengarkan Aktif"
+      ],
+      "golden_answer": "Mendengarkan aktif adalah teknik memberi perhatian penuh, mengulang inti pembicaraan, dan menunjukkan empati saat anggota berbicara."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana mendengarkan aktif mendukung jiwa?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Mendengarkan Aktif",
+        "Dukungan Emosional Keluarga"
+      ],
+      "golden_answer": "Mendengarkan aktif membuat anggota merasa dihargai dan dipahami, sehingga mengurangi rasa kesepian dan kecemasan."
+    },
+    {
+      "id": null,
+      "query": "Apa arti rasa bosan di tengah pandemi?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Rasa Bosan"
+      ],
+      "golden_answer": "Rasa bosan muncul ketika ruang gerak terbatas dan rutinitas berubah drastis, sering terjadi di masa pembatasan aktivitas."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana bosan berkaitan dengan kesehatan jiwa?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Rasa Bosan",
+        "Dampak Pandemi pada Kesehatan Jiwa Keluarga"
+      ],
+      "golden_answer": "Kebosanan berkepanjangan dapat meningkatkan stres dan kecemasan, sehingga keluarga perlu membuat jadwal kegiatan baru."
+    },
+    {
+      "id": null,
+      "query": "Apa itu ketakutan akan penyakit?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Ketakutan Akan Penyakit"
+      ],
+      "golden_answer": "Ketakutan akan penyakit adalah kecemasan spesifik terhadap kemungkinan tertular COVID-19 yang dapat mengganggu keseharian."
+    },
+    {
+      "id": null,
+      "query": "Mengapa ketakutan mempengaruhi keluarga?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Ketakutan Akan Penyakit",
+        "Sistem Pendukung Keluarga"
+      ],
+      "golden_answer": "Ketakutan dapat memicu perilaku berlebihan seperti menghindar, namun dukungan keluarga dengan informasi akurat bisa meredakan kecemasan."
+    },
+    {
+      "id": null,
+      "query": "Apa itu kebingungan informasi?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Kebingungan Informasi"
+      ],
+      "golden_answer": "Kebingungan informasi adalah kondisi bingung akibat banyaknya sumber dan kabar beragam selama pandemi tanpa filter."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana menyaring informasi membantu jiwa?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Pembatasan Akses Media",
+        "Kesehatan Jiwa"
+      ],
+      "golden_answer": "Membatasi paparan media dan memilih sumber terpercaya membantu menurunkan kecemasan dan menjaga ketenangan pikiran."
+    },
+    {
+      "id": null,
+      "query": "Apa itu perubahan pola komunikasi?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Perubahan Pola Komunikasi"
+      ],
+      "golden_answer": "Perubahan pola komunikasi terjadi saat WFH dan SFH digelar, mengubah interaksi keluarga dan kebiasaan berkumpul."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana perubahan komunikasi memengaruhi keluarga?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Perubahan Pola Komunikasi",
+        "Kerentanan Keluarga"
+      ],
+      "golden_answer": "Interaksi yang lebih sering di rumah bisa menimbulkan gesekan baru; aturan dan jadwal konsisten membantu meminimalkan konflik."
+    },
+    {
+      "id": null,
+      "query": "Apa itu WFH?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "WFH (Work From Home)"
+      ],
+      "golden_answer": "WFH adalah kebijakan bekerja dari rumah untuk mengurangi mobilitas dan menekan laju penularan COVID-19."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana WFH berdampak pada kesehatan jiwa?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "WFH (Work From Home)",
+        "Dampak Pandemi pada Kesehatan Jiwa Keluarga"
+      ],
+      "golden_answer": "WFH mengubah batasan kerja dan rumah, kadang menimbulkan stres atau kebosanan jika tidak diimbangi rutinitas sehat."
+    },
+    {
+      "id": null,
+      "query": "Apa itu SFH?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "SFH (School From Home)"
+      ],
+      "golden_answer": "SFH adalah kebijakan pembelajaran dari rumah yang diterapkan saat sekolah ditutup selama pandemi."
+    },
+    {
+      "id": null,
+      "query": "Mengapa SFH menantang bagi keluarga?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "SFH (School From Home)",
+        "Dukungan Keluarga"
+      ],
+      "golden_answer": "SFH menuntut pengaturan jadwal dan tugas tambahan bagi orang tua, sehingga keluarga perlu komunikasi dan pembagian tugas yang jelas."
+    },
+    {
+      "id": null,
+      "query": "Apa itu stigma publik COVID-19?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Stigma Publik COVID-19"
+      ],
+      "golden_answer": "Stigma publik adalah pandangan negatif yang menyebabkan diskriminasi dan pengucilan terhadap penderita COVID-19."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana stigma publik muncul?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Perilaku Diskriminatif",
+        "Stigma Publik COVID-19"
+      ],
+      "golden_answer": "Ketakutan akan penularan dan kurangnya informasi membuat masyarakat mengambil tindakan diskriminatif seperti mengucilkan pasien."
+    },
+    {
+      "id": null,
+      "query": "Apa itu stigma diri COVID-19?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Stigma Diri COVID-19"
+      ],
+      "golden_answer": "Stigma diri adalah perasaan negatif seperti merasa tercemar atau tidak berharga setelah dinyatakan positif COVID-19."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana stigma diri memengaruhi pemulihan?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Stigma Diri COVID-19",
+        "Proses Pemulihan Pasca COVID-19"
+      ],
+      "golden_answer": "Stigma diri dapat menurunkan motivasi untuk berinteraksi, sehingga keluarga perlu dukungan emosional dan informasi kasih sayang."
+    },
+    {
+      "id": null,
+      "query": "Apa itu proses pemulihan pasca COVID-19?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Proses Pemulihan Pasca COVID-19"
+      ],
+      "golden_answer": "Proses pemulihan melibatkan pemulihan fisik dan psikososial agar penyintas dapat beraktivitas kembali di lingkungan keluarga dan masyarakat."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana keluarga mendukung pemulihan?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Dukungan Informasi Keluarga",
+        "Pemulihan Fungsi Sosial"
+      ],
+      "golden_answer": "Keluarga dapat memberikan saran berguna, menjaga komunikasi, dan membantu anggota memulai aktivitas sosial secara bertahap."
+    },
+    {
+      "id": null,
+      "query": "Apa itu pemulihan fungsi sosial?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pemulihan Fungsi Sosial"
+      ],
+      "golden_answer": "Pemulihan fungsi sosial adalah proses mengembalikan peran dan interaksi anggota di lingkungan masyarakat setelah pulih."
+    },
+    {
+      "id": null,
+      "query": "Mengapa kemandirian mencari solusi penting?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Kemandirian Mencari Solusi",
+        "Ketangguhan Keluarga"
+      ],
+      "golden_answer": "Kemandirian memberi rasa percaya diri pada anggota untuk mengambil langkah sesuai sumber daya yang tersedia, memperkuat daya tahan keluarga."
+    },
+    {
+      "id": null,
+      "query": "Apa itu lingkungan rumah yang nyaman dan aman?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Lingkungan Rumah yang Nyaman dan Aman"
+      ],
+      "golden_answer": "Lingkungan rumah nyaman dan aman adalah kondisi fisik dan emosional yang mendukung proses pemulihan jiwa anggota keluarga."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana membuat rumah lebih nyaman?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Lingkungan Rumah yang Nyaman dan Aman",
+        "Dukungan Emosional Keluarga"
+      ],
+      "golden_answer": "Dengan menciptakan suasana rileks, rutin melakukan aktivitas bersama, dan menyediakan ruang bicara tanpa gangguan."
+    },
+    {
+      "id": null,
+      "query": "Apa itu buku protokol dukungan kesehatan jiwa dan psikologi?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Buku Protokol Dukungan Kesehatan Jiwa dan Psikologi (Kemkes)"
+      ],
+      "golden_answer": "Buku ini adalah pedoman resmi Kementerian Kesehatan untuk memberikan dukungan jiwa dan psikososial selama pandemi."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana buku protokol membantu keluarga?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Buku Protokol Dukungan Kesehatan Jiwa dan Psikologi (Kemkes)",
+        "Intervensi Berbasis Keluarga"
+      ],
+      "golden_answer": "Panduan ini memberi langkah praktis dan bahasa sederhana agar keluarga dapat melakukan pencegahan dan dukungan sehari-hari."
+    },
+    {
+      "id": null,
+      "query": "Apa itu WHO Catatan Psikososial wabah COVID-19?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Catatan WHO tentang Aspek Kesehatan Jiwa dan Psikososial Wabah COVID-19"
+      ],
+      "golden_answer": "Dokumen WHO ini membahas kerangka kerja kesehatan jiwa dan dukungan psikososial selama krisis COVID-19 global."
+    },
+    {
+      "id": null,
+      "query": "Mengapa referensi WHO penting?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Catatan WHO tentang Aspek Kesehatan Jiwa dan Psikososial Wabah COVID-19",
+        "Tingkatan Bantuan Psikologis"
+      ],
+      "golden_answer": "Referensi WHO memberikan standar internasional untuk merancang dukungan yang sesuai dengan tingkat keparahan masalah jiwa."
+    },
+    {
+      "id": null,
+      "query": "Apa itu PFA for All?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "PFA for All (Iswardani & Andriyanto, N.A.)"
+      ],
+      "golden_answer": "PFA for All adalah modul tentang Psychological First Aid yang mengajarkan langkah awal dukungan emosional bagi korban krisis."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana PFA membantu keluarga?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "PFA for All (Iswardani & Andriyanto, N.A.)",
+        "Dukungan Keluarga"
+      ],
+      "golden_answer": "PFA mengajarkan keluarga cara memberi bantuan awal, misalnya mendengarkan aktif dan memberi rasa nyaman."
+    },
+    {
+      "id": null,
+      "query": "Apa itu asuhan keperawatan jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Asuhan Keperawatan Jiwa (Keliat et al., 2019)"
+      ],
+      "golden_answer": "Buku ini membahas prinsip dan praktik asuhan keperawatan untuk mendukung kesehatan jiwa pasien."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana asuhan keperawatan berperan di rumah?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Asuhan Keperawatan Jiwa (Keliat et al., 2019)",
+        "Dukungan Material Keluarga"
+      ],
+      "golden_answer": "Pengetahuan perawatan jiwa membantu keluarga menyediakan lingkungan dan rutinitas yang mendukung pemulihan anggota."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Psychosocial Support on Education in Emergencies?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Psychosocial Support on Education in Emergencies Post Lombok Earthquake 2018"
+      ],
+      "golden_answer": "Buku ini membahas dukungan psikososial dalam situasi darurat, memberikan wawasan yang bisa diterapkan keluarga saat pandemi."
+    },
+    {
+      "id": null,
+      "query": "Mengapa referensi bencana lain relevan?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Psychosocial Support on Education in Emergencies Post Lombok Earthquake 2018",
+        "Intervensi Berbasis Keluarga"
+      ],
+      "golden_answer": "Prinsip dukungan psikososial dalam bencana alam dapat diadaptasi untuk pandemi agar keluarga tetap kompak mendukung satu sama lain."
+    },
+    {
+      "id": null,
+      "query": "Apa itu modul PEDs AAP?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Modul PEDs (AAP)"
+      ],
+      "golden_answer": "Modul PEDs dari American Academy of Pediatrics adalah panduan untuk mendukung kesejahteraan psikologis anak selama darurat."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana modul PEDs membantu orang tua?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Modul PEDs (AAP)",
+        "Dukungan Komunitas"
+      ],
+      "golden_answer": "Meski berfokus pada anak, prinsip modul PEDs mengajarkan pentingnya memberikan rutinitas konsisten dan dukungan emosional dalam komunitas."
+    },
+    {
+      "id": null,
+      "query": "Apa itu HIMPSI Jaya?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Himpsi Jaya"
+      ],
+      "golden_answer": "Himpsi Jaya adalah penerbit modul dan buku psikososial di Indonesia, termasuk PFA for All dan referensi keperawatan jiwa."
+    },
+    {
+      "id": null,
+      "query": "Apa itu UNESCO dalam konteks psikososial?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "UNESCO"
+      ],
+      "golden_answer": "UNESCO bekerja sama menerbitkan buku dukungan psikososial pasca gempa Lombok, memberikan panduan pendidikan darurat."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Olson dkk. Families?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Marriages and Families: Intimacy, Diversity, and Strengths (Olson et al., 2019)"
+      ],
+      "golden_answer": "Buku ini membahas dinamika keluarga, kekuatan, dan keragaman peran, bermanfaat untuk memahami ketangguhan keluarga."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana memperkuat imun melalui keluarga?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Imun",
+        "Ketangguhan Keluarga"
+      ],
+      "golden_answer": "Perawatan diri, istirahat, olahraga, dan makanan bergizi bersama keluarga meningkatkan daya tahan tubuh dan kesehatan jiwa."
+    },
+    {
+      "id": null,
+      "query": "Apa itu AMAN dalam 3M?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Aman"
+      ],
+      "golden_answer": "AMAN merujuk pada strategi berikutnya dari IMAN: menerapkan protokol kesehatan untuk mencegah penularan COVID-19."
+    },
+    {
+      "id": null,
+      "query": "Apa arti IMAN dalam ketangguhan keluarga?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Iman"
+      ],
+      "golden_answer": "IMAN adalah salah satu strategi ketangguhan keluarga, yaitu patuh pada protokol kesehatan, istirahat, dan kegiatan bermakna."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana beribadah memperkuat jiwa?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Beribadah",
+        "Ketangguhan Keluarga"
+      ],
+      "golden_answer": "Beribadah memberi ketenangan spiritual, rasa harapan, dan dukungan moral bagi keluarga dalam menghadapi ketidakpastian."
+    },
+    {
+      "id": null,
+      "query": "Apa itu relaksasi?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Relaksasi"
+      ],
+      "golden_answer": "Relaksasi adalah teknik menenangkan fisik dan pikiran, seperti pernapasan dalam atau meditasi ringan, untuk menurunkan stres."
+    },
+    {
+      "id": null,
+      "query": "Mengapa relaksasi membantu pandemi?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Relaksasi",
+        "Kesehatan Jiwa"
+      ],
+      "golden_answer": "Relaksasi mengurangi ketegangan otot dan pikiran, membantu seseorang merasa lebih tenang di tengah situasi tidak pasti."
+    },
+    {
+      "id": null,
+      "query": "Apa itu fokus pada hal positif?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Fokus pada Hal Positif"
+      ],
+      "golden_answer": "Fokus pada hal positif berarti sengaja mengalihkan perhatian pada keberhasilan kecil dan momen bahagia untuk memperbaiki suasana hati."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana pembatasan akses media bermanfaat?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Pembatasan Akses Media",
+        "Kesehatan Jiwa"
+      ],
+      "golden_answer": "Dengan membatasi berita negatif atau hoaks, kita mencegah overloading informasi dan menjaga kestabilan emosi keluarga."
+    },
+    {
+      "id": null,
+      "query": "Apa itu aktivitas bermakna bagi ketangguhan?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Kegiatan Bermakna"
+      ],
+      "golden_answer": "Kegiatan bermakna adalah aktivitas yang memberi manfaat bagi orang lain, misalnya menolong tetangga, yang meningkatkan semangat."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana menolong orang lain menguatkan jiwa?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Menolong Orang Lain",
+        "Ketangguhan Keluarga"
+      ],
+      "golden_answer": "Menolong memberi rasa makna dan kebahagiaan, meningkatkan mood dan ikatan sosial yang memperkuat keluarga."
+    },
+    {
+      "id": null,
+      "query": "Siapa Dr. Sonny Harry B Harmadi?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Dr. Sonny Harry B Harmadi"
+      ],
+      "golden_answer": "Dr. Sonny Harry B Harmadi adalah Ketua Bidang Perubahan Perilaku Satuan Tugas Penanganan COVID-19 Nasional."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana peran Satuan Tugas mempengaruhi keluarga?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Satuan Tugas Penanganan COVID-19 Nasional",
+        "Perubahan Perilaku"
+      ],
+      "golden_answer": "Satuan Tugas mengeluarkan pedoman dan edukasi perubahan perilaku agar keluarga bisa menjalankan protokol dengan baik."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Bidang Perubahan Perilaku STPC-19?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Bidang Perubahan Perilaku Satuan Tugas Penanganan COVID-19 Nasional"
+      ],
+      "golden_answer": "Bidang ini bertugas merancang strategi dan komunikasi untuk mengubah kebiasaan masyarakat demi mencegah COVID-19."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana perubahan perilaku membantu kesehatan jiwa?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Perubahan Perilaku",
+        "Kesehatan Jiwa"
+      ],
+      "golden_answer": "Dengan kebiasaan baru seperti 3M dan self-care, keluarga dapat merasa lebih aman dan mengelola kecemasan lebih baik."
+    },
+    {
+      "id": null,
+      "query": "Apa itu tanda bahaya kecenderungan bunuh diri?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Tanda bahaya kecenderungan bunuh diri"
+      ],
+      "golden_answer": "Tanda bahaya kecenderungan bunuh diri adalah perubahan drastis pada perilaku, suasana hati, atau penampilan yang mengindikasikan seseorang mungkin mempertimbangkan bunuh diri, seperti kehilangan harapan, menarik diri, atau melukai diri sendiri."
+    },
+    {
+      "id": null,
+      "query": "Apa yang dimaksud dengan rencana keselamatan dalam konteks pertolongan pertama psikologis?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Rencana Keselamatan",
+        "Pertolongan Pertama"
+      ],
+      "golden_answer": "Rencana keselamatan adalah kesepakatan antara Anda dan OKBD tentang langkah konkret untuk menjaga mereka tetap aman, misalnya siapa yang dihubungi, apa yang dilakukan saat muncul ide bunuh diri, dan cara mengurangi akses ke benda berbahaya."
+    },
+    {
+      "id": null,
+      "query": "Bisakah Anda menjelaskan arti \"melukai diri sendiri\"?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Melukai diri sendiri"
+      ],
+      "golden_answer": "Melukai diri sendiri adalah tindakan sengaja menyakiti tubuh—seperti mengiris, membakar, atau membenturkan kepala—untuk meredakan tekanan emosional, bukan semata untuk bunuh diri."
+    },
+    {
+      "id": null,
+      "query": "Apa pengertian NAPZA?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "NAPZA"
+      ],
+      "golden_answer": "NAPZA adalah singkatan dari Narkotika, Alkohol, Psikotropika, dan Zat Adiktif Lainnya; penggunaan berlebihan dapat memperbesar risiko seseorang merealisasikan ide bunuh diri."
+    },
+    {
+      "id": null,
+      "query": "Apa itu gangguan jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Gangguan jiwa"
+      ],
+      "golden_answer": "Gangguan jiwa adalah kondisi kesehatan mental yang memengaruhi pola pikir, emosi, dan perilaku, dan peningkatannya bisa menjadi faktor risiko untuk ide atau tindakan bunuh diri."
+    },
+    {
+      "id": null,
+      "query": "Apa yang dimaksud dengan gejala psikotik?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Gejala psikotik"
+      ],
+      "golden_answer": "Gejala psikotik meliputi halusinasi atau delusi—seperti mendengar suara—yang dapat memengaruhi cara seseorang berpikir dan berisiko terkait pikiran bunuh diri."
+    },
+    {
+      "id": null,
+      "query": "Saya ingin tahu apa itu pikiran bunuh diri.",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pikiran bunuh diri"
+      ],
+      "golden_answer": "Pikiran bunuh diri adalah ide atau hasrat untuk mengakhiri hidup, yang sering kali merupakan ungkapan rasa sakit atau keinginan untuk mengakhiri penderitaan emosional."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Pedoman pertolongan pertama psikologis pada upaya bunuh diri?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pedoman pertolongan pertama psikologis pada upaya bunuh diri"
+      ],
+      "golden_answer": "Itu adalah pedoman yang membantu anggota masyarakat memberi dukungan awal secara empatik kepada seseorang dengan kecenderungan bunuh diri sampai bantuan profesional tersedia."
+    },
+    {
+      "id": null,
+      "query": "Apa maksud dari \"stigma dan pandangan negatif tentang bunuh diri\"?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Stigma dan pandangan negatif tentang bunuh diri"
+      ],
+      "golden_answer": "Stigma dan pandangan negatif adalah sikap yang menghakimi bunuh diri, yang sering membuat orang enggan membuka diri atau mencari pertolongan ketika memiliki ide bunuh diri."
+    },
+    {
+      "id": null,
+      "query": "Apa itu puskesmas?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Puskesmas"
+      ],
+      "golden_answer": "Puskesmas adalah fasilitas kesehatan primer di Indonesia yang bisa memberi rujukan atau dukungan awal bagi orang dengan masalah kesehatan mental dan kecenderungan bunuh diri."
+    },
+    {
+      "id": null,
+      "query": "Saya mendengar tentang pusat krisis bunuh diri, apa itu?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pusat krisis bunuh diri"
+      ],
+      "golden_answer": "Pusat krisis bunuh diri adalah layanan yang menyediakan dukungan dan intervensi 24 jam bagi orang yang sedang mengalami ide atau risiko bunuh diri, melalui telepon, chat, atau tatap muka."
+    },
+    {
+      "id": null,
+      "query": "Apa peran profesional kesehatan jiwa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Profesional kesehatan jiwa"
+      ],
+      "golden_answer": "Profesional kesehatan jiwa—seperti psikolog atau psikiater—memberikan diagnosis, terapi, dan dukungan berkelanjutan untuk mengatasi ide bunuh diri atau kondisi mental yang mendasarinya."
+    },
+    {
+      "id": null,
+      "query": "Apa arti self-care setelah membantu OKBD?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Self-care"
+      ],
+      "golden_answer": "Self-care adalah praktik menjaga kesehatan mental diri sendiri—misalnya beristirahat atau mencari dukungan—setelah membantu orang dengan kecenderungan bunuh diri agar Anda juga tetap kuat."
+    },
+    {
+      "id": null,
+      "query": "Apa maksud \"persetujuan tidak bunuh diri\"?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Persetujuan tidak bunuh diri"
+      ],
+      "golden_answer": "Persetujuan tidak bunuh diri adalah komitmen dalam rencana keselamatan di mana OKBD setuju untuk tidak mencoba bunuh diri dan memberi kesempatan pada dukungan yang ada."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana pikiran bunuh diri terkait dengan perasaan kesepian dan terkucil?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Pikiran bunuh diri",
+        "Perasaan kesepian dan terkucil yang sangat kuat"
+      ],
+      "golden_answer": "Perasaan kesepian dan terkucil dapat membuat seseorang merasa tak ada yang peduli, sehingga pikiran bunuh diri muncul sebagai upaya mengakhiri rasa sakit emosional. Mengakui kesepian dan menawarkan kehadiran bisa membantu mengurangi pikiran tersebut."
+    },
+    {
+      "id": null,
+      "query": "Mengapa ketiadaan harapan akan masa depan dianggap tanda bahaya kecenderungan bunuh diri?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Ketiadaan harapan akan masa depan",
+        "Tanda bahaya kecenderungan bunuh diri"
+      ],
+      "golden_answer": "Ketika seseorang merasa tak ada harapan atau tujuan, mereka bisa kehilangan alasan untuk hidup, yang termasuk tanda bahaya kecenderungan bunuh diri. Mendengarkan dengan empati dan membantu mereka melihat potensi harapan kecil dapat menolong."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana perubahan drastis pada perilaku bisa menunjukkan kecenderungan bunuh diri?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Perubahan drastis pada perilaku, suasana hati, atau penampilan",
+        "Kecenderungan bunuh diri"
+      ],
+      "golden_answer": "Perubahan mendadak—seperti menarik diri, mood swings, atau penampilan tak terurus—bisa menandakan seseorang merasa putus asa. Mendekati mereka dengan penuh perhatian dapat membuka ruang untuk bicara dan mencegah tindakan lebih jauh."
+    },
+    {
+      "id": null,
+      "query": "Mengapa seseorang yang kehilangan minat pada hal-hal yang disenangi perlu diwaspadai?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Kehilangan minat pada hal-hal yang biasanya disenangi",
+        "Tanda bahaya kecenderungan bunuh diri"
+      ],
+      "golden_answer": "Hilangnya ketertarikan terhadap hobi atau aktivitas favorit dapat menandakan kehilangan rasa kehidupan, salah satu tanda bahaya bunuh diri. Menanyakan apa yang mereka rasakan dan menawarkan dukungan bisa membantu mengembalikan sedikit semangat."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana rencana keselamatan membantu menjaga OKBD tetap aman?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Rencana Keselamatan",
+        "Orang dengan kecenderungan bunuh diri (OKBD)"
+      ],
+      "golden_answer": "Rencana keselamatan memuat langkah konkret—seperti kontak darurat, strategi mengalihkan pikiran, dan mengamankan benda berbahaya—yang disepakati bersama OKBD agar mereka merasa didukung dan aman saat krisis muncul."
+    },
+    {
+      "id": null,
+      "query": "Mengapa menanyakan langsung tentang pikiran bunuh diri kepada OKBD itu penting?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Pikiran bunuh diri",
+        "Orang dengan kecenderungan bunuh diri (OKBD)"
+      ],
+      "golden_answer": "Menanyakan langsung memberi kesempatan bagi OKBD untuk membuka diri dan merasa didengar. Padahal, tanpa pertanyaan yang jelas, ide bunuh diri mungkin tersembunyi dan sulit diketahui sehingga dukungan tidak dapat segera diberikan."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana penggunaan alkohol bisa mempengaruhi kecenderungan bunuh diri?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Alkohol",
+        "Kecenderungan bunuh diri"
+      ],
+      "golden_answer": "Alkohol dapat menurunkan hambatan emosional dan meningkatkan impuls, sehingga risiko merealisasikan ide bunuh diri menjadi lebih tinggi. Mengurangi akses dan menawarkan bantuan alternatif bisa menyelamatkan nyawa."
+    },
+    {
+      "id": null,
+      "query": "Mengapa menghilangkan akses terhadap senjata penting dalam mencegah bunuh diri?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Senjata",
+        "Orang dengan kecenderungan bunuh diri (OKBD)"
+      ],
+      "golden_answer": "Mengamankan atau menjauhkan senjata mengurangi kemungkinan seseorang mengambil keputusan drastis di saat krisis. Ini memberi waktu dan ruang bagi mereka untuk berpikir ulang dan mencari bantuan."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana gejala psikotik dapat memengaruhi niat bunuh diri?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Gejala psikotik",
+        "Pikiran bunuh diri"
+      ],
+      "golden_answer": "Halusinasi atau suara yang mendorong bunuh diri bisa memperkuat ide bunuh diri. Jika seseorang menunjukkan gejala psikotik, penting bertanya tentang isi pikiran dan membantu mereka terhubung dengan profesional kesehatan jiwa."
+    },
+    {
+      "id": null,
+      "query": "Mengapa mengisolasi diri termasuk tanda bahaya kecenderungan bunuh diri?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Perubahan drastis pada perilaku, suasana hati, atau penampilan",
+        "Tanda bahaya kecenderungan bunuh diri"
+      ],
+      "golden_answer": "Menjauh dari keluarga dan teman bisa menunjukkan rasa putus asa atau keinginan mengakhiri hidup. Menyapa dengan sabar dan ajak bicara tanpa menekan dapat membantu mereka merasa ada yang peduli."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana kekerasan dalam hubungan dapat meningkatkan risiko bunuh diri pada wanita?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Kekerasan dalam hubungan/rumah tangga",
+        "Kecenderungan bunuh diri"
+      ],
+      "golden_answer": "Kekerasan dalam rumah tangga bisa memicu stres, kecemasan, dan perasaan terjebak, meningkatkan risiko bunuh diri. Memberi dukungan emosional dan membantu mengakses layanan bantuan adalah langkah penting."
+    },
+    {
+      "id": null,
+      "query": "Mengapa penting mencatat kontak 24 jam dalam rencana keselamatan?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Rencana Keselamatan",
+        "Saluran telepon pencegahan bunuh diri"
+      ],
+      "golden_answer": "Kontak 24 jam—misalnya pusat krisis atau saluran pencegahan—memberi OKBD akses cepat saat pikiran bunuh diri muncul. Ini menunjukkan mereka tidak sendiri dan selalu ada seseorang siap mendengar."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana canda tentang kematian di media sosial bisa jadi tanda bahaya bunuh diri?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Perilaku tidak biasa di media sosial",
+        "Tanda bahaya kecenderungan bunuh diri"
+      ],
+      "golden_answer": "Ucapan bercanda tentang kematian atau perubahan profil berwarna gelap bisa menjadi sinyal bahwa seseorang sedang mempertimbangkan bunuh diri. Menghubungi mereka dengan empati dan menanyakan kabar bisa menyelamatkan."
+    },
+    {
+      "id": null,
+      "query": "Mengapa mendengarkan tanpa menghakimi penting saat bertanya tentang ide bunuh diri?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Pikiran bunuh diri",
+        "Pertolongan Pertama"
+      ],
+      "golden_answer": "Mendengarkan tanpa menghakimi membuat OKBD merasa aman berbagi pikiran terdalamnya. Ini adalah inti pertolongan pertama psikologis untuk membangun kepercayaan dan memberi ruang bagi mereka menceritakan perasaan."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana peran self-care bagi penolong pertama setelah membantu OKBD?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Self-care",
+        "Anggota masyarakat"
+      ],
+      "golden_answer": "Self-care membantu penolong pulih secara emosional dan fisik setelah mendukung OKBD. Dengan merawat diri—misalnya istirahat atau bicara dengan teman—Anda akan tetap kuat untuk membantu orang lain."
+    },
+    {
+      "id": null,
+      "query": "Mengapa penting melibatkan keluarga dalam rencana keselamatan OKBD?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Rencana Keselamatan",
+        "Orang dengan kecenderungan bunuh diri (OKBD)"
+      ],
+      "golden_answer": "Keluarga memberikan dukungan berkelanjutan dan dapat memastikan OKBD tidak sendiri. Melibatkan mereka dalam rencana keselamatan menciptakan jaringan perlindungan yang membantu menjaga keselamatan OKBD."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana stigma tentang bunuh diri menghambat seseorang untuk mencari pertolongan?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Stigma dan pandangan negatif tentang bunuh diri",
+        "Hambatan komunikasi"
+      ],
+      "golden_answer": "Stigma membuat orang merasa malu atau takut dihakimi, sehingga menutup diri dan tidak menyampaikan pikiran bunuhnya. Mengurangi stigma dengan berbicara terbuka bisa mendorong mereka mencari bantuan."
+    },
+    {
+      "id": null,
+      "query": "Mengapa penting menanyakan rencana bunuh diri secara spesifik—bagaimana, kapan, dan di mana?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Kecenderungan bunuh diri",
+        "Percobaan bunuh diri"
+      ],
+      "golden_answer": "Pertanyaan spesifik membantu menilai seberapa matang rencana dan risiko nyata tindakan bunuh diri. Dengan memahami detailnya, Anda dapat bertindak lebih cepat dan tepat melibatkan upaya pencegahan."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana Pusat krisis bunuh diri berbeda dari IGD?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Pusat krisis bunuh diri",
+        "Layanan gawat darurat (IGD)"
+      ],
+      "golden_answer": "Pusat krisis fokus memberi dukungan psikologis 24 jam dan intervensi krisis, sedangkan IGD menangani keadaan darurat medis fisik. Keduanya penting, tapi pusat krisis lebih spesifik untuk ide bunuh diri."
+    },
+    {
+      "id": null,
+      "query": "Mengapa bantuan profesional dianjurkan segera saat seseorang memiliki ide bunuh diri?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Bantuan profesional",
+        "Pikiran bunuh diri"
+      ],
+      "golden_answer": "Profesional terlatih dapat menilai risiko, memberikan terapi, dan merumuskan rencana penanganan jangka panjang. Semakin cepat OKBD mendapatkan bantuan, semakin besar peluang pemulihan."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana hubungan antara keinginan bunuh diri dan perasaan tidak memiliki tujuan hidup?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Tidak memiliki alasan atau tujuan hidup",
+        "Pikiran bunuh diri"
+      ],
+      "golden_answer": "Saat seseorang merasa hidupnya tak berarti, ide bunuh diri dapat muncul sebagai jalan keluar. Membantu mereka menemukan tujuan kecil dan menghargai pencapaian bisa mengurangi pikiran tersebut."
+    },
+    {
+      "id": null,
+      "query": "Apa itu CPMH?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "CPMH"
+      ],
+      "golden_answer": "CPMH adalah singkatan dari Center for Public Mental Health yang didirikan pada 30 Januari 2010. CPMH berfungsi sebagai pusat kajian, pendidikan dan pelatihan, advokasi kebijakan, serta layanan di bidang kesehatan mental masyarakat. Semoga penjelasan ini membantu Anda memahami peran CPMH."
+    },
+    {
+      "id": null,
+      "query": "Apa arti kesehatan mental menurut CPMH?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Kesehatan Mental"
+      ],
+      "golden_answer": "Menurut CPMH dan Desjarlais, Eisenberg, Good & Kleinman (1995), kesehatan mental bukan hanya ketiadaan gangguan kejiwaan, tetapi juga kemampuan seseorang untuk mengaktualisasikan potensi diri, berfungsi secara aktif dan bermakna, serta berperan positif dalam keluarga dan masyarakat. Memahami hal ini penting untuk melihat kesehatan mental secara utuh."
+    },
+    {
+      "id": null,
+      "query": "Saya ingin tahu apa itu rehabilitasi dalam konteks kesehatan mental.",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Rehabilitasi"
+      ],
+      "golden_answer": "Rehabilitasi dalam konteks kesehatan mental adalah proses pemulihan yang membantu individu yang pernah mengalami masalah kejiwaan untuk kembali berfungsi secara optimal. Proses ini meliputi dukungan dan pelatihan agar mereka bisa kembali berperan di masyarakat dengan lebih percaya diri."
+    },
+    {
+      "id": null,
+      "query": "Apa yang dimaksud dengan pendidikan masyarakat di CPMH?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pendidikan Masyarakat"
+      ],
+      "golden_answer": "Pendidikan masyarakat di CPMH adalah kegiatan yang bertujuan meningkatkan kesadaran dan menumbuhkan komitmen terhadap pentingnya kesehatan mental. Melalui program ini, CPMH berharap masyarakat lebih paham dan aktif dalam menjaga kesejahteraan psikologisnya."
+    },
+    {
+      "id": null,
+      "query": "Apa fungsi advokasi kebijakan yang dilakukan CPMH?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pusat Advokasi Kebijakan Kesehatan Mental Masyarakat"
+      ],
+      "golden_answer": "Fungsi advokasi kebijakan yang dilakukan CPMH adalah mempengaruhi dan mendukung pembuatan kebijakan yang lebih peduli pada kesehatan mental masyarakat. Dengan upaya ini, CPMH membantu memastikan isu-isu kesehatan mental menjadi prioritas dalam perencanaan dan pengambilan keputusan pemerintah."
+    },
+    {
+      "id": null,
+      "query": "Siapa saja target yang dimediasi oleh CPMH?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Sivitas Akademika Fakultas Psikologi UGM",
+        "Masyarakat",
+        "Pengambil Kebijakan",
+        "Himpunan Profesi Kesehatan Mental",
+        "Lembaga Lain"
+      ],
+      "golden_answer": "CPMH berperan sebagai mediator bagi berbagai pihak, mulai dari sivitas akademika Fakultas Psikologi UGM, masyarakat umum, pengambil kebijakan, himpunan profesi kesehatan mental, hingga lembaga lain di dalam maupun luar negeri. Dengan begitu, ilmu dan pengalaman dapat tersalur dengan lebih efektif."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Manusia Indonesia dalam konteks dokumen?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Manusia Indonesia"
+      ],
+      "golden_answer": "Dalam dokumen ini, manusia Indonesia dianggap sebagai kekayaan bangsa dan aset terpenting untuk masa depan, terutama jika mereka sehat secara fisik dan mental. Pandangan ini menegaskan pentingnya investasi pada kesehatan mental setiap individu di Indonesia."
+    },
+    {
+      "id": null,
+      "query": "Apa yang dimaksud dengan pencegahan masalah kesehatan mental?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pencegahan Masalah Kesehatan Mental"
+      ],
+      "golden_answer": "Pencegahan masalah kesehatan mental adalah upaya untuk menghindari timbulnya gangguan kejiwaan dengan cara mewujudkan kondisi yang mendukung kesehatan mental. Ini termasuk program pendidikan, peningkatan kesadaran, dan intervensi awal sebelum masalah berkembang lebih serius."
+    },
+    {
+      "id": null,
+      "query": "Apa tujuan pembangunan kesehatan mental yang disebut di dokumen?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pertumbuhan Psikologis yang Sehat",
+        "Peningkatan Produktivitas Masyarakat",
+        "Peningkatan Keberfungsian Masyarakat",
+        "Peningkatan Kepuasan Hidup",
+        "Peningkatan Kesejahteraan Psikologis"
+      ],
+      "golden_answer": "Dokumen menyebut beberapa tujuan pembangunan kesehatan mental, antara lain mendorong pertumbuhan psikologis yang sehat, meningkatkan produktivitas dan keberfungsian masyarakat, serta menambah kepuasan hidup dan kesejahteraan psikologis di berbagai aspek kehidupan. Semua tujuan ini saling terkait untuk menciptakan masyarakat yang sejahtera."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana CPMH memfasilitasi sivitas akademika Fakultas Psikologi UGM?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "CPMH",
+        "Sivitas Akademika Fakultas Psikologi UGM"
+      ],
+      "golden_answer": "CPMH memfasilitasi sivitas akademika Fakultas Psikologi UGM dengan menyediakan akses ke pusat kajian, pendidikan, pelatihan, serta kesempatan untuk terlibat dalam advokasi kebijakan dan layanan kesehatan mental masyarakat. Dengan dukungan ini, akademisi dapat mengembangkan ilmu dan profesinya demi kesejahteraan bersama."
+    },
+    {
+      "id": null,
+      "query": "Mengapa kesehatan mental penting bagi pembangunan bangsa?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Kesehatan Mental",
+        "Manusia Indonesia",
+        "UNDP"
+      ],
+      "golden_answer": "Kesehatan mental penting bagi pembangunan bangsa karena manusia Indonesia yang sehat secara fisik dan mental dianggap sebagai aset terpenting oleh UNDP (2010). Ketika setiap individu mampu berfungsi secara aktif dan bermakna, hal ini akan berdampak positif pada kemajuan sosial, ekonomi, dan budaya suatu negara."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana hubungan antara kesehatan mental dan kesehatan fisik?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Kesehatan Mental",
+        "Kesehatan Fisik"
+      ],
+      "golden_answer": "Dokumen menekankan bahwa kesehatan mental dan fisik harus dibangun secara berimbang. Menjaga kesehatan mental membantu individu untuk hidup lebih aktif dan bermakna, yang pada gilirannya mendukung kondisi fisik yang lebih baik, dan sebaliknya."
+    },
+    {
+      "id": null,
+      "query": "Mengapa pendidikan masyarakat penting dalam pembangunan kesehatan mental?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Pendidikan Masyarakat",
+        "Penyadaran dan Penumbuhan Komitmen terhadap Kesehatan Mental"
+      ],
+      "golden_answer": "Pendidikan masyarakat penting karena dapat meningkatkan penyadaran dan penumbuhan komitmen terhadap kesehatan mental. Dengan pemahaman yang lebih baik, individu dan komunitas lebih siap mencegah dan menghadapi masalah kesehatan mental secara proaktif."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana CPMH melakukan advokasi kebijakan?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "CPMH",
+        "Pusat Advokasi Kebijakan Kesehatan Mental Masyarakat"
+      ],
+      "golden_answer": "CPMH melakukan advokasi kebijakan melalui Pusat Advokasi Kebijakan Kesehatan Mental Masyarakat yang berdialog dengan pengambil kebijakan dan lembaga terkait. Tujuannya adalah memastikan kebijakan publik lebih responsif terhadap kebutuhan kesehatan mental masyarakat."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana peran ilmu dan profesi psikologi dalam rehabilitasi?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Ilmu dan Profesi Psikologi",
+        "Rehabilitasi"
+      ],
+      "golden_answer": "Ilmu dan profesi psikologi berperan dalam rehabilitasi dengan menyediakan teori, metode, dan intervensi yang membantu individu pulih dari masalah kejiwaan. Psikolog dapat bekerja bersama pasien untuk membangun keterampilan koping dan mendukung proses pemulihan."
+    },
+    {
+      "id": null,
+      "query": "Mengapa penanganan masalah kesehatan mental perlu dilakukan bersamaan dengan rehabilitasi dan pemulihan?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Penanganan Masalah Kesehatan Mental",
+        "Rehabilitasi",
+        "Pemulihan"
+      ],
+      "golden_answer": "Dokumen menjelaskan bahwa penanganan masalah kesehatan mental harus meliputi pencegahan, intervensi, serta proses rehabilitasi dan pemulihan agar dukungan bersifat menyeluruh. Pendekatan ini membantu individu tidak hanya pulih dari gejala, tetapi juga kembali berfungsi dalam kehidupan sehari-hari."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana CPMH berperan sebagai mediator antara akademisi dan masyarakat?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "CPMH",
+        "Sivitas Akademika Fakultas Psikologi UGM",
+        "Masyarakat"
+      ],
+      "golden_answer": "CPMH bertindak sebagai mediator dengan menghubungkan sivitas akademika Fakultas Psikologi UGM yang memiliki keahlian penelitian dan praktis, dengan masyarakat yang menjadi penerima manfaat. Cara ini memfasilitasi transfer pengetahuan dan kolaborasi untuk meningkatkan kesehatan mental komunitas."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana pembangunan kesehatan mental dapat meningkatkan produktivitas dan keberfungsian masyarakat?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Peningkatan Produktivitas Masyarakat",
+        "Peningkatan Keberfungsian Masyarakat"
+      ],
+      "golden_answer": "Dengan fokus pada pembangunan kesehatan mental, individu memperoleh kesejahteraan psikologis yang memungkinkan mereka untuk bekerja lebih efektif dan mengambil peran positif dalam komunitas. Hal ini berkontribusi pada peningkatan produktivitas dan keberfungsian masyarakat secara keseluruhan."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Chatbot Lintang?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Chatbot Lintang"
+      ],
+      "golden_answer": "Chatbot Lintang adalah sebuah chatbot kesehatan mental yang dikembangkan oleh Pokja Health Literacy Health Promoting University (HPU) Universitas Gadjah Mada untuk melakukan skrining masalah kesehatan mental dan memberikan pertolongan pertama psikologis secara online."
+    },
+    {
+      "id": null,
+      "query": "Bisakah Anda jelaskan apa itu Psikoedukasi?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Psikoedukasi"
+      ],
+      "golden_answer": "Psikoedukasi adalah fitur Chatbot Lintang yang menyediakan informasi penting tentang kesehatan mental, termasuk penjelasan mengenai gangguan, gejala, dan langkah bantuan diri (self-help) yang dapat dilakukan pengguna."
+    },
+    {
+      "id": null,
+      "query": "Apa yang dimaksud dengan Swaperiksa?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Swaperiksa"
+      ],
+      "golden_answer": "Swaperiksa adalah fitur pada Chatbot Lintang yang memungkinkan Anda melakukan skrining atau evaluasi awal terkait kesehatan mental melalui serangkaian pertanyaan terstruktur."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Pertolongan Pertama Psikologis (Psychological First Aid)?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pertolongan Pertama Psikologis (Psychological First Aid)"
+      ],
+      "golden_answer": "Pertolongan Pertama Psikologis (Psychological First Aid) adalah dukungan awal yang diberikan kepada individu yang mengalami kesulitan emosional, berupa panduan menenangkan diri dan langkah awal pengelolaan stres."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana Chatbot Lintang bisa membantu mengelola stres?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Chatbot Lintang",
+        "Stres",
+        "Tips Kesehatan Mental"
+      ],
+      "golden_answer": "Saya memahami stres bisa terasa menekan. Chatbot Lintang menyediakan fitur Tips Kesehatan Mental yang mencakup saran relaksasi, teknik manajemen stres, dan promosi kesejahteraan emosional untuk membantu Anda merasa lebih tenang dan terkontrol."
+    },
+    {
+      "id": null,
+      "query": "Mengapa Algoritma Pemrosesan Bahasa Alami penting untuk Lintang?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Algoritma Pemrosesan Bahasa Alami",
+        "Chatbot Lintang"
+      ],
+      "golden_answer": "Algoritma Pemrosesan Bahasa Alami memungkinkan Chatbot Lintang memahami dan merespons masukan teks Anda dengan lebih akurat, sehingga interaksi terasa lebih personal dan sesuai kebutuhan."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana kecerdasan buatan diterapkan oleh Chatbot Lintang?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Kecerdasan Buatan",
+        "Chatbot Lintang"
+      ],
+      "golden_answer": "Chatbot Lintang menggunakan kecerdasan buatan untuk memproses input Anda, mengenali pola keluhan kesehatan mental, dan memberikan saran atau rekomendasi yang relevan secara otomatis."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana fitur Direktori Layanan membantu pengguna mencari bantuan profesional?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Direktori Layanan",
+        "Chatbot Lintang"
+      ],
+      "golden_answer": "Direktori Layanan pada Chatbot Lintang menyediakan informasi kontak dan detail layanan kesehatan mental di lingkungan UGM, sehingga Anda dapat menemukan dukungan profesional yang sesuai dengan kebutuhan."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Tips Kesehatan Mental?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Tips Kesehatan Mental"
+      ],
+      "golden_answer": "Tips Kesehatan Mental adalah fitur Chatbot Lintang yang menawarkan saran praktis seperti teknik relaksasi, latihan pernapasan, dan cara mengelola emosi untuk meningkatkan kesehatan mental sehari-hari."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana Chatbot Lintang melakukan skrining masalah kesehatan mental melalui Swaperiksa?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Chatbot Lintang",
+        "Swaperiksa",
+        "Skrining Masalah Kesehatan Mental"
+      ],
+      "golden_answer": "Melalui fitur Swaperiksa, Chatbot Lintang memberikan serangkaian pertanyaan yang dirancang untuk melakukan skrining masalah kesehatan mental awal, sehingga Anda bisa memahami level keparahan kondisinya."
+    },
+    {
+      "id": null,
+      "query": "Mengapa pengguna dengan masalah parah perlu dihubungkan dengan Crisis Center UGM?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Crisis Center UGM",
+        "Chatbot Lintang"
+      ],
+      "golden_answer": "Jika skrining menunjukkan masalah yang mengganggu kehidupan sehari-hari secara signifikan, Chatbot Lintang akan merekomendasikan menghubungi Crisis Center UGM agar Anda mendapatkan penanganan darurat yang tepat."
+    },
+    {
+      "id": null,
+      "query": "Jelaskan tentang Klinik GMC (Mental Health Support).",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Klinik GMC (Mental Health Support)"
+      ],
+      "golden_answer": "Klinik GMC (Mental Health Support) adalah penyedia dukungan kesehatan mental di lingkungan UGM. Anda dapat menghubungi Psikolog kami di +62 813-2620-0342 atau layanan umum di +62 851-0047-3123."
+    },
+    {
+      "id": null,
+      "query": "Apa itu Mental Health Emergency Response Line (MHERL)?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Mental Health Emergency Response Line (MHERL)"
+      ],
+      "golden_answer": "MHERL adalah layanan tanggap darurat kesehatan mental dari Unit Konsultasi Psikologi Fakultas Psikologi UGM, menyediakan dukungan segera melalui telepon di +62 813-2952-0052."
+    },
+    {
+      "id": null,
+      "query": "Apa fungsi Portal SINTESIS dalam layanan psikologi?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Portal SINTESIS"
+      ],
+      "golden_answer": "Portal SINTESIS adalah platform online yang digunakan untuk registrasi layanan konsultasi psikologi Fakultas Ekonomika dan Bisnis UGM melalui form yang tersedia."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana sivitas bisa mengakses Layanan Psikologi Fakultas Teknik UGM?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Layanan Psikologi Fakultas Teknik UGM",
+        "Universitas Gadjah Mada (UGM)"
+      ],
+      "golden_answer": "Sivitas Fakultas Teknik UGM dapat mengakses layanan psikologi dengan menghubungi nomor +62 813-2593-4202 atau mengisi form registrasi yang disediakan untuk civitas."
+    },
+    {
+      "id": null,
+      "query": "Apa hubungan antara Rumah Sakit Akademik UGM dan Chatbot Lintang?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Rumah Sakit Akademik UGM (RSA UGM)",
+        "Chatbot Lintang"
+      ],
+      "golden_answer": "Chatbot Lintang dapat merekomendasikan pengguna menghubungi Rumah Sakit Akademik UGM (RSA UGM) jika skrining menunjukkan kebutuhan penanganan profesional lebih lanjut."
+    },
+    {
+      "id": null,
+      "query": "Apa yang dimaksud dengan Universitas Gadjah Mada (UGM)?",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Universitas Gadjah Mada (UGM)"
+      ],
+      "golden_answer": "Universitas Gadjah Mada (UGM) adalah institusi pendidikan di Indonesia yang menaungi Pokja HPU serta berbagai layanan kesehatan mental termasuk Chatbot Lintang."
+    },
+    {
+      "id": null,
+      "query": "Mengapa kebijakan privasi penting untuk Situs Web Lintang?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Kebijakan Privasi",
+        "Situs Web Lintang"
+      ],
+      "golden_answer": "Kebijakan Privasi menjelaskan penggunaan cookie di Situs Web Lintang agar pengguna memahami bagaimana data mereka dikelola demi pengalaman terbaik dan aman."
+    },
+    {
+      "id": null,
+      "query": "Jelaskan apa itu Pokja Health Literacy Health Promoting University (HPU) Universitas Gadjah Mada.",
+      "query_lable": "entity_query",
+      "golden_nodes": [
+        "Pokja Health Literacy Health Promoting University (HPU) Universitas Gadjah Mada"
+      ],
+      "golden_answer": "Pokja Health Literacy HPU adalah kelompok kerja di UGM yang bertanggung jawab mengembangkan Chatbot Lintang untuk meningkatkan literasi dan akses layanan kesehatan mental."
+    },
+    {
+      "id": null,
+      "query": "Bagaimana Chatbot Lintang memberikan pertolongan pertama psikologis?",
+      "query_lable": "path_query",
+      "golden_nodes": [
+        "Chatbot Lintang",
+        "Pertolongan Pertama Psikologis (Psychological First Aid)"
+      ],
+      "golden_answer": "Chatbot Lintang menawarkan modul pertolongan pertama psikologis yang memberikan panduan menenangkan diri, serta teknik coping ringan yang dapat Anda coba segera."
+    }
+  ]
+}

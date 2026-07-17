@@ -1,0 +1,15 @@
+{
+    "name": "Two Weeks Notice (You Gave to Negativity?)",
+    "description": "Awarded for maintaining a 14-day consecutive activity streak.",
+    "image": "ipfs://bafybeidzdbsjft24ujpcn77hfkbhom7tmo5i5p2aqfsig2vtxvt3kd7jbu/two_weeks_notice_you_gave_to_negativity.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Category",
+        "value": "Streak"
+      },
+      {
+        "trait_type": "Duration",
+        "value": "14 Days"
+      }
+    ]
+  }

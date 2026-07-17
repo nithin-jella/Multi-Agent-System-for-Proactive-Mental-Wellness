@@ -1,0 +1,15 @@
+{
+    "name": "Triple Threat (of Thoughts!)",
+    "description": "Awarded for recording activity (journal or chat) on 3 separate days.",
+    "image": "ipfs://bafybeidzdbsjft24ujpcn77hfkbhom7tmo5i5p2aqfsig2vtxvt3kd7jbu/triple_threat_of_thoughts.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Category",
+        "value": "Consistency"
+      },
+      {
+        "trait_type": "Milestone",
+        "value": "3 Active Days"
+      }
+    ]
+  }

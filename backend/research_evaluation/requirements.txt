@@ -1,0 +1,13 @@
+pandas
+matplotlib
+seaborn
+scikit-learn
+requests
+sqlalchemy
+nest_asyncio
+psycopg[binary]
+passlib[bcrypt]
+python-dotenv
+asyncpg
+tqdm
+nbformat>=4.2.0

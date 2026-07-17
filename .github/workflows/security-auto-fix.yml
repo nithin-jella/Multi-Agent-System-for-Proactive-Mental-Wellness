@@ -1,0 +1,317 @@
+name: Auto-Fix Security Vulnerabilities
+
+on:
+  schedule:
+    # Run daily at 2 AM UTC
+    - cron: '0 2 * * *'
+  workflow_dispatch: # Allow manual triggering
+  push:
+    paths:
+      - 'backend/requirements.txt'
+      - 'frontend/package.json'
+      - 'frontend/package-lock.json'
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  scan-and-fix-python:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          pip install pip-audit safety
+        working-directory: ./backend
+
+      - name: Scan for Python vulnerabilities with Trivy
+        id: trivy-python
+        uses: aquasecurity/trivy-action@master
+        with:
+          scan-type: 'fs'
+          scan-ref: './backend'
+          format: 'json'
+          output: 'trivy-python-results.json'
+          severity: 'HIGH,CRITICAL'
+          exit-code: '0' # Don't fail, we want to process results
+
+      - name: Parse Trivy results and update requirements.txt
+        id: parse-fix
+        run: |
+          python3 << 'EOF'
+          import json
+          import re
+          import sys
+          from pathlib import Path
+
+          # Read Trivy results
+          try:
+              with open('trivy-python-results.json', 'r') as f:
+                  results = json.load(f)
+          except FileNotFoundError:
+              print("No Trivy results found")
+              sys.exit(0)
+
+          # Extract vulnerable packages
+          vulnerabilities = {}
+          if 'Results' in results:
+              for result in results['Results']:
+                  if result.get('Type') == 'python-pkg' and 'Vulnerabilities' in result:
+                      for vuln in result['Vulnerabilities']:
+                          pkg_name = vuln.get('PkgName')
+                          installed_version = vuln.get('InstalledVersion')
+                          fixed_version = vuln.get('FixedVersion')
+                          vuln_id = vuln.get('VulnerabilityID')
+                          severity = vuln.get('Severity')
+                          
+                          if pkg_name and fixed_version and fixed_version != '':
+                              if pkg_name not in vulnerabilities:
+                                  vulnerabilities[pkg_name] = {
+                                      'current': installed_version,
+                                      'fixed': fixed_version,
+                                      'cves': [],
+                                      'severity': severity
+                                  }
+                              vulnerabilities[pkg_name]['cves'].append(vuln_id)
+
+          if not vulnerabilities:
+              print("No fixable vulnerabilities found")
+              with open('has_changes.txt', 'w') as f:
+                  f.write('false')
+              sys.exit(0)
+
+          # Read requirements.txt
+          req_file = Path('backend/requirements.txt')
+          with open(req_file, 'r') as f:
+              lines = f.readlines()
+
+          # Update requirements.txt
+          updated_lines = []
+          changes_made = []
+          
+          for line in lines:
+              updated = False
+              for pkg_name, info in vulnerabilities.items():
+                  # Match package name (case-insensitive, handle extras like [cryptography])
+                  pattern = rf'^({re.escape(pkg_name)}(?:\[[\w,]+\])?)\s*([=<>!]=?)\s*([\d\.]+.*?)(\s*#.*)?$'
+                  match = re.match(pattern, line.strip(), re.IGNORECASE)
+                  
+                  if match:
+                      pkg_with_extras = match.group(1)
+                      current_version = match.group(3)
+                      comment = match.group(4) or ''
+                      
+                      # Add CVE info to comment
+                      cve_list = ', '.join(info['cves'])
+                      new_comment = f"  # Updated to fix {cve_list}"
+                      
+                      # Update to minimum version requirement
+                      new_line = f"{pkg_with_extras}>={info['fixed']}{new_comment}\n"
+                      updated_lines.append(new_line)
+                      changes_made.append(f"- {pkg_name}: {current_version} → >={info['fixed']} ({cve_list})")
+                      updated = True
+                      break
+              
+              if not updated:
+                  updated_lines.append(line)
+
+          # Write updated requirements.txt
+          if changes_made:
+              with open(req_file, 'w') as f:
+                  f.writelines(updated_lines)
+              
+              # Write change summary
+              with open('changes_summary.txt', 'w') as f:
+                  f.write('\n'.join(changes_made))
+              
+              with open('has_changes.txt', 'w') as f:
+                  f.write('true')
+              
+              print("Updated packages:")
+              print('\n'.join(changes_made))
+          else:
+              with open('has_changes.txt', 'w') as f:
+                  f.write('false')
+          EOF
+
+      - name: Check if changes were made
+        id: check-changes
+        run: |
+          if [ -f has_changes.txt ] && [ "$(cat has_changes.txt)" = "true" ]; then
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            if [ -f changes_summary.txt ]; then
+              echo "CHANGES<<EOF" >> $GITHUB_OUTPUT
+              cat changes_summary.txt >> $GITHUB_OUTPUT
+              echo "EOF" >> $GITHUB_OUTPUT
+            fi
+          else
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Create Pull Request
+        if: steps.check-changes.outputs.has_changes == 'true' && github.event.repository.fork == false
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: |
+            🔒 security: Auto-fix Python dependency vulnerabilities
+            
+            ${{ steps.check-changes.outputs.CHANGES }}
+          branch: security/auto-fix-python-deps
+          delete-branch: true
+          title: '🔒 [Security] Auto-fix Python dependency vulnerabilities'
+          body: |
+            ## 🔒 Security Vulnerability Auto-Fix
+            
+            This PR automatically updates Python dependencies to fix security vulnerabilities detected by Trivy.
+            
+            ### Changes Made:
+            ${{ steps.check-changes.outputs.CHANGES }}
+            
+            ### Next Steps:
+            - [ ] Review the changes
+            - [ ] Test the application with updated dependencies
+            - [ ] Merge if all tests pass
+            
+            ### Testing Checklist:
+            - [ ] Backend tests pass
+            - [ ] Application starts without errors
+            - [ ] Authentication still works (python-jose update)
+            - [ ] File uploads work (python-multipart update)
+            - [ ] Gemini API integration works (no ML dependencies)
+            
+            ---
+            🤖 Auto-generated by GitHub Actions
+          labels: |
+            security
+            dependencies
+            automated
+          assignees: ${{ github.repository_owner }}
+
+  scan-and-fix-npm:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Scan for NPM vulnerabilities with Trivy
+        id: trivy-npm
+        uses: aquasecurity/trivy-action@master
+        with:
+          scan-type: 'fs'
+          scan-ref: './frontend'
+          format: 'json'
+          output: 'trivy-npm-results.json'
+          severity: 'HIGH,CRITICAL'
+          exit-code: '0'
+
+      - name: Run npm audit fix
+        id: npm-fix
+        run: |
+          cd frontend
+          
+          # Check for vulnerabilities
+          if npm audit --json > audit-results.json 2>&1; then
+            echo "No vulnerabilities found"
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+          
+          # Attempt automatic fix
+          npm audit fix --force || true
+          
+          # Check if package-lock.json changed
+          if git diff --quiet package-lock.json; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            
+            # Generate summary
+            echo "CHANGES<<EOF" >> $GITHUB_OUTPUT
+            echo "NPM dependencies updated via \`npm audit fix\`" >> $GITHUB_OUTPUT
+            git diff package-lock.json | grep -E "^\+.*\"version\":" | head -10 >> $GITHUB_OUTPUT || true
+            echo "EOF" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Create Pull Request for NPM fixes
+        if: steps.npm-fix.outputs.has_changes == 'true' && github.event.repository.fork == false
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: |
+            🔒 security: Auto-fix NPM dependency vulnerabilities
+            
+            ${{ steps.npm-fix.outputs.CHANGES }}
+          branch: security/auto-fix-npm-deps
+          delete-branch: true
+          title: '🔒 [Security] Auto-fix NPM dependency vulnerabilities'
+          body: |
+            ## 🔒 Security Vulnerability Auto-Fix (NPM)
+            
+            This PR automatically updates NPM dependencies to fix security vulnerabilities.
+            
+            ### Changes Made:
+            ${{ steps.npm-fix.outputs.CHANGES }}
+            
+            ### Next Steps:
+            - [ ] Review the changes
+            - [ ] Test the frontend build
+            - [ ] Merge if all tests pass
+            
+            ### Testing Checklist:
+            - [ ] `npm run build` succeeds
+            - [ ] `npm test` passes
+            - [ ] Frontend loads without errors
+            
+            ---
+            🤖 Auto-generated by GitHub Actions
+          labels: |
+            security
+            dependencies
+            automated
+          assignees: ${{ github.repository_owner }}
+
+  notify-on-failure:
+    runs-on: ubuntu-latest
+    needs: [scan-and-fix-python, scan-and-fix-npm]
+    if: failure()
+    steps:
+      - name: Create Issue for Failed Auto-Fix
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issue = await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: '🔒 [Security] Auto-fix workflow failed',
+              body: `## Security Auto-Fix Workflow Failed
+              
+              The automated security vulnerability fix workflow has encountered an error.
+              
+              **Workflow Run:** ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+              
+              Please review the workflow logs and fix the issues manually.
+              
+              ---
+              🤖 Auto-generated by GitHub Actions`,
+              labels: ['security', 'bug', 'automated']
+            });

@@ -1,0 +1,52 @@
+# BAB IV PENCATATAN DAN PELAPORAN
+Pencatatan dan pelaporan merupakan salah satu bagian penting dalam pelaksanaan program kesehatan termasukpencegahan dan pengendalian GME. Output dari pencatatan dan pelaporan adalah data yang selanjutnya dianalisis menjadi sebuah informasi untuk mengetahui capaian pelaksanaan program. Pencatatan dan pelaporan dilakukan secara berjenjang mulai dari FKTP, Dinas Kesehatan Kabupaten/Kota, Dinas Kesehatan Provinsi dan Kementerian Kesehatan.
+Pencatatan dan Pelaporan di FKTP/Puskesmas
+Pencatatan dilakukan bagi penduduk yang berdomisili di wilayah kerja FKTP/Puskesmas setempat. Karena harus dilakukan promosi kesehatan, penanganan awal, dan/atau rujukan dan/ atau penanganan lanjutan. Untuk penderita yang berdomisili diluar wilayah kerja FKTP, yang memeriksakan diri dan memenuhi kriteria GME maka di berikan penanganan sesuai hasil pemeriksaan, tetapi yang bersangkutan tidak dicatat dan tidak dilaporkan sebagai hasil capaian FKTP tersebut.
+Beberapa hal yang perlu dicatat oleh pelaksana kegiatan dalam rangka upaya promotif dan preventif yaitu :
+Jenis kegiatan, waktu pelaksanaan, sasaran/peserta dan hasil
+Kegiatan deteksi dini: jumlah penduduk usia > 15 tahun yang dideteksi dini menggunakan instrumen SRQ 20 dan SDQ, hasil deteksi dini dan tindak lanjut.
+Skrining dengan SDQ atau SRQ 20 terhadap penduduk
+>15 tahun dilakukan sekali selama 1 tahun kalender, hasil
+skrining yang memenuhi kriteria GME selanjutnya dilaporkan
+Layanan yang diberikan: promosi kesehatan (edukasi), prevensi, konseling, penanganan awal dan rujukan.
+Jumlah penderita GME usia >15 tahun yang mendaptkan layanan
+Rekapitulasi data dari kegiatan yang dilakukan di dalam dan luar gedung, pengolahan data dan pelaporan perbulan dikirimkan ke Dinas Kesehatan kabupaten/kota.
+Pencatatan dan Pelaporan di Dinas Kesehatan
+Dinas Kesehatan Kabupaten/Kota melakukan rekapitulasi data dari Puskesmas.
+Hasil rekapitulasi dianalisis kemudian disampaikan sebagai umpan balik ke Puskesmas dan dilaporkan ke Dinas Kesehatan Provinsi setiap bulan
+Dinas Kesehatan Provinsi melakukan kompilasi laporan dari Dinas Kesehatan Kabupaten/Kota
+Hasil kompilasi dilaporkan ke Kementerian Kesehatan setiap 3 (tiga) bulan dan dianalisis untuk disampaikan sebagai umpan balik ke Kabupaten/Kota.
+Pelaporan dari organisasi profesi /lintas sektor/lembaga non pemerintah yang melakukan deteksi dini di komunitas
+Organisasi profesi/lintas sektor/ lembaga non pemerintah dapat melakukan kegiatan dalam rangka upaya promotif dan preventif pencegahan dan pengendalian GME. Dalam melakukan kegiatan tersebut perlu bekerja sama dengan Dinas Kesehatan Kab/Kota setempat dan melaporkan hasil kegiatannya kepada Dinas Kesehatan Kab/Kota.
+Alur pencatatan dan pelaporan
+Format Pencatatan dan Pelaporan
+Format Pencatatan Kegiatan Promotif Bagi Penderita GME dan Non GME
+
+| No | Kegiatan | Waktu | Tempat | Sasaran/Peserta | Pelaksana | Hasil |
+| --- | -------- | ----- | ------ | --------------- | --------- | ----- |
+
+Pilihan jenis kegiatan promotif (sesuai Tabel Pelaksanaan Kegiatan Promosi Kesehatan di Bab 3)
+Penyuluhan kegiatan, pemberian materi
+Deteksi dini dengan SRQ/SDQ. Tuliskan jumlah kuesioner yang diisi.
+Pelatihan tenaga kesehatan tentang kesehatan jiwa
+Pelatihan tenaga non kesehatan a.l. kader, guru, pekerja sosial, petugas panti
+Pembentukan kelurahan sehat jiwa, tempat kerja sehat jiwa,
+Pembentukan kelompok swa bantu, kelompok dukungan (support group)
+Lainnya, sebutkan .
+Format Pencatatan Kegiatan Preventif
+Kunjungan pasien GME ke FKTP (lembar laporan disesuaikan dengan yang tersedia di FKTP/puskesmas
+
+| No | Nama pasien | Alamat | Usia | Waktu | Kegiatan preventif yang dilakukan | Pelaksana | Hasil |
+| --- | ----------- | ------ | ---- | ----- | --------------------------------- | --------- | ----- |
+
+Pilihan jenis kegiatan preventif (lihat lampiran)
+Mengurangi faktor risiko: biologis, psikologis, sosial
+Mengurangi tanda dan gejala GME
+Pemeriksaan lanjutan multidisiplin
+Format Pelaporan Indikator GME
+PELAPORAN INDIKATOR PERSENTASE PENDERITA GME PADA PENDUDUK > 15 TAHUN YANG MENDAPAT LAYANAN
+Puskesmas :
+Kab/Kota : Bulan :
+Provinsi: Tahun :
+*Instrumen SDQ yang digunakan SDQ 11-18 th
+** Layanan yang dimaksud adalah promosi kesehatan, dan/atau prevensi, dan/atau konseling, dan/atau penanganan awal, dan/atau rujukan, dan/atau penanganan lanjutan

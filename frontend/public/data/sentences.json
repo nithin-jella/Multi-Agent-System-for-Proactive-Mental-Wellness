@@ -1,0 +1,214 @@
+{
+  "sentences": [
+    {
+      "id": "affirmation-001",
+      "text_en": "I am capable of handling challenges with grace and strength.",
+      "text_id": "Saya mampu menghadapi tantangan dengan tenang dan kuat.",
+      "difficulty": 1,
+      "category": "Affirmations"
+    },
+    {
+      "id": "affirmation-002",
+      "text_en": "Every setback is a setup for a comeback.",
+      "text_id": "Setiap kemunduran adalah persiapan untuk bangkit kembali.",
+      "difficulty": 1,
+      "category": "Affirmations"
+    },
+    {
+      "id": "affirmation-003",
+      "text_en": "I choose to focus on what I can control and let go of what I cannot.",
+      "text_id": "Saya memilih untuk fokus pada hal yang bisa saya kendalikan.",
+      "difficulty": 2,
+      "category": "Affirmations"
+    },
+    {
+      "id": "affirmation-004",
+      "text_en": "My worth is not determined by my productivity or achievements.",
+      "text_id": "Nilai diri saya tidak ditentukan oleh produktivitas atau pencapaian saya.",
+      "difficulty": 3,
+      "category": "Affirmations"
+    },
+    {
+      "id": "affirmation-005",
+      "text_en": "I give myself permission to rest and recharge without guilt.",
+      "text_id": "Saya mengizinkan diri saya untuk beristirahat tanpa rasa bersalah.",
+      "difficulty": 2,
+      "category": "Affirmations"
+    },
+    {
+      "id": "coping-001",
+      "text_en": "When I feel overwhelmed, I take three deep breaths and center myself.",
+      "text_id": "Ketika saya merasa kewalahan, saya mengambil tiga napas dalam dan memusatkan diri.",
+      "difficulty": 3,
+      "category": "Coping"
+    },
+    {
+      "id": "coping-002",
+      "text_en": "I can name my emotions: anxious, frustrated, hopeful, calm.",
+      "text_id": "Saya bisa menyebutkan emosi saya: cemas, frustrasi, penuh harapan, tenang.",
+      "difficulty": 2,
+      "category": "Coping"
+    },
+    {
+      "id": "coping-003",
+      "text_en": "Taking a walk outside helps me gain perspective on my problems.",
+      "text_id": "Berjalan-jalan di luar membantu saya mendapatkan perspektif tentang masalah saya.",
+      "difficulty": 3,
+      "category": "Coping"
+    },
+    {
+      "id": "coping-004",
+      "text_en": "I reach out to friends and family when I need support and connection.",
+      "text_id": "Saya menghubungi teman dan keluarga ketika saya membutuhkan dukungan.",
+      "difficulty": 4,
+      "category": "Coping"
+    },
+    {
+      "id": "coping-005",
+      "text_en": "Writing in my journal helps me process difficult thoughts and feelings.",
+      "text_id": "Menulis di jurnal membantu saya memproses pikiran dan perasaan yang sulit.",
+      "difficulty": 3,
+      "category": "Coping"
+    },
+    {
+      "id": "cbt-001",
+      "text_en": "I acknowledge my feelings without letting them control my actions.",
+      "text_id": "Saya mengakui perasaan saya tanpa membiarkan mereka mengendalikan tindakan saya.",
+      "difficulty": 4,
+      "category": "CBT"
+    },
+    {
+      "id": "cbt-002",
+      "text_en": "My thoughts are not facts; they are just mental events that come and go.",
+      "text_id": "Pikiran saya bukan fakta; mereka hanya peristiwa mental yang datang dan pergi.",
+      "difficulty": 5,
+      "category": "CBT"
+    },
+    {
+      "id": "cbt-003",
+      "text_en": "I can challenge negative thoughts by looking for evidence that contradicts them.",
+      "text_id": "Saya bisa menantang pikiran negatif dengan mencari bukti yang bertentangan dengannya.",
+      "difficulty": 5,
+      "category": "CBT"
+    },
+    {
+      "id": "cbt-004",
+      "text_en": "When I catastrophize, I ask myself: what would I tell a friend in this situation?",
+      "text_id": "Ketika saya membuat bencana, saya bertanya pada diri sendiri: apa yang akan saya katakan kepada teman dalam situasi ini?",
+      "difficulty": 6,
+      "category": "CBT"
+    },
+    {
+      "id": "cbt-005",
+      "text_en": "I notice patterns in my thinking that may not be serving me well.",
+      "text_id": "Saya memperhatikan pola dalam pemikiran saya yang mungkin tidak melayani saya dengan baik.",
+      "difficulty": 4,
+      "category": "CBT"
+    },
+    {
+      "id": "wisdom-001",
+      "text_en": "The only way out is through - I face my challenges head-on.",
+      "text_id": "Satu-satunya jalan keluar adalah melalui - Saya menghadapi tantangan saya secara langsung.",
+      "difficulty": 4,
+      "category": "Wisdom"
+    },
+    {
+      "id": "wisdom-002",
+      "text_en": "Growth happens at the edge of our comfort zone, not within it.",
+      "text_id": "Pertumbuhan terjadi di tepi zona nyaman kita, bukan di dalamnya.",
+      "difficulty": 4,
+      "category": "Wisdom"
+    },
+    {
+      "id": "wisdom-003",
+      "text_en": "What we resist persists; acceptance is the first step toward change.",
+      "text_id": "Apa yang kita tolak tetap ada; penerimaan adalah langkah pertama menuju perubahan.",
+      "difficulty": 5,
+      "category": "Wisdom"
+    },
+    {
+      "id": "wisdom-004",
+      "text_en": "The present moment is all we truly have; the past and future are illusions.",
+      "text_id": "Saat ini adalah semua yang kita miliki; masa lalu dan masa depan adalah ilusi.",
+      "difficulty": 5,
+      "category": "Wisdom"
+    },
+    {
+      "id": "wisdom-005",
+      "text_en": "Vulnerability is not weakness; it is the birthplace of courage and connection.",
+      "text_id": "Kerentanan bukanlah kelemahan; itu adalah tempat lahirnya keberanian dan koneksi.",
+      "difficulty": 6,
+      "category": "Wisdom"
+    },
+    {
+      "id": "indonesian-001",
+      "text_en": "Small steps forward are still progress.",
+      "text_id": "Sedikit demi sedikit, lama-lama menjadi bukit.",
+      "difficulty": 2,
+      "category": "Indonesian Sayings"
+    },
+    {
+      "id": "indonesian-002",
+      "text_en": "Unity creates strength.",
+      "text_id": "Bersatu kita teguh, bercerai kita runtuh.",
+      "difficulty": 2,
+      "category": "Indonesian Sayings"
+    },
+    {
+      "id": "indonesian-003",
+      "text_en": "Where there is a will, there is a way.",
+      "text_id": "Ada gula ada semut.",
+      "difficulty": 1,
+      "category": "Indonesian Sayings"
+    },
+    {
+      "id": "indonesian-004",
+      "text_en": "Patience brings sweet rewards.",
+      "text_id": "Sabar itu separuh dari iman.",
+      "difficulty": 2,
+      "category": "Indonesian Sayings"
+    },
+    {
+      "id": "indonesian-005",
+      "text_en": "Every person has their own time to shine.",
+      "text_id": "Tak ada gading yang tak retak.",
+      "difficulty": 3,
+      "category": "Indonesian Sayings"
+    },
+    {
+      "id": "affirmation-006",
+      "text_en": "I trust my inner wisdom to guide me through uncertainty.",
+      "text_id": "Saya percaya pada kebijaksanaan batin saya untuk membimbing saya melalui ketidakpastian.",
+      "difficulty": 4,
+      "category": "Affirmations"
+    },
+    {
+      "id": "coping-006",
+      "text_en": "I practice self-compassion by treating myself as I would a dear friend.",
+      "text_id": "Saya mempraktikkan belas kasihan diri dengan memperlakukan diri saya seperti teman baik.",
+      "difficulty": 5,
+      "category": "Coping"
+    },
+    {
+      "id": "cbt-006",
+      "text_en": "I can reframe setbacks as opportunities for learning and growth.",
+      "text_id": "Saya bisa membingkai ulang kemunduran sebagai peluang untuk belajar dan berkembang.",
+      "difficulty": 5,
+      "category": "CBT"
+    },
+    {
+      "id": "wisdom-006",
+      "text_en": "The obstacle in the path becomes the path itself.",
+      "text_id": "Rintangan di jalan menjadi jalan itu sendiri.",
+      "difficulty": 4,
+      "category": "Wisdom"
+    },
+    {
+      "id": "indonesian-006",
+      "text_en": "Actions speak louder than words.",
+      "text_id": "Tong kosong nyaring bunyinya.",
+      "difficulty": 2,
+      "category": "Indonesian Sayings"
+    }
+  ]
+}

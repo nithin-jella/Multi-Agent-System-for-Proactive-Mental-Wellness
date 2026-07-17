@@ -1,0 +1,83 @@
+query,method,score,expected,actual,latency_seconds
+Apa itu gangguan mental emosional?,semantic_neighbor,,"Gangguan mental emosional adalah kondisi perubahan psikologis yang bisa normal atau patologis, digunakan sebagai istilah pada survei kesehatan rumah tangga (SKRT) tahun 1995.","Gangguan Mental Emosional (GME) adalah suatu kondisi perubahan psikologis, baik yang normal maupun patologis, yang mengacu pada istilah 'distress psikologik'. Kondisi ini dapat mengganggu aktivitas sehari-hari seseorang tanpa adanya tanda gangguan daya nilai realita.",8.6
+Apa itu gangguan mental emosional?,semantic_shortest_path,,"Gangguan mental emosional adalah kondisi perubahan psikologis yang bisa normal atau patologis, digunakan sebagai istilah pada survei kesehatan rumah tangga (SKRT) tahun 1995.","Gangguan Mental Emosional (GME) adalah suatu kondisi perubahan psikologis yang bisa normal atau patologis, mengacu pada istilah 'distress psikologik'. Kondisi ini dapat mengganggu aktivitas sehari-hari seseorang tanpa adanya tanda gangguan daya nilai realita. Gangguan ini juga dapat disebut sebagai Orang Dengan Masalah Kejiwaan (ODMK).
+
+Untuk mendeteksi GME, salah satu alat ukur yang digunakan adalah Self Reporting Questionnaire (SRQ 20), kuesioner yang dikembangkan oleh WHO. Istilah ini sendiri mengacu pada acuan awal dari Survei Kesehatan Rumah Tangga (SKRT) 1995. Kementerian Kesehatan RI juga telah menerbitkan Petunjuk Teknis Pencegahan dan Pengendalian Gangguan Mental Emosional sebagai panduan. Fasilitas Pelayanan Kesehatan Primer (FKTP), seperti Puskesmas, diharapkan dapat melakukan deteksi dan intervensi dini terhadap GME.",7.314
+Apa itu gangguan mental emosional?,entity_neighbor,,"Gangguan mental emosional adalah kondisi perubahan psikologis yang bisa normal atau patologis, digunakan sebagai istilah pada survei kesehatan rumah tangga (SKRT) tahun 1995.","Gangguan Mental Emosional (GME) adalah suatu kondisi perubahan psikologis yang mungkin normal atau patologis, mengacu pada istilah 'distress psikologik', yang dapat mengganggu aktivitas sehari-hari tanpa tanda gangguan daya nilai realita. Istilah ini mengacu pada Survei Kesehatan Rumah Tangga (SKRT) 1995 dan dapat juga disebut Orang Dengan Masalah Kejiwaan (ODMK).",6.47
+Apa itu gangguan mental emosional?,entity_shortest_path,,"Gangguan mental emosional adalah kondisi perubahan psikologis yang bisa normal atau patologis, digunakan sebagai istilah pada survei kesehatan rumah tangga (SKRT) tahun 1995.","Gangguan mental emosional adalah kondisi kesehatan yang memengaruhi cara seseorang berpikir, merasakan, berperilaku, dan berinteraksi dengan orang lain. Kondisi ini seringkali menyebabkan tekanan emosional yang signifikan dan mengganggu kemampuan seseorang untuk berfungsi secara normal dalam kehidupan sehari-hari, seperti di sekolah, pekerjaan, atau dalam hubungan.
+
+Gejala bisa bervariasi luas, namun umumnya melibatkan:
+*   Perubahan suasana hati yang persisten (misalnya kesedihan mendalam, iritabilitas berlebihan, euforia).
+*   Kecemasan yang parah atau ketakutan yang tidak rasional.
+*   Masalah tidur atau perubahan nafsu makan.
+*   Kehilangan minat pada aktivitas yang sebelumnya dinikmati.
+*   Kesulitan konsentrasi atau pengambilan keputusan.
+*   Penarikan diri dari lingkungan sosial.
+
+Beberapa contoh gangguan mental emosional yang umum meliputi:
+*   **Depresi:** Gangguan suasana hati yang ditandai kesedihan mendalam, kehilangan minat atau kesenangan, perasaan tidak berharga, dan kadang pikiran untuk menyakiti diri.
+*   **Gangguan Kecemasan:** Seperti Gangguan Kecemasan Umum (khawatir berlebihan tentang banyak hal), Gangguan Panik (serangan panik mendadak dan intens), atau Fobia Sosial (ketakutan berlebihan terhadap situasi sosial).
+*   **Gangguan Bipolar:** Ditandai dengan perubahan suasana hati ekstrem antara episode manik (energi tinggi, euforia atau iritabilitas) dan episode depresi.
+
+Penyebabnya kompleks, melibatkan kombinasi faktor genetik, biologis, psikologis, dan lingkungan. Penting untuk diingat bahwa gangguan mental emosional adalah kondisi medis yang nyata dan dapat diobati. Dengan penanganan yang tepat seperti terapi, obat-obatan, dan dukungan sosial, banyak orang dapat mengelola gejala mereka dan menjalani kehidupan yang produktif dan memuaskan. Jika Anda atau seseorang yang Anda kenal menunjukkan gejala gangguan mental emosional, sangat disarankan untuk mencari bantuan dari profesional kesehatan mental.",14.614
+Apa arti dari istilah gangguan mental emosional?,semantic_neighbor,,"Istilah ini mengacu pada kondisi psikologis yang bisa berupa distress psikologik, digunakan dalam SKRT 1995 dan survei di beberapa negara lain.","Gangguan Mental Emosional (GME) adalah suatu kondisi perubahan psikologis yang bisa bersifat normal atau patologis, merujuk pada istilah 'distress psikologik'. Kondisi ini dapat mengganggu aktivitas sehari-hari seseorang tanpa menunjukkan tanda gangguan daya nilai realita.",6.478
+Apa arti dari istilah gangguan mental emosional?,semantic_shortest_path,,"Istilah ini mengacu pada kondisi psikologis yang bisa berupa distress psikologik, digunakan dalam SKRT 1995 dan survei di beberapa negara lain.",Gangguan Mental Emosional (GME) adalah suatu kondisi perubahan psikologis yang bisa bersifat normal atau patologis. Istilah ini mengacu pada 'distress psikologik' yang dapat mengganggu aktivitas sehari-hari seseorang tanpa adanya tanda gangguan pada daya nilai realitas.,6.587
+Apa arti dari istilah gangguan mental emosional?,entity_neighbor,,"Istilah ini mengacu pada kondisi psikologis yang bisa berupa distress psikologik, digunakan dalam SKRT 1995 dan survei di beberapa negara lain.","Gangguan Mental Emosional (GME) adalah suatu kondisi perubahan psikologis yang mungkin normal atau patologis, mengacu pada istilah 'distress psikologik'. Kondisi ini dapat mengganggu aktivitas sehari-hari seseorang tanpa adanya tanda gangguan daya nilai realita. Istilah ini juga dapat disebut Orang Dengan Masalah Kejiwaan (ODMK).",7.964
+Apa arti dari istilah gangguan mental emosional?,entity_shortest_path,,"Istilah ini mengacu pada kondisi psikologis yang bisa berupa distress psikologik, digunakan dalam SKRT 1995 dan survei di beberapa negara lain.","Saat ini, saya tidak memiliki definisi spesifik atau informasi yang lengkap mengenai istilah ""gangguan mental emosional"" dalam data saya.
+
+Namun, jika yang Anda maksud adalah topik umum seputar gangguan kesehatan mental dan emosi, saya bisa menjelaskan lebih lanjut tentang berbagai jenis gangguan mental, bagaimana emosi memengaruhi kesehatan mental, atau ke mana mencari bantuan.
+
+Apakah ada aspek lain yang ingin Anda ketahui atau istilah lain yang ingin Anda tanyakan?",8.774
+Apa tujuan penggunaan istilah gangguan mental emosional di Indonesia?,semantic_neighbor,,Tujuannya agar masyarakat dan akademisi memahami bahwa alat ukur yang digunakan sama dengan survei sebelumnya.,"Penggunaan istilah Gangguan Mental Emosional (GME) di Indonesia awalnya mengacu pada Survei Kesehatan Rumah Tangga (SKRT) 1995.
+
+Tujuannya adalah:
+*   Untuk mengumpulkan data prevalensi kondisi perubahan psikologis di masyarakat (seperti yang dilakukan oleh Riset Kesehatan Dasar - Riskesdas).
+*   Membantu mendeteksi kondisi tersebut menggunakan alat ukur kuesioner seperti Self Reporting Questionnaire (SRQ 20) untuk dewasa dan Strength and Difficulties Questionnaire (SDQ) untuk anak dan remaja.
+*   Menjadi fokus dalam penyusunan kebijakan dan pedoman, seperti Petunjuk Teknis Pencegahan dan Pengendalian Gangguan Mental Emosional yang diterbitkan oleh Kementerian Kesehatan RI, termasuk upaya promotif dan preventif.
+*   Sebagai indikator kinerja kegiatan (IKK) untuk mengukur capaian program kesehatan jiwa nasional, sebagaimana tercantum dalam Rencana Strategis Kementerian Kesehatan.",14.713
+Apa tujuan penggunaan istilah gangguan mental emosional di Indonesia?,semantic_shortest_path,,Tujuannya agar masyarakat dan akademisi memahami bahwa alat ukur yang digunakan sama dengan survei sebelumnya.,Istilah Gangguan Mental Emosional (GME) digunakan sebagai acuan awal dalam Survei Kesehatan Rumah Tangga (SKRT) 1995.,13.564
+Apa tujuan penggunaan istilah gangguan mental emosional di Indonesia?,entity_neighbor,,Tujuannya agar masyarakat dan akademisi memahami bahwa alat ukur yang digunakan sama dengan survei sebelumnya.,"Istilah ""gangguan mental emosional"" (GME) di Indonesia mengacu pada Survei Kesehatan Rumah Tangga (SKRT) tahun 1995, yang menjadi acuan awal penggunaannya.
+
+Tujuan penggunaannya adalah untuk menggambarkan suatu kondisi perubahan psikologis (seringkali mengacu pada 'distress psikologik') yang dapat mengganggu aktivitas sehari-hari seseorang, namun tanpa disertai tanda-tanda gangguan daya nilai realita (psikosis). Istilah ini digunakan dalam konteks survei kesehatan nasional seperti Riskesdas, program kesehatan jiwa, serta deteksi dini di fasilitas pelayanan kesehatan primer (FKTP) menggunakan alat seperti Self Reporting Questionnaire (SRQ 20) dan Strength and Difficulties Questionnaire (SDQ).",13.597
+Apa tujuan penggunaan istilah gangguan mental emosional di Indonesia?,entity_shortest_path,,Tujuannya agar masyarakat dan akademisi memahami bahwa alat ukur yang digunakan sama dengan survei sebelumnya.,"Tujuan penggunaan istilah Gangguan Mental Emosional (GME) di Indonesia adalah untuk mengidentifikasi kondisi perubahan psikologis yang mengacu pada 'distress psikologik', yang dapat mengganggu aktivitas sehari-hari tanpa adanya tanda gangguan daya nilai realita.
+
+Istilah ini digunakan untuk memfasilitasi deteksi dan intervensi dini, khususnya di Fasilitas Pelayanan Kesehatan Primer (FKTP) seperti Puskesmas, yang diharapkan mampu menjadi lini terdepan dalam penanganan kondisi tersebut.",12.45
+Apa hubungan antara ODMK dan gangguan mental emosional?,semantic_neighbor,,Seseorang dengan gangguan mental emosional berisiko mengalami gangguan jiwa dan disebut sebagai ODMK (Orang Dengan Masalah Kejiwaan).,Gangguan Mental Emosional (GME) dapat juga disebut Orang Dengan Masalah Kejiwaan (ODMK).,9.735
+Apa hubungan antara ODMK dan gangguan mental emosional?,semantic_shortest_path,,Seseorang dengan gangguan mental emosional berisiko mengalami gangguan jiwa dan disebut sebagai ODMK (Orang Dengan Masalah Kejiwaan).,Hubungan antara Orang Dengan Masalah Kejiwaan (ODMK) dan Gangguan Mental Emosional (GME) adalah bahwa Gangguan Mental Emosional (GME) dapat juga disebut sebagai Orang Dengan Masalah Kejiwaan (ODMK).,9.989
+Apa hubungan antara ODMK dan gangguan mental emosional?,entity_neighbor,,Seseorang dengan gangguan mental emosional berisiko mengalami gangguan jiwa dan disebut sebagai ODMK (Orang Dengan Masalah Kejiwaan).,Gangguan Mental Emosional (GME) dapat juga disebut sebagai Orang Dengan Masalah Kejiwaan (ODMK).,8.578
+Apa hubungan antara ODMK dan gangguan mental emosional?,entity_shortest_path,,Seseorang dengan gangguan mental emosional berisiko mengalami gangguan jiwa dan disebut sebagai ODMK (Orang Dengan Masalah Kejiwaan).,"Gangguan Mental Emosional (GME) dapat juga disebut sebagai Orang Dengan Masalah Kejiwaan (ODMK). Ini berarti GME adalah salah satu bentuk atau kondisi yang termasuk dalam kategori Orang Dengan Masalah Kejiwaan (ODMK), yaitu individu yang memiliki masalah fisik, mental, sosial, pertumbuhan, perkembangan, atau kualitas hidup sehingga berisiko mengalami gangguan jiwa. Sementara GME sendiri adalah kondisi perubahan psikologis yang dapat mengganggu aktivitas sehari-hari.",7.384
+Apa saja aspek yang bisa terganggu pada orang dengan gangguan mental emosional?,semantic_neighbor,,"Masalah fisik, mental, sosial, pertumbuhan dan perkembangan, serta kualitas hidup bisa terganggu pada orang dengan gangguan mental emosional.","Pada orang dengan gangguan mental emosional (GME), aspek yang dapat terganggu adalah **aktivitas sehari-hari**. Kondisi ini mengacu pada 'distress psikologik' yang dapat menyebabkan gangguan pada rutinitas harian.",20.229
+Apa saja aspek yang bisa terganggu pada orang dengan gangguan mental emosional?,semantic_shortest_path,,"Masalah fisik, mental, sosial, pertumbuhan dan perkembangan, serta kualitas hidup bisa terganggu pada orang dengan gangguan mental emosional.",Gangguan mental emosional dapat mengganggu aktivitas sehari-hari seseorang.,11.887
+Apa saja aspek yang bisa terganggu pada orang dengan gangguan mental emosional?,entity_neighbor,,"Masalah fisik, mental, sosial, pertumbuhan dan perkembangan, serta kualitas hidup bisa terganggu pada orang dengan gangguan mental emosional.","Pada orang dengan gangguan mental emosional, aktivitas sehari-hari dapat terganggu.",22.975
+Apa saja aspek yang bisa terganggu pada orang dengan gangguan mental emosional?,entity_shortest_path,,"Masalah fisik, mental, sosial, pertumbuhan dan perkembangan, serta kualitas hidup bisa terganggu pada orang dengan gangguan mental emosional.","Gangguan mental emosional dapat memengaruhi berbagai aspek kehidupan seseorang. Aspek-aspek yang bisa terganggu meliputi:
+
+1.  **Aspek Emosional:** Ini adalah inti dari gangguan emosional. Seseorang bisa mengalami fluktuasi suasana hati yang ekstrem, perasaan sedih atau putus asa yang mendalam dan berkepanjangan, kecemasan atau ketakutan yang berlebihan dan tidak proporsional, ledakan kemarahan, atau perasaan mati rasa dan kehilangan minat pada hal-hal yang sebelumnya dinikmati (anhedonia).
+
+2.  **Aspek Kognitif (Pikiran):**
+    *   **Konsentrasi dan Memori:** Kesulitan fokus, mudah teralihkan, atau masalah daya ingat.
+    *   **Pola Pikir:** Munculnya pikiran negatif berulang, pesimisme, pikiran obsesif, delusi, atau halusinasi pada kasus yang lebih parah.
+    *   **Pengambilan Keputusan:** Sulit membuat keputusan, bahkan untuk hal-hal sederhana.
+
+3.  **Aspek Perilaku:**
+    *   **Penarikan Diri Sosial:** Menghindari interaksi dengan teman, keluarga, atau lingkungan sosial.
+    *   **Perubahan Pola Tidur:** Insomnia (sulit tidur), hipersomnia (tidur berlebihan), atau pola tidur yang tidak teratur.
+    *   **Perubahan Nafsu Makan:** Penurunan atau peningkatan nafsu makan yang signifikan, berujung pada perubahan berat badan.
+    *   **Tingkat Aktivitas:** Menjadi sangat pasif atau sebaliknya, sangat gelisah dan hiperaktif.
+    *   **Perilaku Berisiko:** Penggunaan zat-zat terlarang, menyakiti diri sendiri (self-harm), atau percobaan bunuh diri.
+
+4.  **Aspek Fisik (Somatik):** Meskipun ini adalah gangguan mental, seringkali memanifestasi dalam gejala fisik:
+    *   Kelelahan kronis atau kurang energi.
+    *   Sakit kepala, nyeri otot, atau masalah pencernaan yang tidak memiliki penyebab medis jelas.
+    *   Jantung berdebar, napas pendek, atau gejala panik lainnya.
+
+5.  **Aspek Sosial dan Relasional:**
+    *   Kesulitan membangun atau mempertahankan hubungan interpersonal.
+    *   Konflik yang meningkat dengan orang terdekat.
+    *   Perasaan terisolasi atau kesepian.
+
+6.  **Aspek Fungsional:**
+    *   **Pekerjaan/Sekolah:** Penurunan kinerja, sering absen, atau kesulitan menjaga pekerjaan/pendidikan.
+    *   **Perawatan Diri:** Kesulitan dalam menjaga kebersihan pribadi, kerapian, atau rutinitas harian.
+    *   **Hobi dan Minat:** Kehilangan minat atau kemampuan untuk menikmati hobi dan aktivitas rekreasi.
+
+Gangguan mental emosional dapat memengaruhi satu atau beberapa aspek ini secara bersamaan, dengan tingkat keparahan yang bervariasi pada setiap individu.",21.111

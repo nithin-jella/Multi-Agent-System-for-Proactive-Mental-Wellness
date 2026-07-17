@@ -1,0 +1,82 @@
+{
+  "Nav": {
+    "dashboard": "Dasbor",
+    "appointments": "Janji",
+    "users": "Pengguna",
+    "settings": "Pengaturan",
+    "flags": "Tanda",
+    "ai_conversations": "Percakapan AI",
+    "user_management": "Manajemen Pengguna",
+    "journals": "Wawasan Jurnal",
+    "content_resources": "Sumber Konten",
+    "cbt_modules": "Modul CBT",
+    "surveys": "Manajemen Survei",
+    "analytics": "Analitik",
+    "help_support": "Bantuan & Dukungan"
+  },
+  "Header": {
+    "search": "Cari...",
+    "profile": "Profil",
+    "settings": "Pengaturan",
+    "sign_out": "Keluar",
+    "admin_panel": "Panel Admin"
+  },
+  "Dashboard": {
+    "title": "Dasbor Admin"
+  },
+  "Conversations": {
+    "title": "Percakapan AI",
+    "subtitle": "Pantau dan analisis interaksi chat AI dengan perlindungan privasi",
+    "exportCsv": "Ekspor Sesi ke CSV",
+    "filtersTitle": "Penyaring & Pencarian",
+    "filtersSubtitle": "Cari dan saring percakapan sambil menjaga privasi",
+    "searchMessages": "Cari Pesan",
+    "searchMessagesPlaceholder": "Cari dalam pesan...",
+    "sessionId": "ID Sesi",
+    "userHash": "Hash Pengguna",
+    "dateFrom": "Tanggal Dari",
+    "dateTo": "Tanggal Hingga",
+    "clearFilters": "Bersihkan Penyaring",
+    "emptyTitle": "Tidak ada percakapan",
+    "emptySubtitle": "Tidak ada percakapan yang cocok dengan penyaring saat ini. Coba ubah kriterianya."
+  },
+  "Flags": {
+    "title": "Sesi Ditandai",
+    "loading": "Memuat…",
+    "filter": {"all": "Semua", "open": "Terbuka", "reviewing": "Ditinjau", "resolved": "Selesai"},
+    "refresh": "Muat Ulang",
+    "selectAll": "Pilih semua",
+    "selected": "dipilih",
+    "closeSelected": "Tutup yang Dipilih",
+    "addTagSelected": "Tambah Tag ke yang Dipilih",
+    "empty": "Tidak ada tanda.",
+    "session": "Sesi",
+    "flag": "Tanda",
+    "viewSession": "Lihat Sesi",
+    "reason": "Alasan",
+    "notes": "Catatan",
+    "tags": "Tag",
+    "addTag": "Tambah tag",
+    "add": "Tambah"
+  },
+  "Users": {
+    "title": "Manajemen Pengguna",
+    "subtitle": "Kelola dan pantau pengguna platform",
+    "filters": "Penyaring",
+    "export": "Ekspor",
+    "refresh": "Muat Ulang"
+  },
+  "Appointments": {
+    "title": "Manajemen Janji",
+    "tab": {"appointments": "Janji", "therapists": "Terapis"},
+    "th": {"patient": "Pasien", "therapist": "Terapis", "datetime": "Tanggal & Waktu", "status": "Status", "actions": "Aksi", "name": "Nama", "specialization": "Spesialisasi"},
+    "action": {"view": "Lihat Detail", "edit": "Ubah Janji", "delete": "Hapus Janji"},
+    "available": "Tersedia",
+    "unavailable": "Tidak Tersedia",
+    "scheduleFor": "Jadwal untuk",
+    "addSchedule": "Tambah Jadwal Baru",
+    "unavailableReason": "Alasan Tidak Tersedia",
+    "close": "Tutup",
+    "day": {"monday": "Senin", "tuesday": "Selasa", "wednesday": "Rabu", "thursday": "Kamis", "friday": "Jumat", "saturday": "Sabtu", "sunday": "Minggu"}
+  }
+}

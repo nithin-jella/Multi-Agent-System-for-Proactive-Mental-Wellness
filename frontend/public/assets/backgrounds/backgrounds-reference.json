@@ -1,0 +1,134 @@
+{
+  "backgrounds": [
+    {
+      "rank": 1,
+      "name": "Struggling",
+      "harmony_range": "0-99",
+      "filename": "rank1-struggling.webp",
+      "ugm_location": "Library study area or exam hall during busy period",
+      "mood": "Tense, overwhelming, but not hopeless",
+      "colors": ["#64748B", "#475569", "#94A3B8", "#CBD5E1"],
+      "time_of_day": "Late evening, dim lighting",
+      "atmosphere": "Academic pressure, stress, but still supportive environment",
+      "dalle_prompt": "Transform this UGM campus library photo into a soft watercolor painting, tense melancholic atmosphere with muted blues and grays (slate colors), late evening lighting with heavy clouds, gentle and calming despite the stress theme, maintain recognizable architecture and bookshelves, horizontal game background 16:9 ratio, dreamy painterly style for mental health game, soft edges, peaceful but somber mood",
+      "alternative_photo": "Classroom during exam week, study halls with desks",
+      "cultural_note": "Indonesian university students will relate to exam season stress"
+    },
+    {
+      "rank": 2,
+      "name": "Growing",
+      "harmony_range": "100-499",
+      "filename": "rank2-growing.webp",
+      "ugm_location": "Lecture hall or classroom with windows",
+      "mood": "Hopeful, learning, dawn of understanding",
+      "colors": ["#F97316", "#FB923C", "#FDBA74", "#FED7AA"],
+      "time_of_day": "Early morning, sunrise",
+      "atmosphere": "Beginning to improve, gentle encouragement, learning",
+      "dalle_prompt": "Transform this UGM campus classroom photo into a soft watercolor painting, hopeful dawn atmosphere with warm oranges and yellows, early morning sunrise lighting streaming through windows, gentle and encouraging mood, maintain recognizable desks and architecture, horizontal game background 16:9 ratio, dreamy painterly style for mental health wellness game, soft brush strokes, optimistic and warm",
+      "alternative_photo": "Study area with morning light, campus building exterior at dawn",
+      "cultural_note": "Morning classes are common in Indonesian universities"
+    },
+    {
+      "rank": 3,
+      "name": "Balanced",
+      "harmony_range": "500-1499",
+      "filename": "rank3-balanced.webp",
+      "ugm_location": "Campus garden, courtyard with trees, or green open space",
+      "mood": "Peaceful, stable, equilibrium",
+      "colors": ["#3B82F6", "#60A5FA", "#10B981", "#6EE7B7"],
+      "time_of_day": "Mid-morning, clear sky",
+      "atmosphere": "Calm, centered, balanced mental state",
+      "dalle_prompt": "Transform this UGM campus garden photo into a soft watercolor painting, peaceful balanced atmosphere with soft blues and greens, clear morning sky with fluffy white clouds, trees and plants in gentle breeze, calm and centered mood, maintain recognizable pathways and greenery, horizontal game background 16:9 ratio, serene painterly style for mental health game, tranquil and harmonious",
+      "alternative_photo": "Taman UGM, open green spaces between buildings",
+      "cultural_note": "Green spaces in tropical Indonesian campus provide natural peace"
+    },
+    {
+      "rank": 4,
+      "name": "Thriving",
+      "harmony_range": "1500-4999",
+      "filename": "rank4-thriving.webp",
+      "ugm_location": "Iconic UGM building like Balairung or prominent monuments",
+      "mood": "Energetic, proud, vibrant achievement",
+      "colors": ["#8B5CF6", "#A78BFA", "#14B8A6", "#5EEAD4"],
+      "time_of_day": "Bright afternoon, full sunshine",
+      "atmosphere": "Achievement, growth, university pride",
+      "dalle_prompt": "Transform this UGM Balairung or iconic building photo into a soft watercolor painting, vibrant thriving atmosphere with teals and purples, bright afternoon sunshine with dramatic clouds, energetic yet peaceful mood, maintain recognizable architectural details and monuments, horizontal game background 16:9 ratio, painterly style for mental health wellness game, proud and inspiring, Indonesian university aesthetic",
+      "alternative_photo": "UGM monuments, Faculty buildings with distinctive architecture",
+      "cultural_note": "Balairung is iconic symbol of UGM pride for students"
+    },
+    {
+      "rank": 5,
+      "name": "Flourishing",
+      "harmony_range": "5000-14999",
+      "filename": "rank5-flourishing.webp",
+      "ugm_location": "Beautiful tree-lined paths, botanical garden areas",
+      "mood": "Joyful, abundant, golden celebration",
+      "colors": ["#FBBF24", "#FCD34D", "#F472B6", "#FBCFE8"],
+      "time_of_day": "Golden hour, warm sunset",
+      "atmosphere": "Thriving, joy, celebration of mental wellness",
+      "dalle_prompt": "Transform this UGM green campus area photo into a soft watercolor painting, joyful golden hour atmosphere with golden yellows and soft pinks, sunset lighting with warm glow through trees, abundant and celebratory mood, maintain recognizable paths and tropical vegetation, horizontal game background 16:9 ratio, dreamy painterly style for mental health game, warm and uplifting, lush Indonesian greenery",
+      "alternative_photo": "Tree canopy paths, flower gardens, peaceful outdoor areas",
+      "cultural_note": "Tropical Indonesian campus has rich greenery year-round"
+    },
+    {
+      "rank": 6,
+      "name": "Masterful",
+      "harmony_range": "15000+",
+      "filename": "rank6-masterful.webp",
+      "ugm_location": "UGM main gate, panoramic campus view, or aerial perspective",
+      "mood": "Transcendent, magical, serene wisdom",
+      "colors": ["#6366F1", "#818CF8", "#06B6D4", "#22D3EE", "#7C3AED"],
+      "time_of_day": "Twilight or night with artistic aurora/stars",
+      "atmosphere": "Mastery, wisdom, peaceful transcendence",
+      "dalle_prompt": "Transform this UGM main gate or campus panorama photo into a soft watercolor painting, transcendent magical atmosphere with deep purples and cyan blues, twilight or night sky with subtle aurora borealis or twinkling stars (artistic interpretation), serene and wise mood, maintain recognizable landmarks and architecture, horizontal game background 16:9 ratio, ethereal painterly style for mental health wellness game, mystical and peaceful, Indonesian university at night with magical elements",
+      "alternative_photo": "Wide campus view at dusk, main entrance with lighting",
+      "cultural_note": "UGM gate represents entrance to knowledge and achievement"
+    }
+  ],
+  "technical_specs": {
+    "format": "WebP (preferred) or JPG",
+    "resolution": "1920x1080px",
+    "aspect_ratio": "16:9",
+    "target_file_size": "< 200KB per background",
+    "color_space": "sRGB",
+    "optimization_tools": [
+      "https://tinypng.com",
+      "https://squoosh.app"
+    ]
+  },
+  "style_guide": {
+    "art_style": "Soft watercolor/digital painting illustration",
+    "mood": "Calming, supportive, mental health focused",
+    "references": "Celeste backgrounds, Gris, Studio Ghibli painted scenes",
+    "key_principle": "Backgrounds should not compete with pixel art monsters",
+    "cultural_context": "Recognizable UGM locations for Indonesian student connection",
+    "accessibility": "Ensure text/UI remains readable against backgrounds"
+  },
+  "workflow": {
+    "step_1": "Capture photos of 6 UGM locations (one per rank)",
+    "step_2": "Upload each photo to ChatGPT Plus (DALL-E 3 access required)",
+    "step_3": "Use rank-specific prompts from 'dalle_prompt' fields",
+    "step_4": "Download generated 1024x1024 or 1792x1024 images",
+    "step_5": "Crop/resize to 1920x1080 using Photopea or Canva",
+    "step_6": "Adjust colors if needed to match game palette",
+    "step_7": "Optimize with TinyPNG or convert to WebP with Squoosh",
+    "step_8": "Save to /public/assets/backgrounds/ with naming convention",
+    "step_9": "Update page.tsx to integrate backgrounds (see README.md)"
+  },
+  "integration_code": {
+    "constant_definition": "const RANK_BACKGROUNDS = ['/assets/backgrounds/rank1-struggling.webp', '/assets/backgrounds/rank2-growing.webp', '/assets/backgrounds/rank3-balanced.webp', '/assets/backgrounds/rank4-thriving.webp', '/assets/backgrounds/rank5-flourishing.webp', '/assets/backgrounds/rank6-masterful.webp'];",
+    "get_current_background": "const currentRank = getCurrentRank(gameState.harmony); const bgImage = RANK_BACKGROUNDS[currentRank.level - 1];",
+    "apply_to_container": "style={{ backgroundImage: `url(${bgImage})`, backgroundSize: 'cover', backgroundPosition: 'center', backgroundAttachment: 'fixed' }}"
+  },
+  "fallback_option": {
+    "if_photo_transform_fails": "Generate without photo upload using prompt: 'Create a soft watercolor painting of [description of rank atmosphere], Indonesian university campus aesthetic, [colors], [mood], horizontal game background 16:9, dreamy painterly style for mental health game'",
+    "example": "For Rank 3: 'Create a soft watercolor painting of peaceful campus garden with tropical trees and blue sky, Indonesian university aesthetic, soft blues and greens, calm balanced mood, horizontal game background 16:9, serene dreamy style for mental health wellness game'"
+  },
+  "notes": {
+    "cultural_authenticity": "Using real UGM locations creates emotional connection for target users",
+    "performance": "Optimize all backgrounds to under 200KB for fast loading",
+    "progressive_enhancement": "Load low-res placeholder first, then high-res with lazy loading",
+    "accessibility": "Add semi-transparent overlay if text readability is an issue",
+    "mental_health_journey": "Background progression mirrors recovery from struggle to mastery"
+  }
+}

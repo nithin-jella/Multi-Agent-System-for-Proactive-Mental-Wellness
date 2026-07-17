@@ -1,0 +1,82 @@
+{
+  "Nav": {
+    "dashboard": "Dashboard",
+    "appointments": "Appointments",
+    "users": "Users",
+    "settings": "Settings",
+    "flags": "Flags",
+    "ai_conversations": "AI Conversations",
+    "user_management": "User Management",
+    "journals": "Journal Insights",
+    "content_resources": "Content Resources",
+    "cbt_modules": "CBT Modules",
+    "surveys": "Survey Management",
+    "analytics": "Analytics",
+    "help_support": "Help & Support"
+  },
+  "Header": {
+    "search": "Search...",
+    "profile": "Profile",
+    "settings": "Settings",
+    "sign_out": "Sign Out",
+    "admin_panel": "Admin Panel"
+  },
+  "Dashboard": {
+    "title": "Admin Dashboard"
+  },
+  "Conversations": {
+    "title": "AI Conversations",
+    "subtitle": "Monitor and analyze AI chat interactions with privacy protection",
+    "exportCsv": "Export Sessions CSV",
+    "filtersTitle": "Filters & Search",
+    "filtersSubtitle": "Search and filter conversations while maintaining user privacy",
+    "searchMessages": "Search Messages",
+    "searchMessagesPlaceholder": "Search in messages...",
+    "sessionId": "Session ID",
+    "userHash": "User Hash",
+    "dateFrom": "Date From",
+    "dateTo": "Date To",
+    "clearFilters": "Clear Filters",
+    "emptyTitle": "No conversations found",
+    "emptySubtitle": "No conversations match your current filters. Try adjusting your search criteria."
+  },
+  "Flags": {
+    "title": "Flagged Sessions",
+    "loading": "Loading…",
+    "filter": {"all": "All", "open": "Open", "reviewing": "Reviewing", "resolved": "Resolved"},
+    "refresh": "Refresh",
+    "selectAll": "Select all",
+    "selected": "selected",
+    "closeSelected": "Close Selected",
+    "addTagSelected": "Add Tag to Selected",
+    "empty": "No flags found.",
+    "session": "Session",
+    "flag": "Flag",
+    "viewSession": "View Session",
+    "reason": "Reason",
+    "notes": "Notes",
+    "tags": "Tags",
+    "addTag": "Add tag",
+    "add": "Add"
+  },
+  "Users": {
+    "title": "User Management",
+    "subtitle": "Manage and monitor platform users",
+    "filters": "Filters",
+    "export": "Export",
+    "refresh": "Refresh"
+  },
+  "Appointments": {
+    "title": "Appointment Management",
+    "tab": {"appointments": "Appointments", "therapists": "Therapists"},
+    "th": {"patient": "Patient", "therapist": "Therapist", "datetime": "Date & Time", "status": "Status", "actions": "Actions", "name": "Name", "specialization": "Specialization"},
+    "action": {"view": "View Details", "edit": "Edit Appointment", "delete": "Delete Appointment"},
+    "available": "Available",
+    "unavailable": "Unavailable",
+    "scheduleFor": "Schedule for",
+    "addSchedule": "Add New Schedule",
+    "unavailableReason": "Reason for Unavailability",
+    "close": "Close",
+    "day": {"monday": "Monday", "tuesday": "Tuesday", "wednesday": "Wednesday", "thursday": "Thursday", "friday": "Friday", "saturday": "Saturday", "sunday": "Sunday"}
+  }
+}

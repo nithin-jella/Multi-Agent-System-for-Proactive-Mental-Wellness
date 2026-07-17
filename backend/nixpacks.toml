@@ -1,0 +1,20 @@
+# Nixpacks configuration for UGM-AICare backend (FastAPI)
+# Intended for Coolify/Nixpacks deployments.
+
+providers = ["python"]
+
+[variables]
+PYTHONUNBUFFERED = "1"
+PYTHONDONTWRITEBYTECODE = "1"
+PIP_DISABLE_PIP_VERSION_CHECK = "1"
+
+[phases.install]
+cmds = [
+  "python -m pip install --upgrade pip",
+  "pip install --no-cache-dir -r requirements.txt"
+]
+
+[start]
+# Use Gunicorn with Uvicorn workers for production.
+# Coolify sets PORT automatically; WEB_CONCURRENCY can be tuned per instance size.
+cmd = "gunicorn -k uvicorn.workers.UvicornWorker app.main:app --bind 0.0.0.0:${PORT:-8000} --workers ${WEB_CONCURRENCY:-2} --timeout ${GUNICORN_TIMEOUT:-120} --access-logfile - --error-logfile -"

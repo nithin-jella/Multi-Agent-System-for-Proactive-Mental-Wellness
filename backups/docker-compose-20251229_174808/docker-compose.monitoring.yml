@@ -1,0 +1,152 @@
+version: '3.8'
+
+services:
+  prometheus:
+    build:
+      context: ./infra/monitoring/prometheus
+      dockerfile: Dockerfile
+    container_name: ugm_aicare_prometheus
+    user: root
+    ports:
+      - "22010:9090"
+    volumes:
+      - prometheus-data:/prometheus
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+      - '--storage.tsdb.path=/prometheus'
+      - '--storage.tsdb.retention.time=30d'
+      - '--web.console.libraries=/usr/share/prometheus/console_libraries'
+      - '--web.console.templates=/usr/share/prometheus/consoles'
+      - '--web.enable-lifecycle'
+    networks:
+      - monitoring
+      - aicare_dev
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost:9090/-/healthy"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    restart: unless-stopped
+
+  grafana:
+    image: grafana/grafana:10.2.2
+    container_name: ugm_aicare_grafana
+    ports:
+      - "22011:3000"
+    environment:
+      - GF_SECURITY_ADMIN_USER=admin
+      - GF_SECURITY_ADMIN_PASSWORD=admin123
+      - GF_USERS_ALLOW_SIGN_UP=false
+      - GF_SERVER_ROOT_URL=http://localhost:22011
+      - GF_ANALYTICS_REPORTING_ENABLED=false
+      - GF_ANALYTICS_CHECK_FOR_UPDATES=false
+    volumes:
+      - grafana-data:/var/lib/grafana
+      - ./infra/monitoring/grafana/dashboards:/etc/grafana/provisioning/dashboards:ro
+      - ./infra/monitoring/grafana/datasources:/etc/grafana/provisioning/datasources:ro
+    depends_on:
+      - prometheus
+    networks:
+      - monitoring
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost:3000/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    restart: unless-stopped
+
+  node-exporter:
+    image: prom/node-exporter:v1.7.0
+    container_name: ugm_aicare_node_exporter
+    ports:
+      - "22012:9100"
+    command:
+      - '--path.rootfs=/host'
+      - '--path.procfs=/host/proc'
+      - '--path.sysfs=/host/sys'
+      - '--collector.filesystem.mount-points-exclude=^/(sys|proc|dev|host|etc)($$|/)'
+    volumes:
+      - /proc:/host/proc:ro
+      - /sys:/host/sys:ro
+      - /:/rootfs:ro
+    networks:
+      - monitoring
+    restart: unless-stopped
+
+  cadvisor:
+    image: gcr.io/cadvisor/cadvisor:v0.47.2
+    container_name: ugm_aicare_cadvisor
+    ports:
+      - "22013:8080"
+    volumes:
+      - /:/rootfs:ro
+      - /var/run:/var/run:ro
+      - /sys:/sys:ro
+      - /var/lib/docker/:/var/lib/docker:ro
+      - /dev/disk/:/dev/disk:ro
+    privileged: true
+    devices:
+      - /dev/kmsg
+    networks:
+      - monitoring
+    restart: unless-stopped
+
+  postgres-exporter:
+    image: prometheuscommunity/postgres-exporter:v0.15.0
+    container_name: ugm_aicare_postgres_exporter
+    ports:
+      - "22014:9187"
+    environment:
+      DATA_SOURCE_NAME: "postgresql://giga:${DB_PASSWORD:-giga123}@ugm_aicare_db_dev:5432/aicare_db?sslmode=disable"
+    networks:
+      - monitoring
+      - aicare_dev
+    restart: unless-stopped
+
+  redis-exporter:
+    image: oliver006/redis_exporter:v1.55.0
+    container_name: ugm_aicare_redis_exporter
+    ports:
+      - "22015:9121"
+    environment:
+      REDIS_ADDR: "ugm_aicare_redis_dev:6379"
+    networks:
+      - monitoring
+      - aicare_dev
+    restart: unless-stopped
+
+  # Langfuse - LLM Observability & Agent Tracing (using V2 for PostgreSQL compatibility)
+  langfuse-server:
+    image: ghcr.io/langfuse/langfuse:2
+    container_name: ugm_aicare_langfuse
+    ports:
+      - "22016:3000"
+    environment:
+      - NODE_ENV=production
+      - DATABASE_URL=postgresql://giga:${POSTGRES_PASSWORD:-giga123456}@ugm_aicare_db_dev:5432/langfuse_db?schema=public
+      - NEXTAUTH_URL=http://localhost:22016
+      - NEXTAUTH_SECRET=${LANGFUSE_SECRET:-change-this-to-a-random-string-min-32-chars}
+      - SALT=${LANGFUSE_SALT:-change-this-to-another-random-string}
+      - TELEMETRY_ENABLED=false
+      - LANGFUSE_ENABLE_EXPERIMENTAL_FEATURES=true
+      - HOSTNAME=0.0.0.0
+    networks:
+      - monitoring
+      - aicare_dev
+    restart: unless-stopped
+
+volumes:
+  prometheus-data:
+    driver: local
+  grafana-data:
+    driver: local
+
+networks:
+  monitoring:
+    name: ugm_aicare_monitoring
+    driver: bridge
+  aicare_dev:
+    external: true
+    name: ugm-aicare_internal_network_dev

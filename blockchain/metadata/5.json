@@ -1,0 +1,15 @@
+{
+    "name": "Full Moon Positivity",
+    "description": "Awarded for maintaining a 30-day consecutive activity streak. Amazing consistency!",
+    "image": "ipfs://bafybeidzdbsjft24ujpcn77hfkbhom7tmo5i5p2aqfsig2vtxvt3kd7jbu/full_moon_positivity.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Category",
+        "value": "Streak"
+      },
+      {
+        "trait_type": "Duration",
+        "value": "30 Days"
+      }
+    ]
+  }
