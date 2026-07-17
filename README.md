@@ -1,14 +1,9 @@
-# UGM-AICare: Agentic Mental Health Support System 🌟
+# Multi-Agent System for Proactive Mental Wellness  🌟
 
-![UGM-AICare Logo](frontend/public/aicare_logo.png)
-
-**Live Demo:** [https://aicare.sumbu.xyz](https://aicare.sumbu.xyz) | **API:** [https://api.aicare.sumbu.xyz](https://api.aicare.sumbu.xyz)
 
 ---
 
-## 🔒 Security Notice
-
-**Critical Security Update (Dec 8, 2025):** This project has been patched against **CVE-2025-66478** (CVSS 10.0) and **CVE-2025-55182** - critical Remote Code Execution vulnerabilities affecting React Server Components and Next.js App Router.
+## 
 
 ✅ **Current Versions (Patched):**
 
@@ -50,7 +45,7 @@ University mental health services globally face a "reactive capacity crisis." Tr
 
 ### 1.2 Mission & Solution Goal
 
-**UGM-AICare** aims to transform university mental health support from a reactive service to a **proactive, agentic ecosystem**.
+**Multi-Agent System for Proactive Mental Wellness ** aims to transform university mental health support from a reactive service to a **proactive, agentic ecosystem**.
 
 - **Proactive Intervention:** Early detection of distress signals using semantic analysis.
 - **Agentic Automation:** Coordinated AI agents handling triage, coaching, and case management.
@@ -62,7 +57,7 @@ University mental health services globally face a "reactive capacity crisis." Tr
 
 ### 2.1 Agentic Architecture Principles
 
-Unlike traditional chatbots, UGM-AICare uses a **Multi-Agent System (MAS)** based on the **Belief-Desire-Intention (BDI)** model.
+Unlike traditional chatbots, Multi-Agent System for Proactive Mental Wellness  uses a **Multi-Agent System (MAS)** based on the **Belief-Desire-Intention (BDI)** model.
 
 - **Belief (State):** What the agent knows (User Profile, Conversation History, Risk Level).
 - **Desire (Goal):** What the agent wants to achieve (Ensure Safety, Reduce Anxiety).
@@ -72,11 +67,11 @@ Unlike traditional chatbots, UGM-AICare uses a **Multi-Agent System (MAS)** base
 
 ### 2.2 System Architecture (C4 Model)
 
-The UGM-AICare architecture is designed to orchestrate complex agentic interactions while maintaining strict data flow control and external service integration. Below are the Context and Container level diagrams of the system.
+The Multi-Agent System for Proactive Mental Wellness  architecture is designed to orchestrate complex agentic interactions while maintaining strict data flow control and external service integration. Below are the Context and Container level diagrams of the system.
 
 #### C4 Context Diagram
 
-The Context diagram shows the high-level interactions between the users (Students and Counselors) and the UGM-AICare system, as well as the external dependencies like databases, caching, LLM providers, and blockchain networks for secure attestations.
+The Context diagram shows the high-level interactions between the users (Students and Counselors) and the Multi-Agent System for Proactive Mental Wellness  system, as well as the external dependencies like databases, caching, LLM providers, and blockchain networks for secure attestations.
 
 ```mermaid
 C4Context
@@ -99,7 +94,7 @@ Rel(aicare, educhain, "Mints badges (ERC1155), writes attestations")
 
 #### C4 Container Diagram
 
-The Container diagram drills down into the internal components of UGM-AICare, showing how the Frontend Next.js app communicates with the Python FastAPI Backend. Crucially, it maps out the internal Multi-Agent System orchestration, detailing how the Meta-Agent (Aika) routes traffic to specialized sub-agents. It also illustrates the Autopilot Policy Engine which governs on-chain actions.
+The Container diagram drills down into the internal components of Multi-Agent System for Proactive Mental Wellness , showing how the Frontend Next.js app communicates with the Python FastAPI Backend. Crucially, it maps out the internal Multi-Agent System orchestration, detailing how the Meta-Agent (Aika) routes traffic to specialized sub-agents. It also illustrates the Autopilot Policy Engine which governs on-chain actions.
 
 ```mermaid
 C4Container
@@ -232,7 +227,7 @@ Provides anonymized analytics for institutional decision-making:
 
 ### 3.1 Covert Screening Approach
 
-UGM-AICare implements a **covert mental health screening system** that passively extracts psychological indicators from natural conversation. Users are not aware they are being screened, which reduces social desirability bias and captures authentic mental states.
+Multi-Agent System for Proactive Mental Wellness  implements a **covert mental health screening system** that passively extracts psychological indicators from natural conversation. Users are not aware they are being screened, which reduces social desirability bias and captures authentic mental states.
 
 The STA agent performs dual analysis on every message:
 
@@ -436,9 +431,4 @@ npm install && npm run dev
 
 ---
 
-## 🤝 Contributing & License
 
-**Maintainer:** [Giga Hidjrika Aura Adkhy](https://linkedin.com/in/gigahidjrikaaa)  
-**License:** MIT License. See [LICENSE](LICENSE) for details.
-
-*Built with ❤️ for UGM Students.*
