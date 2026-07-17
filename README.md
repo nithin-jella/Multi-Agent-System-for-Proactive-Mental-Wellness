@@ -1,5 +1,6 @@
-# Multi-Agent System for Proactive Mental Wellness ❤️
+# Multi-Agent System for Proactive Mental Wellness 
 
+<img width="1536" height="1024" alt="health Jul 16, 2026, 10_16_27 PM" src="https://github.com/user-attachments/assets/2d31f4d6-5cf0-4e85-acd7-3d1ae21b7a2c" />
 
 
 ---
