@@ -381,7 +381,7 @@ This section summarizes the exact feature set implemented for hackathon judging.
 
 ## 🤖 Autopilot Demo Replay
 
-UGM-AICare includes a deterministic replay harness for the Aika Autopilot flow.
+Multi-Agent System for Proactive Mental Wellness includes a deterministic replay harness for the Aika Autopilot flow.
 
 Quick steps:
 
