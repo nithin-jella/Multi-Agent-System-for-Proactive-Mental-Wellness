@@ -7,7 +7,7 @@
 
 ## 
 
-✅ **Current Versions (Patched):**
+✅ **Current Versions :**
 
 - Next.js: **16.0.7** (was 16.0.0)
 
